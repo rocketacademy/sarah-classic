@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome!](README.md)
+
+## Functions
+
+* [What is a function?](functions/what-is-a-function.md)
 
