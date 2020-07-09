@@ -23,19 +23,19 @@ The javascript language is capable of calculating math operations.
 
 Type these one at a time into the console and hit enter:
 
-```
+```js
 2 + 2
 ```
 
-```
+```js
 4 * 2
 ```
 
-```
+```js
 4 / 2
 ```
 
-```
+```js
 4 - 2
 ```
 
@@ -49,7 +49,7 @@ First we need to talk about what data is inside a javascript program and how it'
 
 An abstract piece of data in a javascript program is called a variable.
 
-```
+```js
 var pi = 3.14;
 ```
 
@@ -57,19 +57,19 @@ We name a variable and we associate a specific data value with it.
 
 We use a variable to represent some data that our program will process.
 
-```
+```js
 var radius = 4;
 ```
 
 Using these 2 data values we can calculate the area of this circle:
 
-```
+```js
 pi * radius * radius;
 ```
 
 We can also use variables to capture that calculated value:
 
-```
+```js
 var area = pi * radius * radius;
 ```
 
@@ -77,7 +77,7 @@ var area = pi * radius * radius;
 
 If we wanted the same result we can also write:
 
-```
+```js
 var area = 3.14 * 4 * 4;
 ```
 
@@ -97,12 +97,12 @@ Copy the starter code from github:
 
 `cd` into your code directory.
 
-```
+```bash
 cd ~/code
 ```
 
 git clone the starter code:
-```
+```bash
 git clone https://github.com/rocketacademy/basic-js-starter.git basic-data
 ```
 
@@ -110,7 +110,7 @@ This will create a `basic-data` directory inside your `code` directory.
 
 `cd` into the `basic-data` directory.
 
-```
+```bash
 cd basic-data
 ```
 
@@ -130,7 +130,7 @@ Open the `script.js` file in your editor.
 
 You should see the following:
 
-```
+```js
 console.log("bananas");
 
 var main = function(input){
@@ -147,7 +147,7 @@ We are defining a variable and this is the value that we see in the grey box aft
 
 Change the value of the variable to something else. We'll start with numbers only:
 
-```
+```js
 var myOutputValue = 2;
 ```
 
@@ -157,15 +157,15 @@ What happens when you click the button?
 
 Try assigning a bunch of different values. See them output in the grey square.
 
-```
+```js
 var myOutputValue = 12;
 ```
 
-```
+```js
 var myOutputValue = 9999999999;
 ```
 
-```
+```js
 var myOutputValue = 1.234234;
 ```
 
@@ -175,7 +175,7 @@ Let's assign the output of our previous code to the variable:
 
 Previously all the lines we had together look like this:
 
-```
+```js
 var pi = 3.14;
 var radius = 4;
 var area = pi * radius * radius;
@@ -183,7 +183,7 @@ var area = pi * radius * radius;
 
 Let's assign our final value to the `myOutputValue` variable:
 
-```
+```js
 var myOutputValue = area;
 ```
 
@@ -191,15 +191,15 @@ When we click the submit button our program is now succesfully calculating the a
 
 Try some other calculations. Remember to assign the final value to `myOutputValue` in order for them to appear in the grey square.
 
-```
+```js
 var myOutputValue = 34534 * 2334;
 ```
 
-```
+```js
 var myOutputValue = 12 * 12;
 ```
 
-```
+```js
 var myOutputValue = 100 / 10;
 ```
 
