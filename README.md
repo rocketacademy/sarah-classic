@@ -305,14 +305,14 @@ The user will enter a distance in kilometers and the program will output the dis
 
 The formula for conversion is:
 
-mi = km * 0.62137
+mi = km * 0.62
 
 So in javascript we can write it like this:
 
 ```js
 var distanceInKilometers = 1;
 
-var distanceInMiles = distanceInKilometers * 0.62137;
+var distanceInMiles = distanceInKilometers * 0.62;
 ```
 
 Let's change the output so we can see the calculation on screen:
@@ -327,3 +327,27 @@ Now we can make out program interactive by letting the user enter a temperature 
 
 Simply assign the value of `input` to `distanceInKilometers`.
 
+### Further
+Other kinds of calculation operations?
+
+### output and format the result
+
+Our conversion program should try to be as user friendly as possible.
+
+This means we should try to output more than just a cryptic number in the grey square.
+
+For example, if the user types in `5`, the progrma will output a message like:
+
+```
+Hi! 5 kilometers is equal to 3.1 miles.
+```
+
+Simply use the result of the calculation together with some string values like we did in the greeting program:
+
+```js
+
+var myOutputValue = "Hi! "+input+" is equal to "+distanceInMiles"+ " miles.";
+```
+
+### Further
+Other kinds of formats?
