@@ -1,72 +1,75 @@
 # Welcome!
 
+## Welcome!
+
 This is Rocket Academy's Part Time Coding Basics Course.
 
 In this course you will learn the basics of what code is and build some simple programs.
 
-# What is a program?
+## What is a program?
 
 For the purposes of this course we will constrain our definition of what coding / programming means and what a program is used for.
 
 We'll define a program as: **instructions to the computer to process an input and give an output**.
 
-# What is coding?
+## What is coding?
 
-Coding is distinct from the *program* that a coder produces.
+Coding is distinct from the _program_ that a coder produces.
 
 The process of coding includes:
 
-- translate a set of real world data into a set of abstractions
-- representation and abstraction of data inside the computer
-- what operations the computer must make on that data
-- what output is given and the representation of that output
+* translate a set of real world data into a set of abstractions
+* representation and abstraction of data inside the computer
+* what operations the computer must make on that data
+* what output is given and the representation of that output
 
-# Operations
+## Operations
 
 Coding means writing instructions for the computer to execute.
 
 We will begin with the most basic kinds of instructions the computer can execute, which is an operation between 2 data values.
 
-#### Instructions:
-Open a new tab in the chrome browser. (file menu -> new tab *or* `cmd + t`)
+**Instructions:**
 
-Open the developer tools. (view -> developer -> javascript console *or* `cmd + option + i` *or* right click anywhere in the chrome window and choose `insepct`)
+Open a new tab in the chrome browser. \(file menu -&gt; new tab _or_ `cmd + t`\)
+
+Open the developer tools. \(view -&gt; developer -&gt; javascript console _or_ `cmd + option + i` _or_ right click anywhere in the chrome window and choose `insepct`\)
 
 Make sure you've selected the javascript console tab in the dev tools.
 
-## Math Operations
+### Math Operations
 
 The javascript language is capable of calculating math operations.
 
 Type these one at a time into the console and hit enter:
 
-```js
+```javascript
 2 + 2
 ```
 
-```js
+```javascript
 4 * 2
 ```
 
-```js
+```javascript
 4 / 2
 ```
 
-```js
+```javascript
 4 - 2
 ```
 
-## Data
+### Data
 
 Our programs will soon have the ability to process data.
 
 First we need to talk about what data is inside a javascript program and how it's represented.
 
-### variables
+#### variables
 
 An abstract piece of data in a javascript program is called a variable.
 
-```js
+```javascript
 var pi = 3.14;
 ```
 
@@ -74,43 +77,43 @@ We name a variable and we associate a specific data value with it.
 
 We use a variable to represent some data that our program will process.
 
-```js
+```javascript
 var radius = 4;
 ```
 
 Using these 2 data values we can calculate the area of this circle:
 
-```js
+```javascript
 pi * radius * radius;
 ```
 
 We can also use variables to capture that calculated value:
 
-```js
+```javascript
 var area = pi * radius * radius;
 ```
 
-#### abstraction
+**abstraction**
 
 If we wanted the same result we can also write:
 
-```js
+```javascript
 var area = 3.14 * 4 * 4;
 ```
 
-But this is not as *meaningful* as our previous example.
+But this is not as _meaningful_ as our previous example.
 
 Our programs must not only calculate values correctly, they must also represent the kinds of operations we are making- in this case calculating the area of a circle.
 
 The name of our variables are giving meaning to what data our code contains.
 
-# Template - Our First Basic Program
+## Template - Our First Basic Program
 
 Let's get started with running some code outside of the javascript console.
 
 We'll be creating a super basic program.
 
-#### instructions
+**instructions**
 
 Copy the starter code from github:
 
@@ -121,6 +124,7 @@ cd ~/code
 ```
 
 git clone the starter code:
+
 ```bash
 git clone https://github.com/rocketacademy/basic-js-starter.git basic-data
 ```
@@ -135,7 +139,7 @@ cd basic-data
 
 Open the `index.html` file in chrome.
 
-#### default template behavior
+**default template behavior**
 
 The default starter code has one basic behavior.
 
@@ -143,13 +147,13 @@ After you open the `index.html` file in your browser, click the submit button.
 
 This causes "hello world" to appear in the grey box.
 
-#### our own values being output
+**our own values being output**
 
 Open the `script.js` file in your editor.
 
 You should see the following:
 
-```js
+```javascript
 console.log("bananas");
 
 var main = function(input){
@@ -162,13 +166,13 @@ var main = function(input){
 
 On line 3 we define the `main` function. The `{}` curly brance characters define the contents of this function.
 
-Without a further formal definition we'll begin using this code to make stuff appear on the screen. (We'll come back to the formal definitions later.)
+Without a further formal definition we'll begin using this code to make stuff appear on the screen. \(We'll come back to the formal definitions later.\)
 
-We are going to start with *line 5*: `myOutputValue`  is a variable that holds the value that we see in the grey box after we click the button.
+We are going to start with _line 5_: `myOutputValue` is a variable that holds the value that we see in the grey box after we click the button.
 
 Change the value of the variable to something else. We'll start with numbers only:
 
-```js
+```javascript
 var myOutputValue = 2;
 ```
 
@@ -178,25 +182,25 @@ What happens when you click the button?
 
 Try assigning a bunch of different values. See them output in the grey square.
 
-```js
+```javascript
 var myOutputValue = 12;
 ```
 
-```js
+```javascript
 var myOutputValue = 9999999999;
 ```
 
-```js
+```javascript
 var myOutputValue = 1.234234;
 ```
 
-#### operations as output
+**operations as output**
 
 Let's assign the output of our previous code to the variable:
 
 Previously all the lines we had together look like this:
 
-```js
+```javascript
 var pi = 3.14;
 var radius = 4;
 var area = pi * radius * radius;
@@ -204,7 +208,7 @@ var area = pi * radius * radius;
 
 Let's assign our final value to the `myOutputValue` variable:
 
-```js
+```javascript
 var myOutputValue = area;
 ```
 
@@ -212,21 +216,21 @@ When we click the submit button our program is now succesfully calculating the a
 
 Try some other calculations. Remember to assign the final value to `myOutputValue` in order for them to appear in the grey square.
 
-```js
+```javascript
 var myOutputValue = 34534 * 2334;
 ```
 
-```js
+```javascript
 var myOutputValue = 12 * 12;
 ```
 
-```js
+```javascript
 var myOutputValue = 100 / 10;
 ```
 
-# interactivity
+## interactivity
 
-A program needs to *take input* and give output. So far our programs have only had input that we type in our code file, not directly from the user of `index.html`.
+A program needs to _take input_ and give output. So far our programs have only had input that we type in our code file, not directly from the user of `index.html`.
 
 In the starter code we take some input by default.
 
@@ -234,50 +238,50 @@ What happens when you type something in the input box before you click the submi
 
 We'll begin to add inputs to our program using the input box.
 
-## `main` function parameters
+### `main` function parameters
 
 We'll continue working with `functions` without formally defining them.
 
 Our eventual goal is to create a program that takes defined inputs and gives outputs.
 
-In our starter code, `input` is a *function parameter* - in this case it contains the thing that was typed in the input box.
+In our starter code, `input` is a _function parameter_ - in this case it contains the thing that was typed in the input box.
 
 We can prove this is true simply by assigning the value of `input` to `myOutputValue` like so:
 
-```js
+```javascript
 var myOutputValue = input;
 ```
 
 Now you should see that whatever you type in the input box gets put into the grey box.
 
-## string data
+### string data
 
-`input` is always a *type* of data called a *string*.
+`input` is always a _type_ of data called a _string_.
 
 We'll now talk about this different kind of data inside of the javascript language and what makes it distinct from the number data we dealt with before.
 
-[Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science)) defines a `string` as a *sequence of characters*.
+\[Wikipedia\]\([https://en.wikipedia.org/wiki/String\_\(computer\_science](https://en.wikipedia.org/wiki/String_%28computer_science)\)\) defines a `string` as a _sequence of characters_.
 
 This basically means that we are dealing with letters and words. These are defined with either single or double quotes:
 
-```js
+```javascript
 var name = "Susan";
 var name2 = 'Kai';
 ```
 
-Change the value of `myOutputValue` to a string value (any set of words you want) and see them appear in the grey box.
+Change the value of `myOutputValue` to a string value \(any set of words you want\) and see them appear in the grey box.
 
-### interactive messages
+#### interactive messages
 
 Let's use this string operation to make our program a little more interactive.
 
 Change the code back again to assign the value of `input` to `myOutputValue`:
 
-```js
+```javascript
 var myOutputValue = input;
 ```
 
-### greeting program
+#### greeting program
 
 We are going to explicitly state the purpose of our program now:
 
@@ -285,17 +289,17 @@ The user will type in their name, and we will use the name to greet them.
 
 To do this we'll take `input` and combine it with some other strings to make the full output:
 
-```js
+```javascript
 var myOutputValue = "Hello " + input + " you look great today!";
 ```
 
-#### Further
+**Further**
 
 Change your program output to a different message. Make it longer, you can use input more than once in the output, for instance:
 
 `Hello, Susan! Wow, Susan is a great name. Reminds me of this movie star....`
 
-### metric conversion program
+#### metric conversion program
 
 Let's incorporate the math operations we were doing before into our program.
 
@@ -305,11 +309,11 @@ The user will enter a distance in kilometers and the program will output the dis
 
 The formula for conversion is:
 
-mi = km * 0.62
+mi = km \* 0.62
 
 So in javascript we can write it like this:
 
-```js
+```javascript
 var distanceInKilometers = 1;
 
 var distanceInMiles = distanceInKilometers * 0.62;
@@ -317,7 +321,7 @@ var distanceInMiles = distanceInKilometers * 0.62;
 
 Let's change the output so we can see the calculation on screen:
 
-```js
+```javascript
 var myOutputValue = distanceInMiles;
 ```
 
@@ -327,10 +331,11 @@ Now we can make out program interactive by letting the user enter a temperature 
 
 Simply assign the value of `input` to `distanceInKilometers`.
 
-### Further
+#### Further
+
 Other kinds of calculation operations?
 
-### output and format the result
+#### output and format the result
 
 Our conversion program should try to be as user friendly as possible.
 
@@ -338,16 +343,17 @@ This means we should try to output more than just a cryptic number in the grey s
 
 For example, if the user types in `5`, the progrma will output a message like:
 
-```
+```text
 Hi! 5 kilometers is equal to 3.1 miles.
 ```
 
 Simply use the result of the calculation together with some string values like we did in the greeting program:
 
-```js
-
+```javascript
 var myOutputValue = "Hi! "+input+" is equal to "+distanceInMiles"+ " miles.";
 ```
 
-### Further
+#### Further
+
 Other kinds of formats?
+

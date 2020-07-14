@@ -1,4 +1,4 @@
-# functions
+# What is a function?
 
 We now have a basis to begin formally defining the code structures we're working with and using them to write slightly more realistic programs.
 
@@ -22,7 +22,7 @@ We assign a function to that variable: `var kilometersToMiles = function`
 
 We note the beggining and end of the function `block` with **curly braces**:
 
-```js
+```javascript
 var kilometersToMiles = function(){
 
 };
@@ -30,25 +30,25 @@ var kilometersToMiles = function(){
 
 We define what actions happen when the function will be executed:
 
-```js
+```javascript
 var distanceInMiles = distanceInKilometers * 0.62;
 ```
 
 Using `return` keyword we define the output value of the function:
 
-```js
+```javascript
 return distanceInMiles;
 ```
 
 We define the function input called a `parameter` as `distanceInKilometers`.
 
-```js
+```javascript
 var kilometersToMiles = function(distanceInKilometers){
 ```
 
 All together it looks like this:
 
-```js
+```javascript
 var kilometersToMiles = function(distanceInKilometers){
 
   var distanceInMiles = distanceInKilometers * 0.62;
@@ -63,20 +63,20 @@ Let's run this function without the rest of our starter code first.
 
 The syntax for running our function is to mention the name of the function and add **parentheses** to the end of it:
 
-```js
+```javascript
 kilometersToMiles();
 ```
 
 Our function takes an argument - an actual value representing kilometers:
 
-```js
+```javascript
 var someNumber = 4;
 kilometersToMiles(someNumber);
 ```
 
 Let's test this without having to worry about the rest of the starter code.
 
-Open your developer tools by going to the top level menu and selecting view -> developer -> javascript console.
+Open your developer tools by going to the top level menu and selecting view -&gt; developer -&gt; javascript console.
 
 Paste the above code into the console.
 
@@ -86,7 +86,7 @@ Type the name of the function into the console. You should see the code `block` 
 
 You can run this code again from the console with a different value:
 
-```js
+```javascript
 kilometersToMiles(7676);
 ```
 
@@ -98,7 +98,7 @@ We can see the result of the calculation in the console.
 
 We can also capture that value to use it later.
 
-```js
+```javascript
 var result = kilometersToMiles(7676);
 ```
 
@@ -108,7 +108,7 @@ Type in the name of the variable: `result` and press enter to see the given valu
 
 Inside main call the functions and give the input value as an argument.
 
-```js
+```javascript
 var main = function(input) {
 
   var myOutputValue = kilometersToMiles(input);
@@ -127,21 +127,24 @@ var kilometersToMiles = function(distanceInKilometers){
 ## other examples
 
 ### Doubling a number
-```js
+
+```javascript
 var double = function(number){
   return number * 2;
 };
 ```
 
 ### Kilos to Pounds
-```js
+
+```javascript
 var kilosToPounds = function(kilos){
   return kilos * 2.2;
 };
 ```
 
 ### Area of a circle
-```js
+
+```javascript
 var circleArea = function(radius){
   var pi = 3.1415;
   return pi * radius * radius;
@@ -161,6 +164,7 @@ With this in mind, assign the value of `input` to myOutputValue to see this conn
 Then change the code again to assign the string value "wow hello" to `myOutputValue`.
 
 ## What is a function for?
+
 We already defined a function as a collection of lines of code we can run.
 
 Sometimes we just want to run a set number of lines of code collected together in our programs.
@@ -177,7 +181,7 @@ Let's talk about a few kinds of errors you might have seen so far.
 
 Errors in your program will appear in the dev tools console.
 
-Access the dev tools console by going to the top level menu and selecting view -> developer -> javascript console.
+Access the dev tools console by going to the top level menu and selecting view -&gt; developer -&gt; javascript console.
 
 You should never code anything in the browser without having this pane open, otherwise you might not catch some errors.
 
@@ -186,6 +190,7 @@ You should always make sure either your page loaded with the tools already, or y
 There are 2 broad categories of errors. We can use the dev tools to fix both kinds.
 
 ### 1. Syntax errors / runtime errors
+
 These are errors where you will see red text in the console.
 
 Syntax errors can be divided into 2 kinds:
@@ -196,7 +201,7 @@ Let's introduce a syntax error into your program.
 
 Replace your `kilometersToMiles` function with the one below.
 
-```js
+```javascript
 var kilometersToMiles = function distanceInKilometers){
 
   var distanceInMiles = distanceInKilometers * 0.62;
@@ -205,13 +210,13 @@ var kilometersToMiles = function distanceInKilometers){
 };
 ```
 
-You'll get the error: `Uncaught SyntaxError: Unexpected token ')'`. This may look cryptic, but once you see this error a few times ( and you definitely will ) you'll understand what it is trying to tell you.
+You'll get the error: `Uncaught SyntaxError: Unexpected token ')'`. This may look cryptic, but once you see this error a few times \( and you definitely will \) you'll understand what it is trying to tell you.
 
 FIrst of all, the console is helpfully telling you which line of your code the error is occuring on.
 
 Specifically in this case the error was a missing parenthese. Javascript knew because of the `function` keyword that a function was about to be defined. It was waiting for an opening left parenthese. When it found a right parenthese it knew for sure that something was wrong.
 
-There are some spcific rules about why javascript can't know that a left parenthese was missing ( rather than a right parenthese is incorrect ) which are outside the scope of this course, but in practice, unfortunately, you as the programmer will have to know that "I didn't expect a right parenthese" infers that it was looking for a left parenthese.
+There are some spcific rules about why javascript can't know that a left parenthese was missing \( rather than a right parenthese is incorrect \) which are outside the scope of this course, but in practice, unfortunately, you as the programmer will have to know that "I didn't expect a right parenthese" infers that it was looking for a left parenthese.
 
 A significant amount of the feedback you will get from the computer will be these semi-cryptic messages about why your code is wrong.
 
@@ -219,7 +224,7 @@ b. runtime errors - errors that happen when you run your porogram.
 
 Replace this line in the starter code:
 
-```js
+```javascript
 var myOutputValue = "hello world"()
 ```
 
@@ -237,7 +242,7 @@ Some of the errors your program will have will not produce any red output on the
 
 Replace your main function with this code:
 
-```js
+```javascript
 var main = function(input) {
 
   var myOutputValue = kilometersToMiles(input);
@@ -248,7 +253,7 @@ var main = function(input) {
 
 This `main` function is missing the `return` keyword. Without it we can see the value output by the `main` function is the value `undefined`.
 
-This code does not have any javascript *syntax* errors - it is considered by the computer to be valid javascript code, but it does not **behave** the way we want.
+This code does not have any javascript _syntax_ errors - it is considered by the computer to be valid javascript code, but it does not **behave** the way we want.
 
 ### debugging
 
@@ -276,7 +281,7 @@ We can use the fact that text is appearing in the dev tools console as an implic
 
 If our `console.log` statement appears in the dev tools console then we know that our code is reachable by opur program.
 
-2. value checking - is the value correct?
+1. value checking - is the value correct?
 
 Another way we can use `console.log` is to pass it the variable values our program deals with.
 
@@ -284,7 +289,7 @@ Are the values in our program the ones we expect?
 
 As below we can pass variable values to `console.log`:
 
-```js
+```javascript
 var main = function(input) {
   var myOutputValue = "hello world";
   return myOutputValue;
@@ -300,3 +305,4 @@ var kilometersToMiles = function(distanceInKilometers){
   return distanceInMiles;
 };
 ```
+

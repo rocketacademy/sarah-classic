@@ -6,3 +6,7 @@
 
 * [What is a function?](functions/what-is-a-function.md)
 
+## Conditionals
+
+* [Logic](conditionals/logic.md)
+
