@@ -259,7 +259,7 @@ This code does not have any javascript _syntax_ errors - it is considered by the
 
 Debugging is the process of diagnosing and fixing the errors you have in your program.
 
-The debugging process can be relatively simple, in the case of type 1.a errors - syntax errors - javascript gives you red text in the console and you must start by going to the line that is mentioned in the consolean then interpreting the true meaning of the error text given to you.
+The debugging process can be relatively simple, in the case of type 1.a errors - syntax errors - javascript gives you red text in the console and you must start by going to the line that is mentioned in the console and then interpreting the true meaning of the error text given to you.
 
 Debugging can become more complicated when you are trying to diagnose a logical error in your code- the computer is running the code without errors, but the behavior is not correct.
 
