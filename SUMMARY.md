@@ -10,3 +10,6 @@
 
 * [Logic](conditionals/logic.md)
 
+## Arrays & Loops
+
+* [Arrays](arrays-and-loops/arrays.md)
