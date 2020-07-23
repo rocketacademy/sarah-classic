@@ -12,6 +12,8 @@
 
 ## Loops & Arrays
 
+* [Bye](bye.md)
+
 ---
 
 * [Untitled](untitled.md)
