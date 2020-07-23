@@ -1,4 +1,0 @@
-# Arrays and Loops
-
-Loops :\)
-

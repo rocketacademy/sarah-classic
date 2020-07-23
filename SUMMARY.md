@@ -10,14 +10,3 @@
 
 * [Logic](conditionals/logic.md)
 
-## Loops & Arrays
-
-* [Something](loops-and-arrays/something.md)
-* [Bye](loops-and-arrays/bye.md)
-
----
-
-* [Untitled](untitled.md)
-* [Arrayss](arrayss.md)
-* [Arrays and Loops](arrays-and-loops.md)
-
