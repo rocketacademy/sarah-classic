@@ -12,7 +12,8 @@
 
 ## Loops & Arrays
 
-* [Bye](bye.md)
+* [Something](loops-and-arrays/something.md)
+* [Bye](loops-and-arrays/bye.md)
 
 ---
 
