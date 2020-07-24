@@ -83,10 +83,10 @@ We will use the code refered to on this [page.](https://developer.mozilla.org/en
 
 We can make a function that produces any random integer:
 ```js
-var getRandomInteger = function(lessThanNumber) {
+var getRandomInteger = function(max) {
 
-  // produces a float between 0 and lessThanNumber + .999999 etc.
-  var randomFloat =  Math.random() * lessThanNumber;
+  // produces a float between 1 and max + .999999 etc.
+  var randomFloat =  (Math.random() * max) + 1;
 
   // take off the decimal
   var resultInteger = Math.floor(randomFloat);
@@ -123,13 +123,13 @@ If the dice roll the same number as the user entered, they win.
 ```js
 var main = function(input){
 
-  var randomdicenumber = diceroll();
+  var randomDiceNumber = diceRoll();
 
-  var myoutputvalue = "you lose";
+  var myOutputValue = "you lose";
 
-  if( randomdicenumber == input ){
+  if( randomDiceNumber == input ){
 
-    myoutputvalue = "you win";
+    myOutputValue = "you win";
   }
 
   return myOutputValue;
@@ -574,4 +574,3 @@ var main = function(input){
   return myOutputValue;
 };
 ```
-
