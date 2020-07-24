@@ -13,3 +13,7 @@
 ## Arrays & Loops
 
 * [Arrays](arrays-and-loops/arrays.md)
+
+## Objects
+
+* [Objects](objects/objects.md)
