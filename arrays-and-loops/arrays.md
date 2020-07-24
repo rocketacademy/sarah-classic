@@ -303,4 +303,40 @@ while(index < letterLength){
 }
 ```
 
+Let's make a simple program thaat demonstrates the use of loops and arrays.
+
+Our app is an address book that keeps names and doesnt add a new one if its already in the book.
+
+
+```js
+var names = [];
+
+var main = function(input){
+
+  // look at all the names and make sure it's not in there yet
+  var index = 0;
+  var namesLength = names.length;
+
+  var found = false;
+
+  while(index < namesLength){
+    var currentName = names[index];
+
+    if( currentName == input ){
+      found = true;
+    }
+
+    index = index + 1;
+  }
+
+  // we didnt find the name, put it in
+  if( found == false ){
+    names.push( input );
+  }
+
+  var myOutputValue = "All your names: "+names;
+
+  return myOutputValue;
+};
+```
 
