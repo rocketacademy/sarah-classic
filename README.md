@@ -43,20 +43,20 @@ The javascript language is capable of calculating math operations.
 
 Type these one at a time into the console and hit enter:
 
-```javascript
-2 + 2
+```js
+2 + 2;
 ```
 
-```javascript
-4 * 2
+```js
+4 * 2;
 ```
 
-```javascript
-4 / 2
+```js
+4 / 2;
 ```
 
-```javascript
-4 - 2
+```js
+4 - 2;
 ```
 
 ### Data
@@ -69,36 +69,36 @@ First we need to talk about what data is inside a javascript program and how it'
 
 An abstract piece of data in a javascript program is called a variable.
 
-```javascript
-var pi = 3.14;
+```js
+const pi = 3.14;
 ```
 
 We name a variable and we associate a specific data value with it.
 
 We use a variable to represent some data that our program will process.
 
-```javascript
-var radius = 4;
+```js
+const radius = 4;
 ```
 
 Using these 2 data values we can calculate the area of this circle:
 
-```javascript
+```js
 pi * radius * radius;
 ```
 
 We can also use variables to capture that calculated value:
 
-```javascript
-var area = pi * radius * radius;
+```js
+const area = pi * radius * radius;
 ```
 
 **abstraction**
 
 If we wanted the same result we can also write:
 
-```javascript
-var area = 3.14 * 4 * 4;
+```js
+const area = 3.14 * 4 * 4;
 ```
 
 But this is not as _meaningful_ as our previous example.
@@ -153,12 +153,11 @@ Open the `script.js` file in your editor.
 
 You should see the following:
 
-```javascript
-console.log("bananas");
+```js
+console.log('bananas');
 
-var main = function(input){
-
-  var myOutputValue = "hello world";
+const main = function (input) {
+  const myOutputValue = 'hello world';
 
   return myOutputValue;
 };
@@ -172,8 +171,8 @@ We are going to start with _line 5_: `myOutputValue` is a variable that holds th
 
 Change the value of the variable to something else. We'll start with numbers only:
 
-```javascript
-var myOutputValue = 2;
+```js
+const myOutputValue = 2;
 ```
 
 Remember to save the file and refresh the browser screen. Then you can try your changes out.
@@ -182,16 +181,16 @@ What happens when you click the button?
 
 Try assigning a bunch of different values. See them output in the grey square.
 
-```javascript
-var myOutputValue = 12;
+```js
+const myOutputValue = 12;
 ```
 
-```javascript
-var myOutputValue = 9999999999;
+```js
+const myOutputValue = 9999999999;
 ```
 
-```javascript
-var myOutputValue = 1.234234;
+```js
+const myOutputValue = 1.234234;
 ```
 
 **operations as output**
@@ -200,32 +199,32 @@ Let's assign the output of our previous code to the variable:
 
 Previously all the lines we had together look like this:
 
-```javascript
-var pi = 3.14;
-var radius = 4;
-var area = pi * radius * radius;
+```js
+const pi = 3.14;
+const radius = 4;
+const area = pi * radius * radius;
 ```
 
 Let's assign our final value to the `myOutputValue` variable:
 
-```javascript
-var myOutputValue = area;
+```js
+const myOutputValue = area;
 ```
 
 When we click the submit button our program is now succesfully calculating the area of a circle!
 
 Try some other calculations. Remember to assign the final value to `myOutputValue` in order for them to appear in the grey square.
 
-```javascript
-var myOutputValue = 34534 * 2334;
+```js
+const myOutputValue = 34534 * 2334;
 ```
 
-```javascript
-var myOutputValue = 12 * 12;
+```js
+const myOutputValue = 12 * 12;
 ```
 
-```javascript
-var myOutputValue = 100 / 10;
+```js
+const myOutputValue = 100 / 10;
 ```
 
 ## interactivity
@@ -248,8 +247,8 @@ In our starter code, `input` is a _function parameter_ - in this case it contain
 
 We can prove this is true simply by assigning the value of `input` to `myOutputValue` like so:
 
-```javascript
-var myOutputValue = input;
+```js
+const myOutputValue = input;
 ```
 
 Now you should see that whatever you type in the input box gets put into the grey box.
@@ -264,9 +263,9 @@ We'll now talk about this different kind of data inside of the javascript langua
 
 This basically means that we are dealing with letters and words. These are defined with either single or double quotes:
 
-```javascript
-var name = "Susan";
-var name2 = 'Kai';
+```js
+const name = 'Susan';
+const name2 = 'Kai';
 ```
 
 Change the value of `myOutputValue` to a string value \(any set of words you want\) and see them appear in the grey box.
@@ -277,8 +276,8 @@ Let's use this string operation to make our program a little more interactive.
 
 Change the code back again to assign the value of `input` to `myOutputValue`:
 
-```javascript
-var myOutputValue = input;
+```js
+const myOutputValue = input;
 ```
 
 #### greeting program
@@ -289,8 +288,8 @@ The user will type in their name, and we will use the name to greet them.
 
 To do this we'll take `input` and combine it with some other strings to make the full output:
 
-```javascript
-var myOutputValue = "Hello " + input + " you look great today!";
+```js
+const myOutputValue = `Hello ${input} you look great today!`;
 ```
 
 **Further**
@@ -313,16 +312,16 @@ mi = km \* 0.62
 
 So in javascript we can write it like this:
 
-```javascript
-var distanceInKilometers = 1;
+```js
+const distanceInKilometers = 1;
 
-var distanceInMiles = distanceInKilometers * 0.62;
+const distanceInMiles = distanceInKilometers * 0.62;
 ```
 
 Let's change the output so we can see the calculation on screen:
 
-```javascript
-var myOutputValue = distanceInMiles;
+```js
+const myOutputValue = distanceInMiles;
 ```
 
 Try changing the values of `distanceInKilometers` to see the new conversion being output.
@@ -349,8 +348,8 @@ Hi! 5 kilometers is equal to 3.1 miles.
 
 Simply use the result of the calculation together with some string values like we did in the greeting program:
 
-```javascript
-var myOutputValue = "Hi! "+input+" is equal to "+distanceInMiles"+ " miles.";
+```js
+const myOutputValue = `Hi! ${input} is equal to ${distanceInMiles} miles.`;
 ```
 
 #### Further
