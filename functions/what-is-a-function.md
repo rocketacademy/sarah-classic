@@ -20,7 +20,7 @@ Create a variable `var kilometersToMiles`
 
 We assign a function to that variable: `var kilometersToMiles = function`
 
-We note the beggining and end of the function `block` with **curly braces**:
+We note the beginning and end of the function `block` with **curly braces**:
 
 ```javascript
 var kilometersToMiles = function(){
