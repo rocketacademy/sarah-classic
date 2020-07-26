@@ -43,20 +43,20 @@ The javascript language is capable of calculating math operations.
 
 Type these one at a time into the console and hit enter:
 
-```js
-2 + 2;
+```code
+2 + 2
 ```
 
-```js
-4 * 2;
+```code
+4 * 2
 ```
 
-```js
-4 / 2;
+```code
+4 / 2
 ```
 
-```js
-4 - 2;
+```code
+4 - 2
 ```
 
 ### Data
