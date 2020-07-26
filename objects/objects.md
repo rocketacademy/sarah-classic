@@ -62,7 +62,7 @@ singleCard.suit
 singleCard.name
 ```
 
-## card shuffling
+## Card Shuffling
 
 ```javascript
 var getRandomIndex = function(size){
