@@ -4,7 +4,7 @@ Now we'll continue to build programs of increasing complexity.
 
 We'll be implementing a game of cards, and we'll introduce a new kind of data that will make our programs easier to write and reason about.
 
-Note that the javascript `object` is not the same object concept that is usually refered to in *Object Oriented Programming*. A javascript obejct is refered to as a *hash* or *dictionary* in some other languages.
+Note that the javascript `object` is not the same object concept that is usually refered to in _Object Oriented Programming_. A javascript obejct is refered to as a _hash_ or _dictionary_ in some other languages.
 
 ### Compound Data
 
@@ -23,10 +23,12 @@ Is this a good representation of a game of cards?
 Let's start to think abstractly about what kind of data a deck of cards contains?
 
 #### order
+
 A deck of cards is implicitly ordered. An array was a good choice to represent this.
 
 #### card order
-Each card has an rank. Our array of strings doesnt represent this rank, except by the sub-string "nine" etc. A card has a suit. We are representing this by the string "heart". A card has a rank of face cards, which we are not representing. (`jack < queen`)
+
+Each card has an rank. Our array of strings doesnt represent this rank, except by the sub-string "nine" etc. A card has a suit. We are representing this by the string "heart". A card has a rank of face cards, which we are not representing. \(`jack < queen`\)
 
 For a given card we need a way to represent the different values in that individual card.
 
@@ -60,7 +62,7 @@ singleCard.suit;
 singleCard.name;
 ```
 
-## card shuffling
+## Card Shuffling
 
 ```js
 const getRandomIndex = function (size) {
@@ -112,7 +114,4 @@ const main = function (input) {
   return myOutputValue;
 };
 ```
-
-
-
 
