@@ -23,10 +23,10 @@ module.exports = {
   ],
   rules: {
 
-    // settings for gitbook javascript
+    // settings for gitbook JavaScript
 
     // gitbook formatting
-    'semi': 'off',
+    semi: 'off',
     'no-unreachable': 'off',
     'no-unused-vars': 'off',
     'func-names': 'off',
@@ -38,7 +38,7 @@ module.exports = {
     'vars-on-top': 'off',
     'no-var': 'off',
     'prefer-template': 'off',
-    'eqeqeq': 'off',
+    eqeqeq: 'off',
     'operator-assignment': 'off',
 
     'spellcheck/spell-checker': [1,
@@ -49,6 +49,7 @@ module.exports = {
         lang: 'en_GB',
         skipWords: [
           'etc',
+          'gitbook',
           'dict',
           'aff',
           'utils',
