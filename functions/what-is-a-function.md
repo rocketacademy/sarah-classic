@@ -20,37 +20,38 @@ Create a variable `var kilometersToMiles`
 
 We assign a function to that variable: `var kilometersToMiles = function`
 
-We note the beginning and end of the function `block` with **curly braces**:
+We note the beggining and end of the function `block` with **curly braces**:
 
-```js
-const kilometersToMiles = function () {
+```javascript
+var kilometersToMiles = function(){
 
 };
 ```
 
 We define what actions happen when the function will be executed:
 
-```js
-const distanceInMiles = distanceInKilometers * 0.62;
+```javascript
+var distanceInMiles = distanceInKilometers * 0.62;
 ```
 
 Using `return` keyword we define the output value of the function:
 
-```js
+```javascript
 return distanceInMiles;
 ```
 
 We define the function input called a `parameter` as `distanceInKilometers`.
 
-```js
+```javascript
 var kilometersToMiles = function(distanceInKilometers){
 ```
 
 All together it looks like this:
 
-```js
-const kilometersToMiles = function (distanceInKilometers) {
-  const distanceInMiles = distanceInKilometers * 0.62;
+```javascript
+var kilometersToMiles = function(distanceInKilometers){
+
+  var distanceInMiles = distanceInKilometers * 0.62;
 
   return distanceInMiles;
 };
@@ -62,14 +63,14 @@ Let's run this function without the rest of our starter code first.
 
 The syntax for running our function is to mention the name of the function and add **parentheses** to the end of it:
 
-```js
+```javascript
 kilometersToMiles();
 ```
 
 Our function takes an argument - an actual value representing kilometers:
 
-```js
-const someNumber = 4;
+```javascript
+var someNumber = 4;
 kilometersToMiles(someNumber);
 ```
 
@@ -85,7 +86,7 @@ Type the name of the function into the console. You should see the code `block` 
 
 You can run this code again from the console with a different value:
 
-```js
+```javascript
 kilometersToMiles(7676);
 ```
 
@@ -97,8 +98,8 @@ We can see the result of the calculation in the console.
 
 We can also capture that value to use it later.
 
-```js
-const result = kilometersToMiles(7676);
+```javascript
+var result = kilometersToMiles(7676);
 ```
 
 Type in the name of the variable: `result` and press enter to see the given value.
@@ -107,15 +108,17 @@ Type in the name of the variable: `result` and press enter to see the given valu
 
 Inside main call the functions and give the input value as an argument.
 
-```js
-const main = function (input) {
-  const myOutputValue = kilometersToMiles(input);
+```javascript
+var main = function(input) {
+
+  var myOutputValue = kilometersToMiles(input);
 
   return myOutputValue;
 };
 
-var kilometersToMiles = function (distanceInKilometers) {
-  const distanceInMiles = distanceInKilometers * 0.62;
+var kilometersToMiles = function(distanceInKilometers){
+
+  var distanceInMiles = distanceInKilometers * 0.62;
 
   return distanceInMiles;
 };
@@ -125,25 +128,25 @@ var kilometersToMiles = function (distanceInKilometers) {
 
 ### Doubling a number
 
-```js
-const double = function (number) {
+```javascript
+var double = function(number){
   return number * 2;
 };
 ```
 
 ### Kilos to Pounds
 
-```js
-const kilosToPounds = function (kilos) {
+```javascript
+var kilosToPounds = function(kilos){
   return kilos * 2.2;
 };
 ```
 
 ### Area of a circle
 
-```js
-const circleArea = function (radius) {
-  const pi = 3.1415;
+```javascript
+var circleArea = function(radius){
+  var pi = 3.1415;
   return pi * radius * radius;
 };
 ```
@@ -198,7 +201,7 @@ Let's introduce a syntax error into your program.
 
 Replace your `kilometersToMiles` function with the one below.
 
-```js
+```javascript
 var kilometersToMiles = function distanceInKilometers){
 
   var distanceInMiles = distanceInKilometers * 0.62;
@@ -221,8 +224,8 @@ b. runtime errors - errors that happen when you run your porogram.
 
 Replace this line in the starter code:
 
-```js
-const myOutputValue = 'hello world'();
+```javascript
+var myOutputValue = "hello world"()
 ```
 
 You will see when you refresh the page that there is no red text.
@@ -239,9 +242,10 @@ Some of the errors your program will have will not produce any red output on the
 
 Replace your main function with this code:
 
-```js
-const main = function (input) {
-  const myOutputValue = kilometersToMiles(input);
+```javascript
+var main = function(input) {
+
+  var myOutputValue = kilometersToMiles(input);
 
   myOutputValue;
 };
@@ -285,16 +289,17 @@ Are the values in our program the ones we expect?
 
 As below we can pass variable values to `console.log`:
 
-```js
-const main = function (input) {
-  const myOutputValue = 'hello world';
+```javascript
+var main = function(input) {
+  var myOutputValue = "hello world";
   return myOutputValue;
 };
 
-const kilometersToMiles = function (distanceInKilometers) {
-  const distanceInMiles = distanceInKilometers * 0.62;
+var kilometersToMiles = function(distanceInKilometers){
 
-  console.log('this is distance in miles value');
+  var distanceInMiles = distanceInKilometers * 0.62;
+
+  console.log("this is distance in miles value");
   console.log(distanceInMiles);
 
   return distanceInMiles;

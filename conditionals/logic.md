@@ -9,8 +9,9 @@ The next level of complexity is to create progams that, given some possible inpu
 Let's write a program that changes the output value of "hello world" if you type in a particular phrase.
 
 ```js
-const main = function (input) {
-  const myOutputValue = 'hello world';
+var main = function(input){
+
+  var myOutputValue = "hello world";
 
   return myOutputValue;
 };
@@ -21,11 +22,12 @@ const main = function (input) {
 An if statement is a control flow `block` that runs if a condition is `true`. We'll talk more about what specifically `true` means later, but you can see that what's happening is very intuitive.
 
 ```js
-const main = function (input) {
-  let myOutputValue = 'hello world';
+var main = function(input){
 
-  if (input == 'paletable papaya') {
-    myOutputValue = 'you wrote the secret phrase!';
+  var myOutputValue = "hello world";
+
+  if( input == "paletable papaya" ){
+    myOutputValue = "you wrote the secret phrase!";
   }
 
   return myOutputValue;
@@ -48,30 +50,31 @@ We're using the **boolean operator** `==` to test to see if `input` is **equal**
 
 #### try it yourself
 
+
 ## comments
 
 Now that things are getting more complicated, we might want to leave notes to ourselves and others that say what our code does.
 
 Comments let you write things in the code file that are just notes.
 
-```javascript
+```js
 // this won't actually run
 ```
+
 
 #### randomness / dice
 
 ### randomness
 
-Javascript language can produce random numbers using a build-in set of functions called `Math` \(case-sensetive\).
+Javascript language can produce random numbers using a build-in set of functions called `Math` (case-sensetive).
 
 ```js
-const myRandomValue = Math.random();
+var myRandomValue = Math.random();
 ```
 
 Calling `Math.random()` returns a random number value. However we have a dice game, so there is more code we have to write to get the value we want.
 
 #### `Math.random()` returns a number from 0-1.
-
 We have to do some math on this number to get what we want.
 
 We'll also be using another math functionality: `Math.floor()`.
@@ -80,12 +83,13 @@ We will use the code refered to on this [page.](https://developer.mozilla.org/en
 
 We can make a function that produces any random integer:
 ```js
-const getRandomInteger = function (max) {
+var getRandomInteger = function(max) {
+
   // produces a float between 1 and max + .999999 etc.
-  const randomFloat = (Math.random() * max) + 1;
+  var randomFloat =  (Math.random() * max) + 1;
 
   // take off the decimal
-  const resultInteger = Math.floor(randomFloat);
+  var resultInteger = Math.floor(randomFloat);
 
   return resultInteger;
 };
@@ -93,14 +97,16 @@ const getRandomInteger = function (max) {
 
 But what we are creating is a dice rolling game, so we can just make a dice function.
 
+
 We can make a function that produces any random integer:
 ```js
-const diceRoll = function () {
+var diceRoll = function() {
+
   // produces a float between 0 and 7
-  const randomFloat = Math.random() * 7;
+  var randomFloat =  Math.random() * 7;
 
   // take off the decimal
-  const resultInteger = Math.floor(randomFloat);
+  var resultInteger = Math.floor(randomFloat);
 
   return resultInteger;
 };
@@ -115,13 +121,15 @@ Let's implement the rules to our game.
 If the dice roll the same number as the user entered, they win.
 
 ```js
-const main = function (input) {
-  const randomDiceNumber = diceRoll();
+var main = function(input){
 
-  let myOutputValue = 'you lose';
+  var randomDiceNumber = diceRoll();
 
-  if (randomDiceNumber == input) {
-    myOutputValue = 'you win';
+  var myOutputValue = "you lose";
+
+  if( randomDiceNumber == input ){
+
+    myOutputValue = "you win";
   }
 
   return myOutputValue;
@@ -140,7 +148,7 @@ Before we talk about the syntax of these structures, let's talk about what kind 
 
 An english language specification for what behavior we want to see might be:
 
-```text
+```
 If the guess is correct the user wins.
 
 If the guess is off by one, the user wins.
@@ -148,14 +156,14 @@ If the guess is off by one, the user wins.
 
 We can further break down the statement "off by one" to mean:
 
-```text
+```
 If the user guess plus one is equal to the random number, the user wins.
 If the user guess minus one is equal to the number, the user wins.
 ```
 
 So altogether we have:
 
-```text
+```
 If the guess is equal to the random number the user wins.
 If the user guess plus one is equal to the random number, the user wins.
 If the user guess minus one is equal to the random number, the user wins.
@@ -163,21 +171,21 @@ If the user guess minus one is equal to the random number, the user wins.
 
 Notice how we are thinking about reformulating the sentences **describing** the behavior into a format that more closely resembles code:
 
-```text
+```
 If the guess is equal to the random number the user wins.
 ```
 
 translates to:
 
 ```js
-if (randomDiceNumber == input) {
-  myOutputValue = 'you win';
+if( randomDiceNumber == input ){
+  myOutputValue = "you win";
 }
 ```
 
 ### behavior into code
 
-Note that one of the main difficulties of this course will be this step, which may be tangential to code **syntax**: translating the program's desired behavior into explicit \(plain english\) logical statements.
+Note that one of the main difficulties of this course will be this step, which may be tangential to code **syntax**: translating the program's desired behavior into explicit (plain english) logical statements.
 
 After enough practice it may be unneccesary to explicitly state the program logic. However, expert programmers still find it important to complete this part of the coding process. It is not something used only for beginners.
 
@@ -185,7 +193,7 @@ After enough practice it may be unneccesary to explicitly state the program logi
 
 Now we have this specification:
 
-```text
+```
 If the guess is equal to the random number the user wins.
 If the user guess plus one is equal to the random number, the user wins.
 If the user guess minus one is equal to the random number, the user wins.
@@ -194,18 +202,19 @@ If the user guess minus one is equal to the random number, the user wins.
 We could translate this to a series of `if` blocks:
 
 ```js
-if (randomDiceNumber == input) {
-  myOutputValue = 'you win';
+if( randomDiceNumber == input ){
+  myOutputValue = "you win";
 }
 
-if (randomDiceNumber + 1 == input) {
-  myOutputValue = 'you win';
+if( randomDiceNumber + 1 == input ){
+  myOutputValue = "you win";
 }
 
-if (randomDiceNumber - 1 == input) {
-  myOutputValue = 'you win';
+if( randomDiceNumber - 1 == input ){
+  myOutputValue = "you win";
 }
 ```
+
 
 To code this we'll introduce another logical control flow syntax- boolean operators. This allows us to create more complex logical statments and state this logic in a different way.
 
@@ -215,7 +224,8 @@ Logical or allows us to combine together a bunch of individual boolean expressio
 
 In english it would look like:
 
-```text
+
+```
 If any of the following are true:
 
 the guess is equal to the random number
@@ -226,8 +236,7 @@ then the user wins.
 ```
 
 Or restated:
-
-```text
+```
 if:
 
 the guess is equal to the random number
@@ -244,18 +253,17 @@ then the user wins.
 ```
 
 #### syntax
-
 Logical or is represented by `||`
 
 So the final syntax looks like:
 
 ```js
-if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input) {
-  myOutputValue = 'you win';
+if( randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input ){
+  myOutputValue = "you win";
 }
 ```
 
-We'll find a use for the other logical operator AND \(`&&`\) in the next section.
+We'll find a use for the other logical operator AND (`&&`) in the next section.
 
 #### input output control
 
@@ -265,21 +273,21 @@ We can think of the random dice roll as a kind of input to our program. Even tho
 
 No matter how small or large the input to our program we need to be thinking and strategizing about how to control randomness in our programming workflow, so that we give ourselves the ability to write the most correct programs.
 
-In other words, we don't want to have to continue to enter and click the button until we reach a win state. \(what if we coded a 99 side dice? we'd be waiting forever\)
+In other words, we don't want to have to continue to enter and click the button until we reach a win state. (what if we coded a 99 side dice? we'd be waiting forever)
 
 This game is very simple but as soon as things become more complicated we need to have a strategy for testing all the possible outcomes of the program- in this case it's to see `you win` when the number is guessed correctly.
 
 We'll implement the strategy for getting to the winning condition in a simple way- getting rid of the randomness. We will cheat and fix the random number by changing my dice function like so:
 
 ```js
-const diceRoll = function () {
+var diceRoll = function() {
   return 6;
 
   // produces a float between 0 and 7
-  const randomFloat = Math.random() * 7;
+  var randomFloat =  Math.random() * 7;
 
   // take off the decimal
-  const resultInteger = Math.floor(randomFloat);
+  var resultInteger = Math.floor(randomFloat);
 
   return resultInteger;
 };
@@ -295,20 +303,24 @@ We just have to remember to take it back out later!
 
 Add a dice.
 
-Correct within 2 for any of 2 dice Correct within 2 for all 2 dice Correct within 2 but not snake eyes. Correct within 2 or snake eyes.
+Correct within 2 for any of 2 dice
+Correct within 2 for all 2 dice
+Correct within 2 but not snake eyes.
+Correct within 2 or snake eyes.
+
 
 ### boolean values
 
 Every boolean operator, just like addition and other math operators, produces a new value.
 
-```javascript
+```js
 // this is the result of number 1 math operator number 2
-const myVal = 3 + 2;
+var myVal = 3 + 2;
 ```
 
-```javascript
+```js
 // this is the result of number 1 boolean operator number 2
-const myVal = 3 === 2;
+var myVal = 3 == 2;
 ```
 
 what's the value inside of `myVal` in this case?
@@ -328,48 +340,46 @@ Just like for any program you write you must deconstruct your code to check each
 Errors in a conditional statement could be:
 
 #### boolean expression is not reached
-
 Use of `&&` instead of `||`.
 
 #### boolean expression has a syntax error
-
 Did you put `=` instead of `==`?
 
 #### boolean expression is incorrectly stated
-
 Does the logic say what you meant it to say?
+
 
 For a given statement like this one:
 
 ```js
-if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input) {
-  myOutputValue = 'you win';
+if( randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input ){
+  myOutputValue = "you win";
 }
 ```
 
 We can simply look at each value and boolean expression value:
 ```js
-console.log('random dice number:');
+console.log("random dice number:");
 console.log(randomDiceNumber);
-console.log('input');
+console.log("input");
 console.log(input);
-console.log('random dice equals input:');
-console.log(randomDiceNumber == input);
-console.log('random dice plus 1 equals input:');
-console.log(randomDiceNumber + 1 == input);
-console.log('random dice minus 1 equals input:');
-console.log(randomDiceNumber - 1 == input);
+console.log("random dice equals input:");
+console.log( randomDiceNumber == input );
+console.log("random dice plus 1 equals input:");
+console.log( randomDiceNumber + 1 == input );
+console.log("random dice minus 1 equals input:");
+console.log( randomDiceNumber - 1 == input );
 ```
 
 Remember that it is very important to label your `console.log`s.
 
-Also remember that if your label is wrong or if your statements in the `console.log` are different from your actual code, you now have an error in your debugging code as well, making your error twice as hard to find :\)
+Also remember that if your label is wrong or if your statements in the `console.log` are different from your actual code, you now have an error in your debugging code as well, making your error twice as hard to find :)
 
-#### refactor: value ranges -&gt; less than more than
+#### refactor: value ranges -> less than more than
 
 Given this code and pseudo code:
 
-```text
+```
 if:
 
 the guess is equal to the random number
@@ -387,12 +397,12 @@ then the user wins.
 
 
 ```js
-randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input;
+randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input
 ```
 
 Another way to state the same logic as before would be:
 
-```text
+```
 if:
 
 the guess is within 1 of the dice number
@@ -400,7 +410,7 @@ the guess is within 1 of the dice number
 then the user wins.
 ```
 
-```text
+```
 if:
 
 the number minus 1 is equal or greater than guess
@@ -415,26 +425,27 @@ then the user wins.
 Translates to:
 
 ```js
-randomDiceNumber - 1 >= guess && randomDiceNumber + 1 <= input;
+ randomDiceNumber - 1 >= guess && randomDiceNumber + 1 <= input 
 ```
 
-This logic states the same exact thing as our original logic, but it allows us to state a range \(rather than +/- one\)
+This logic states the same exact thing as our original logic, but it allows us to state a range (rather than +/- one)
 
 ```js
-guess - 3 >= randomDiceNumber && input + 3 <= randomDiceNumber;
+guess - 3 >= randomDiceNumber && input + 3 <= randomDiceNumber
 ```
 
 We would have had to state each number value in the old example.
 
 ## Adding more data and conditions
 
-### fixed data -&gt; dynamic data
+### fixed data -> dynamic data
 
 When creating our programs and the parameters of our programs we want to move from fixed to dynamic data.
 
 #### state
 
-#### betting =&gt; global state
+
+#### betting => global state
 
 Let's add betting on the dice roll.
 
@@ -445,23 +456,25 @@ We need to talk about a different kind of data to make this work.
 Let's start with a naive implementation:
 
 ```js
-const main = function (input) {
-  let bankRoll = 100;
+var main = function(input){
 
-  const bet = 1;
+  var bankRoll = 100;
 
-  bankRoll -= 1;
+  var bet = 1;
 
-  const randomDiceNumber = diceRoll();
+  bankRoll = bankRoll - 1;
 
-  let myOutputValue = `you lose. current bank roll: ${bankRoll}`;
+  var randomDiceNumber = diceRoll();
 
-  if (randomDiceNumber == input) {
+  var myOutputValue = "you lose. current bank roll: "+bankRoll;
+
+  if( randomDiceNumber == input ){
+
     win = bet * 2;
 
-    bankRoll += win;
+    bankRoll = bankRoll + win;
 
-    myOutputValue = `you win. current bank roll: ${bankRoll}`;
+    myOutputValue = "you win. current bank roll: "+bankRoll;
   }
 
   return myOutputValue;
@@ -482,22 +495,22 @@ Now we will want to expand the kinds of data that our program deals with and can
 
 We want to keep track **for the life of our program** what the bank roll is.
 
-We need a syntax for a value \(bank roll\) that gets updated when `main` runs and then is **also** available the next time `main` runs.
+We need a syntax for a value (bank roll) that gets updated when `main` runs and then is **also** available the next time `main` runs.
 
-We'll also define **life of our program** as the time from when it loads in the browser to the next time we close the tab or hit the refresh buton \(load the page again\).
+We'll also define **life of our program** as the time from when it loads in the browser to the next time we close the tab or hit the refresh buton (load the page again).
 
 First let's prove the basic behavior that when we initialize a value in the console we can manipulate it and get the new value out:
 
 ```js
-const number = 5;
+var number = 5;
 ```
 
 ```js
-number *= 2;
+number = number * 2;
 ```
 
 ```js
-number;
+number
 ```
 
 If we refresh the page that value is no longer available. The life of our program has ended and started again.
@@ -506,8 +519,9 @@ If we refresh the page that value is no longer available. The life of our progra
 
 Remember that for a `main` function like this:
 ```js
-const main = function (input) {
-  const myOutputValue = kilometersToMiles(input);
+var main = function(input) {
+
+  var myOutputValue = kilometersToMiles(input);
 
   return myOutputValue;
 };
@@ -518,7 +532,7 @@ const main = function (input) {
 Note that when you try to check the value of `myOutputValue` in the console it doesn't exist.
 
 ```js
-myOutputValue;
+myOutputValue
 ```
 
 This is a generic truth about values that are initialized inside a function. They are available for the life of that function, then they dissapear.
@@ -536,26 +550,27 @@ However, if we initialize the variable and then assign a value inside the functi
 You can see all that we did was move line 3 to line 1. This takes it outside of the function block and puts it into the "global scope" of the program.
 
 ```js
-let bankRoll = 10;
+var bankRoll = 10;
 
-const main = function (input) {
-  const bet = 1;
+var main = function(input){
 
-  bankRoll -= bet;
+  var bet = 1;
 
-  const randomDiceNumber = diceRoll();
+  bankRoll = bankRoll - bet;
 
-  let myOutputValue = `you lose. current bank roll: ${bankRoll}`;
+  var randomDiceNumber = diceRoll();
 
-  if (randomDiceNumber == input) {
+  var myOutputValue = "you lose. current bank roll: "+bankRoll;
+
+  if( randomDiceNumber == input ){
+
     win = bet * 2;
 
-    bankRoll += win;
+    bankRoll = bankRoll + win;
 
-    myOutputValue = `you win. current bank roll: ${bankRoll}`;
+    myOutputValue = "you win. current bank roll: "+bankRoll;
   }
 
   return myOutputValue;
 };
 ```
-
