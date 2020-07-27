@@ -13,6 +13,7 @@ module.exports = {
   // Markdown setup from here https://github.com/eslint/eslint-plugin-markdown
   plugins: [
     'markdown',
+    'spellcheck',
   ],
   overrides: [
     {
@@ -21,5 +22,46 @@ module.exports = {
     },
   ],
   rules: {
+
+    // settings for gitbook javascript
+
+    // gitbook formatting
+    'semi': 'off',
+    'no-unreachable': 'off',
+    'no-unused-vars': 'off',
+    'func-names': 'off',
+    'no-unused-expressions': 'off',
+    'no-undef': 'off',
+    'no-console': 'off',
+
+    // course curriculum exceptions
+    'vars-on-top': 'off',
+    'no-var': 'off',
+    'prefer-template': 'off',
+    'eqeqeq': 'off',
+    'operator-assignment': 'off',
+
+    'spellcheck/spell-checker': [1,
+      {
+        comments: true,
+        strings: true,
+        identifiers: true,
+        lang: 'en_GB',
+        skipWords: [
+          'etc',
+          'dict',
+          'aff',
+          'utils',
+        ],
+        skipIfMatch: [
+          'http://[^s]*',
+          '^[-\\w]+[-\\w\\.]+$', // For MIME Types
+        ],
+        skipWordIfMatch: [
+          '^foobar.*$', // words that begin with foobar will not be checked
+        ],
+        minLength: 2,
+      },
+    ],
   },
 };
