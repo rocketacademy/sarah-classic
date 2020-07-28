@@ -35,6 +35,7 @@ module.exports = {
     'no-console': 'off',
 
     // course curriculum exceptions
+    'no-restricted-globals': 'off',
     'vars-on-top': 'off',
     'no-var': 'off',
     'prefer-template': 'off',

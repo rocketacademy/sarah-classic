@@ -33,18 +33,18 @@ Data values of the same kind collected together:
 
 ```js
 var daysOfTheWeek = [
-  "Monday",
-  "Tuesday",
-  "Wednesday",
-  "Thursday",
-  "Friday",
-  "Saturday",
-  "Sunday"
+  'Monday',
+  'Tuesday',
+  'Wednesday',
+  'Thursday',
+  'Friday',
+  'Saturday',
+  'Sunday',
 ];
 ```
 
 ```js
-var letters = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
+var letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
 ```
 
 ```js
@@ -75,13 +75,13 @@ Confusingly, the *number* of the first item in an array is always 0 (zero).
 
 ```
   0   1   2
-["a","b","c"]
+['a','b','c']
 ```
 
 In the case above the 3rd bucket, or location, or **index** of this letter array is `2`:
 
 ```js
-var letters = ["a","b","c"];
+var letters = ['a','b','c'];
 var value = letters[2];
 ```
 
@@ -92,7 +92,7 @@ Position implies that for any array `0` will always be the first, left-most loca
 #### order
 
 ```js
-var letters = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
+var letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
 ```
 
 The array above signifies that "a" is before "b". (and also that index 0 is before index 1)
@@ -104,7 +104,7 @@ Let's talk about how to put data into an array, how to get it out, and some of t
 
 
 ```js
-var letters = ["a","b","c"];
+var letters = ['a','b','c'];
 var value = letters[2];
 ```
 
@@ -171,18 +171,17 @@ var getRandomInteger = function(max) {
   return resultInteger;
 };
 
-var shells = [null,null,null];
+var shells = ['empty','empty','empty'];
 
 var randomBallLocation = getRandomInteger(3);
 
-shells[randomBallLocation] = "win"!
+shells[randomBallLocation] = 'win';
 
-var main = function(input){
+var main = function (input) {
+  var myOutputValue = 'sorry wrong guess';
 
-  var myOutputValue = "sorry wrong guess";
-
-  if( shells[input] == "win" ){
-    myOutputValue = "win!";
+  if (shells[input] == 'win') {
+    myOutputValue = 'you found the shell, you win!';
   }
 
   return myOutputValue;
@@ -196,17 +195,15 @@ Let's implement a dice game that keeps track of every guess the user makes.
 ```js
 var guesses = [];
 
-var main = function(input){
-
+var main = function (input) {
   guesses.push(input);
 
   var randomDiceNumber = diceRoll();
 
-  var myOutputValue = "you lose. Your guesses: "+guesses;
+  var myOutputValue = 'you lose. Your guesses: ' + guesses;
 
-  if( randomDiceNumber == input ){
-
-    myOutputValue = "you win. Your guesses: "+guesses";
+  if (randomDiceNumber == input) {
+    myOutputValue = 'you win. Your guesses: ' + guesses;
   }
 
   return myOutputValue;
@@ -234,9 +231,9 @@ This is a loop that runs 10 times.
 ```js
 var counter = 0;
 
-while(counter < 10){
+while ( counter < 10 ) {
 
-  console.log("hello");
+  console.log('hello');
 
   counter = counter + 1;
 }
@@ -247,15 +244,13 @@ while(counter < 10){
 Let's create a program that outputs things in a loop based on some input.
 
 ```js
-var main = function(input){
-
-  var myOutputValue = "";
+var main = function (input) {
+  var myOutputValue = '';
 
   var counter = 0;
 
-  while(counter < input){
-
-    myOutputValue = myOutputValue + "yes";
+  while (counter < input) {
+    myOutputValue = myOutputValue + 'yes';
 
     counter = counter + 1;
   }
@@ -277,7 +272,7 @@ The trick is that we can make an eqivalence between the `counter` we had in the 
 This is a value given to us for any array:
 
 ```js
-var letters = ["a","b","c"];
+var letters = ['a','b','c'];
 ```
 
 ```js
@@ -290,20 +285,19 @@ We use `counter` to access the location of each item in the array.
 
 ```js
 var index = 0;
-var letters = ["a","b","c"];
+var letters = ['a','b','c'];
 var letterLength = letters.length;
 
-while(index < letterLength){
-
+while (index < letterLength) {
   var currentLoopLetter = letters[index];
 
-  console.log( currentLoopLetter );
+  console.log(currentLoopLetter);
 
   index = index + 1;
 }
 ```
 
-Let's make a simple program thaat demonstrates the use of loops and arrays.
+Let's make a simple program that demonstrates the use of loops and arrays.
 
 Our app is an address book that keeps names and doesnt add a new one if its already in the book.
 
@@ -311,32 +305,68 @@ Our app is an address book that keeps names and doesnt add a new one if its alre
 ```js
 var names = [];
 
-var main = function(input){
-
+var main = function (input) {
   // look at all the names and make sure it's not in there yet
   var index = 0;
   var namesLength = names.length;
 
   var found = false;
 
-  while(index < namesLength){
+  while (index < namesLength) {
     var currentName = names[index];
 
-    if( currentName == input ){
+    if (currentName == input) {
       found = true;
     }
 
     index = index + 1;
   }
 
-  // we didnt find the name, put it in
-  if( found == false ){
-    names.push( input );
+  // we didn't find the name, put it in
+  if (found == false) {
+    names.push(input);
   }
 
-  var myOutputValue = "All your names: "+names;
+  var myOutputValue = 'All your names: ' + names;
 
   return myOutputValue;
 };
 ```
 
+### hangman - word guessing game
+
+Let's create a game of hangman, where a player guesses the secret word.
+
+```js
+var secretWordArray = ['c', 'a', 't'];
+
+var lettersFound = [];
+
+var main = function (input) {
+  // look inside of array to see if input matches.
+
+  var index = 0;
+
+  var foundLetter = false;
+
+  while (index < secretWordArray) {
+    if (secretWordArray[index] == input) {
+      foundLetter = true;
+    }
+
+    index = index + 1;
+  }
+
+  if (foundLetter == true) {
+    lettersFound.push(input);
+  }
+
+  var myOutputValue = 'Letters so far: ' + lettersFound;
+
+  if (lettersFound.length == secretWordArray.length) {
+    myOutputValue = myOutputValue + ' - you win!';
+  }
+
+  return myOutputValue;
+};
+```

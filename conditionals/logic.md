@@ -9,9 +9,8 @@ The next level of complexity is to create progams that, given some possible inpu
 Let's write a program that changes the output value of "hello world" if you type in a particular phrase.
 
 ```js
-var main = function(input){
-
-  var myOutputValue = "hello world";
+var main = function (input) {
+  var myOutputValue = 'hello world';
 
   return myOutputValue;
 };
@@ -22,12 +21,11 @@ var main = function(input){
 An if statement is a control flow `block` that runs if a condition is `true`. We'll talk more about what specifically `true` means later, but you can see that what's happening is very intuitive.
 
 ```js
-var main = function(input){
+var main = function (input) {
+  var myOutputValue = 'hello world';
 
-  var myOutputValue = "hello world";
-
-  if( input == "paletable papaya" ){
-    myOutputValue = "you wrote the secret phrase!";
+  if (input == 'palatable papaya') {
+    myOutputValue = 'you wrote the secret phrase!';
   }
 
   return myOutputValue;
@@ -46,7 +44,7 @@ Try your program both ways. Enter the secret phrase and click the button to see 
 
 #### equality
 
-We're using the **boolean operator** `==` to test to see if `input` is **equal** to "paletable papaya".
+We're using the **boolean operator** `==` to test to see if `input` is **equal** to "palatable papaya".
 
 #### try it yourself
 
@@ -83,10 +81,9 @@ We will use the code refered to on this [page.](https://developer.mozilla.org/en
 
 We can make a function that produces any random integer:
 ```js
-var getRandomInteger = function(max) {
-
+var getRandomInteger = function (max) {
   // produces a float between 1 and max + .999999 etc.
-  var randomFloat =  (Math.random() * max) + 1;
+  var randomFloat = (Math.random() * max) + 1;
 
   // take off the decimal
   var resultInteger = Math.floor(randomFloat);
@@ -100,10 +97,9 @@ But what we are creating is a dice rolling game, so we can just make a dice func
 
 We can make a function that produces any random integer:
 ```js
-var diceRoll = function() {
-
+var diceRoll = function () {
   // produces a float between 0 and 7
-  var randomFloat =  Math.random() * 7;
+  var randomFloat = Math.random() * 7;
 
   // take off the decimal
   var resultInteger = Math.floor(randomFloat);
@@ -121,15 +117,13 @@ Let's implement the rules to our game.
 If the dice roll the same number as the user entered, they win.
 
 ```js
-var main = function(input){
-
+var main = function (input) {
   var randomDiceNumber = diceRoll();
 
-  var myOutputValue = "you lose";
+  var myOutputValue = 'you lose';
 
-  if( randomDiceNumber == input ){
-
-    myOutputValue = "you win";
+  if (randomDiceNumber == input) {
+    myOutputValue = 'you win';
   }
 
   return myOutputValue;
@@ -178,8 +172,8 @@ If the guess is equal to the random number the user wins.
 translates to:
 
 ```js
-if( randomDiceNumber == input ){
-  myOutputValue = "you win";
+if (randomDiceNumber == input) {
+  myOutputValue = 'you win';
 }
 ```
 
@@ -202,16 +196,16 @@ If the user guess minus one is equal to the random number, the user wins.
 We could translate this to a series of `if` blocks:
 
 ```js
-if( randomDiceNumber == input ){
-  myOutputValue = "you win";
+if (randomDiceNumber == input) {
+  myOutputValue = 'you win';
 }
 
-if( randomDiceNumber + 1 == input ){
-  myOutputValue = "you win";
+if (randomDiceNumber + 1 == input) {
+  myOutputValue = 'you win';
 }
 
-if( randomDiceNumber - 1 == input ){
-  myOutputValue = "you win";
+if (randomDiceNumber - 1 == input) {
+  myOutputValue = 'you win';
 }
 ```
 
@@ -258,8 +252,8 @@ Logical or is represented by `||`
 So the final syntax looks like:
 
 ```js
-if( randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input ){
-  myOutputValue = "you win";
+if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input) {
+  myOutputValue = 'you win';
 }
 ```
 
@@ -280,11 +274,11 @@ This game is very simple but as soon as things become more complicated we need t
 We'll implement the strategy for getting to the winning condition in a simple way- getting rid of the randomness. We will cheat and fix the random number by changing my dice function like so:
 
 ```js
-var diceRoll = function() {
+var diceRoll = function () {
   return 6;
 
   // produces a float between 0 and 7
-  var randomFloat =  Math.random() * 7;
+  var randomFloat = Math.random() * 7;
 
   // take off the decimal
   var resultInteger = Math.floor(randomFloat);
@@ -352,23 +346,24 @@ Does the logic say what you meant it to say?
 For a given statement like this one:
 
 ```js
-if( randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input ){
-  myOutputValue = "you win";
+if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input) {
+  myOutputValue = 'you win';
 }
 ```
 
 We can simply look at each value and boolean expression value:
+
 ```js
-console.log("random dice number:");
+console.log('random dice number:');
 console.log(randomDiceNumber);
-console.log("input");
+console.log('input');
 console.log(input);
-console.log("random dice equals input:");
-console.log( randomDiceNumber == input );
-console.log("random dice plus 1 equals input:");
-console.log( randomDiceNumber + 1 == input );
-console.log("random dice minus 1 equals input:");
-console.log( randomDiceNumber - 1 == input );
+console.log('random dice equals input:');
+console.log(randomDiceNumber == input);
+console.log('random dice plus 1 equals input:');
+console.log(randomDiceNumber + 1 == input);
+console.log('random dice minus 1 equals input:');
+console.log(randomDiceNumber - 1 == input);
 ```
 
 Remember that it is very important to label your `console.log`s.
@@ -425,7 +420,7 @@ then the user wins.
 Translates to:
 
 ```js
- randomDiceNumber - 1 >= guess && randomDiceNumber + 1 <= input 
+randomDiceNumber - 1 >= guess && randomDiceNumber + 1 <= input
 ```
 
 This logic states the same exact thing as our original logic, but it allows us to state a range (rather than +/- one)
@@ -456,8 +451,7 @@ We need to talk about a different kind of data to make this work.
 Let's start with a naive implementation:
 
 ```js
-var main = function(input){
-
+var main = function (input) {
   var bankRoll = 100;
 
   var bet = 1;
@@ -466,15 +460,14 @@ var main = function(input){
 
   var randomDiceNumber = diceRoll();
 
-  var myOutputValue = "you lose. current bank roll: "+bankRoll;
+  var myOutputValue = 'you lose. current bank roll: ' + bankRoll;
 
-  if( randomDiceNumber == input ){
-
+  if (randomDiceNumber == input) {
     win = bet * 2;
 
     bankRoll = bankRoll + win;
 
-    myOutputValue = "you win. current bank roll: "+bankRoll;
+    myOutputValue = 'you win. current bank roll: ' + bankRoll;
   }
 
   return myOutputValue;
@@ -519,8 +512,7 @@ If we refresh the page that value is no longer available. The life of our progra
 
 Remember that for a `main` function like this:
 ```js
-var main = function(input) {
-
+var main = function (input) {
   var myOutputValue = kilometersToMiles(input);
 
   return myOutputValue;
@@ -552,25 +544,220 @@ You can see all that we did was move line 3 to line 1. This takes it outside of 
 ```js
 var bankRoll = 10;
 
-var main = function(input){
-
+var main = function (input) {
   var bet = 1;
 
   bankRoll = bankRoll - bet;
 
   var randomDiceNumber = diceRoll();
 
-  var myOutputValue = "you lose. current bank roll: "+bankRoll;
+  var myOutputValue = 'you lose. current bank roll: ' + bankRoll;
 
-  if( randomDiceNumber == input ){
-
+  if (randomDiceNumber == input) {
     win = bet * 2;
 
     bankRoll = bankRoll + win;
 
-    myOutputValue = "you win. current bank roll: "+bankRoll;
+    myOutputValue = 'you win. current bank roll: ' + bankRoll;
   }
 
   return myOutputValue;
 };
 ```
+
+
+### Game Modes
+
+We can use global state to expand the functionality of our games- they can keep track of a game mode to accept different operations and inputs.
+
+```js
+var mode = 'green';
+
+var main = function (input) {
+  if (input == 'greenmode') {
+    mode = 'green';
+  } else if (input == 'bluemode') {
+    mode = 'blue';
+  }
+
+  var myOutputValue = 'A fool sees not the same tree that a wise man sees. -William Blake';
+
+  if (mode == 'blue') {
+    myOutputValue = 'The sea, once it casts its spell, holds one in its net of wonder forever. -Jacques Cousteau';
+  }
+
+  return myOutputValue;
+};
+```
+
+Note that we get the same output until we command the program to change modes.
+
+Note that the value we set the `mode` to in the beggining is the default one it starts in.
+
+### Game with Betting and Playing Modes
+
+```js
+var mode = 'betting';
+
+var main = function (input) {
+  var myOUtputVar = '';
+
+  if (input == 'betting') {
+    mode = 'betting';
+    myOutputValue = 'make a bet.';
+
+    return myOutputValue;
+  }
+
+  if (input == 'play') {
+    mode = 'play';
+  }
+
+  if (mode == 'betting') {
+    myOutputValue = 'you bet ' + input;
+    currentBet = input;
+  } else if (mode == 'play') {
+    var randomDiceNumber = diceRoll();
+
+    myOutputValue = 'you lose. current bank roll: ' + bankRoll;
+
+    if (randomDiceNumber == input) {
+      win = currentBet * 2;
+
+      bankRoll = bankRoll + win;
+
+      myOutputValue = 'you win. current bank roll: ' + bankRoll;
+    }
+  }
+
+  return myOutputValue;
+}
+```
+
+Note how lines 22-31 is the entire betting game pasted into this conditional structure.
+
+### refactoring, input control, subroutines with functions
+
+As our programs become larger and more complicated we want to be able to **refactor** our prorams to be more concise, understandable ans testable.
+
+We can use functions as subroutines and use parameters and return values to help us control the flow of data in our program.
+
+From the example above we can extract the dice roll part and put it into it's own function:
+
+```js
+var mode = 'betting';
+
+var diceGame = function (bet) {
+  var randomDiceNumber = diceRoll();
+
+  var result = 'you lose. current bank roll: ' + bankRoll;
+
+  if (randomDiceNumber == input) {
+    win = bet * 2;
+
+    bankRoll = bankRoll + win;
+
+    result = 'you win. current bank roll: ' + bankRoll;
+  }
+
+  return result;
+};
+
+var main = function (input) {
+  var myOutputValue = '';
+
+  if (input == 'betting') {
+    mode = 'betting';
+    myOutputValue = 'make a bet.';
+
+    return myOutputValue;
+  }
+
+  if (input == 'play') {
+    mode = 'play';
+  }
+
+  if (mode == 'betting') {
+    myOutputValue = 'you bet ' + input;
+    currentBet = input;
+  } else if (mode == 'play') {
+    myOutputValue = diceGame(bet);
+  }
+
+  return myOutputValue;
+}
+```
+
+Notice the way that the function doesn't operate on *global* data. We define data within the function itself, such as `bet`. This is to control the input and putput data of the function.
+
+Also note how much easier the logic reads because of the way line 37 looks.
+
+### input checking
+
+When you bet in our dice betting game and, instead of a number, you type `papaya!` what will happen?
+
+For a real program, it must deal with all possible values that the user enters.
+
+In this particular case, if the user enters something that's not a number we get an output of `NaN`.
+
+#### NaN
+
+This value occurs when we attempt a math operation that doesn't result in a number.
+
+
+```
+2 * 'chocolate'
+```
+
+```
+'dogs' / 32
+```
+
+```
+0/0
+```
+
+The way to prevent this is to check `input` as soon as we can and make sure that it's a number.
+
+Remember that just like in these examples, the `input` parameter is **always** a string data type.
+
+```js
+var input = '444';
+Number(input);
+```
+
+```js
+var input = 'hello';
+Number(input);
+```
+
+#### isNaN
+
+Next we need to write a piece of code that tests to see the result of `Number()`.
+
+Unfortunately we need another function for that, `isNaN`.
+
+```js
+var input = 'hello';
+
+var result = Number(input);
+
+console.log(isNaN(result));
+```
+
+All together with a conditional it would look like:
+
+```js
+if (mode == 'bet') {
+  if (isNaN(Number(input)) == true) {
+    myOutputValue = 'sorry please enter a number.';
+  } else {
+    myOutputValue = 'you bet ' + input;
+    currentBet = input;
+  }
+}
+```
+
+We want to message the user when something goes wrong and also to deal when it's a normal case, so we use an `if` `else` structure.
+
+Note that for brevity's sake we won't implement input checking in most of our examples, but that it should be an integral part of a real program.
