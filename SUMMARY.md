@@ -1,31 +1,31 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## INTRO
 
-* [Introduction](introduction.md)
-* [Basic Template / Basic Data](template.md)
+* [Introduction](intro/introduction.md)
+* [Basic Template / Basic Data](intro/template.md)
 
 ## BASIC DATA
 
-* [Intro to Functions](functions/intro.md)
-* [Errors](functions/errors.md)
+* [Intro to Functions](basic-data/intro.md)
+* [Errors](basic-data/errors.md)
 
-### Conditionals
+## Conditionals
 
 * [Logic](conditionals/logic.md)
 * [State](conditionals/state.md)
 
-## COMPLEX & DYNAMIC LENGTH DATA
+## Arrays
 
-### Arrays
+* [Arrays](arrays/arrays.md)
 
-* [Arrays](arrays-and-loops/arrays.md)
+## Loops
 
-### Loops
-
-* [Loops](arrays-and-loops/loops.md)
-
+* [Loops](loops/loops.md)
 
 ## Objects
 
 * [Objects](objects/objects.md)
+

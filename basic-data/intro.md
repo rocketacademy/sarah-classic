@@ -1,4 +1,4 @@
-# What is a function?
+# Intro to Functions
 
 We now have a basis to begin formally defining the code structures we're working with and using them to write slightly more realistic programs.
 

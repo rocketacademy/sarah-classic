@@ -1,4 +1,4 @@
-## errors
+# Errors
 
 Your program will have errors. In fact, errors are an intrinsic part of developing software for everyone, not just begginers.
 
@@ -14,7 +14,7 @@ You should always make sure either your page loaded with the tools already, or y
 
 There are 2 broad categories of errors. We can use the dev tools to fix both kinds.
 
-### 1. Syntax errors / runtime errors
+## 1. Syntax errors / runtime errors
 
 These are errors where you will see red text in the console.
 
@@ -61,7 +61,7 @@ You'll get the error `Uncaught TypeError: "hello world" is not a function`. This
 
 Specifically javascript thinks the parentheses mean that you want to run some kind of function. This error isn't too common, but notice that for this type of error, javascript didn't let you know until it tried to run the code.
 
-### 2. logical / control errors
+## 2. logical / control errors
 
 Some of the errors your program will have will not produce any red output on the console.
 
@@ -80,7 +80,7 @@ This `main` function is missing the `return` keyword. Without it we can see the 
 
 This code does not have any javascript _syntax_ errors - it is considered by the computer to be valid javascript code, but it does not **behave** the way we want.
 
-### debugging
+## debugging
 
 Debugging is the process of diagnosing and fixing the errors you have in your program.
 
@@ -94,7 +94,7 @@ We'll talk about a few strategies you can use to diagnose and correct errors.
 
 Functions give us the ability to execute code in a certain order, from certain places in our code that we specify. If something in our code seems incomplete or wrong, one of the first things we can check is to see if it is running at all.
 
-#### console.log
+### console.log
 
 `console.log()` is a function that we can run that will make text appear in the developer tools.
 

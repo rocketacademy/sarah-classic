@@ -1,3 +1,5 @@
+# Basic Template / Basic Data
+
 ## Template - Our First Basic Program
 
 Let's get started with running some code outside of the javascript console.

@@ -8,7 +8,7 @@ The next level of complexity is to create progams that, given some possible inpu
 
 Let's write a program that changes the output value of "hello world" if you type in a particular phrase.
 
-```js
+```javascript
 var main = function (input) {
   var myOutputValue = 'hello world';
 
@@ -20,7 +20,7 @@ var main = function (input) {
 
 An if statement is a control flow `block` that runs if a condition is `true`. We'll talk more about what specifically `true` means later, but you can see that what's happening is very intuitive.
 
-```js
+```javascript
 var main = function (input) {
   var myOutputValue = 'hello world';
 
@@ -48,31 +48,30 @@ We're using the **boolean operator** `==` to test to see if `input` is **equal**
 
 #### try it yourself
 
-
 ## comments
 
 Now that things are getting more complicated, we might want to leave notes to ourselves and others that say what our code does.
 
 Comments let you write things in the code file that are just notes.
 
-```js
+```javascript
 // this won't actually run
 ```
-
 
 #### randomness / dice
 
 ### randomness
 
-Javascript language can produce random numbers using a build-in set of functions called `Math` (case-sensetive).
+Javascript language can produce random numbers using a build-in set of functions called `Math` \(case-sensetive\).
 
-```js
+```javascript
 var myRandomValue = Math.random();
 ```
 
 Calling `Math.random()` returns a random number value. However we have a dice game, so there is more code we have to write to get the value we want.
 
 #### `Math.random()` returns a number from 0-1.
+
 We have to do some math on this number to get what we want.
 
 We'll also be using another math functionality: `Math.floor()`.
@@ -80,7 +79,8 @@ We'll also be using another math functionality: `Math.floor()`.
 We will use the code refered to on this [page.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
 
 We can make a function that produces any random integer:
-```js
+
+```javascript
 var getRandomInteger = function (max) {
   // produces a float between 1 and max + .999999 etc.
   var randomFloat = (Math.random() * max) + 1;
@@ -94,9 +94,9 @@ var getRandomInteger = function (max) {
 
 But what we are creating is a dice rolling game, so we can just make a dice function.
 
-
 We can make a function that produces any random integer:
-```js
+
+```javascript
 var diceRoll = function () {
   // produces a float between 0 and 7
   var randomFloat = Math.random() * 7;
@@ -116,7 +116,7 @@ Let's implement the rules to our game.
 
 If the dice roll the same number as the user entered, they win.
 
-```js
+```javascript
 var main = function (input) {
   var randomDiceNumber = diceRoll();
 
@@ -142,7 +142,7 @@ Before we talk about the syntax of these structures, let's talk about what kind 
 
 An english language specification for what behavior we want to see might be:
 
-```
+```text
 If the guess is correct the user wins.
 
 If the guess is off by one, the user wins.
@@ -150,14 +150,14 @@ If the guess is off by one, the user wins.
 
 We can further break down the statement "off by one" to mean:
 
-```
+```text
 If the user guess plus one is equal to the random number, the user wins.
 If the user guess minus one is equal to the number, the user wins.
 ```
 
 So altogether we have:
 
-```
+```text
 If the guess is equal to the random number the user wins.
 If the user guess plus one is equal to the random number, the user wins.
 If the user guess minus one is equal to the random number, the user wins.
@@ -165,13 +165,13 @@ If the user guess minus one is equal to the random number, the user wins.
 
 Notice how we are thinking about reformulating the sentences **describing** the behavior into a format that more closely resembles code:
 
-```
+```text
 If the guess is equal to the random number the user wins.
 ```
 
 translates to:
 
-```js
+```javascript
 if (randomDiceNumber == input) {
   myOutputValue = 'you win';
 }
@@ -179,7 +179,7 @@ if (randomDiceNumber == input) {
 
 ### behavior into code
 
-Note that one of the main difficulties of this course will be this step, which may be tangential to code **syntax**: translating the program's desired behavior into explicit (plain english) logical statements.
+Note that one of the main difficulties of this course will be this step, which may be tangential to code **syntax**: translating the program's desired behavior into explicit \(plain english\) logical statements.
 
 After enough practice it may be unneccesary to explicitly state the program logic. However, expert programmers still find it important to complete this part of the coding process. It is not something used only for beginners.
 
@@ -187,7 +187,7 @@ After enough practice it may be unneccesary to explicitly state the program logi
 
 Now we have this specification:
 
-```
+```text
 If the guess is equal to the random number the user wins.
 If the user guess plus one is equal to the random number, the user wins.
 If the user guess minus one is equal to the random number, the user wins.
@@ -195,7 +195,7 @@ If the user guess minus one is equal to the random number, the user wins.
 
 We could translate this to a series of `if` blocks:
 
-```js
+```javascript
 if (randomDiceNumber == input) {
   myOutputValue = 'you win';
 }
@@ -209,7 +209,6 @@ if (randomDiceNumber - 1 == input) {
 }
 ```
 
-
 To code this we'll introduce another logical control flow syntax- boolean operators. This allows us to create more complex logical statments and state this logic in a different way.
 
 #### logical OR - any of these statements
@@ -218,8 +217,7 @@ Logical or allows us to combine together a bunch of individual boolean expressio
 
 In english it would look like:
 
-
-```
+```text
 If any of the following are true:
 
 the guess is equal to the random number
@@ -230,7 +228,8 @@ then the user wins.
 ```
 
 Or restated:
-```
+
+```text
 if:
 
 the guess is equal to the random number
@@ -247,17 +246,18 @@ then the user wins.
 ```
 
 #### syntax
+
 Logical or is represented by `||`
 
 So the final syntax looks like:
 
-```js
+```javascript
 if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input) {
   myOutputValue = 'you win';
 }
 ```
 
-We'll find a use for the other logical operator AND (`&&`) in the next section.
+We'll find a use for the other logical operator AND \(`&&`\) in the next section.
 
 #### input output control
 
@@ -267,13 +267,13 @@ We can think of the random dice roll as a kind of input to our program. Even tho
 
 No matter how small or large the input to our program we need to be thinking and strategizing about how to control randomness in our programming workflow, so that we give ourselves the ability to write the most correct programs.
 
-In other words, we don't want to have to continue to enter and click the button until we reach a win state. (what if we coded a 99 side dice? we'd be waiting forever)
+In other words, we don't want to have to continue to enter and click the button until we reach a win state. \(what if we coded a 99 side dice? we'd be waiting forever\)
 
 This game is very simple but as soon as things become more complicated we need to have a strategy for testing all the possible outcomes of the program- in this case it's to see `you win` when the number is guessed correctly.
 
 We'll implement the strategy for getting to the winning condition in a simple way- getting rid of the randomness. We will cheat and fix the random number by changing my dice function like so:
 
-```js
+```javascript
 var diceRoll = function () {
   return 6;
 
@@ -297,22 +297,18 @@ We just have to remember to take it back out later!
 
 Add a dice.
 
-Correct within 2 for any of 2 dice
-Correct within 2 for all 2 dice
-Correct within 2 but not snake eyes.
-Correct within 2 or snake eyes.
-
+Correct within 2 for any of 2 dice Correct within 2 for all 2 dice Correct within 2 but not snake eyes. Correct within 2 or snake eyes.
 
 ### boolean values
 
 Every boolean operator, just like addition and other math operators, produces a new value.
 
-```js
+```javascript
 // this is the result of number 1 math operator number 2
 var myVal = 3 + 2;
 ```
 
-```js
+```javascript
 // this is the result of number 1 boolean operator number 2
 var myVal = 3 == 2;
 ```
@@ -334,18 +330,20 @@ Just like for any program you write you must deconstruct your code to check each
 Errors in a conditional statement could be:
 
 #### boolean expression is not reached
+
 Use of `&&` instead of `||`.
 
 #### boolean expression has a syntax error
+
 Did you put `=` instead of `==`?
 
 #### boolean expression is incorrectly stated
-Does the logic say what you meant it to say?
 
+Does the logic say what you meant it to say?
 
 For a given statement like this one:
 
-```js
+```javascript
 if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input) {
   myOutputValue = 'you win';
 }
@@ -353,7 +351,7 @@ if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumb
 
 We can simply look at each value and boolean expression value:
 
-```js
+```javascript
 console.log('random dice number:');
 console.log(randomDiceNumber);
 console.log('input');
@@ -368,13 +366,13 @@ console.log(randomDiceNumber - 1 == input);
 
 Remember that it is very important to label your `console.log`s.
 
-Also remember that if your label is wrong or if your statements in the `console.log` are different from your actual code, you now have an error in your debugging code as well, making your error twice as hard to find :)
+Also remember that if your label is wrong or if your statements in the `console.log` are different from your actual code, you now have an error in your debugging code as well, making your error twice as hard to find :\)
 
-#### refactor: value ranges -> less than more than
+#### refactor: value ranges -&gt; less than more than
 
 Given this code and pseudo code:
 
-```
+```text
 if:
 
 the guess is equal to the random number
@@ -390,14 +388,13 @@ the user guess minus one is equal to the random number
 then the user wins.
 ```
 
-
-```js
+```javascript
 randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input
 ```
 
 Another way to state the same logic as before would be:
 
-```
+```text
 if:
 
 the guess is within 1 of the dice number
@@ -405,7 +402,7 @@ the guess is within 1 of the dice number
 then the user wins.
 ```
 
-```
+```text
 if:
 
 the number minus 1 is equal or greater than guess
@@ -419,13 +416,13 @@ then the user wins.
 
 Translates to:
 
-```js
+```javascript
 randomDiceNumber - 1 >= guess && randomDiceNumber + 1 <= input
 ```
 
-This logic states the same exact thing as our original logic, but it allows us to state a range (rather than +/- one)
+This logic states the same exact thing as our original logic, but it allows us to state a range \(rather than +/- one\)
 
-```js
+```javascript
 guess - 3 >= randomDiceNumber && input + 3 <= randomDiceNumber
 ```
 

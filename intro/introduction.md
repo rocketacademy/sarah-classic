@@ -1,3 +1,5 @@
+# Introduction
+
 ## What is a program?
 
 For the purposes of this course we will constrain our definition of what coding / programming means and what a program is used for.
@@ -98,5 +100,4 @@ But this is not as _meaningful_ as our previous example.
 Our programs must not only calculate values correctly, they must also represent the kinds of operations we are making- in this case calculating the area of a circle.
 
 The name of our variables are giving meaning to what data our code contains.
-
 
