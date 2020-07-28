@@ -1,6 +1,8 @@
 # State
 
-### betting =&gt; global state
+Let's implement a main function that remembers something that happened during a previous run of the function.
+
+### add betting
 
 Let's add betting on the dice roll.
 
