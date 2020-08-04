@@ -5,6 +5,8 @@
 ## INTRO
 
 * [Introduction](intro/introduction.md)
+* [What is a Browser](intro/what-is-a-browser.md)
+* [JavaScript Operations](intro/operations.md)
 * [Basic Template / Basic Data](intro/template.md)
 
 ## BASIC DATA
