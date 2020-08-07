@@ -16,9 +16,11 @@ Rocket Academy GitHub: [https://github.com/rocketacademy](https://github.com/roc
 
 Rocket Academy Slack: [rocketacademy.slack.com](https://github.com/rocketacademy/swe101/tree/6b08702a2474a3fb5a286b7f690032985ad8ad30/rocketacademy.slack.com)
 
+Starter Code: [https://github.com/rocketacademy/swe101-starter-code](https://github.com/rocketacademy/swe101-starter-code)
+
 ## Software
 
-SublimeText
+VS Code
 
 Chrome
 
