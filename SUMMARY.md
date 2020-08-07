@@ -7,7 +7,10 @@
 * [Introduction](intro/introduction.md)
 * [What is a Browser](intro/what-is-a-browser.md)
 * [JavaScript Operations](intro/operations.md)
+* [JavaScript Variables](intro/variables.md)
 * [Basic Template / Basic Data](intro/template.md)
+* [Command Line](intro/cli.md)
+* [Git](intro/git.md)
 
 ## BASIC DATA
 
