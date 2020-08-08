@@ -112,8 +112,6 @@ Another way we can use `console.log` is to pass it the variable values our progr
 
 Are the values in our program the ones we expect?
 
-As below we can pass variable values to `console.log`:
-
 ```javascript
 var main = function(input) {
   var myOutputValue = kilometersToMiles(input);
