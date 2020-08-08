@@ -124,9 +124,6 @@ var kilometersToMiles = function(distanceInKilometers){
 
   var distanceInMiles = distanceInKilometers * 0.62;
 
-  console.log("this is distance in miles value");
-  console.log(distanceInMiles);
-
   return;
 };
 ```
