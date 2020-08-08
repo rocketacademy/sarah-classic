@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Software to Install](software.md)
 
 ## INTRO
 

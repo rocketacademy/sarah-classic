@@ -65,20 +65,7 @@ Specifically javascript thinks the parentheses mean that you want to run some ki
 
 Some of the errors your program will have will not produce any red output on the console.
 
-Replace your main function with this code:
-
-```javascript
-var main = function(input) {
-
-  var myOutputValue = kilometersToMiles(input);
-
-  myOutputValue;
-};
-```
-
-This `main` function is missing the `return` keyword. Without it we can see the value output by the `main` function is the value `undefined`.
-
-This code does not have any javascript _syntax_ errors - it is considered by the computer to be valid javascript code, but it does not **behave** the way we want.
+This is code that does not have any javascript _syntax_ errors - it is considered by the computer to be valid javascript code, but it does not **behave** the way we want.
 
 ## debugging
 
@@ -102,11 +89,24 @@ The thing we want to appear is passed an argument to `console.log` like so: `con
 
 Try writing some `console.log`s in all of the different structures of your code. Each `console.log` statement should be descriptive of where in the code you are. Also be careful not to make any errors here and describe something incorrectly!
 
+#### 1. flow checking - does the code run?
+
 We can use the fact that text is appearing in the dev tools console as an implicit signal that javascript it executing our code.
 
-If our `console.log` statement appears in the dev tools console then we know that our code is reachable by opur program.
+If our `console.log` statement appears in the dev tools console then we know that our code is reachable by our program.
 
-1. value checking - is the value correct?
+Replace your main function with this code:
+
+```javascript
+var main = function(input) {
+
+  var myOutputValue = kilometersToMiles;
+
+  myOutputValue;
+};
+```
+
+#### 2. value checking - is the value correct?
 
 Another way we can use `console.log` is to pass it the variable values our program deals with.
 
@@ -116,7 +116,7 @@ As below we can pass variable values to `console.log`:
 
 ```javascript
 var main = function(input) {
-  var myOutputValue = "hello world";
+  var myOutputValue = kilometersToMiles(input);
   return myOutputValue;
 };
 
@@ -127,7 +127,7 @@ var kilometersToMiles = function(distanceInKilometers){
   console.log("this is distance in miles value");
   console.log(distanceInMiles);
 
-  return distanceInMiles;
+  return;
 };
 ```
 
