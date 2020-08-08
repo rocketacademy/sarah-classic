@@ -102,7 +102,7 @@ var main = function(input) {
 
   var myOutputValue = kilometersToMiles;
 
-  myOutputValue;
+  return myOutputValue;
 };
 ```
 
