@@ -20,8 +20,10 @@
 
 ## Conditionals
 
-* [Logic](conditionals/logic.md)
-* [State](conditionals/state.md)
+* [Intro to Logic](conditionals/logic.md)
+* [Pseudo Code, Boolean - OR](conditionals/operators.md)
+* [Logic Debugging, Boolean - AND](conditionals/operators2.md)
+* [Program Global State](conditionals/state.md)
 
 ## Arrays
 
