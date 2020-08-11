@@ -24,7 +24,14 @@ The goal of live classes is for students to solidify understanding of concepts t
 
 **Live classes are mandatory** and will be held from 1-3pm on Saturdays, 7-9pm on Tuesdays, and 7-9pm on Thursdays over Zoom. There will be 13 classes total. Each section will have their own Zoom room to meet for live classes.
 
-The following are the specific live class times for Batch 1. You can add these to your calendar via this [Google Calendar Link](https://calendar.google.com/calendar/ical/c_gk08cvi7junnsufojhgb9cse0g%40group.calendar.google.com/private-0ad96a6295ce32db230e9bf3a742c33b/basic.ics).
+Live classes will generally follow this outline:
+
+1. 15 minutes for students to explain and review concepts with the section
+2. 60 minutes of pair programming on new exercises with a designated peer
+3. 15 minutes for students to summarise and conclude with the section
+4. 30 minutes of office hours where section leaders will be available to answer questions
+
+The following are the specific live class times for Batch 1 \(15 Aug - 12 Sep\). You can add these to your calendar via this [Google Calendar Link](https://calendar.google.com/calendar/ical/c_gk08cvi7junnsufojhgb9cse0g%40group.calendar.google.com/private-0ad96a6295ce32db230e9bf3a742c33b/basic.ics).
 
 1. 1-3pm Sat 15 Aug
 2. 7-9pm Tue 18 Aug
@@ -39,123 +46,4 @@ The following are the specific live class times for Batch 1. You can add these t
 11. 7-9pm Tue 8 Sep
 12. 7-9pm Thu 10 Sep
 13. 1-3pm Sat 12 Sep
-
-## Content Schedule
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Day</th>
-      <th style="text-align:left">Week 1</th>
-      <th style="text-align:left">Week 2</th>
-      <th style="text-align:left">Week 3</th>
-      <th style="text-align:left">Week 4</th>
-      <th style="text-align:left">Week 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Sat</td>
-      <td style="text-align:left">
-        <ol>
-          <li>Introductions</li>
-          <li>Browser</li>
-          <li>Operations</li>
-          <li>Variables</li>
-          <li>Basic template and data</li>
-          <li>Command line</li>
-          <li>Git</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Scissors Paper Stone</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Hangman (guided)</li>
-          <li>Tic Tac Toe</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Card deck generation</li>
-          <li>Card Game</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <p><b>[Due: Advanced Card Game]</b>
-        </p>
-        <ol>
-          <li>Project presentations</li>
-          <li>Class party</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tue</td>
-      <td style="text-align:left">
-        <ol>
-          <li>Functions</li>
-          <li>Errors</li>
-          <li>Conditionals</li>
-          <li>Randomness</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <p><b>[Due: Scissors Paper Stone]</b>
-        </p>
-        <ol>
-          <li>Loops</li>
-          <li>Arrays</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <p><b>[Due: Tic Tac Toe]</b>
-        </p>
-        <ol>
-          <li>Objects</li>
-          <li>Playing Cards</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <p><b>[Due: Card Game]</b>
-        </p>
-        <ol>
-          <li>Advanced game logic</li>
-        </ol>
-      </td>
-      <td style="text-align:left">No class</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Thu</td>
-      <td style="text-align:left">
-        <ol>
-          <li>Global state</li>
-          <li>Dice game (guided)</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Drawing (guided)</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Shuffling</li>
-          <li>High Card (guided)</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Advanced topics</li>
-        </ol>
-      </td>
-      <td style="text-align:left">No class</td>
-    </tr>
-  </tbody>
-</table>
-
-
 
