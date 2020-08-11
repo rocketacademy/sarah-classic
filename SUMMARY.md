@@ -1,19 +1,22 @@
 # Table of contents
 
 * [Welcome to SWE101! 🚀](README.md)
-* [Required Hardware and Software](required-hardware-and-software.md)
-* [Course Logistics](course-logistics.md)
-* [Learning Schedule](learning-schedule.md)
 
-## INTRO
+## Course Logistics
 
-* [Introduction](intro/introduction.md)
-* [What is a Browser](intro/what-is-a-browser.md)
-* [JavaScript Operations](intro/operations.md)
-* [JavaScript Variables](intro/variables.md)
-* [Basic Template / Basic Data](intro/template.md)
-* [Command Line](intro/cli.md)
-* [Git](intro/git.md)
+* [Required Hardware and Software](course-logistics/required-hardware-and-software.md)
+* [Course Methodology](course-logistics/course-methodology.md)
+* [Course Schedule](course-logistics/course-schedule.md)
+
+## Foundation
+
+* [Introduction](foundation/introduction.md)
+* [What is a Browser](foundation/what-is-a-browser.md)
+* [JavaScript Operations](foundation/operations.md)
+* [JavaScript Variables](foundation/variables.md)
+* [Basic Template / Basic Data](foundation/template.md)
+* [Command Line](foundation/cli.md)
+* [Git](foundation/git.md)
 
 ## BASIC DATA
 
