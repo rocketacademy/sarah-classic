@@ -1,7 +1,3 @@
----
-description: What is coding and what is a program?
----
-
 # Introduction
 
 ## What is Coding?

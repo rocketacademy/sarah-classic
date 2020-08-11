@@ -1,16 +1,20 @@
-# What is a Browser?
+# Web Browsers
 
-### History
+## Why Browsers?
+
+Web browsers are vehicles for viewing web pages and not necessary for writing and executing code. In SWE101 we will use browsers as a learning tool to visualise inputs and outputs of our code.
+
+## History
 
 The World Wide Web and web browsers were born in 1990 when Tim Berners-Lee invented a way to view HTML documents through the Internet.
 
-### HTML
+## HTML
 
 The fundamental thing a browser did in 1990 was download and view HTML web site pages.
 
 This is still core to the functionality of how a browser works, so we are going to start there.
 
-## Run our starter code
+## Run starter code in your browser
 
 When you click on [this link](https://github.com/rocketacademy/swe101-starter-code/archive/master.zip) it will download a compressed ZIP file.
 
@@ -22,7 +26,7 @@ Unzip / decompress the file - it should create a new `swe101-starter-code` folde
 
 Open the `index.html` file in Chrome. Double click it if Chrome is your default browser. Or, you can right click to open in Chrome.
 
-### Change the Starter Code Text
+### Change text on the page
 
 Change line `31` to something else. Make sure to save the file before you refresh.
 

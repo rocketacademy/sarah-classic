@@ -1,22 +1,22 @@
-# Basic Template / Basic Data
+# Basic Template and Data
 
-## Template - Our First Basic Program
+## Template: Our First Program
 
-Let's get started with running some code outside of the javascript console.
+Let's get started with running some code outside of the JavaScript console.
 
 We'll be creating a super basic program.
 
-**instructions**
+### **Setup**
 
-Copy the starter code from github:
+Copy the starter code from Github:
 
-`cd` into your code directory.
+`cd` into your `code` directory.
 
 ```bash
 cd ~/code
 ```
 
-git clone the starter code:
+`git clone` the starter code:
 
 ```bash
 git clone https://github.com/rocketacademy/basic-js-starter.git basic-data
@@ -30,17 +30,17 @@ This will create a `basic-data` directory inside your `code` directory.
 cd basic-data
 ```
 
-Open the `index.html` file in chrome.
+Open the `index.html` file in Chrome.
 
-**default template behavior**
+### **Default Template Behaviour**
 
-The default starter code has one basic behavior.
+The default starter code has one basic behaviour.
 
 After you open the `index.html` file in your browser, click the submit button.
 
 This causes "hello world" to appear in the grey box.
 
-**our own values being output**
+### **Our Own Values Being Output**
 
 Open the `script.js` file in your editor.
 
@@ -57,11 +57,11 @@ var main = function(input){
 };
 ```
 
-On line 3 we define the `main` function. The `{}` curly brance characters define the contents of this function.
+On line 3 we define the `main` function. The `{}` curly brace characters define the contents of this function.
 
-Without a further formal definition we'll begin using this code to make stuff appear on the screen. \(We'll come back to the formal definitions later.\)
+Without a further formal definition we'll begin using this code to make stuff appear on the screen. We'll come back to the formal definitions later.
 
-We are going to start with _line 5_: `myOutputValue` is a variable that holds the value that we see in the grey box after we click the button.
+We are going to start with line 5: `myOutputValue` is a variable that holds the value that we see in the grey box after we click the button.
 
 Change the value of the variable to something else. We'll start with numbers only:
 
@@ -87,7 +87,7 @@ var myOutputValue = 9999999999;
 var myOutputValue = 1.234234;
 ```
 
-**operations as output**
+### **Operations as Output**
 
 Let's assign the output of our previous code to the variable:
 
@@ -105,7 +105,7 @@ Let's assign our final value to the `myOutputValue` variable:
 var myOutputValue = area;
 ```
 
-When we click the submit button our program is now succesfully calculating the area of a circle!
+When we click the submit button our program is now successfully calculating the area of a circle!
 
 Try some other calculations. Remember to assign the final value to `myOutputValue` in order for them to appear in the grey square.
 
@@ -121,7 +121,7 @@ var myOutputValue = 12 * 12;
 var myOutputValue = 100 / 10;
 ```
 
-## interactivity
+## Interactivity
 
 A program needs to _take input_ and give output. So far our programs have only had input that we type in our code file, not directly from the user of `index.html`.
 
@@ -131,9 +131,9 @@ What happens when you type something in the input box before you click the submi
 
 We'll begin to add inputs to our program using the input box.
 
-### `main` function parameters
+### `main` Function Parameters
 
-We'll continue working with `functions` without formally defining them.
+We'll continue working with functions without formally defining them.
 
 Our eventual goal is to create a program that takes defined inputs and gives outputs.
 
@@ -147,11 +147,11 @@ var myOutputValue = input;
 
 Now you should see that whatever you type in the input box gets put into the grey box.
 
-### string data
+### String Data
 
 `input` is always a _type_ of data called a _string_.
 
-We'll now talk about this different kind of data inside of the javascript language and what makes it distinct from the number data we dealt with before.
+We'll now talk about this different kind of data inside of the JavaScript language and what makes it distinct from the number data we dealt with before.
 
 \[Wikipedia\]\([https://en.wikipedia.org/wiki/String\_\(computer\_science](https://en.wikipedia.org/wiki/String_%28computer_science)\)\) defines a `string` as a _sequence of characters_.
 
@@ -164,7 +164,7 @@ var name2 = 'Kai';
 
 Change the value of `myOutputValue` to a string value \(any set of words you want\) and see them appear in the grey box.
 
-#### interactive messages
+### Interactive Messages
 
 Let's use this string operation to make our program a little more interactive.
 
@@ -174,7 +174,7 @@ Change the code back again to assign the value of `input` to `myOutputValue`:
 var myOutputValue = input;
 ```
 
-#### greeting program
+### Greeting Program
 
 We are going to explicitly state the purpose of our program now:
 
@@ -186,25 +186,25 @@ To do this we'll take `input` and combine it with some other strings to make the
 var myOutputValue = "Hello " + input + " you look great today!";
 ```
 
-**Further**
+### **Further**
 
 Change your program output to a different message. Make it longer, you can use input more than once in the output, for instance:
 
 `Hello, Susan! Wow, Susan is a great name. Reminds me of this movie star....`
 
-#### metric conversion program
+### Metric Conversion Program
 
 Let's incorporate the math operations we were doing before into our program.
 
 We'll explicitly change the purpose of our program to:
 
-The user will enter a distance in kilometers and the program will output the distance in miles.
+The user will enter a distance in kilometres and the program will output the distance in miles.
 
 The formula for conversion is:
 
 mi = km \* 0.62
 
-So in javascript we can write it like this:
+So in JavaScript we can write it like this:
 
 ```javascript
 var distanceInKilometers = 1;
