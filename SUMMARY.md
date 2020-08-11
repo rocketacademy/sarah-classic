@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to SWE101! 🚀](README.md)
+* [Course Logistics](course-logistics.md)
 * [Required Hardware and Software](required-hardware-and-software.md)
 
 ## INTRO
