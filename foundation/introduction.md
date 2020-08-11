@@ -12,7 +12,7 @@ Coding is distinct from the _program_ that a coder produces.
 
 The process of coding includes:
 
-* translate a set of real world data into a set of abstractions
+* translate a set of real-world data into a set of abstractions
 * representation and abstraction of data inside the computer
 * what operations the computer must make on that data
 * what output is given and the representation of that output
