@@ -1,10 +1,8 @@
-# Basic Template and Data
+# Our First Program
 
-## Template: Our First Program
+## Template Program and Data
 
-Let's get started with running some code outside of the JavaScript console.
-
-We'll be creating a super basic program.
+Let's get started with running some code outside of the JavaScript console. We'll be creating a super basic program with a SWE101 starter template and data.
 
 ### **Setup**
 
@@ -40,7 +38,7 @@ After you open the `index.html` file in your browser, click the submit button.
 
 This causes "hello world" to appear in the grey box.
 
-### **Our Own Values Being Output**
+## **Output Own Values**
 
 Open the `script.js` file in your editor.
 
@@ -49,7 +47,7 @@ You should see the following:
 ```javascript
 console.log("bananas");
 
-var main = function(input){
+var main = function(input) {
 
   var myOutputValue = "hello world";
 
@@ -131,7 +129,7 @@ What happens when you type something in the input box before you click the submi
 
 We'll begin to add inputs to our program using the input box.
 
-### `main` Function Parameters
+### Function Parameters
 
 We'll continue working with functions without formally defining them.
 
@@ -147,7 +145,7 @@ var myOutputValue = input;
 
 Now you should see that whatever you type in the input box gets put into the grey box.
 
-### String Data
+## String Data
 
 `input` is always a _type_ of data called a _string_.
 
@@ -164,7 +162,7 @@ var name2 = 'Kai';
 
 Change the value of `myOutputValue` to a string value \(any set of words you want\) and see them appear in the grey box.
 
-### Interactive Messages
+## Interactive Messages
 
 Let's use this string operation to make our program a little more interactive.
 
@@ -186,7 +184,7 @@ To do this we'll take `input` and combine it with some other strings to make the
 var myOutputValue = "Hello " + input + " you look great today!";
 ```
 
-### **Further**
+#### **Extensions**
 
 Change your program output to a different message. Make it longer, you can use input more than once in the output, for instance:
 
@@ -224,17 +222,17 @@ Now we can make out program interactive by letting the user enter a temperature 
 
 Simply assign the value of `input` to `distanceInKilometers`.
 
-#### Further
+#### Extensions
 
 Other kinds of calculation operations?
 
-#### output and format the result
+## Formatting the Output
 
-Our conversion program should try to be as user friendly as possible.
+Our conversion program should try to be as user-friendly as possible.
 
 This means we should try to output more than just a cryptic number in the grey square.
 
-For example, if the user types in `5`, the progrma will output a message like:
+For example, if the user types in `5`, the program will output a message like:
 
 ```text
 Hi! 5 kilometers is equal to 3.1 miles.
@@ -243,10 +241,10 @@ Hi! 5 kilometers is equal to 3.1 miles.
 Simply use the result of the calculation together with some string values like we did in the greeting program:
 
 ```javascript
-var myOutputValue = "Hi! "+input+" is equal to "+distanceInMiles"+ " miles.";
+var myOutputValue = "Hi! "+input+" is equal to "+distanceInMiles+" miles.";
 ```
 
-#### Further
+#### Extensions
 
 Other kinds of formats?
 

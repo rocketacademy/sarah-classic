@@ -1,4 +1,4 @@
-# Introduction
+# What is Coding?
 
 ## What is Coding?
 

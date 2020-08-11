@@ -10,11 +10,11 @@
 
 ## Introduction
 
-* [Introduction](introduction/introduction.md)
-* [Web Browsers](introduction/what-is-a-browser.md)
+* [What is Coding?](introduction/what-is-coding.md)
+* [Web Browsers](introduction/web-browsers.md)
 * [Operations](introduction/operations.md)
 * [Variables](introduction/variables.md)
-* [Basic Template and Data](introduction/template.md)
+* [Our First Program](introduction/our-first-program.md)
 * [Command Line](introduction/cli.md)
 * [Git](introduction/git.md)
 
