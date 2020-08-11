@@ -1,4 +1,4 @@
-# variables
+# JavaScript Variables
 
 An abstract piece of data in a javascript program is called a variable.
 

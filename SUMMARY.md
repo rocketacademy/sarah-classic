@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to SWE101! 🚀](README.md)
 * [Software to Install](software.md)
 
 ## INTRO

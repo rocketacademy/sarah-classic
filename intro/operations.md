@@ -1,4 +1,4 @@
-# Operations
+# JavaScript Operations
 
 Coding means writing instructions for the computer to execute.
 
@@ -12,7 +12,7 @@ Open the developer tools. \(view -&gt; developer -&gt; javascript console _or_ `
 
 Make sure you've selected the javascript console tab in the dev tools.
 
-### Math Operations
+## Math Operations
 
 The javascript language is capable of calculating math operations.
 
@@ -34,8 +34,9 @@ Type these one at a time into the console and hit enter:
 4 - 2
 ```
 
-### Data
+## Data
 
 Our programs will soon have the ability to process data.
 
 First we need to talk about what data is inside a javascript program and how it's represented.
+

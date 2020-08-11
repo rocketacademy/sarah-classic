@@ -1,4 +1,4 @@
-# State
+# Program Global State
 
 Let's implement a main function that remembers something that happened during a previous run of the function.
 

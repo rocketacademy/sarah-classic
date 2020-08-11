@@ -1,8 +1,8 @@
-# Adding Logic: Boolean Operators
+# Pseudo Code, Boolean - OR
 
 Let's change the game so that if the guess is within 1 the user still wins the game.
 
-In order to encode this we need some other conditional structures- *boolean operators*.
+In order to encode this we need some other conditional structures- _boolean operators_.
 
 ## logical expression translation - pseudo code
 
@@ -126,3 +126,4 @@ if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumb
 ```
 
 We'll find a use for the other logical operator AND \(`&&`\) in the next section.
+

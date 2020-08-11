@@ -16,3 +16,4 @@ The process of coding includes:
 * representation and abstraction of data inside the computer
 * what operations the computer must make on that data
 * what output is given and the representation of that output
+

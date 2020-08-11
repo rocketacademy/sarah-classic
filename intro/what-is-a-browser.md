@@ -1,4 +1,4 @@
-# What is a browser?
+# What is a Browser
 
 ### History
 
@@ -25,3 +25,4 @@ Open the `index.html` file. Double click it if Chrome is your default browser. O
 ### Change the Starter Code Text
 
 Change line `31` to something else. Make sure to save the file before you refresh.
+

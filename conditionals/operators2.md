@@ -1,4 +1,4 @@
-# Conditionals Part II: AND Operator, conditionals strategies
+# Logic Debugging, Boolean - AND
 
 ## input / output control
 
@@ -52,7 +52,7 @@ what's the value inside of `myVal` in this case?
 
 We've seen numbers and strings. Boolean values are a 3rd kind of data we'll deal with. They **represent** a value that is true or false. Just like we can hold the rersult of a math operation, we can hold the result of a logical boolean operation.
 
-```js
+```javascript
 var userWin = true;
 ```
 
@@ -223,3 +223,4 @@ guess - 3 >= randomDiceNumber && input + 3 <= randomDiceNumber
 ```
 
 We would have had to state each number value in the old example.
+
