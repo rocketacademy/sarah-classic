@@ -1,6 +1,8 @@
-# JavaScript Variables
+# Variables
 
-An abstract piece of data in a javascript program is called a variable.
+## What are Variables?
+
+An abstract piece of data in a program is called a variable.
 
 ```javascript
 var pi = 3.14;
@@ -26,17 +28,17 @@ We can also use variables to capture that calculated value:
 var area = pi * radius * radius;
 ```
 
-**abstraction**
+## **The Importance of Abstraction**
 
-If we wanted the same result we can also write:
+If we wanted the same result we could also write:
 
 ```javascript
 var area = 3.14 * 4 * 4;
 ```
 
-But this is not as _meaningful_ as our previous example.
+But this would not be as _meaningful_ as our previous example.
 
-Our programs must not only calculate values correctly, they must also represent the kinds of operations we are making- in this case calculating the area of a circle.
+Our programs must not only _calculate_ values correctly, they must also _represent_ the kinds of operations we are making- in this case calculating the area of a circle.
 
-The name of our variables are giving meaning to what data our code contains.
+The names of our variables give meaning to the data our code contains.
 

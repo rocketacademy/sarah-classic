@@ -13,7 +13,7 @@
 * [Introduction](introduction/introduction.md)
 * [What is a Browser?](introduction/what-is-a-browser.md)
 * [JavaScript Operations](introduction/operations.md)
-* [JavaScript Variables](introduction/variables.md)
+* [Variables](introduction/variables.md)
 * [Basic Template / Basic Data](introduction/template.md)
 * [Command Line](introduction/cli.md)
 * [Git](introduction/git.md)
