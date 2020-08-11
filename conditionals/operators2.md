@@ -62,6 +62,10 @@ Let's add another dice to the game.
 
 In this first simple version of the game, the dice must roll to the same number in order for the player to win.
 
+### AND operator
+
+Use `&&` if both boolean statements are true.
+
 #### Pseudo Code
 
 ```text
@@ -91,6 +95,34 @@ var main = function (input) {
 
   return myOutputValue;
 };
+```
+
+## Dice Version 3
+
+Let's add another rule: the user can't roll snakeeyes- two ones.
+
+We'll add this rule that they can't win if the dice is snakeeyes.
+
+### NOT operator
+
+Use `!` to reverse a boolean statement.
+
+#### Pseudo Code
+
+```text
+if:
+
+the guess is equal to the first random number
+
+AND
+
+the guess is equal to the second random number
+
+AND
+
+the dice are NOT snake eyes
+
+then the user wins.
 ```
 
 #### Further Dice Conditions
@@ -159,68 +191,3 @@ console.log(randomDiceNumber - 1 == input);
 Remember that it is very important to label your `console.log`s.
 
 Also remember that if your label is wrong or if your statements in the `console.log` are different from your actual code, you now have an error in your debugging code as well, making your error twice as hard to find :\)
-
-## Dice Game Part III: Easy Dice
-
-Let's make our dice game much easier by making the margin of error **n** larger- if `n` is 2, and the user guesses 4 and the dice rolls 4 the user still wins.
-
-Our current pseudo code and JavaScript looks like this:
-
-```text
-if:
-
-the guess is equal to the random number
-
-OR
-
-the user guess plus one is equal to the random number
-
-OR
-
-the user guess minus one is equal to the random number
-
-then the user wins.
-```
-
-```javascript
-randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input
-```
-
-We want to be able to write logic where the user is within 2-
-
-Another way to state the same logic as before would be:
-
-```text
-if:
-
-the guess is within 2 of the dice number
-
-then the user wins.
-```
-
-```text
-if:
-
-the number minus 2 is equal or greater than guess
-
-AND
-
-the number plus 2 is equal or lesser than guess
-
-then the user wins.
-```
-
-Translates to:
-
-```javascript
-randomDiceNumber - 2 >= guess && randomDiceNumber + 2 <= input
-```
-
-This logic states the same exact thing as our original logic, but it allows us to state a range \(rather than +/- one\)
-
-```javascript
-guess - 3 >= randomDiceNumber && input + 3 <= randomDiceNumber
-```
-
-We would have had to state each number value in the old example.
-
