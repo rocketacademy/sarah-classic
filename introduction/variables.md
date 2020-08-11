@@ -42,3 +42,17 @@ Our programs must not only _calculate_ values correctly, they must also _represe
 
 The names of our variables give meaning to the data our code contains.
 
+{% hint style="info" %}
+#### Using just the dev tools console, write code for each representation of the following:
+
+Use descriptive variable names that explain what you are calculating.
+
+When you are done, paste the code into a slack message to yourself.
+
+* the circumference of a circle
+* conversion of celsius to Fahrenheit
+* volume of a cube
+* for a given rise and run, the percentage grade of a road
+* milliliters to pints
+{% endhint %}
+

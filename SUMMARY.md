@@ -5,8 +5,8 @@
 ## Course Logistics
 
 * [Required Hardware and Software](course-logistics/required-hardware-and-software.md)
-* [Course Methodology](course-logistics/course-methodology.md)
-* [Course Schedule](course-logistics/course-schedule.md)
+* [Course Methodology ✍🏽](course-logistics/course-methodology.md)
+* [Course Schedule 📆](course-logistics/course-schedule.md)
 
 ## Introduction
 

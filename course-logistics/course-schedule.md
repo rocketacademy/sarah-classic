@@ -2,7 +2,7 @@
 description: What we will learn and when
 ---
 
-# Course Schedule
+# Course Schedule 📆
 
 ## Course Outline
 

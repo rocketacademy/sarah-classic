@@ -2,7 +2,7 @@
 description: How SWE101 will run
 ---
 
-# Course Methodology
+# Course Methodology ✍🏽
 
 ## Class Organisation
 

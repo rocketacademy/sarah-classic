@@ -8,12 +8,15 @@ Web browsers are vehicles for viewing web pages and not necessary for writing an
 
 The World Wide Web and web browsers were born in 1990 when Tim Berners-Lee invented a way to view HTML documents through the Internet.
 
+![https://webfoundation.org/about/vision/history-of-the-web/](../.gitbook/assets/berners-lee-570x366.jpg)
+
 ## HTML
 
 The fundamental thing a browser did in 1990 was download and view HTML web site pages.
 
 This is still core to the functionality of how a browser works, so we are going to start there.
 
+{% hint style="info" %}
 ## Run starter code in your browser
 
 When you click on [this link](https://github.com/rocketacademy/swe101-starter-code/archive/master.zip) it will download a compressed ZIP file.
@@ -29,4 +32,5 @@ Open the `index.html` file in Chrome. Double click it if Chrome is your default 
 ### Change text on the page
 
 Change line `31` to something else. Make sure to save the file before you refresh.
+{% endhint %}
 
