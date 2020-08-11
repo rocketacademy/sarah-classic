@@ -1,4 +1,4 @@
-# JavaScript Operations
+# Operations
 
 Coding means writing instructions for the computer to execute.
 
@@ -36,5 +36,5 @@ Type these one at a time into the console and hit enter:
 
 Our programs will soon have the ability to process data.
 
-First we need to talk about what data is inside a JavaScript program and how it's represented.
+First we need to talk about what data is inside a program and how it's represented.
 

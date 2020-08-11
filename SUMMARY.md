@@ -12,7 +12,7 @@
 
 * [Introduction](introduction/introduction.md)
 * [What is a Browser?](introduction/what-is-a-browser.md)
-* [JavaScript Operations](introduction/operations.md)
+* [Operations](introduction/operations.md)
 * [Variables](introduction/variables.md)
 * [Basic Template / Basic Data](introduction/template.md)
 * [Command Line](introduction/cli.md)
