@@ -8,15 +8,15 @@
 * [Course Methodology](course-logistics/course-methodology.md)
 * [Course Schedule](course-logistics/course-schedule.md)
 
-## Foundation
+## Introduction
 
-* [Introduction](foundation/introduction.md)
-* [What is a Browser](foundation/what-is-a-browser.md)
-* [JavaScript Operations](foundation/operations.md)
-* [JavaScript Variables](foundation/variables.md)
-* [Basic Template / Basic Data](foundation/template.md)
-* [Command Line](foundation/cli.md)
-* [Git](foundation/git.md)
+* [Introduction](introduction/introduction.md)
+* [What is a Browser?](introduction/what-is-a-browser.md)
+* [JavaScript Operations](introduction/operations.md)
+* [JavaScript Variables](introduction/variables.md)
+* [Basic Template / Basic Data](introduction/template.md)
+* [Command Line](introduction/cli.md)
+* [Git](introduction/git.md)
 
 ## BASIC DATA
 

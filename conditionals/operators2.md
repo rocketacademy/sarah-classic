@@ -191,3 +191,4 @@ console.log(randomDiceNumber - 1 == input);
 Remember that it is very important to label your `console.log`s.
 
 Also remember that if your label is wrong or if your statements in the `console.log` are different from your actual code, you now have an error in your debugging code as well, making your error twice as hard to find :\)
+
