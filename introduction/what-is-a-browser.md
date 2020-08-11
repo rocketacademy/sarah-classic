@@ -2,7 +2,7 @@
 
 ### History
 
-The world wide web and browsers were bron in 1990 when Tim Berners-Lee invented a way to view HTML documents through the internet.
+The World Wide Web and web browsers were born in 1990 when Tim Berners-Lee invented a way to view HTML documents through the Internet.
 
 ### HTML
 
@@ -12,15 +12,15 @@ This is still core to the functionality of how a browser works, so we are going 
 
 ## Run our starter code
 
-When you click on [this link](https://github.com/rocketacademy/swe101-starter-code/archive/master.zip) it will download a compressed zip file.
+When you click on [this link](https://github.com/rocketacademy/swe101-starter-code/archive/master.zip) it will download a compressed ZIP file.
 
-If you haven't already, create a `swe101` folder in your `documents` folder.
+If you haven't already, create a `swe101` folder in a local folder, e.g. `Documents`.
 
 Move the downloaded `.zip` file to the `swe101` folder.
 
 Unzip / decompress the file - it should create a new `swe101-starter-code` folder. The starter code files are in this folder.
 
-Open the `index.html` file. Double click it if Chrome is your default browser. Or, you can right click to open in Chrome.
+Open the `index.html` file in Chrome. Double click it if Chrome is your default browser. Or, you can right click to open in Chrome.
 
 ### Change the Starter Code Text
 
