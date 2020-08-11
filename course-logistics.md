@@ -47,3 +47,14 @@ The following are the specific live class times for Batch 1 \(15 Aug - 12 Sep\).
 12. 7-9pm Thu 10 Sep
 13. 1-3pm Sat 12 Sep
 
+## Pair Programming
+
+Pair programming is a common software engineering activity that involves 2 engineers working on the same computer, on the same problem together. Typically, 1 engineer acts as the "driver", controlling the keyboard and writing the code. The other engineer acts as the "navigator", helping to guide the overall strategy and look up documentation \(on a separate computer\).
+
+Pair programming is commonly used for the following purposes:
+
+1. To share knowledge across teams or between juniors and seniors, where the navigator is typically more knowledgeable about that part of the system than the driver.
+2. To ensure an important piece of software gets done correctly. Sometimes, for difficult software engineering problems with large future repercussions, it is more worth it to spend 2 engineers' time to get it right, than to spend 1 engineer's time and risk getting it wrong.
+
+During SWE101, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming with designated pairings that will rotate each class. 
+
