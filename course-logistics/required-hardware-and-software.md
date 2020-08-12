@@ -77,19 +77,33 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 
 1. Download Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
 
-#### GitBash for Windows
-
-Verify you can open GitBash for windows as in this video: [https://www.youtube.com/watch?v=rWboGsc6CqI](https://www.youtube.com/watch?v=rWboGsc6CqI)
-
 #### Git for MacOS
 
 Your MacOS installed git should look like this:
 
+{% embed url="https://www.youtube.com/watch?v=YsRt9YJNFP4" %}
 
+#### Command Line Setup For Windows
 
-## 
+1. Open Visual Studio Code and press and hold Ctrl + \` to open the terminal
 
+![](../.gitbook/assets/v4hx4.png)
 
+2. Open the command palette using Ctrl + Shift + P.
 
-### 
+3. Type - Select Default Shell
+
+4. Select Git Bash from the options
+
+5. Click on the + icon in the terminal window
+
+6. The new terminal now will be a Git Bash terminal. Give it a few seconds to load Git Bash
+
+![](../.gitbook/assets/5zlap.png)
+
+7. You can now toggle between the different terminals as well from the dropdown in terminal.
+
+![](../.gitbook/assets/1agtr.png)
+
+8. Repeat the above setups for mac - type in the same commands in the terminal.
 
