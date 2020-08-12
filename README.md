@@ -4,8 +4,6 @@ description: Introduction to Coding Basics in JavaScript
 
 # Welcome to SWE101! 🚀
 
-![](.gitbook/assets/rocket-academy-favicon-big-4-3-1-.png)
-
 SWE101 is Rocket Academy \(RA\)'s foundational course in software programming, also known as coding. This is the first course in RA's software engineering curriculum because one must learn basic coding concepts and syntax before starting to engineer larger software systems.
 
 In this course you will learn what code is and build some simple programs.
