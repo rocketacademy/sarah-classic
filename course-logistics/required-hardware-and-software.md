@@ -38,24 +38,6 @@ Zoom is RA's video conferencing software for live classes. Each section will hav
 1. Download the Zoom Client for Meetings [here](https://zoom.us/download).
 2. Start a new meeting to test that your webcam and microphone are working.
 
-### Node.js
-
-Node.js is the most popular JavaScript runtime. "Runtime" in a coding context refers to the environment in which code runs. ".js" is the file extension for JavaScript files, and a common suffix for JavaScript packages. We will use Node.js to lint and run our JavaScript code in non-browser contexts.
-
-#### Installation
-
-1. Download Node.js for your OS [here](https://nodejs.org/en/download/). It will come with NPM, which stands for Node.js Package Manager. Package managers are used to download and manage 3rd-party packages that our programs rely on, such as ESLint.
-
-### Git
-
-Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during SWE101 to download and upload copies of projects.
-
-On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way across Windows and Mac. A version of Bash called Zsh \(pronounced "zoosh"\) is installed by default on MacOS.
-
-#### Installation
-
-1. Download Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
-
 ### VSCode
 
 VSCode is RA's software editor of choice. It is also the most popular code editor in the world. We will write all code for SWE101 inside of VSCode.
@@ -75,5 +57,39 @@ Chrome is the most popular web browser for software engineers because of its mat
 
 1. Download Chrome for your OS [here](https://www.google.com/intl/en_sg/chrome/).
 
+## Command Line Software
 
+### Node.js
+
+Node.js is the most popular JavaScript runtime. "Runtime" in a coding context refers to the environment in which code runs. ".js" is the file extension for JavaScript files, and a common suffix for JavaScript packages. We will use Node.js to lint and run our JavaScript code in non-browser contexts.
+
+#### Installation
+
+1. Download Node.js for your OS [here](https://nodejs.org/en/download/). It will come with NPM, which stands for Node.js Package Manager. Package managers are used to download and manage 3rd-party packages that our programs rely on, such as ESLint.
+
+### Git
+
+Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during SWE101 to download and upload copies of projects.
+
+On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way across Windows and Mac. A version of Bash called Zsh \(pronounced "zoosh"\) is installed by default on MacOS.
+
+#### Installation
+
+1. Download Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+
+#### GitBash for Windows
+
+Verify you can open GitBash for windows as in this video: [https://www.youtube.com/watch?v=rWboGsc6CqI](https://www.youtube.com/watch?v=rWboGsc6CqI)
+
+#### Git for MacOS
+
+Your MacOS installed git should look like this:
+
+
+
+## 
+
+
+
+### 
 
