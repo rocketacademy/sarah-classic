@@ -22,12 +22,12 @@ description: What we will learn and when
       <td style="text-align:left">Sat</td>
       <td style="text-align:left">
         <ol>
-          <li>Introductions</li>
-          <li>Browser</li>
+          <li>What is Coding?</li>
+          <li>Web Browsers</li>
           <li>Operations</li>
           <li>Variables</li>
-          <li>Basic template and data</li>
-          <li>Command line</li>
+          <li>Our First Program</li>
+          <li>Command Line</li>
           <li>Git</li>
         </ol>
       </td>
