@@ -15,10 +15,10 @@ description: 'To take part in SWE101, you will need the following hardware and s
 
 1. Slack
 2. Zoom
-3. Node.js
-4. Git
-5. VSCode
-6. Chrome
+3. VSCode
+4. Chrome
+5. Node.js
+6. Git
 
 ### Slack
 
