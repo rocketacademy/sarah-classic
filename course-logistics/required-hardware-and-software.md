@@ -2,7 +2,7 @@
 description: 'To take part in SWE101, you will need the following hardware and software.'
 ---
 
-# Required Hardware and Software 💻
+# 💻 Required Hardware and Software
 
 ![](../.gitbook/assets/d60996475467c927e91fea3d52417f07.jpg)
 
