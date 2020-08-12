@@ -1,5 +1,7 @@
 # Intro to Functions
 
+{% embed url="https://youtu.be/M0yXZtZSg-A" %}
+
 We now have a basis to begin formally defining the code structures we're working with and using them to write slightly more realistic programs.
 
 Let's first talk a little about how functions work:

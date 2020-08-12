@@ -1,5 +1,7 @@
 # Our First Program
 
+{% embed url="https://youtu.be/pMMYj-Hbkxc" %}
+
 Let's get started with running some code outside of the JavaScript console. We'll be creating a super basic program with a SWE101 starter template and data.
 
 {% hint style="info" %}

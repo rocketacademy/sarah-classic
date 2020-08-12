@@ -1,5 +1,7 @@
 # Operations
 
+{% embed url="https://youtu.be/p24syWwKoO8" %}
+
 Coding means writing instructions for the computer to execute.
 
 We will begin with the most basic kinds of instructions the computer can execute, which is an operation between 2 number data values.

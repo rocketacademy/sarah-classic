@@ -1,5 +1,7 @@
 # Variables
 
+{% embed url="https://youtu.be/mBZrHgAja78" %}
+
 ## What are Variables?
 
 An abstract piece of data in a program is called a variable.
