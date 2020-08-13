@@ -10,7 +10,7 @@ SWE101 is Rocket Academy \(RA\)'s foundational course in software programming, a
 
 In this course you will learn what code is and build some simple programs.
 
-In this short amount of time, we hope to enable your future learnings about \*any\* computer system in the future.  
+In this short amount of time, we hope to enable your further learnings about \*any\* computer system in the future.  
   
 
 
