@@ -97,6 +97,10 @@ git add <path>
 git commit -m "message that describes the changes"
 ```
 
+{% hint style="warning" %}
+Running `git commit` without `-m` might bring you into the `vi` editor. If you get stuck in `vi` type `esc` key and `:q!` to get out.
+{% endhint %}
+
 ### log
 
 Finally, to see a list of the commits in this repo \(including the one you just created\) use `git log`

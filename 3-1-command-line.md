@@ -16,6 +16,20 @@ The words "**command line**" and "**terminal**" are synonymous. We will be using
 You normally work with _**folders**_, inside of your graphical windows. The unix terminology is _**directories.**_ For our work in the command line, both are correct.
 {% endhint %}
 
+#### Find your way around
+
+The command line has many different sub functionalities.
+
+If you get lost here are a few tips:
+
+#### q
+
+There are certain interfaces that bring you into a page navigator, like the command for help with commands- `man` Man tells you how to use unix commands. You use it by typing something like `man ls` - tell me about the ls command. It will change the interface to a page interface that you can navigate with the up and down arrow keys. ↑↓ To get out of this interface, press `q` to quit. Some Git commands also bring you into this interface, such as `diff` and `log` which we'll see in the next section.
+
+#### ctrl-c
+
+You might get stuck in a different kind of command line interface \(there are many\)- another universal way to get out is `ctrl - c`
+
 ## Commands
 
 We will cover the commands that mimic the kinds of file and folder manipulation tasks you would accomplish through clicking and dragging in a graphical interface.
@@ -107,9 +121,9 @@ rm my-friends.txt
 ```
 
 {% hint style="danger" %}
-Your removed files **DO NOT** go to a trash bin. Removing is irreversible.
+Your removed files **DO NOT** go to a trash bin. **Removing is irreversible.**
 
-**Never, ever, ever** try to ****run a command that removes the root directory- `rm -r /`
+**Never, ever, ever** try to ****run a command that removes the **root** directory \(or any other folder you don't want to lose forever\) - for example `rm -r /`
 {% endhint %}
 
 Remove a folder.
@@ -178,5 +192,65 @@ Move one level up:
 cd ..
 ```
 
+## Options
 
+Almost every command has options you can add, like `-R` with `cp` . If you want to see all the options available, try `man` or adding `--help` at the end of a command. For `man` and `cp` it would be `man cp` . Press `q` to get out.
+
+If you want to accomplish something specific on the command line, googling for a specific combination of options usually works.
+
+## Cheat Sheet
+
+Current directory
+
+```
+pwd
+```
+
+Contents of current directory
+
+```text
+ls
+```
+
+Change directory
+
+```text
+cd
+```
+
+Make an empty text file
+
+```text
+touch script.js
+```
+
+Copy a file
+
+```text
+cp cakes.txt cupcakes.txt
+```
+
+Copy a folder
+
+```text
+cp pastries new-pasteries 
+```
+
+Move a file or folder
+
+```text
+mv dogs.txt pets.txt 
+```
+
+Remove a file
+
+```text
+rm donut-list.txt
+```
+
+Remove a folder
+
+```text
+rm -r my-boats
+```
 
