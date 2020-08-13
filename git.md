@@ -18,7 +18,7 @@ The process of version control is a fundamental part of being a software enginee
 
 In this course you'll use that same process to keep track of your work, and submit your assignments using  the web app GitHub.
 
-![Parts of a Git repository](../.gitbook/assets/git.png)
+![Parts of a Git repository](.gitbook/assets/git.png)
 
 ## Repository
 
@@ -60,7 +60,7 @@ git status <path>
 
 `git status` is the command to see the current status of the repo.
 
-![Example of git status output.](../.gitbook/assets/screen-shot-2020-08-13-at-3.00.28-pm.png)
+![Example of git status output.](.gitbook/assets/screen-shot-2020-08-13-at-3.00.28-pm.png)
 
 ### diff
 
@@ -72,7 +72,7 @@ git diff <path>
 
 ### 
 
-![](../.gitbook/assets/screen-shot-2020-08-13-at-4.07.03-pm.png)
+![](.gitbook/assets/screen-shot-2020-08-13-at-4.07.03-pm.png)
 
 ### add
 
@@ -87,7 +87,7 @@ Staging is that state of a repo that prepares the group of files for a commit.
 git add <path>
 ```
 
-![](../.gitbook/assets/screen-shot-2020-08-13-at-4.03.22-pm.png)
+![](.gitbook/assets/screen-shot-2020-08-13-at-4.03.22-pm.png)
 
 ### commit
 

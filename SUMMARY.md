@@ -14,33 +14,44 @@
 
 * [What is Coding?](introduction/what-is-coding.md)
 * [Web Browsers](introduction/web-browsers.md)
-* [Operations](introduction/operations.md)
-* [Variables](introduction/variables.md)
-* [Our First Program](introduction/our-first-program.md)
-* [Command Line](introduction/cli.md)
-* [Git](introduction/git.md)
 
-## BASIC DATA
+## Basic Data Manipulation
 
-* [Functions](basic-data/functions.md)
-* [Errors](basic-data/errors.md)
+* [Operations](basic-data-manipulation/operations.md)
+* [Variables](basic-data-manipulation/variables.md)
+* [Our First Program](basic-data-manipulation/our-first-program.md)
 
-## Conditionals
+## Organising and Managing Code Files
 
-* [Intro to Logic](conditionals/logic.md)
-* [Pseudo Code, Boolean - OR](conditionals/operators.md)
-* [Logic Debugging, Boolean - AND](conditionals/operators2.md)
-* [Program Global State](conditionals/state.md)
+---
 
-## Arrays
+* [Command Line](cli.md)
+* [Git](git.md)
 
-* [Arrays](arrays/arrays.md)
+## Structuring and Debugging Code
 
-## Loops
+* [Functions](structuring-and-debugging-code/functions.md)
+* [Errors](structuring-and-debugging-code/errors.md)
 
-* [Loops](loops/loops.md)
+## Conditional Logic
 
-## Objects
+* [Intro to Logic](conditional-logic/logic.md)
+* [Pseudo Code, Boolean - OR](conditional-logic/operators.md)
+* [Logic Debugging, Boolean - AND](conditional-logic/operators2.md)
 
-* [Objects](objects/objects.md)
+## Managing State and Input Validation
+
+* [Program State](managing-state-and-input-validation/program-state.md)
+* [Input Validation](managing-state-and-input-validation/input-validation.md)
+
+## Arrays and Iteration
+
+---
+
+* [Arrays](arrays.md)
+* [Loops](loops-1.md)
+
+## JavaScript Objects
+
+* [Objects](javascript-objects/objects.md)
 

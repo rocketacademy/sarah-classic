@@ -94,7 +94,7 @@ kilometersToMiles(7676);
 
 Type in your own values.
 
-### capture the result
+### Capture the result
 
 We can see the result of the calculation in the console.
 
