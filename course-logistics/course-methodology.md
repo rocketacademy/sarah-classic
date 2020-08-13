@@ -14,7 +14,7 @@ SWE101 applies a flipped classroom model that consists of 2 components: self-lea
 
 ### Self-Learning
 
-The goal of self-learning is for students to learn concepts before class, such that class time can be spent interacting with peers to solidify one's understanding of the concepts.
+The goal of self-learning is for students to learn concepts **before** class, such that class time can be spent interacting with peers to solidify one's understanding of the concepts.
 
 **Self-learning is mandatory**, and will consist of videos and exercises due before each class.
 
