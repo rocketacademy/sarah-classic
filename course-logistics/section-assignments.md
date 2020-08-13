@@ -34,6 +34,8 @@ description: 'Batch 1: 15 Aug - 12 Sep'
 
 Each student in each section has a unique number from 1-10. Students have been matched such that they pair with someone different every day for as many days as possible. Students will be assigned to the Zoom Breakout Room that corresponds to their number on each class day.
 
+If your partner is not present on a given class day, we may match you with another solo student, or you may be coding solo that day.
+
 | **Day** | D1, D10 | D2, D11 | D3, D12 | D4, D13 | D5 | D6 | D7 | D8 | D9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Room 1** | 1, 2 | 1, 3 | 1, 4 | 1, 5 | 1, 6 | 1, 7 | 1, 8 | 1, 9 | 1, 10 |
