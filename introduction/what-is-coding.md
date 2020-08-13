@@ -17,8 +17,6 @@ At their core, all programs, small and large, boil down to this: **instructions 
 
 #### How do you give input to this software, how does it give you output?
 
-#### Example: An ATM, your rice cooker, an escalator you take every day.
+#### Examples: An ATM, your rice cooker, an escalator you take every day.
 {% endhint %}
-
-
 

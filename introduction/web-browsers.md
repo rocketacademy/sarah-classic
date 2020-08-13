@@ -4,7 +4,7 @@
 
 ## Why Browsers?
 
-Web browsers are vehicles for viewing web pages and not necessary for writing and executing code. In SWE101 we will use browsers as a learning tool to visualise inputs and outputs of our code.
+Web browsers are tools to view web pages and not necessary for writing and executing code. In SWE101 we will use browsers as a learning tool to visualise inputs and outputs of our code through a web page.
 
 ## History
 

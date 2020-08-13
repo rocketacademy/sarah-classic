@@ -64,7 +64,6 @@ description: What we will learn and when
           <li>Functions</li>
           <li>Errors</li>
           <li>Conditionals</li>
-          <li>Randomness</li>
         </ol>
       </td>
       <td style="text-align:left">
