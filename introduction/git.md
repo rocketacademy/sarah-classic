@@ -34,9 +34,15 @@ A single commit can contain changes to many files.
 
 ## Commands
 
-In this course we'll be using the command line to run Git. You can refer to this page to remember what commands to run and in what order.
+In this course we'll be using the command line to run Git. 
 
-Most commands accept a path argument, but if you leave it blank it means `.` \(current directory\)
+{% hint style="warning" %}
+Most commands accept a path \(unix path\) argument -  denoted below as `<path>`, but if you leave it blank it means `.` \(current unix directory\)
+{% endhint %}
+
+{% hint style="danger" %}
+Creating a repo inside a repo can cause problems. If you are in the command line and you can do `git status` at that point, you are already inside a repo. Don't do `git init` in this directory.
+{% endhint %}
 
 ### init
 
@@ -98,10 +104,6 @@ Finally, to see a list of the commits in this repo \(including the one you just 
 ```text
 git log
 ```
-
-{% hint style="danger" %}
-Creating a repo inside a repo can cause problems. If you are in the command line and you can do `git status` at that point, you are already inside a repo. Don't do `git init` in this directory.
-{% endhint %}
 
 {% hint style="info" %}
 **Follow along with the steps in the video to create your own repo with a plain text file inside it.**
