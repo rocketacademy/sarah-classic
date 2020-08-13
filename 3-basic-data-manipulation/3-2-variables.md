@@ -1,4 +1,4 @@
-# 2.2: Variables
+# 3.2: Variables
 
 {% embed url="https://youtu.be/mBZrHgAja78" %}
 

@@ -1,4 +1,4 @@
-# 7.2: Loops
+# 8.2: Loops
 
 ## loops
 

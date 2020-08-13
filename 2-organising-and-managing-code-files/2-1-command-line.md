@@ -1,10 +1,10 @@
-# 3.1: Command Line
+# 2.1: Command Line
 
 The command line is the interface to the computer that consists only of text characters.
 
 We'll be using the command line to run our Git version control system for all the code we write.
 
-#### Language:
+#### Language
 
 {% hint style="warning" %}
 The words "**command line**" and "**terminal**" are synonymous. We will be using them interchangeably. The "terminal" used to be a piece of actual hardware when computers were the size of rooms, but has since lost it's original meaning.
