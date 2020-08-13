@@ -8,6 +8,7 @@
 * [✍🏽 Course Methodology](course-logistics/course-methodology.md)
 * [📆 Course Schedule](course-logistics/course-schedule.md)
 * [🚌 Section Assignments](course-logistics/section-assignments.md)
+* [♥️ Social Rules](course-logistics/love-social-rules.md)
 
 ## Introduction
 
