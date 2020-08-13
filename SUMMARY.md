@@ -22,7 +22,7 @@
 
 ## BASIC DATA
 
-* [Intro to Functions](basic-data/intro.md)
+* [Functions](basic-data/functions.md)
 * [Errors](basic-data/errors.md)
 
 ## Conditionals

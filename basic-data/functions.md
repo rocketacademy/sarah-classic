@@ -1,4 +1,4 @@
-# Intro to Functions
+# Functions
 
 {% embed url="https://youtu.be/M0yXZtZSg-A" %}
 
