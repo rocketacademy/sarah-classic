@@ -1,4 +1,4 @@
-# What is Coding?
+# 1.1: What is Coding?
 
 {% embed url="https://youtu.be/8xy4TP3quSo" %}
 

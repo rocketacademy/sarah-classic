@@ -1,4 +1,4 @@
-# Web Browsers
+# 1.2: Web Browsers
 
 {% embed url="https://youtu.be/K7zGrnQ2XOk" %}
 

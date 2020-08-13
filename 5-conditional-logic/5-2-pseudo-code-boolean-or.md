@@ -1,4 +1,4 @@
-# Pseudo Code, Boolean - OR
+# 5.2: Pseudo Code, Boolean "Or"
 
 Let's change the game so that if the guess is within 1 the user still wins the game.
 

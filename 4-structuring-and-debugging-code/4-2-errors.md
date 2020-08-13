@@ -1,4 +1,4 @@
-# Errors
+# 4.2: Errors
 
 Your program will have errors. In fact, errors are an intrinsic part of developing software for everyone, not just begginers.
 

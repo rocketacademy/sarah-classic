@@ -10,48 +10,48 @@
 * [🚌 Section Assignments](course-logistics/section-assignments.md)
 * [♥️ Social Rules](course-logistics/love-social-rules.md)
 
-## Introduction
+## 1: Introduction
 
-* [What is Coding?](introduction/what-is-coding.md)
-* [Web Browsers](introduction/web-browsers.md)
+* [1.1: What is Coding?](1-introduction/1-1-what-is-coding.md)
+* [1.2: Web Browsers](1-introduction/1-2-web-browsers.md)
 
-## Basic Data Manipulation
+## 2: Basic Data Manipulation
 
-* [Operations](basic-data-manipulation/operations.md)
-* [Variables](basic-data-manipulation/variables.md)
-* [Our First Program](basic-data-manipulation/our-first-program.md)
+* [2.1: Operations](2-basic-data-manipulation/2-1-operations.md)
+* [2.2: Variables](2-basic-data-manipulation/2-2-variables.md)
+* [2.3: Our First Program](2-basic-data-manipulation/2-3-our-first-program.md)
 
-## Organising and Managing Code Files
-
----
-
-* [Command Line](cli.md)
-* [Git](git.md)
-
-## Structuring and Debugging Code
-
-* [Functions](structuring-and-debugging-code/functions.md)
-* [Errors](structuring-and-debugging-code/errors.md)
-
-## Conditional Logic
-
-* [Intro to Logic](conditional-logic/logic.md)
-* [Pseudo Code, Boolean - OR](conditional-logic/operators.md)
-* [Logic Debugging, Boolean - AND](conditional-logic/operators2.md)
-
-## Managing State and Input Validation
-
-* [Program State](managing-state-and-input-validation/program-state.md)
-* [Input Validation](managing-state-and-input-validation/input-validation.md)
-
-## Arrays and Iteration
+## 3: Organising and Managing Code Files
 
 ---
 
-* [Arrays](arrays.md)
-* [Loops](loops-1.md)
+* [3.1: Command Line](3-1-command-line.md)
+* [3.2: Git](3-2-git.md)
 
-## JavaScript Objects
+## 4: Structuring and Debugging Code
 
-* [Objects](javascript-objects/objects.md)
+* [4.1: Functions](4-structuring-and-debugging-code/4-1-functions.md)
+* [4.2: Errors](4-structuring-and-debugging-code/4-2-errors.md)
+
+## 5: Conditional Logic
+
+* [5.1: Intro to Logic](5-conditional-logic/5-1-intro-to-logic.md)
+* [5.2: Pseudo Code, Boolean "Or"](5-conditional-logic/5-2-pseudo-code-boolean-or.md)
+* [5.3: Logic Debugging, Boolean "And"](5-conditional-logic/5-3-logic-debugging-boolean-and.md)
+
+## 6: Managing State and Input Validation
+
+* [6.1: Program State](6-managing-state-and-input-validation/6-1-program-state.md)
+* [6.2: Input Validation](6-managing-state-and-input-validation/6-2-input-validation.md)
+
+## 7: Arrays and Iteration
+
+---
+
+* [7.1: Arrays](7-1-arrays.md)
+* [7.2: Loops](7-2-loops.md)
+
+## 8: JavaScript Objects
+
+* [8.1: Objects](8-javascript-objects/8-1-objects.md)
 

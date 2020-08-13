@@ -1,4 +1,4 @@
-# Program State
+# 6.1: Program State
 
 Let's implement a main function that remembers something that happened during a previous run of the function.
 

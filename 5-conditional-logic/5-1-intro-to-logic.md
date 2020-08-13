@@ -1,4 +1,4 @@
-# Intro to Logic
+# 5.1: Intro to Logic
 
 So far what we have coded are basically calculators or, if the program deals with words, programs that fill in the blanks.
 

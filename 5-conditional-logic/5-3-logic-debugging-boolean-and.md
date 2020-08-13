@@ -1,4 +1,4 @@
-# Logic Debugging, Boolean - AND
+# 5.3: Logic Debugging, Boolean "And"
 
 ## input / output control
 

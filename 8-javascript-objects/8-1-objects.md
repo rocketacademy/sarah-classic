@@ -1,4 +1,4 @@
-# Objects
+# 8.1: Objects
 
 Now we'll continue to build programs of increasing complexity.
 
