@@ -20,6 +20,12 @@ We'll use a git command to download a copy of the code. We won't be concerned ye
 git clone <repo url> folder-name
 ```
 
+
+
+![](../.gitbook/assets/github-clone.png)
+
+
+
 {% hint style="info" %}
 Go to the starter code repo and download a copy of the repo.  
   
