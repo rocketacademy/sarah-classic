@@ -11,7 +11,7 @@ description: 'Batch 1: 15 Aug - 12 Sep'
 3. Hariz
 4. Fido
 5. Jiahong
-6. Muhammad Firdaus
+6. Firdaus
 7. Pinn
 8. Paolo
 9. Sophia
@@ -25,7 +25,7 @@ description: 'Batch 1: 15 Aug - 12 Sep'
 4. Inna
 5. Kenrick
 6. Malim
-7. Sayf Zamir
+7. Sayf
 8. Shane
 9. Veena
 10. Wei Jun
