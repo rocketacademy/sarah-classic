@@ -18,21 +18,25 @@ cd ~/code
 `git clone` the starter code:
 
 ```bash
-git clone https://github.com/rocketacademy/basic-js-starter.git basic-data
+git clone https://github.com/rocketacademy/swe101-starter-code.git first-program
 ```
 
-This will create a `basic-data` directory inside your `code` directory.
+This will create a `first-program` directory inside your `code` directory.
 
-`cd` into the `basic-data` directory.
+`cd` into the `first-program` directory.
 
 ```bash
-cd basic-data
+cd first-program
+```
+
+Install linter packages to auto-format your JavaScript code in `script.js`.
+
+```bash
+npm install
 ```
 
 Open the `index.html` file in Chrome.
 {% endhint %}
-
-### \*\*\*\*
 
 ### **Default Template Behaviour**
 
