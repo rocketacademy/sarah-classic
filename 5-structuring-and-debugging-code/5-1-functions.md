@@ -175,3 +175,67 @@ We are doing this in `main` - it is everything that we want to happen when the s
 
 Given the above function examples we can also say that a function can be a data calculation given some inputs. We can define an action as the kind of data it takes in and the kinds of outputs it gives.
 
+{% hint style="info" %}
+**1 Duplicate and run the code above.  
+  
+2 Errors - take out `return` and `input` from the examples. What happens? Why?**
+
+**3 Apps**
+
+For the following apps try to encapsulate each distinct operation inside a function that returns a value. e.g., `daysToMinutes(3)`.
+
+**Juice Wedding**  
+  
+It takes 4 oranges to make a 90ml glass of orange juice.
+
+When planning your wedding, you need to know how many oranges to buy so all your guests have juice.
+
+The user will enter a number of guests and the app will say how many oranges are needed and how many liters of orange juice you would get.  
+
+
+**SG Hugs**  
+  
+Everyone has a different gauge for how long they like to hug.  
+  
+The user can enter a number of seconds they like to hug on average, and the app will calculate how many years it will take to hug everyone in Singapore.  
+  
+You are of course allowed 9 hours a day to sleep and eat.
+
+  
+**House Paint**  
+  
+You want to be able to estimate the price of painting your home.
+
+Your designer home only has windows and doors that are the same size- 90cm x 150cm. 8 windows and 3 doors.
+
+Each room in your 6 room house is the same size: 3m x 3m.
+
+Paint will cover about 300 square meters a liter. You want to use 2 coats.
+
+The user can enter a dollar amount of paint per liter and the app will calculate how much it will cost.
+
+**Train Speed**
+
+  
+Two trains are going to leave for the trip north to Tokyo.
+
+Train 1 is traveling 200kph. It will reach Tokyo in 2 hours.
+
+Train 2 is newer and can travel faster.
+
+A bird lands on the track and delays the 2nd train.  
+  
+The app will help the conductor by allowing him to enter the current amount of minutes they are delayed and then calculating how fast they need to travel to arrive at Tokyo at the same time as train 1. Output the speed in kph in the grey box.  
+  
+**More Comfortable**  
+  
+**Clock**  
+  
+A user can enter the number of minutes past 1pm and the app will calculate the angle between the hour and minute hand.  
+  
+  
+   
+{% endhint %}
+
+
+
