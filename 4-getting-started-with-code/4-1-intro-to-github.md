@@ -1,4 +1,4 @@
-# 4.1:Intro to GitHub
+# 4.1: Intro to GitHub
 
 GitHub is the web application that hosts our git repositories in the cloud.
 

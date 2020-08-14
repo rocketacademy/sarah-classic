@@ -27,7 +27,7 @@
 
 ## 4: Getting Started with Code
 
-* [4.1:Intro to GitHub](4-getting-started-with-code/4-1-intro-to-github.md)
+* [4.1: Intro to GitHub](4-getting-started-with-code/4-1-intro-to-github.md)
 * [4.2: Our First Program](4-getting-started-with-code/4-2-our-first-program.md)
 
 ## 5: Structuring and Debugging Code
