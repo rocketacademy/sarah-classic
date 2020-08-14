@@ -1,5 +1,7 @@
 # 2.1: Command Line
 
+{% embed url="https://youtu.be/iRnFyFMvH1o" %}
+
 The command line is the interface to the computer that consists only of text characters.
 
 We'll be using the command line to run our Git version control system for all the code we write.
