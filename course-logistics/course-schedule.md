@@ -4,48 +4,47 @@ description: What and when we will learn
 
 # 📆 Course Schedule
 
-## Course Dates and Deliverables
-
 The following are live class times for Batch 1 \(15 Aug - 12 Sep\). You can add these to your calendar via this [Google Calendar Link](https://calendar.google.com/calendar/ical/c_gk08cvi7junnsufojhgb9cse0g%40group.calendar.google.com/private-0ad96a6295ce32db230e9bf3a742c33b/basic.ics).
 
 Each day's deliverables are due by the **start** of that day's class. Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
 
 ### Day 1: Sat 15 Aug \(1-3pm\)
 
-* 1.1: What is Coding?
-* 1.2: Web Browsers
-* 2.1: Operations
-* 2.2: Variables
-* 2.3: Our First Program
-* 3.1: Command Line
-* 3.2: Git
+* [1.1: What is Coding?](../1-introduction/1-1-what-is-coding.md)
+* [1.2: Web Browsers](../1-introduction/1-2-web-browsers.md)
+* [2.1: Command Line](../2-organising-and-managing-code-files/2-1-command-line.md)
+* [2.2: Git](../2-organising-and-managing-code-files/2-2-git.md)
+* [3.1: Operations](../3-basic-data-manipulation/3-1-operations.md)
+* [3.2: Variables](../3-basic-data-manipulation/3-2-variables.md)
+* [4.1: Intro to GitHub](../4-getting-started-with-code/4-1-intro-to-github.md)
+* [4.2: Our First Program](../4-getting-started-with-code/4-2-our-first-program.md)
 
 ### Day 2: Tue 18 Aug \(7-9pm\)
 
-* 4.1: Functions
-* 4.2: Errors
-* 5.1: Intro to Logic
+* [5.1: Functions](../5-structuring-and-debugging-code/5-1-functions.md)
+* [5.2: Errors](../5-structuring-and-debugging-code/5-2-errors.md)
+* [6.1: Intro to Logic](../6-conditional-logic/6-1-intro-to-logic.md)
 
 ### Day 3: Thu 20 Aug \(7-9pm\)
 
-* 5.2: Boolean "Or"
-* 5.3: Boolean "And"
+* [6.2: Boolean "Or"](../6-conditional-logic/6-2-pseudo-code-boolean-or.md)
+* [6.3: Boolean "And"](../6-conditional-logic/6-3-logic-debugging-boolean-and.md)
 
 ### Day 4: Sat 22 Aug \(1-3pm\)
 
-* 6.1: Program State
-* 6.2: Input Validation
+* [7.1: Program State](../7-managing-state-and-input-validation/7-1-program-state.md)
+* [7.2: Input Validation](../7-managing-state-and-input-validation/7-2-input-validation.md)
 * Scissors Paper Stone \(In Progress\)
 
 ### Day 5: Tue 25 Aug \(7-9pm\)
 
 **Project Due: Scissors Paper Stone**
 
-* 7.1: Arrays
+* [8.1: Arrays](../8-1-arrays.md)
 
 ### Day 6: Thu 27 Aug \(7-9pm\)
 
-* 7.2: Loops
+* [8.2: Loops](../8-2-loops.md)
 
 ### Day 7: Sat 29 Aug \(1-3pm\)
 
@@ -55,7 +54,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 **Project Due: Tic Tac Toe**
 
-* 8.1: Objects
+* [9.1: Objects](../9-javascript-objects/9-1-objects.md)
 
 ### Day 9: Thu 3 Sep \(7-9pm\)
 
@@ -81,119 +80,4 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 **Project Due: Advanced Card Game**
 
 Project Presentations and Class Party 🥳
-
-## Course Outline
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Day</th>
-      <th style="text-align:left">Week 1</th>
-      <th style="text-align:left">Week 2</th>
-      <th style="text-align:left">Week 3</th>
-      <th style="text-align:left">Week 4</th>
-      <th style="text-align:left">Week 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Sat</td>
-      <td style="text-align:left">
-        <ol>
-          <li>What is Coding?</li>
-          <li>Web Browsers</li>
-          <li>Operations</li>
-          <li>Variables</li>
-          <li>Our First Program</li>
-          <li>Command Line</li>
-          <li>Git</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Program State</li>
-          <li>Input Validation</li>
-          <li>Scissors Paper Stone</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <ol>
-          <li>Tic Tac Toe</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Card Game</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <p><b>[Due: Advanced Card Game]</b>
-        </p>
-        <ol>
-          <li>Project presentations</li>
-          <li>Class party</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tue</td>
-      <td style="text-align:left">
-        <ol>
-          <li>Functions</li>
-          <li>Errors</li>
-          <li>Intro to Logic</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <p><b>[Due: Scissors Paper Stone]</b>
-        </p>
-        <ol>
-          <li>Arrays</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <p><b>[Due: Tic Tac Toe]</b>
-        </p>
-        <ol>
-          <li>Objects</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <p><b>[Due: Card Game]</b>
-        </p>
-        <ol>
-          <li>Advanced Game Logic</li>
-        </ol>
-      </td>
-      <td style="text-align:left">No class</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Thu</td>
-      <td style="text-align:left">
-        <ol>
-          <li>Boolean &quot;Or&quot;</li>
-          <li>Boolean &quot;And&quot;</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Loops</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Shuffling</li>
-          <li>Card Deck Generation</li>
-        </ol>
-      </td>
-      <td style="text-align:left">
-        <ol>
-          <li>Advanced Topics</li>
-        </ol>
-      </td>
-      <td style="text-align:left">No class</td>
-    </tr>
-  </tbody>
-</table>
 
