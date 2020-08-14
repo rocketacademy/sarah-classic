@@ -9,6 +9,8 @@
 * [📆 Course Schedule](course-logistics/course-schedule.md)
 * [🚌 Section Assignments](course-logistics/section-assignments.md)
 * [♥️ Social Rules](course-logistics/love-social-rules.md)
+* [🔭 Exercises](course-logistics/exercises/README.md)
+  * [Day 1](course-logistics/exercises/day-1.md)
 
 ## 1: Introduction
 
