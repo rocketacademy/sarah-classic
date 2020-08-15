@@ -1,4 +1,4 @@
-# Day 1 - git & starter code
+# Day 1: Git and Starter Code
 
 ### Git Practice
 
