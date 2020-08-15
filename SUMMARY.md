@@ -53,10 +53,8 @@
 
 ## 8: Arrays and Iteration
 
----
-
-* [8.1: Arrays](8-1-arrays.md)
-* [8.2: Loops](8-2-loops.md)
+* [8.1: Arrays](8-arrays-and-iteration/8-1-arrays.md)
+* [8.2: Loops](8-arrays-and-iteration/8-2-loops.md)
 
 ## 9: JavaScript Objects
 

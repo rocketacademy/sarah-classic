@@ -188,19 +188,15 @@ var main = function (input) {
 
 Let's implement a dice game that keeps track of every guess the user makes.
 
-```javascript
-var guesses = [];
+\`\`\`javascript var guesses = \[\];
 
-var main = function (input) {
-  guesses.push(input);
+var main = function \(input\) { guesses.push\(input\);
 
-  var randomDiceNumber = diceRoll();
+var randomDiceNumber = diceRoll\(\);
 
-  var myOutputValue = 'you lose. Your guesses: ' + guesses;
+var myOutputValue = 'you lose. Your guesses: ' + guesses;
 
-  if (randomDiceNumber == input) {
-    myOutputValue = 'you win. Your guesses: ' + guesses;
-  }
+if \(randomDiceNumber == input\) { myOutputValue = 'you win. Your guesses: ' + guesses; }
 
-  return myOutputValue;
-};
+return myOutputValue; };
+
