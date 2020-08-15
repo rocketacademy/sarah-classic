@@ -9,6 +9,7 @@
 * [📆 Course Schedule](course-logistics/course-schedule.md)
 * [🚌 Section Assignments](course-logistics/section-assignments.md)
 * [♥️ Social Rules](course-logistics/love-social-rules.md)
+* [Exercises](course-logistics/exercises.md)
 * [👩🏽‍🤝‍👩🏻 Pairing Exercises](course-logistics/pairing-exercises/README.md)
   * [Day 1: Git and Starter Code](course-logistics/pairing-exercises/day-1-git-and-starter-code.md)
 

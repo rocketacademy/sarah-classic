@@ -23,41 +23,42 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [5.1: Functions](../5-structuring-and-debugging-code/5-1-functions.md)
 * [5.2: Errors](../5-structuring-and-debugging-code/5-2-errors.md)
+
+### **Day 3: Thu 20 Aug \(7-9pm\)**
+
 * [6.1: Intro to Logic](../6-conditional-logic/6-1-intro-to-logic.md)
-
-### Day 3: Thu 20 Aug \(7-9pm\)
-
 * [6.2: Boolean "Or"](../6-conditional-logic/6-2-pseudo-code-boolean-or.md)
-* [6.3: Boolean "And"](../6-conditional-logic/6-3-logic-debugging-boolean-and.md)
 
 ### Day 4: Sat 22 Aug \(1-3pm\)
 
+* [6.3: Boolean "And"](../6-conditional-logic/6-3-logic-debugging-boolean-and.md)
 * [7.1: Program State](../7-managing-state-and-input-validation/7-1-program-state.md)
-* [7.2: Input Validation](../7-managing-state-and-input-validation/7-2-input-validation.md)
 * Scissors Paper Stone \(In Progress\)
 
 ### Day 5: Tue 25 Aug \(7-9pm\)
 
 **Project Due: Scissors Paper Stone**
 
-* [8.1: Arrays](../8-1-arrays.md)
+* [7.2: Input Validation](../7-managing-state-and-input-validation/7-2-input-validation.md)
 
 ### Day 6: Thu 27 Aug \(7-9pm\)
 
+* [8.1: Arrays](../8-1-arrays.md)
+
+### **Day 7: Sat 29 Aug \(1-3pm\)**
+
 * [8.2: Loops](../8-2-loops.md)
-
-### Day 7: Sat 29 Aug \(1-3pm\)
-
 * Tic Tac Toe \(In Progress\)
 
 ### Day 8: Tue 1 Sep \(7-9pm\)
 
 **Project Due: Tic Tac Toe**
 
-* [9.1: Objects](../9-javascript-objects/9-1-objects.md)
+* Array Data Structures
 
 ### Day 9: Thu 3 Sep \(7-9pm\)
 
+* [9.1: Objects](../9-javascript-objects/9-1-objects.md)
 * Shuffling \(In Progress\)
 * Card Deck Generation \(In Progress\)
 
