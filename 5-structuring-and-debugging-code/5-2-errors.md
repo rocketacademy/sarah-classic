@@ -41,9 +41,9 @@ You'll get the error: `Uncaught SyntaxError: Unexpected token ')'`. This may loo
 
 First of all, the console is helpfully telling you which line of your code the error is occurring on.
 
-Specifically in this case the error was a missing parentheses. Javascript knew because of the `function` keyword that a function was about to be defined. It was waiting for an opening left parentheses. When it found a right parentheses it knew for sure that something was wrong.
+Specifically in this case the error was a missing parenthesis. Javascript knew because of the `function` keyword that a function was about to be defined. It was waiting for an opening left parenthesis. When it found a right parenthesis it knew for sure that something was wrong.
 
-There are some specific rules about why JavaScript can't know that a left parentheses was missing \( rather than a right parentheses is incorrect \) which are outside the scope of this course, but in practice, unfortunately, you as the programmer will have to know that "I didn't expect a right parentheses" infers that it was looking for a left parentheses.
+There are some specific rules about why JavaScript can't know that a left parenthesis was missing \( rather than a right parenthesis is incorrect \) which are outside the scope of this course, but in practice, unfortunately, you as the programmer will have to know that "I didn't expect a right parenthesis" infers that it was looking for a left parenthesis.
 
 A significant amount of the feedback you will get from the computer will be these semi-cryptic messages about why your code is wrong.
 
