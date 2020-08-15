@@ -76,6 +76,14 @@ If you want two words in your file, separate them with a dash.
 touch my-filename.txt
 ```
 
+### mkdir
+
+Create a directory.
+
+```text
+mkdir skateboards
+```
+
 ### cp
 
 Copy files or folders.
