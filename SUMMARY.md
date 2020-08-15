@@ -9,8 +9,10 @@
 * [📆 Course Schedule](course-logistics/course-schedule.md)
 * [🚌 Section Assignments](course-logistics/section-assignments.md)
 * [♥️ Social Rules](course-logistics/love-social-rules.md)
-* [👩🏽‍🤝‍👩🏻 Pairing Exercises](course-logistics/pairing-exercises/README.md)
-  * [Day 1: Basic File and Data Manipulation](course-logistics/pairing-exercises/day-1-basic-file-and-data-manipulation.md)
+
+## Pairing Exercises
+
+* [Day 1: Basic File and Data Manipulation](pairing-exercises/day-1-basic-file-and-data-manipulation.md)
 
 ## 1: Introduction
 

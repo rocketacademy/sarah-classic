@@ -1,2 +1,0 @@
-# 👩🏽‍🤝‍👩🏻 Pairing Exercises
-
