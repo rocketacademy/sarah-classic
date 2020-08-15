@@ -8,23 +8,15 @@ If you need to, refer to the [command line cheatsheet](../../2-organising-and-ma
 
 Follow the instructions in the order they appear. 
 
-Create some poetry and save and edit them using the command line and Git.
-
-Open the command line and create a folder for your poetry.
-
-Inside the folder, create a text file in the command line and open it in VSCode.
-
-Write a haiku about trees and save the file. \(A haiku is a Japanese poem that follows the convention of 5 syllables 7 syllable 5 syllable\).
-
-Create a Git repo in the folder and add and commit the poetry file.
-
-Edit your poem to reference leaves. Make a commit for your changes.
-
-Add a second poem about winter in another file. Commit this file to the repo.
-
-Title your poem about trees. Add the title to the text in the file, and change the filename to reflect the title. Commit these changes.
-
-Delete your poem about winter from the repo. \(Delete the file and commit the changes\).
+1. Create some poetry and save and edit them using the command line and Git.
+2. Open the command line and create a folder for your poetry.
+3. Inside the folder, create a text file in the command line and open it in VSCode.
+4. Write a haiku about trees and save the file. \(A haiku is a Japanese poem that follows the convention of 5 syllables 7 syllable 5 syllable\).
+5. Create a Git repo in the folder and add and commit the poetry file.
+6. Edit your poem to reference leaves. Make a commit for your changes.
+7. Add a second poem about winter in another file. Commit this file to the repo.
+8. Title your poem about trees. Add the title to the text in the file, and change the filename to reflect the title. Commit these changes.
+9. Delete your poem about winter from the repo. \(Delete the file and commit the changes\).
 
 ## Data Manipulation with Operations and Variables
 
