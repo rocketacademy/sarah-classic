@@ -21,27 +21,33 @@ module.exports = {
       processor: 'markdown/markdown',
     },
   ],
+  // ESLint settings for Gitbook JavaScript
   rules: {
-
-    // settings for gitbook JavaScript
-
-    // gitbook formatting
+    // Gitbook formatting
     semi: 'off',
     'no-unreachable': 'off',
     'no-unused-vars': 'off',
+    // Disable func-names rule so that we can have anonymous functions
     'func-names': 'off',
     'no-unused-expressions': 'off',
     'no-undef': 'off',
     'no-console': 'off',
 
-    // course curriculum exceptions
+    // Course curriculum exceptions
+    // TODO(akira): Please clarify why we have this
     'no-restricted-globals': 'off',
+    // Don't require vars to be declared at the top
     'vars-on-top': 'off',
+    // Enable var instead of just let and const
     'no-var': 'off',
+    // Enable + sign to concatenate strings
     'prefer-template': 'off',
+    // Don't enforce ===
     eqeqeq: 'off',
+    // Don't require a += b instead of a = a + b
     'operator-assignment': 'off',
 
+    // Spell checker
     'spellcheck/spell-checker': [1,
       {
         comments: true,
