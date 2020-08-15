@@ -1,5 +1,7 @@
 # 5.2: Errors
 
+{% embed url="https://youtu.be/ySlMcE14Jvg" %}
+
 Your program will have errors. In fact, errors are an intrinsic part of developing software for everyone, not just beginners.
 
 Let's talk about a few kinds of errors you might have seen so far.
