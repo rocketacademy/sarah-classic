@@ -43,7 +43,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 ### Day 6: Thu 27 Aug \(7-9pm\)
 
-* [8.1: Arrays]()
+* [8.1: Arrays](../8-arrays-and-iteration/8-1-arrays.md)
 
 ### **Day 7: Sat 29 Aug \(1-3pm\)**
 
