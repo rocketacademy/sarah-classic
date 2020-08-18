@@ -1,5 +1,9 @@
 # 6.2: Pseudo Code, Boolean "Or"
 
+{% embed url="https://www.youtube.com/watch?v=3QgxbnIOYnw" %}
+
+
+
 Let's change the game so that if the guess is within 1 the user still wins the game.
 
 In order to encode this we need some other conditional structures- _boolean operators_.
