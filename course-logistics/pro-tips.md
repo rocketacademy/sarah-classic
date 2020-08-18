@@ -2,7 +2,7 @@
 description: Tips for better programming
 ---
 
-# 👩‍💻 Pro Tips
+# 💡 Pro Tips
 
 ## Window Snapping
 

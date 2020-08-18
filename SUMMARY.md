@@ -9,7 +9,7 @@
 * [📆 Course Schedule](course-logistics/course-schedule.md)
 * [🚌 Section Assignments](course-logistics/section-assignments.md)
 * [❤️ Social Rules](course-logistics/love-social-rules.md)
-* [👩‍💻 Pro Tips](course-logistics/pro-tips.md)
+* [💡 Pro Tips](course-logistics/pro-tips.md)
 
 ## Pairing Exercises
 
@@ -43,8 +43,8 @@
 ## 6: Conditional Logic
 
 * [6.1: Intro to Logic](6-conditional-logic/6-1-intro-to-logic.md)
-* [6.2: Pseudo Code, Boolean "Or"](6-conditional-logic/6-2-pseudo-code-boolean-or.md)
-* [6.3: Logic Debugging, Boolean "And"](6-conditional-logic/6-3-logic-debugging-boolean-and.md)
+* [6.2: Pseudo Code, Boolean Or](6-conditional-logic/6-2-pseudo-code-boolean-or.md)
+* [6.3: Logic Debugging, Boolean And](6-conditional-logic/6-3-logic-debugging-boolean-and.md)
 
 ## 7: Managing State and Input Validation
 

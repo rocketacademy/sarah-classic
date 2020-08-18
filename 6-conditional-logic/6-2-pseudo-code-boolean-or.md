@@ -1,4 +1,4 @@
-# 6.2: Pseudo Code, Boolean "Or"
+# 6.2: Pseudo Code, Boolean Or
 
 {% embed url="https://www.youtube.com/watch?v=3QgxbnIOYnw" %}
 
