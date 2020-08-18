@@ -133,6 +133,6 @@ For each app `clone` a new copy of the starter code using git.
 
 #### **Multiples**
 
-The user wins the game if the dice roll is 2x the guess. e.g., the user guesses 1 and the dice roll is 2. The user guesses 2 and the dice roll is 4, etc. Obviously the user can / should only guess even numbers. (but the game isn't restricting what they can guess)
-
+The user wins the game if the dice roll is 2x the guess. e.g., the user guesses 1 and the dice roll is 2. The user guesses 2 and the dice roll is 4, etc. Obviously the user can / should only guess even numbers. \(but the game isn't restricting what they can guess\)
 {% endhint %}
+
