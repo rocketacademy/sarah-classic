@@ -31,6 +31,14 @@ In SWE101, we want to start acting like senior engineers. Your section wants to 
 2. What is your hypothesis?
 3. What have you tried?
 
+### Sharing Code
+
+When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates a code block with monospaced text for easier reading.
+
+For variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the word to format that word as code.
+
+For multi-line blocks of code like functions, we can use triple backtick \(\`\`\`\) at the start and end of the code to format that code in Slack.
+
 ## Using VSCode Effectively
 
 ### Opening Folders in VSCode
