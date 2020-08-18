@@ -29,11 +29,19 @@ When working with code, it's often necessary to jump between different files in 
 
 ![What my &quot;rocket&quot; directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200815-17.52.55.png)
 
-### Editing Variables in Multiple Places Concurrently
+### Editing a Variable Name in Multiple Places Concurrently
 
-Sometimes we want to change the name of a variable in our code, a common practice in [refactoring](https://en.wikipedia.org/wiki/Code_refactoring). If that variable is used in multiple places, we 
+Sometimes we want to change the name of a variable in our code, a common practice in [refactoring](https://en.wikipedia.org/wiki/Code_refactoring). If that variable is used in multiple places, we may be tempted to edit each instance individually. Luckily VSCode has a convenient feature that allows us to edit all instances of the same variable simultaneously, saving time and our fingers.
 
-## 
+#### Within a Single File
+
+1. Move your cursor to the first instance of the variable
+2. Press/hold Ctrl+D on Windows or Cmd+D on Mac until all instances of that variable are selected
+3. Use left or right arrow keys to enable cursors on each instance of that variable and edit them simultaneously
+
+#### Across Multiple Files
+
+VSCode has a [search and replace feature](https://code.visualstudio.com/docs/editor/codebasics#_search-across-files) that allows us to edit all instances of a given string in multiple files at once.
 
 ## Organising Folders for SWE101
 
