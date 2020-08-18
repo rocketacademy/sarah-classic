@@ -43,6 +43,10 @@ Sometimes we want to change the name of a variable in our code, a common practic
 
 VSCode has a [search and replace feature](https://code.visualstudio.com/docs/editor/codebasics#_search-across-files) that allows us to edit all instances of a given string in multiple files at once.
 
+### Hide Minimap
+
+The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in SWE101 and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View &gt; Show Minimap in the menu bar.
+
 ## Organising Folders for SWE101
 
 In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep things organised, I recommend the following folder structure. Note that all files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line.
