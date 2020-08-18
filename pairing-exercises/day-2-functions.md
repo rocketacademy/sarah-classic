@@ -2,7 +2,7 @@
 
 ## Data Transformations with Functions
 
-For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`.
+For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`. When cloning, put each app in a separate folder, like the folder structure in [Pro Tips](../course-logistics/pro-tips.md#organising-folders-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 
 For some apps you may need to google things. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
 
@@ -16,7 +16,7 @@ Your aircon uses 2 KW/h. Electricity is $0.20 a KW/h. The user can enter the num
 
 ### Ice Machine
 
-The ice machine at your hotel can produce 120 pounds of ice a day. An average cube weighs 1.5 grams. The user will enter the number of guests at a hotel event. The app will calculate how long the hotel needs to run the machine for @ two drinks per guest, 4 cubes per drink.
+The ice machine at your hotel can produce 120 pounds of ice a day. An average cube weighs 1.5 grams. The user will enter the number of guests at a hotel event. The app will calculate how long the hotel needs to run the machine for @ 2 drinks per guest, 4 cubes per drink.
 
 ### Mortgage
 
