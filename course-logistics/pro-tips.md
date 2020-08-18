@@ -16,7 +16,7 @@ Window snapping is built-in to windows, and you can take advantage of it with in
 
 Window snapping is not built-in to MacOS, and we will need to download an external program to snap windows. We recommend any of the following. 
 
-1. [Magnet](https://magnet.crowdcafe.com/) \($2.99\) is an actively maintained window snapping app on the Mac App Store.
+1. [Magnet](https://magnet.crowdcafe.com/) \(S$5\) is an actively maintained window snapping app on the Mac App Store.
 2. [Spectacle](https://www.spectacleapp.com/) \(free\) is similar to Magnet, but is no longer actively maintained, which means that it may stop working when Apple makes changes to MacOS.
 
 ## Using VSCode Effectively
