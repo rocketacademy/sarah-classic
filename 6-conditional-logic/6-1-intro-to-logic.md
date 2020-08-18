@@ -1,5 +1,7 @@
 # 6.1: Intro to Logic
 
+{% embed url="https://youtu.be/oHCWq\_1g2v8" %}
+
 So far what we have coded are basically calculators or, if the program deals with words, programs that fill in the blanks.
 
 The next level of complexity is to create progams that, given some possible inputs, give output based on some logical decision.
