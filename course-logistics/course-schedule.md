@@ -27,11 +27,11 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 ### **Day 3: Thu 20 Aug \(7-9pm\)**
 
 * [6.1: Intro to Logic](../6-conditional-logic/6-1-intro-to-logic.md)
-* [6.2: Boolean "Or"](../6-conditional-logic/6-2-pseudo-code-boolean-or.md)
+* [6.2: Boolean Or](../6-conditional-logic/6-2-boolean-or.md)
 
 ### Day 4: Sat 22 Aug \(1-3pm\)
 
-* [6.3: Boolean "And"](../6-conditional-logic/6-3-logic-debugging-boolean-and.md)
+* [6.3: Boolean And](../6-conditional-logic/6-3-logic-debugging-boolean-and.md)
 * [7.1: Program State](../7-managing-state-and-input-validation/7-1-program-state.md)
 * Scissors Paper Stone \(In Progress\)
 
