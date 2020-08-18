@@ -10,7 +10,7 @@ On both Windows and MacOS, there are features to automatically snap windows to s
 
 ### Windows
 
-Window snapping is built-in to windows, and you can take advantage of it with instructions [here](https://support.microsoft.com/en-sg/help/4027324/windows-10-snap-your-windows).
+Window snapping is built-in to Windows, and you can take advantage of it with instructions [here](https://support.microsoft.com/en-sg/help/4027324/windows-10-snap-your-windows).
 
 ### Mac
 
