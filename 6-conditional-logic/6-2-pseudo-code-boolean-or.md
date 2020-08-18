@@ -127,3 +127,35 @@ if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumb
 
 We'll find a use for the other logical operator AND \(`&&`\) in the next section.
 
+
+
+## Exercises
+
+{% hint style="info" %}
+### **1\) Duplicate and run the code above.**
+
+### **2\) Apps**
+
+For each app `clone` a new copy of the starter code using git.
+
+#### **Secret Words**
+
+Change the original secret word program so that the user could enter more than one secret word- they can enter "neat noodles", "awesome ayam", "delicious dumplings" or the original word to see the secret message.
+
+#### **Easier Dice Game**
+
+Change the dice game so that it's even easier. If the user guess is within 2 of the dice roll, they still win.
+
+#### **Even Easier Dice Game**
+The user can guess by putting in one of two values: "odd" or "even". They win if the dice roll is odd or even.
+
+### More Comfortable
+
+#### **Combo Game**
+Change your dice game so that if the user types in "paletable papaya" instead of a dice guess, they also win.
+
+#### **Even Easier Dice Game Refactor**
+
+There is a way to mathematically verify that a number is even using the `%` operator - the modulus operator. Google the solution to tell if a number is even in javascript, and what the modulus operator does and refactor the logic in the game to use it.
+
+{% endhint %}
