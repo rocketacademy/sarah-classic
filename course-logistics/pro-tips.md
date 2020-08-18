@@ -73,6 +73,10 @@ VSCode has a [search and replace feature](https://code.visualstudio.com/docs/edi
 
 The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in SWE101 and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View &gt; Show Minimap in the menu bar.
 
+## Watching YouTube Videos at Different Speeds
+
+If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop&hl=en).
+
 ## Organising Folders for SWE101
 
 In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep things organised, I recommend the following folder structure. Note that all files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line.
