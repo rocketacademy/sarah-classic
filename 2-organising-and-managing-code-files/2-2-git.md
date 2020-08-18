@@ -2,8 +2,6 @@
 
 {% embed url="https://youtu.be/GudllO59HJQ" %}
 
-## 
-
 ## Version Control
 
 Version control is a system that allows you to track the changes over the lifetime of a file. A system like this isn't limited to code, and isn't limited to text files. It could be used for video files or other assets, or other text files such as contracts or articles.
