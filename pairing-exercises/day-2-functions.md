@@ -8,7 +8,7 @@ For some apps you may need to google things. Remember that as pairs, you are als
 
 ### Singtel
 
-Create a calculator for the 8GB data plan. The user will enter how many GB they used this month and the app will calculate the per-GB cost.
+Create a calculator for the 8GB data plan which costs $19.99. The user will enter how many GB they used this month and the app will calculate the per-GB cost.
 
 ### Air Conditioner
 
