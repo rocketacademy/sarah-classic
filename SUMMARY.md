@@ -14,6 +14,7 @@
 ## Pairing Exercises
 
 * [Day 1: Basic File and Data Manipulation](pairing-exercises/day-1-basic-file-and-data-manipulation.md)
+* [Day 2: Functions](pairing-exercises/day-2-functions.md)
 
 ## 1: Introduction
 
