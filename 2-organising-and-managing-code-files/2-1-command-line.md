@@ -241,7 +241,7 @@ cp cakes.txt cupcakes.txt
 Copy a folder
 
 ```text
-cp pastries new-pasteries 
+cp -R pastries new-pastries 
 ```
 
 Move a file or folder
