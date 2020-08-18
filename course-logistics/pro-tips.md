@@ -19,6 +19,18 @@ Window snapping is not built-in to MacOS, and we will need to download an extern
 1. [Magnet](https://magnet.crowdcafe.com/) \(S$5\) is an actively maintained window snapping app on the Mac App Store.
 2. [Spectacle](https://www.spectacleapp.com/) \(free\) is similar to Magnet, but is no longer actively maintained, which means that it may stop working when Apple makes changes to MacOS.
 
+## Using Slack Effectively
+
+### Asking Questions
+
+The ability to ask technical questions effectively is one of the biggest differences between junior and senior engineers. Junior engineers may ask questions like: "It doesn't work. Could you help?" Senior engineers tend to ask questions more like: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it tells me that this may be related to Y, but I don't see Y anywhere in the system."
+
+In SWE101, we want to start acting like senior engineers. Your section wants to help you, and Slack is a convenient way to get help 24/7, but for others to help effectively, we need to give them context. When asking questions in Slack, try to include the following, while including any relevant context or google results.
+
+1. What is the problem?
+2. What is your hypothesis?
+3. What have you tried?
+
 ## Using VSCode Effectively
 
 ### Opening Folders in VSCode
