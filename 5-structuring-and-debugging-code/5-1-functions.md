@@ -222,9 +222,9 @@ Train 1 is traveling 200kph. It will reach Tokyo in 2 hours.
 
 Train 2 is newer and can travel faster.
 
-A bird lands on the track and delays the 2nd train.  
+A bird lands on the track and delays Train 2.  
   
-The app will help the conductor by allowing him to enter the current amount of minutes they are delayed and then calculating how fast they need to travel to arrive at Tokyo at the same time as train 1. Output the speed in kph in the grey box.
+The app will help the conductor by allowing him to enter the current amount of minutes they are delayed and then calculating how fast they need to travel to arrive at Tokyo at the same time as Train 1. Output the speed in kph in the grey box.
 
 ### More Comfortable
 

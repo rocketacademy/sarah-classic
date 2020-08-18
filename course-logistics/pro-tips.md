@@ -19,13 +19,21 @@ Window snapping is not built-in to MacOS, and we will need to download an extern
 1. [Magnet](https://magnet.crowdcafe.com/) \($2.99\) is an actively maintained window snapping app on the Mac App Store.
 2. [Spectacle](https://www.spectacleapp.com/) \(free\) is similar to Magnet, but is no longer actively maintained, which means that it may stop working when Apple makes changes to MacOS.
 
-## Opening Folders in VSCode
+## Using VSCode Effectively
+
+### Opening Folders in VSCode
 
 When working with code, it's often necessary to jump between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to quickly jump between files in that folder without having to File &gt; Open every time.
 
 ![What my &quot;rocket&quot; directory looks like in Finder on my Mac](../.gitbook/assets/jie-ping-20200815-17.55.48.png)
 
 ![What my &quot;rocket&quot; directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200815-17.52.55.png)
+
+### Editing Variables in Multiple Places Concurrently
+
+Sometimes we want to change the name of a variable in our code, a common practice in [refactoring](https://en.wikipedia.org/wiki/Code_refactoring). If that variable is used in multiple places, we 
+
+## 
 
 ## Organising Folders for SWE101
 
