@@ -79,7 +79,7 @@ If the course videos are too fast or too slow for you, you can watch them at slo
 
 ## Organising Folders for SWE101
 
-In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep things organised, I recommend the following folder structure. Note that all files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line.
+In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep things organised, we recommend the following folder structure. Note that all files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line.
 
 1. Host all SWE101 code in a folder called `swe101`. Keep this somewhere accessible like your  `Documents` folder.
 2. Within the `swe101` folder, for each class session \(there are 13 total\) in SWE101, create a new folder for that day. This means you will have 13 day-specific folders, such as `day1`, `day2`, ..., `day13`.
