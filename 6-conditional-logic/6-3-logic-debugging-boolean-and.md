@@ -195,10 +195,10 @@ Create new versions of the dice game for each of these winning conditions.
 
 _\(Note that you should manage your time so that you have time for next set of exercises as well! Leave time to move on to the other section.\)_
 
-* Correct within 1 for any of 2 dice.
-* Correct within 1 for all 2 dice.
-* Correct within 1 but not snake eyes.
-* Correct within 1 or snake eyes.  
+* User wins if guess is within 1 for any of 2 dice.
+* User wins if guess is within 1 for all 2 dice.
+* User wins if guess is within 1 but the user does not roll snake eyes.
+* User wins if guess is within 1 or if the user rolls snake eyes.  
 
  
 {% endhint %}
