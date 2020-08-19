@@ -125,17 +125,9 @@ the dice are NOT snake eyes
 then the user wins.
 ```
 
-#### Further Dice Conditions
+#### 
 
-Correct within 1 for any of 2 dice.
-
-Correct within 1 for all 2 dice.
-
-Correct within 1 but not snake eyes.
-
-Correct within 1 or snake eyes.
-
-## condition debugging
+## Condition Debugging
 
 You've done your pseudo-code. You've written your JavaScript code. You've controlled your logic so it can be tested. Your code could still have errors in it!
 
@@ -191,4 +183,23 @@ console.log(randomDiceNumber - 1 == input);
 Remember that it is very important to label your `console.log`s.
 
 Also remember that if your label is wrong or if your statements in the `console.log` are different from your actual code, you now have an error in your debugging code as well, making your error twice as hard to find :\)
+
+## Exercises
+
+{% hint style="info" %}
+### 1\) Duplicate and run the above code.
+
+### 2\) App
+
+Create new versions of the dice game for each of these winning conditions.
+
+_\(Note that you should manage your time so that you have time for next set of exercises as well! Leave time to move on to the other section.\)_
+
+* Correct within 1 for any of 2 dice.
+* Correct within 1 for all 2 dice.
+* Correct within 1 but not snake eyes.
+* Correct within 1 or snake eyes.  
+
+ 
+{% endhint %}
 
