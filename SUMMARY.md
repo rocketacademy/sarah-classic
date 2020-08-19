@@ -46,6 +46,7 @@
 * [6.1: Intro to Logic](6-conditional-logic/6-1-intro-to-logic.md)
 * [6.2: Boolean Or](6-conditional-logic/6-2-boolean-or.md)
 * [6.3: Logic Debugging, Boolean And](6-conditional-logic/6-3-logic-debugging-boolean-and.md)
+* [6.4 GitHub Fork](6-conditional-logic/6.4-github-fork.md)
 
 ## 7: Managing State and Input Validation
 
