@@ -18,6 +18,8 @@ As an extension, consider modifying your 4D game to make it easier to win. You c
 
 Extend your 4D game from earlier with new rules. A user wins twice as much if the number they guess is a multiple of 3. 0 is included as a multiple of 3. Consider using the `%` \(called "modulus" or "mod"\) operator, where `A % B` will return the remainder when A is divided by B.
 
+## Boolean Or
+
 ### Hawker Food Randomness
 
 The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish every day. The dishes in his repertoire are: "chicken rice", "hokkien mee", "char kway teow", "roti prata", "nasi lemak", "carrot cake", "bak kut teh", and "laksa".
@@ -25,8 +27,6 @@ The uncle at your favourite hawker stall has decided to challenge himself and se
 Use random numbers to help Uncle decide which dish to cook. The customer gets a free meal if she can guess which dish Uncle is cooking today. The customer can only input dish names.
 
 Hint: You may want to consider nested if-statements, where "nested" means 1 or more statements within another.
-
-## Boolean Or
 
 ### Hawker Food Categorisation
 
