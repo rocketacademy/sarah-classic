@@ -20,9 +20,9 @@ For clarity on rules, scissors beats paper, paper beats stone, and stone beats s
 
 ## Win-Loss Record
 
-Add [state](../7-managing-state-and-input-validation/7-1-program-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws, or each party's winning percentage if you wish.
+Add [state](../7-managing-state-and-input-validation/7-1-program-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
 
-## Name
+## User Name
 
 To make this game more personal, add a feature to collect the user's name as the first input after the page loads. We can prompt the user to enter their name first by adding to the page's HTML. Once the user submits their name, the program can return output to prompt the user to start playing Scissors Paper Stone by entering one of the 3 objects. Use the user's name to personalise win-loss record and other relevant output.
 
