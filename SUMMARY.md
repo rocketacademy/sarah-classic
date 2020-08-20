@@ -11,11 +11,15 @@
 * [❤️ Social Rules](course-logistics/love-social-rules.md)
 * [💡 Pro Tips](course-logistics/pro-tips.md)
 
-## Pairing Exercises
+## Projects
 
-* [Day 1: Basic File and Data Manipulation](pairing-exercises/day-1-basic-file-and-data-manipulation.md)
-* [Day 2: Functions](pairing-exercises/day-2-functions.md)
-* [Day 3: If Statements and Boolean Or](pairing-exercises/day-3-if-statements-and-boolean-or.md)
+* [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone.md)
+
+## Class Exercises
+
+* [Day 1: Basic File and Data Manipulation](class-exercises/day-1-basic-file-and-data-manipulation.md)
+* [Day 2: Functions](class-exercises/day-2-functions.md)
+* [Day 3: If Statements and Boolean Or](class-exercises/day-3-if-statements-and-boolean-or.md)
 
 ## 1: Introduction
 
