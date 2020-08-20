@@ -53,11 +53,11 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 ### Day 8: Tue 1 Sep \(7-9pm\)
 
-**Project Due: Tic Tac Toe**
-
-* Array Data Structures
+* 2D Arrays and nested loops
 
 ### Day 9: Thu 3 Sep \(7-9pm\)
+
+**Project Due: Tic Tac Toe**
 
 * [9.1: Objects](../9-javascript-objects/9-1-objects.md)
 * Shuffling \(In Progress\)
@@ -69,8 +69,6 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 ### Day 11: Tue 8 Sep \(7-9pm\)
 
-**Project Due: Card Game**
-
 * Advanced Game Logic \(In Progress\)
 
 ### Day 12: Thu 10 Sep \(7-9pm\)
@@ -79,7 +77,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 ### Day 13: Sat 12 Sep \(1-3pm\)
 
-**Project Due: Advanced Card Game**
+**Project Due: Card Game**
 
 Project Presentations and Class Party 🥳
 
