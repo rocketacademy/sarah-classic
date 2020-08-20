@@ -30,7 +30,9 @@ Hint: You may want to consider nested if-statements, where "nested" means 1 or m
 
 ### Hawker Food Categorisation
 
-Uncle has learned programming and wants to programmatically tell his customers whether the dish they choose has a "rice", "noodle", or "other" base. Write a program that takes a dish as input, and outputs whether they have a "rice", "noodle", or "other" base.
+Uncle has learned programming and wants to programmatically tell his customers whether the dish they choose has a "rice", "noodle", or "other" base. Write a program that takes a dish name as input, and outputs whether they have a "rice", "noodle", or "other" base.
+
+For example, if a user enters "laksa", the program should output "noodle". If a user enters "bak kut teh", the program could output "other".
 
 ## More Comfortable
 
