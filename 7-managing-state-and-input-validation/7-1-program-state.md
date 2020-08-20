@@ -1,5 +1,9 @@
 # 7.1: Program State
 
+{% embed url="https://youtu.be/oxxwcMJN8ec" %}
+
+{% embed url="https://youtu.be/xVIAh\_o4mPc" %}
+
 Let's implement a main function that remembers something that happened during a previous run of the function.
 
 ### add betting
