@@ -1,56 +1,12 @@
 # 7.1: Program State
 
-{% embed url="https://youtu.be/oxxwcMJN8ec" %}
-
-{% embed url="https://youtu.be/xVIAh\_o4mPc" %}
-
-Let's implement a main function that remembers something that happened during a previous run of the function.
-
-### add betting
-
-Let's add betting on the dice roll.
-
-To make it easy we'll begin the game with $100. Each play will bet $1. Each win will double your bet.
-
-We need to talk about a different kind of data to make this work.
-
-Let's start with a naive implementation:
-
-```javascript
-var main = function (input) {
-  var bankRoll = 100;
-
-  var bet = 1;
-
-  bankRoll = bankRoll - 1;
-
-  var randomDiceNumber = diceRoll();
-
-  var myOutputValue = 'you lose. current bank roll: ' + bankRoll;
-
-  if (randomDiceNumber == input) {
-    win = bet * 2;
-
-    bankRoll = bankRoll + win;
-
-    myOutputValue = 'you win. current bank roll: ' + bankRoll;
-  }
-
-  return myOutputValue;
-};
-```
-
-Leave the fixed random number from above in place and let's test the program.
-
-Notice that no matter if you win or lose, the bank roll is always 100.
-
-## global world state
+## Global World State
 
 Without mentioning it, our programs have so far dealt with data that only exists while `main` runs or while any other function runs.
 
 Now we will want to expand the kinds of data that our program deals with and can manipulate.
 
-## memory, holding values, current state
+## Memory, Holding Values
 
 We want to keep track **for the life of our program** what the bank roll is.
 
@@ -74,7 +30,7 @@ number
 
 If we refresh the page that value is no longer available. The life of our program has ended and started again.
 
-### main function scope
+### Main Function Scope
 
 Remember that for a `main` function like this:
 
@@ -96,34 +52,35 @@ myOutputValue
 
 This is a generic truth about values that are initialized inside a function. They are available for the life of that function, then they dissapear.
 
-### execution order
-
-Let's put some `console.log`s into the code to demonstrate this basic behavior.
-
 Note that main function runs each time the submit button is clicked.
 
 ### global state
 
-However, if we initialize the variable and then assign a value inside the function, because the variable was not **created** inside a function, we can hold on to the value.
+```javascript
+var papayaCounter = 0;
 
-You can see all that we did was move line 3 to line 1. This takes it outside of the function block and puts it into the "global scope" of the program.
+var main = function (input) {
+  var myOutputValue = 'You have ' + papayaCount + ' papayas';
+  return myOutputValue;
+};
+```
+
+## dice betting
+
+Let's add betting on the dice roll.
 
 ```javascript
 var bankRoll = 10;
 
 var main = function (input) {
-  var bet = 1;
-
-  bankRoll = bankRoll - bet;
 
   var randomDiceNumber = diceRoll();
 
   var myOutputValue = 'you lose. current bank roll: ' + bankRoll;
 
   if (randomDiceNumber == input) {
-    win = bet * 2;
 
-    bankRoll = bankRoll + win;
+    bankRoll = bankRoll + 1;
 
     myOutputValue = 'you win. current bank roll: ' + bankRoll;
   }
@@ -132,7 +89,7 @@ var main = function (input) {
 };
 ```
 
-## Game Modes
+# Game Modes
 
 We can use global state to expand the functionality of our games- they can keep track of a game mode to accept different operations and inputs.
 
@@ -160,49 +117,49 @@ Note that we get the same output until we command the program to change modes.
 
 Note that the value we set the `mode` to in the beggining is the default one it starts in.
 
-## Game with Betting and Playing Modes
+## Game Playing Modes - Enter Your Name
 
 ```javascript
-var mode = 'betting';
+var bankRoll = 10;
+var currentGameMode = 'waiting for user name';
+var userName = '';
 
 var main = function (input) {
-  var myOUtputVar = '';
 
-  if (input == 'betting') {
-    mode = 'betting';
-    myOutputValue = 'make a bet.';
+  var myOutputValue = '';
 
-    return myOutputValue;
-  }
+  if (currentGameMode == 'waiting for user name') {
+    // set the name
+    userName = input;
 
-  if (input == 'play') {
-    mode = 'play';
-  }
+    // now that we have the name, switch the mode
+    currentGameMode = 'dice game';
 
-  if (mode == 'betting') {
-    myOutputValue = 'you bet ' + input;
-    currentBet = input;
-  } else if (mode == 'play') {
-    var randomDiceNumber = diceRoll();
+    myOutputValue = 'Hello ' + userName;
 
-    myOutputValue = 'you lose. current bank roll: ' + bankRoll;
+  } else if (currentGameMode == 'dice game') {
+    // dice game logic
+    var randomDiceRoll = diceRoll();
+    myOutputValue = userName + ' you lost! you guessed: ' + input + 'you rolled: ' + randomDiceRoll + ' current bank roll: ' + bankRoll;
 
-    if (randomDiceNumber == input) {
-      win = currentBet * 2;
-
-      bankRoll = bankRoll + win;
-
-      myOutputValue = 'you win. current bank roll: ' + bankRoll;
+    if (userGuess == randomDiceRoll) {
+      bankRoll = bankRoll + 1;
+      myOutputValue = userName + ' you won! you guessed: ' + input + 'you rolled: ' + randomDiceRoll + ' your current bank roll: ' + bankRoll;
     }
   }
 
   return myOutputValue;
-}
+};
+
+var diceRoll = function () {
+  var randomDecimal = Math.random() * 6;
+  var randomInteger = Math.floor(randomDecimal);
+  var diceNumber = randomInteger + 1;
+  return diceNumber;
+};
 ```
 
-Note how lines 22-31 is the entire betting game pasted into this conditional structure.
-
-## refactoring, input control, subroutines with functions
+## Refactoring for Modes
 
 As our programs become larger and more complicated we want to be able to **refactor** our prorams to be more concise, understandable ans testable.
 
@@ -211,50 +168,49 @@ We can use functions as subroutines and use parameters and return values to help
 From the example above we can extract the dice roll part and put it into it's own function:
 
 ```javascript
-var mode = 'betting';
-
-var diceGame = function (bet) {
-  var randomDiceNumber = diceRoll();
-
-  var result = 'you lose. current bank roll: ' + bankRoll;
-
-  if (randomDiceNumber == input) {
-    win = bet * 2;
-
-    bankRoll = bankRoll + win;
-
-    result = 'you win. current bank roll: ' + bankRoll;
-  }
-
-  return result;
-};
+var bankRoll = 10;
+var currentGameMode = 'waiting for user name';
+var userName = '';
 
 var main = function (input) {
+
   var myOutputValue = '';
 
-  if (input == 'betting') {
-    mode = 'betting';
-    myOutputValue = 'make a bet.';
+  if (currentGameMode == 'waiting for user name') {
+    // set the name
+    userName = input;
 
-    return myOutputValue;
-  }
+    // now that we have the name, switch the mode
+    currentGameMode = 'dice game';
 
-  if (input == 'play') {
-    mode = 'play';
-  }
+    myOutputValue = 'Hello ' + userName;
 
-  if (mode == 'betting') {
-    myOutputValue = 'you bet ' + input;
-    currentBet = input;
-  } else if (mode == 'play') {
-    myOutputValue = diceGame(bet);
+  } else if (currentGameMode == 'dice game') {
+    myOutputValue = diceGame(userName, input);
   }
 
   return myOutputValue;
-}
+};
+
+var diceGame = function (userName, userGuess) {
+  var message = '';
+
+  // dice game logic
+  var randomDiceRoll = diceRoll();
+  message = userName + ' you lost! you guessed: ' + userGuess + 'you rolled: ' + randomDiceRoll + ' current bank roll: ' + bankRoll;
+
+  if (userGuess == randomDiceRoll) {
+    bankRoll = bankRoll + 1;
+    message = userName + ' you won! you guessed: ' + userGuess + 'you rolled: ' + randomDiceRoll + ' your current bank roll: ' + bankRoll;
+  }
+
+  return message;
+};
+
+var diceRoll = function () {
+  var randomDecimal = Math.random() * 6;
+  var randomInteger = Math.floor(randomDecimal);
+  var diceNumber = randomInteger + 1;
+  return diceNumber;
+};
 ```
-
-Notice the way that the function doesn't operate on _global_ data. We define data within the function itself, such as `bet`. This is to control the input and output data of the function.
-
-Also note how much easier the logic reads because of the way line 37 looks.
-
