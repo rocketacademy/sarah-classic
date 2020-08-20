@@ -20,13 +20,13 @@ Extend your 4D game from earlier with new rules. A user wins twice as much if th
 
 Hint: For this and following problems, you may want to consider nested if-statements, where "nested" means 1 or more statements within another.
 
-## Boolean Or
-
 ### Hawker Food Randomness
 
 The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish every day. The dishes in his repertoire are: "chicken rice", "hokkien mee", "char kway teow", "roti prata", "nasi lemak", "carrot cake", "bak kut teh", and "laksa".
 
 Use random numbers to help Uncle decide which dish to cook. The customer gets a free meal if she can guess which dish Uncle is cooking today. The customer can only input dish names.
+
+## Boolean Or
 
 ### Hawker Food Categorisation
 
