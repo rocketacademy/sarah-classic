@@ -2,39 +2,22 @@
 description: 'Batch 1: 15 Aug - 12 Sep'
 ---
 
-# 🚌 Section Assignments
+# 🚌 Section and Pairing Assignments
 
-## Section 1 \(Akira\)
+Each student in each section has a unique number from 1-10. Students have been matched such that they pair with someone different every day for as many days as possible. If your partner is not present on a given class day, we may match you with another solo student, or you may be coding solo that day.
 
-1. Al
-2. Amanda
-3. Hariz
-4. Fido
-5. Jiahong
-6. Firdaus
-7. Pinn
-8. Paolo
-9. Sophia
-10. Yingqi
-
-## Section 2 \(Kai\)
-
-1. Alvin
-2. Aveez
-3. Bryan
-4. Inna
-5. Kenrick
-6. Malim
-7. Sayf
-8. Shane
-9. Veena
-10. Wei Jun
-
-## Pairing Assignments
-
-Each student in each section has a unique number from 1-10. Students have been matched such that they pair with someone different every day for as many days as possible. Students will be assigned to the Zoom Breakout Room that corresponds to their number on each class day.
-
-If your partner is not present on a given class day, we may match you with another solo student, or you may be coding solo that day.
+| Student \# | Section 1 \(Akira\) | Section 2 \(Kai\) |
+| :--- | :--- | :--- |
+| 1 | Al | Alvin |
+| 2 | Amanda | Aveez |
+| 3 | Hariz | Bryan |
+| 4 | Fido | Inna |
+| 5 | Jiahong | Kenrick |
+| 6 | Firdaus | Malim |
+| 7 | Pinn | Sayf |
+| 8 | Paolo | Shane |
+| 9 | Sophia | Veena |
+| 10 | Yingqi | Wei Jun |
 
 | **Day** | D1, D10 | D2, D11 | D3, D12 | D4, D13 | D5 | D6 | D7 | D8 | D9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
