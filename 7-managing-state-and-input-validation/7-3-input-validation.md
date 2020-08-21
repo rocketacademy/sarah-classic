@@ -1,4 +1,4 @@
-# 7.2: Input Validation
+# 7.3: Input Validation
 
 When you bet in our dice betting game and, instead of a number, you type `papaya!` what will happen?
 

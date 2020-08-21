@@ -55,8 +55,9 @@
 
 ## 7: Managing State and Input Validation
 
-* [7.1: Program State](7-managing-state-and-input-validation/7-1-program-state.md)
-* [7.2: Input Validation](7-managing-state-and-input-validation/7-2-input-validation.md)
+* [7.1: Program Lifecycle and Global State](7-managing-state-and-input-validation/7-1-program-lifecycle-and-global-state.md)
+* [7.2: Program State for Game Modes](7-managing-state-and-input-validation/7-2-program-state-for-game-modes.md)
+* [7.3: Input Validation](7-managing-state-and-input-validation/7-3-input-validation.md)
 
 ## 8: Arrays and Iteration
 

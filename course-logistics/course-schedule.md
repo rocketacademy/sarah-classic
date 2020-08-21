@@ -27,20 +27,21 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 ### **Day 3: Thu 20 Aug \(7-9pm\)**
 
 * [6.1: Intro to Logic](../6-conditional-logic/6-1-intro-to-logic.md)
-* [6.2: Boolean Or](../6-conditional-logic/6-2-pseudo-code-boolean-or.md)
+* [6.2: Pseudo Code, Boolean Or](../6-conditional-logic/6-2-pseudo-code-boolean-or.md)
 
 ### Day 4: Sat 22 Aug \(1-3pm\)
 
 * [6.3: Boolean And and Not](../6-conditional-logic/6-3-boolean-and-and-not.md)
 * [6.4: GitHub Fork](../6-conditional-logic/6.4-github-fork.md)
-* [7.1: Program State](../7-managing-state-and-input-validation/7-1-program-state.md)
+* [7.1: Program Lifecycle and Global State](../7-managing-state-and-input-validation/7-1-program-lifecycle-and-global-state.md)
 * [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
 
 ### Day 5: Tue 25 Aug \(7-9pm\)
 
 **Project Due: Scissors Paper Stone**
 
-* [7.2: Input Validation](../7-managing-state-and-input-validation/7-2-input-validation.md)
+* [7.2: Program State for Game Modes](../7-managing-state-and-input-validation/7-2-program-state-for-game-modes.md)
+* [7.3: Input Validation](../7-managing-state-and-input-validation/7-3-input-validation.md)
 
 ### Day 6: Thu 27 Aug \(7-9pm\)
 
