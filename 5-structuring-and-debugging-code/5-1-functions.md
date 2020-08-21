@@ -25,7 +25,7 @@ We assign a function to that variable: `var kilometersToMiles = function`
 We note the beggining and end of the function `block` with **curly braces**:
 
 ```javascript
-var kilometersToMiles = function(){
+var kilometersToMiles = function() {
 
 };
 ```
@@ -45,13 +45,13 @@ return distanceInMiles;
 We define the function input called a `parameter` as `distanceInKilometers`.
 
 ```javascript
-var kilometersToMiles = function(distanceInKilometers){
+var kilometersToMiles = function(distanceInKilometers) {
 ```
 
 All together it looks like this:
 
 ```javascript
-var kilometersToMiles = function(distanceInKilometers){
+var kilometersToMiles = function(distanceInKilometers) {
 
   var distanceInMiles = distanceInKilometers * 0.62;
 
@@ -118,7 +118,7 @@ var main = function(input) {
   return myOutputValue;
 };
 
-var kilometersToMiles = function(distanceInKilometers){
+var kilometersToMiles = function(distanceInKilometers) {
 
   var distanceInMiles = distanceInKilometers * 0.62;
 
@@ -131,7 +131,7 @@ var kilometersToMiles = function(distanceInKilometers){
 ### Doubling a number
 
 ```javascript
-var double = function(number){
+var double = function(number) {
   return number * 2;
 };
 ```
@@ -139,7 +139,7 @@ var double = function(number){
 ### Kilos to pounds
 
 ```javascript
-var kilosToPounds = function(kilos){
+var kilosToPounds = function(kilos) {
   return kilos * 2.2;
 };
 ```
@@ -147,7 +147,7 @@ var kilosToPounds = function(kilos){
 ### Area of a circle
 
 ```javascript
-var circleArea = function(radius){
+var circleArea = function(radius) {
   var pi = 3.1415;
   return pi * radius * radius;
 };
@@ -222,9 +222,9 @@ Train 1 is traveling 200kph. It will reach Tokyo in 2 hours.
 
 Train 2 is newer and can travel faster.
 
-A bird lands on the track and delays the 2nd train.  
+A bird lands on the track and delays Train 2.  
   
-The app will help the conductor by allowing him to enter the current amount of minutes they are delayed and then calculating how fast they need to travel to arrive at Tokyo at the same time as train 1. Output the speed in kph in the grey box.
+The app will help the conductor by allowing him to enter the current amount of minutes they are delayed and then calculating how fast they need to travel to arrive at Tokyo at the same time as Train 1. Output the speed in kph in the grey box.
 
 ### More Comfortable
 

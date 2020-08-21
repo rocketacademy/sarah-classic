@@ -1,5 +1,9 @@
 # 4.1: Intro to GitHub
 
+{% embed url="https://www.youtube.com/watch?v=dn7r4333c4g" %}
+
+
+
 GitHub is the web application that hosts our git repositories in the cloud.
 
 ## History

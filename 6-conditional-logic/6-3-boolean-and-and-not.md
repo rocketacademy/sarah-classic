@@ -1,6 +1,8 @@
-# 6.3: Logic Debugging, Boolean And
+# 6.3: Boolean And and Not
 
-## input / output control
+## Input / Output Control
+
+{% embed url="https://youtu.be/AYmtC4nWKsU" %}
 
 Now that we've introduced the idea of randomness, we also need to talk about controlling that randomness.
 
@@ -34,7 +36,7 @@ Note that the return keyowrd also ends the execution of the function. `diceRoll`
 
 We just have to remember to take it back out later!
 
-## boolean values
+## Boolean Values
 
 Every boolean operator, just like addition and other math operators, produces a new value.
 
@@ -62,7 +64,7 @@ Let's add another dice to the game.
 
 In this first simple version of the game, the dice must roll to the same number in order for the player to win.
 
-### AND operator
+### And Operator
 
 Use `&&` if both boolean statements are true.
 
@@ -99,11 +101,13 @@ var main = function (input) {
 
 ## Dice Version 3
 
+{% embed url="https://youtu.be/Aelo-Ay71oA" %}
+
 Let's add another rule: the user can't roll snakeeyes- two ones.
 
 We'll add this rule that they can't win if the dice is snakeeyes.
 
-### NOT operator
+### Not Operator
 
 Use `!` to reverse a boolean statement.
 
@@ -125,15 +129,15 @@ the dice are NOT snake eyes
 then the user wins.
 ```
 
-#### 
+## Conditional Debugging
 
-## Condition Debugging
+{% embed url="https://youtu.be/yXtC954S2W4" %}
 
 You've done your pseudo-code. You've written your JavaScript code. You've controlled your logic so it can be tested. Your code could still have errors in it!
 
 How do you find where those errors are? Let's see some strategies for finding and diagnosing conditional errors, and some common conditional errors.
 
-### deconstructing and checking your conditions
+### Deconstructing and Checking Your Conditions
 
 You are now constructing logical conditions that have several sub parts.
 
@@ -143,15 +147,15 @@ Just like for any program you write you must deconstruct your code to check each
 
 Errors in a conditional statement could be:
 
-#### boolean expression is not reached
+#### Boolean expression is not reached
 
 Use of `&&` instead of `||`.
 
-#### boolean expression has a syntax error
+#### Boolean expression has a syntax error
 
 Did you put `=` instead of `==`?
 
-#### boolean expression is incorrectly stated
+#### Boolean expression is incorrectly stated
 
 Does the logic say what you meant it to say?
 
@@ -198,8 +202,6 @@ _\(Note that you should manage your time so that you have time for next set of e
 * User wins if guess is within 1 for any of 2 dice.
 * User wins if guess is within 1 for all 2 dice.
 * User wins if guess is within 1 but the user does not roll snake eyes.
-* User wins if guess is within 1 or if the user rolls snake eyes.  
-
- 
+* User wins if guess is within 1 or if the user rolls snake eyes.   
 {% endhint %}
 

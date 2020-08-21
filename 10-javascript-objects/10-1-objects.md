@@ -1,4 +1,4 @@
-# 9.1: Objects
+# 10.1: Objects
 
 Now we'll continue to build programs of increasing complexity.
 

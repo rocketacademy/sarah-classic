@@ -16,8 +16,6 @@ In this short amount of time, we hope to enable your further learnings about \*a
 
 ![Course Pedagogy Positioning](.gitbook/assets/course-ped.png)
 
-
-
 ## Important Links
 
 1. SWE101 Course Page: [swe101.rocketacademy.co](https://swe101.rocketacademy.co)

@@ -1,4 +1,4 @@
-# ♥️ Social Rules
+# ❤️ Social Rules
 
 You will be spending a significant portion of your time in close intellectual contact with your peers. We want the experience of pair-programming and the like to be an enjoyable and productive one.
 

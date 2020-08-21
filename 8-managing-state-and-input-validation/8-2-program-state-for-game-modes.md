@@ -1,0 +1,134 @@
+# 8.2: Program State for Game Modes
+
+## Game Modes
+
+{% embed url="https://youtu.be/rVJq7gFYrxc" %}
+
+We can use global state to expand the functionality of our games- they can keep track of a game mode to accept different operations and inputs.
+
+```javascript
+var mode = 'green';
+
+var main = function (input) {
+  if (input == 'greenmode') {
+    mode = 'green';
+  } else if (input == 'bluemode') {
+    mode = 'blue';
+  }
+
+  var myOutputValue = 'A fool sees not the same tree that a wise man sees. -William Blake';
+
+  if (mode == 'blue') {
+    myOutputValue = 'The sea, once it casts its spell, holds one in its net of wonder forever. -Jacques Cousteau';
+  }
+
+  return myOutputValue;
+};
+```
+
+Note that we get the same output until we command the program to change modes.
+
+Note that the value we set the `mode` to in the beginning is the default one it starts in.
+
+### Game Playing Modes - Enter Your Name
+
+{% embed url="https://youtu.be/q5ovHXBy82U" %}
+
+```javascript
+var bankRoll = 10;
+var currentGameMode = 'waiting for user name';
+var userName = '';
+
+var main = function (input) {
+
+  var myOutputValue = '';
+
+  if (currentGameMode == 'waiting for user name') {
+    // set the name
+    userName = input;
+
+    // now that we have the name, switch the mode
+    currentGameMode = 'dice game';
+
+    myOutputValue = 'Hello ' + userName;
+
+  } else if (currentGameMode == 'dice game') {
+    // dice game logic
+    var randomDiceRoll = diceRoll();
+    myOutputValue = userName + ' you lost! you guessed: ' + input + 'you rolled: ' + randomDiceRoll + ' current bank roll: ' + bankRoll;
+
+    if (userGuess == randomDiceRoll) {
+      bankRoll = bankRoll + 1;
+      myOutputValue = userName + ' you won! you guessed: ' + input + 'you rolled: ' + randomDiceRoll + ' your current bank roll: ' + bankRoll;
+    }
+  }
+
+  return myOutputValue;
+};
+
+var diceRoll = function () {
+  var randomDecimal = Math.random() * 6;
+  var randomInteger = Math.floor(randomDecimal);
+  var diceNumber = randomInteger + 1;
+  return diceNumber;
+};
+```
+
+### Refactoring for Modes
+
+{% embed url="https://youtu.be/Uq0K9LdoSqE" %}
+
+As our programs become larger and more complicated we want to be able to **refactor** our programs to be more concise, understandable and testable.
+
+We can use functions as subroutines and use parameters and return values to help us control the flow of data in our program.
+
+From the example above we can extract the dice roll part and put it into it's own function:
+
+```javascript
+var bankRoll = 10;
+var currentGameMode = 'waiting for user name';
+var userName = '';
+
+var main = function (input) {
+
+  var myOutputValue = '';
+
+  if (currentGameMode == 'waiting for user name') {
+    // set the name
+    userName = input;
+
+    // now that we have the name, switch the mode
+    currentGameMode = 'dice game';
+
+    myOutputValue = 'Hello ' + userName;
+
+  } else if (currentGameMode == 'dice game') {
+    myOutputValue = diceGame(userName, input);
+  }
+
+  return myOutputValue;
+};
+
+var diceGame = function (userName, userGuess) {
+  var message = '';
+
+  // dice game logic
+  var randomDiceRoll = diceRoll();
+  message = userName + ' you lost! you guessed: ' + userGuess + 'you rolled: ' + randomDiceRoll + ' current bank roll: ' + bankRoll;
+
+  if (userGuess == randomDiceRoll) {
+    bankRoll = bankRoll + 1;
+    message = userName + ' you won! you guessed: ' + userGuess + 'you rolled: ' + randomDiceRoll + ' your current bank roll: ' + bankRoll;
+  }
+
+  return message;
+};
+
+var diceRoll = function () {
+  var randomDecimal = Math.random() * 6;
+  var randomInteger = Math.floor(randomDecimal);
+  var diceNumber = randomInteger + 1;
+  return diceNumber;
+};
+```
+

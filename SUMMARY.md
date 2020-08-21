@@ -7,13 +7,19 @@
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [✍🏽 Course Methodology](course-logistics/course-methodology.md)
 * [📆 Course Schedule](course-logistics/course-schedule.md)
-* [🚌 Section Assignments](course-logistics/section-assignments.md)
-* [♥️ Social Rules](course-logistics/love-social-rules.md)
-* [👩‍💻 Pro Tips](course-logistics/pro-tips.md)
+* [🚌 Section and Pairing Assignments](course-logistics/section-assignments.md)
+* [❤️ Social Rules](course-logistics/love-social-rules.md)
+* [💡 Pro Tips](course-logistics/pro-tips.md)
 
-## Pairing Exercises
+## Projects
 
-* [Day 1: Basic File and Data Manipulation](pairing-exercises/day-1-basic-file-and-data-manipulation.md)
+* [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone.md)
+
+## Class Exercises
+
+* [Day 1: Basic File and Data Manipulation](class-exercises/day-1-basic-file-and-data-manipulation.md)
+* [Day 2: Functions](class-exercises/day-2-functions.md)
+* [Day 3: If Statements and Boolean Or](class-exercises/day-3-if-statements-and-boolean-or.md)
 
 ## 1: Introduction
 
@@ -43,22 +49,25 @@
 ## 6: Conditional Logic
 
 * [6.1: Intro to Logic](6-conditional-logic/6-1-intro-to-logic.md)
-* [6.2: Pseudo Code, Boolean "Or"](6-conditional-logic/6-2-pseudo-code-boolean-or.md)
-* [6.3: Logic Debugging, Boolean "And"](6-conditional-logic/6-3-logic-debugging-boolean-and.md)
+* [6.2: Pseudo Code, Boolean Or](6-conditional-logic/6-2-pseudo-code-boolean-or.md)
+* [6.3: Boolean And and Not](6-conditional-logic/6-3-boolean-and-and-not.md)
 
-## 7: Managing State and Input Validation
+## 7: GitHub
 
-* [7.1: Program State](7-managing-state-and-input-validation/7-1-program-state.md)
-* [7.2: Input Validation](7-managing-state-and-input-validation/7-2-input-validation.md)
+* [7.1: GitHub Fork and Pull Request](7-github/7-1-github-fork-and-pull-request.md)
 
-## 8: Arrays and Iteration
+## 8: Managing State and Input Validation
 
----
+* [8.1: Program Lifecycle and State](8-managing-state-and-input-validation/8-1-program-lifecycle-and-state.md)
+* [8.2: Program State for Game Modes](8-managing-state-and-input-validation/8-2-program-state-for-game-modes.md)
+* [8.3: Input Validation](8-managing-state-and-input-validation/8-3-input-validation.md)
 
-* [8.1: Arrays](8-1-arrays.md)
-* [8.2: Loops](8-2-loops.md)
+## 9: Arrays and Iteration
 
-## 9: JavaScript Objects
+* [9.1: Arrays](9-arrays-and-iteration/9-1-arrays.md)
+* [9.2: Loops](9-arrays-and-iteration/9-2-loops.md)
 
-* [9.1: Objects](9-javascript-objects/9-1-objects.md)
+## 10: JavaScript Objects
+
+* [10.1: Objects](10-javascript-objects/10-1-objects.md)
 

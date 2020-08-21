@@ -1,5 +1,9 @@
 # 6.1: Intro to Logic
 
+{% embed url="https://www.youtube.com/watch?v=ywFgZIZXGoI" %}
+
+
+
 So far what we have coded are basically calculators or, if the program deals with words, programs that fill in the blanks.
 
 The next level of complexity is to create progams that, given some possible inputs, give output based on some logical decision.
@@ -8,7 +12,7 @@ The next level of complexity is to create progams that, given some possible inpu
 
 Let's write a program that changes the output value of "hello world" if you type in a particular phrase.
 
-### if statement
+### If Statement
 
 An if statement is a control flow `block` that runs if a condition is `true`. We'll talk more about what specifically `true` means later, but you can see that what's happening is very intuitive.
 
@@ -34,11 +38,11 @@ This is the 2nd main way we use curly braces to denote `blocks` - specific secti
 
 Try your program both ways. Enter the secret phrase and click the button to see the different output. Enter anything else and click the button to see the base case.
 
-#### equality
+#### Equality
 
 We're using the **boolean operator** `==` to test to see if `input` is **equal** to "palatable papaya".
 
-## comments
+## Comments
 
 Now that things are getting more complicated, we might want to leave notes to ourselves and others that say what our code does.
 
@@ -48,11 +52,11 @@ Comments let you write things in the code file that are just notes.
 // this won't actually run
 ```
 
-## dice game
+## Dice game
 
 Let's build a game of dice program. We will begin with very simple rules to this game: guess the number we will roll.
 
-### randomness / dice
+### Randomness / Dice
 
 Let's build the random number generation before we talk about the dice game logic.
 
@@ -121,4 +125,18 @@ var main = function (input) {
   return myOutputValue;
 };
 ```
+
+## Exercises
+
+{% hint style="info" %}
+### **1\) Duplicate and run the code above.**
+
+### **2\) Apps**
+
+For each app `clone` a new copy of the starter code using git.
+
+#### **Multiples**
+
+The user wins the game if the dice roll is 2x the guess. E.g., Guess of 1 and roll of 2, guess of 2 and roll of 4, etc. To win for a 6-sided dice, the user should only guess numbers between 1-3, but the game does not restrict what they can guess.
+{% endhint %}
 

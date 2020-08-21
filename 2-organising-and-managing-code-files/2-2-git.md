@@ -2,8 +2,6 @@
 
 {% embed url="https://youtu.be/GudllO59HJQ" %}
 
-## 
-
 ## Version Control
 
 Version control is a system that allows you to track the changes over the lifetime of a file. A system like this isn't limited to code, and isn't limited to text files. It could be used for video files or other assets, or other text files such as contracts or articles.
@@ -101,6 +99,17 @@ git commit -m "message that describes the changes"
 Running `git commit` without `-m` might bring you into the `vi` editor. If you get stuck in `vi` type `esc` key and `:q!` to get out.
 {% endhint %}
 
+{% hint style="warning" %}
+The first time you make a Git commit you may encounter an error asking you to run the following commands:
+
+```text
+$ git config --global user.name "First Name Last Name"
+$ git config --global user.email "example@example.com"
+```
+
+This is normal. Git is asking us to set our Git identity so that any commits we make are tied to our name and email. Once you run those commands, you should be able to make commits as expected. 
+{% endhint %}
+
 ### log
 
 Finally, to see a list of the commits in this repo \(including the one you just created\) use `git log`
@@ -110,7 +119,7 @@ git log
 ```
 
 {% hint style="info" %}
-**Follow along with the steps in the video to create your own repo with a plain text file inside it.**
+Follow along with the steps in the video to create your own repo with a plain text file inside it.
 {% endhint %}
 
 ## Cheat Sheet
