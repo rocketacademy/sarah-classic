@@ -114,15 +114,15 @@ if( input == '1' || input == '2' || .... etc
 Or we could express this condition with `<` and `>`.
 
 ```javascript
-// if number is less than 1 or greater than 6
-if( input < 1 || input > 6 ){
-  // number is not between 1 and 6
+// if number is greater or equal to 1 OR less than or equal to 6
+if( input >= 1 || input <= 6 ){
+  // number is between 1 and 6
 }
 ```
 
 Note that the behavior of the code is **exactly** the same, perhaps simply easier to understand and easier to write, and **much** easier to write in the case that you have something like a 20 sided dice.
 
-There are a couple of different ways to express this same condition. You can also use `<=` anbd `>=`.
+There are a couple of different ways to express this same condition. You can also use `<` and `>` like we did below to express the opposite.
 
 ### Final Game Code
 
@@ -151,7 +151,8 @@ var main = function (input) {
     myOutputValue = 'sorry please enter a number.';
   } else {
 
-    if( input < 1 || input > u6 ){
+    // it's not between 1 and 6
+    if( input < 1 || input > 6 ){
       myoutputvalue = 'sorry please enter a number from 1 - 6';
 
     }else{
