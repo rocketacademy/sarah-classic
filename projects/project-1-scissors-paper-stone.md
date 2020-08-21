@@ -11,7 +11,7 @@ For our first project, we are going to make our own version of the classic [Scis
 ## Setup
 
 1. Create a `project` directory in your SWE101 code folder to host your projects if you haven't already.
-2. [Fork](../7-github/7-1-github-fork.md) the [SWE101 Scissors Paper Stone repository](https://github.com/rocketacademy/swe101-scissors-paper-stone) into your own GitHub account.
+2. [Fork](../7-github/7-1-github-fork-and-pull-request.md) the [SWE101 Scissors Paper Stone repository](https://github.com/rocketacademy/swe101-scissors-paper-stone) into your own GitHub account.
 3. Clone the newly-forked SPS repo from your own GitHub account into a new folder in your `project` directory. You will notice that the SPS repository should look similar to the starter code repository. We made separate repositories for each project so that student Pull Request submissions can be better organised by project.
 
 ## Basic Scissors Paper Stone
@@ -44,7 +44,7 @@ Update your program state such that it can keep track of the most recent winner,
 
 ## Submit
 
-[Push](../7-github/7-1-github-fork.md#git-push) the commits in your local repo to GitHub. [Create a Pull Request](../7-github/7-1-github-fork.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the Pull Request comments when you submit.
+[Push](../7-github/7-1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a Pull Request](../7-github/7-1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the Pull Request comments when you submit.
 
 Congrats on submitting your first project!
 

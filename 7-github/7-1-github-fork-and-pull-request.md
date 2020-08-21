@@ -1,4 +1,4 @@
-# 7.1: GitHub Fork
+# 7.1: GitHub Fork and Pull Request
 
 {% embed url="https://youtu.be/uMNcnLWTmZU" %}
 
@@ -38,7 +38,7 @@ We'll be learning one new Git  command `push` in order to get the commits and co
 
  `push` is the command to move code between "remote" repos and isn't just used for the specific purpose of getting code to GitHub, but this is the only way we'll use push during the course.
 
-### GitHub "Pull Request"
+### GitHub Pull Request
 
 {% embed url="https://youtu.be/y32p-DDj1Zw" %}
 

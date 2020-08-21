@@ -54,7 +54,7 @@
 
 ## 7: GitHub
 
-* [7.1: GitHub Fork](7-github/7-1-github-fork.md)
+* [7.1: GitHub Fork and Pull Request](7-github/7-1-github-fork-and-pull-request.md)
 
 ## 8: Managing State and Input Validation
 
