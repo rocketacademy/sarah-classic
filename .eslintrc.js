@@ -8,7 +8,6 @@ module.exports = {
   ],
   parserOptions: {
     ecmaVersion: 11,
-    sourceType: 'module',
   },
   // Markdown setup from here https://github.com/eslint/eslint-plugin-markdown
   plugins: [
@@ -34,8 +33,6 @@ module.exports = {
     'no-console': 'off',
 
     // Course curriculum exceptions
-    // TODO(akira): Please clarify why we have this
-    'no-restricted-globals': 'off',
     // Don't require vars to be declared at the top
     'vars-on-top': 'off',
     // Enable var instead of just let and const
