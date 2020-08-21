@@ -96,21 +96,24 @@ We can make a function that produces any random integer:
 
 ```javascript
 var diceRoll = function () {
-  // produces a float between 0 and 7
-  var randomFloat = Math.random() * 7;
+  // produces a decimal between 0 and 6
+  var randomDecimal = Math.random() * 6;
 
   // take off the decimal
-  var resultInteger = Math.floor(randomFloat);
+  var randomInteger = Math.floor(randomDecimal);
 
-  return resultInteger;
+  // it's anumber from 0 - 5 ... add 1
+  var diceNumber = randomInteger + 1;
+
+  return diceNumber;
 };
 ```
 
-### Game: Dice Roll Guess
+### game: dice roll guess
 
-Let's implement the logical rules to our game.
+let's implement the logical rules to our game.
 
-If the dice roll the same number as the user entered, they win.
+if the dice roll the same number as the user entered, they win.
 
 ```javascript
 var main = function (input) {

@@ -1,46 +1,89 @@
 # 8.3: Input Validation
 
-When you bet in our dice betting game and, instead of a number, you type `papaya!` what will happen?
+Right now when the user enters a dice number guess the app doesn't restrict them from entering `"bananas"` or 38373 or any other value besides one to six.
 
-For a real program, it must deal with all possible values that the user enters.
+In this case, there won't be any errors with the code, or any behaviors we don't want. But we may want to give the user feedback that their input was invalid for the program.
 
-In this particular case, if the user enters something that's not a number we get an output of `NaN`.
+(There will be a lot of other cases where a wrong type of input *will* cause syntax errors or unexpected behavior).
 
-### NaN
+First let's see how we can detect if the user typed in a number, then we'll detect if they type in the range we want (1-6).
 
-This value occurs when we attempt a math operation that doesn't result in a number.
+## Number vs. String
 
-```text
-2 * 'chocolate'
-```
+Remember that we've covered 3 basic data types in JavaScript- *booleans*, *numbers*, and *strings*.
 
-```text
-'dogs' / 32
-```
+When running the `main` function (clicking the submit button), the `input` parameter will always be a *string* data type. The `input` string may sometimes **contain** number **characters** - e.g. "5" or "9383733" or combination of letter characters with number characters e.g., `"SWE101"`.
 
-```text
-0/0
-```
+How do we know if the characters in the `input` string are **only** numbers?
 
-The way to prevent this is to check `input` as soon as we can and make sure that it's a number.
-
-Remember that just like in these examples, the `input` parameter is **always** a string data type.
+We can try to convert from a string type into number type. If the value has only number characters in it, JavaScript will convert it for you.
 
 ```javascript
 var input = '444';
 Number(input);
 ```
 
+### NaN
+
+When we try to convert a value that isn't only numbers we get `NaN`.
+
 ```javascript
-var input = 'hello';
+var input = 'papayas';
 Number(input);
 ```
 
-### isNaN
+This value also occurs when we attempt a math operation that doesn't result in a number.
 
-Next we need to write a piece of code that tests to see the result of `Number()`.
+```javascript
+2 * 'chocolate'
+```
 
-Unfortunately we need another function for that, `isNaN`.
+```javascript
+'dogs' / 32
+```
+
+```javascript
+0/0
+```
+
+Note that `NaN` *is* a value unto itself, like `0` or `1`. We can take that value and hold it in a variable:
+
+```javascript
+var count = NaN;
+```
+
+```javascript
+var count = 'papayas' * 12;
+```
+
+```javascript
+var input = 'papayas';
+var inputCount = Number(input);
+```
+
+## NaN Number Logic
+
+We can now use this behavior to write logic that says:
+
+```text
+// If we try to convert a value to a number and we get the result NaN, then the value is not a number.
+```
+
+(Note that there is no way to check the positive case, that converting a string to a number went as planned).
+
+
+## isNaN
+
+Our logic says that we must check to see if the value we get out of the conversion is `NaN`.
+
+A quirk of JavaScript means that we **can't** do this:
+
+```javascript
+Number('bananas') == NaN
+```
+The above would not be true.
+
+We need a separate function that returns a boolean value, `isNaN`. This function is built into javascript.
 
 ```javascript
 var input = 'hello';
@@ -53,17 +96,83 @@ console.log(isNaN(result));
 All together with a conditional it would look like:
 
 ```javascript
-if (mode == 'bet') {
-  if (isNaN(Number(input)) == true) {
-    myOutputValue = 'sorry please enter a number.';
-  } else {
-    myOutputValue = 'you bet ' + input;
-    currentBet = input;
-  }
+if ( isNaN( Number(input) ) == true ) {
+  myOutputValue = 'sorry please enter a number.';
+} else {
+
+...
+
+```
+
+## Dice Game
+
+### Conditional Range
+
+Let's check the input to make sure it is between 1 and 6.
+
+We could write a long conditional like so:
+
+```javascript
+if( input == '1' || input == '2' || .... etc
+```
+
+Or we could express this condition with `<` and `>`.
+
+```javascript
+// if number is less than 1 or greater than 6
+if( input < 1 || input > 6 ){
+  // number is not between 1 and 6
 }
 ```
 
-We want to message the user when something goes wrong and also to deal when it's a normal case, so we use an `if` `else` structure.
+Note that the behavior of the code is **exactly** the same, perhaps simply easier to understand and easier to write, and **much** easier to write in the case that you have something like a 20 sided dice.
 
-Note that for brevity's sake we won't implement input checking in most of our examples, but that it should be an integral part of a real program.
+There are a couple of different ways to express this same condition. You can also use `<=` anbd `>=`.
+
+### Final Game Code
+
+The full dice game would look like this:
+
+```javascript
+var diceRoll = function () {
+  // produces a decimal between 0 and 6
+  var randomDecimal = Math.random() * 6;
+
+  // take off the decimal
+  var randomInteger = Math.floor(randomDecimal);
+
+  // it's anumber from 0 - 5 ... add 1
+  var diceNumber = randomInteger + 1;
+
+  return diceNumber;
+};
+
+var main = function (input) {
+  var myoutputvalue = '';
+
+  // before anything check if the input is a number
+  if ( isNaN( Number(input) ) == true ) {
+
+    myOutputValue = 'sorry please enter a number.';
+  } else {
+
+    if( input < 1 || input > u6 ){
+      myoutputvalue = 'sorry please enter a number from 1 - 6';
+
+    }else{
+      // the input is 1-6, go ahead with the dice game
+
+      var randomdicenumber = diceroll();
+
+      if (randomdicenumber == input) {
+        myoutputvalue = 'you win';
+      }else{
+        myoutputvalue = 'you lose';
+      }
+    }
+  }
+
+  return myoutputvalue;
+};
+```
 
