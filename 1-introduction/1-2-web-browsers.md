@@ -2,7 +2,7 @@
 
 {% embed url="https://youtu.be/K7zGrnQ2XOk" %}
 
-## Why Browsers?
+## Why Browsers
 
 Web browsers are tools to view web pages and not necessary for writing and executing code. In SWE101 we will use browsers as a learning tool to visualise inputs and outputs of our code through a web page.
 
@@ -19,6 +19,7 @@ The fundamental thing a browser did in 1990 was download and view HTML web site 
 This is still core to the functionality of how a browser works, so we are going to start there.
 
 {% hint style="info" %}
+
 ## Run starter code in your browser
 
 When you click on [this link](https://github.com/rocketacademy/swe101-starter-code/archive/master.zip) it will download a compressed ZIP file.
@@ -35,4 +36,3 @@ Open the `index.html` file in Chrome. Double click it if Chrome is your default 
 
 Change line `31` to something else. Make sure to save the file before you refresh.
 {% endhint %}
-

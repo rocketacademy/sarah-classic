@@ -131,4 +131,3 @@ var diceRoll = function () {
   return diceNumber;
 };
 ```
-

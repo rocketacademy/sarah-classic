@@ -6,7 +6,7 @@ We now have a basis to begin formally defining the code structures we're working
 
 Let's first talk a little about how functions work:
 
-## What does a function do?
+## What does a function do
 
 A function is just a collection of lines of code. We can run those lines of code when we write the appropriate code statement.
 
@@ -165,7 +165,7 @@ With this in mind, assign the value of `input` to myOutputValue to see this conn
 
 Then change the code again to assign the string value "wow hello" to `myOutputValue`.
 
-## What is a function for?
+## What is a function for
 
 We already defined a function as a collection of lines of code we can run.
 
@@ -178,6 +178,7 @@ Given the above function examples we can also say that a function can be a data 
 ## Exercises
 
 {% hint style="info" %}
+
 ### **1\) Duplicate and run the code above.**
 
 ### **2\) Errors: take out `return` and `input` from the examples. What happens? Why?**
@@ -232,4 +233,3 @@ The app will help the conductor by allowing him to enter the current amount of m
 
 A user can enter the number of minutes past 1pm and the app will calculate the angle between the hour and minute hand.
 {% endhint %}
-

@@ -18,23 +18,17 @@ GitHub fork allows you to make changes to a repo and save them to your own accou
 
 ![How to find the fork button on a repo page.](../.gitbook/assets/screen-shot-2020-08-19-at-10.23.10-pm%20%281%29.png)
 
-
-
-"Fork" is a GitHub-only concept. It is not something that happens _within_ the git version control system. 
+"Fork" is a GitHub-only concept. It is not something that happens _within_ the git version control system.
 
 ![A &quot;fork&quot; is when you copy a repo from another account to your own inside of GitHub.](../.gitbook/assets/github-fork.png)
 
-
-
-### 
+###
 
 ### Git Push
 
 We'll be learning one new Git  command `push` in order to get the commits and code from your laptop to GitHub.
 
 ![](../.gitbook/assets/github-push.png)
-
-
 
  `push` is the command to move code between "remote" repos and isn't just used for the specific purpose of getting code to GitHub, but this is the only way we'll use push during the course.
 
@@ -58,7 +52,7 @@ Here is the workflow you'll be using for the assignments:
 
 1. Go to the assignment repo page. Click the "fork" button to copy the repo to your own GitHub account.
 2. On your computer in the command line, clone the repo _from your own Github account's copy of the repo._
-3. Once the repo is on your computer, follow the normal workflow /cheatsheet for git from [here](../2-organising-and-managing-code-files/2-2-git.md#cheat-sheet). 
+3. Once the repo is on your computer, follow the normal workflow /cheatsheet for git from [here](../2-organising-and-managing-code-files/2-2-git.md#cheat-sheet).
 4. `git push` your changes to your repo. Refresh the repo page to see your commits on the repo.
 5. Create a pull request in GitHub. This connects your work on the repo _in your account_ to the original Rocket Academy repo. Fill in the survey and submit.
 
@@ -67,4 +61,3 @@ Here is the workflow you'll be using for the assignments:
 {% hint style="info" %}
 **Follow along with the video and create a fork of the example repo.**
 {% endhint %}
-

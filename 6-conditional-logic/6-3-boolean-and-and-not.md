@@ -191,7 +191,8 @@ Also remember that if your label is wrong or if your statements in the `console.
 ## Exercises
 
 {% hint style="info" %}
-### 1\) Duplicate and run the above code.
+
+### 1\) Duplicate and run the above code
 
 ### 2\) App
 
@@ -202,6 +203,5 @@ _\(Note that you should manage your time so that you have time for next set of e
 * User wins if guess is within 1 for any of 2 dice.
 * User wins if guess is within 1 for all 2 dice.
 * User wins if guess is within 1 but the user does not roll snake eyes.
-* User wins if guess is within 1 or if the user rolls snake eyes.   
+* User wins if guess is within 1 or if the user rolls snake eyes.
 {% endhint %}
-

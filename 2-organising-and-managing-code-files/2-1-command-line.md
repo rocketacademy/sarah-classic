@@ -69,7 +69,7 @@ Create a plain text file. A plain text file is one that only contains characters
 {% hint style="warning" %}
 Working with files is easier in the command line if they don't have spaces in them.
 
-If you want two words in your file, separate them with a dash. 
+If you want two words in your file, separate them with a dash.
 {% endhint %}
 
 ```text
@@ -241,13 +241,13 @@ cp cakes.txt cupcakes.txt
 Copy a folder
 
 ```text
-cp -R pastries new-pastries 
+cp -R pastries new-pastries
 ```
 
 Move a file or folder
 
 ```text
-mv dogs.txt pets.txt 
+mv dogs.txt pets.txt
 ```
 
 Remove a file
@@ -261,4 +261,3 @@ Remove a folder
 ```text
 rm -r my-boats
 ```
-

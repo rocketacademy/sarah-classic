@@ -2,8 +2,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=oxxwcMJN8ec" %}
 
-
-
 ### Global World State
 
 Without mentioning it, our programs have so far dealt with data that only exists while `main` runs or while any other function runs.
@@ -62,8 +60,6 @@ Note that main function runs each time the submit button is clicked.
 
 {% embed url="https://www.youtube.com/watch?v=xVIAh\_o4mPc" %}
 
-
-
 ```javascript
 var papayaCounter = 0;
 
@@ -98,4 +94,3 @@ var main = function (input) {
   return myOutputValue;
 };
 ```
-

@@ -91,7 +91,7 @@ The thing we want to appear is passed an argument to `console.log` like so: `con
 
 Try writing some `console.log`s in all of the different structures of your code. Each `console.log` statement should be descriptive of where in the code you are. Also be careful not to make any errors here and describe something incorrectly!
 
-#### 1. flow checking - does the code run?
+#### 1. flow checking - does the code run
 
 We can use the fact that text is appearing in the dev tools console as an implicit signal that JavaScript it executing our code.
 
@@ -108,7 +108,7 @@ var main = function(input) {
 };
 ```
 
-#### 2. value checking - is the value correct?
+#### 2. value checking - is the value correct
 
 Another way we can use `console.log` is to pass it the variable values our program deals with.
 
@@ -127,4 +127,3 @@ var kilometersToMiles = function(distanceInKilometers){
   return;
 };
 ```
-

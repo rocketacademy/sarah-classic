@@ -66,4 +66,3 @@ if (mode == 'bet') {
 We want to message the user when something goes wrong and also to deal when it's a normal case, so we use an `if` `else` structure.
 
 Note that for brevity's sake we won't implement input checking in most of our examples, but that it should be an integral part of a real program.
-

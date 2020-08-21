@@ -5,6 +5,7 @@
 Let's get started with running some code outside of the JavaScript console. We'll be creating a super basic program with a SWE101 starter template and data.
 
 {% hint style="info" %}
+
 #### **Setup**
 
 Copy the starter code from Github:
@@ -43,12 +44,14 @@ Open the `index.html` file in Chrome.
 The default starter code has one basic behaviour. When you click the button you should see `hello world`.
 
 {% hint style="info" %}
-#### Try it yourself. Open the `index.html` file in your browser and click the submit button.
+
+#### Try it yourself. Open the `index.html` file in your browser and click the submit button
+
 {% endhint %}
 
 ### **Output Own Values**
 
-Next, we'll change the output in the grey box from the default to our own text. 
+Next, we'll change the output in the grey box from the default to our own text.
 
 {% hint style="info" %}
 Open the `script.js` file in your editor.
@@ -78,17 +81,15 @@ Change the value of the variable to something else. We'll start with numbers onl
 var myOutputValue = 2;
 ```
 
-#### Remember to save the file and refresh the browser screen.
+#### Remember to save the file and refresh the browser screen
 
-#### Then you can try your changes out.
+#### Then you can try your changes out
 
 **What happens when you click the button?**
 
 Try assigning a bunch of different values.
 
 See them output in the grey square.
-
-
 
 ```javascript
 var myOutputValue = 12;
@@ -101,6 +102,7 @@ var myOutputValue = 9999999999;
 ```javascript
 var myOutputValue = 1.234234;
 ```
+
 {% endhint %}
 
 ### **Operations as Output**
@@ -141,6 +143,7 @@ var myOutputValue = 12 * 12;
 ```javascript
 var myOutputValue = 100 / 10;
 ```
+
 {% endhint %}
 
 ## Interactivity
@@ -188,6 +191,7 @@ var name = 'Susan';
 > Strings can also be spaces, punctuation, and also emojis, Chinese characters or writing in other languages.
 
 {% hint style="info" %}
+
 #### Interactive Messages
 
 Change the value of `myOutputValue` to a string value \(any set of words you want\) and see them appear in the grey box.
@@ -199,8 +203,6 @@ Change the code back again to assign the value of `input` to `myOutputValue`:
 ```javascript
 var myOutputValue = input;
 ```
-
-
 
 ### Greeting Program
 
@@ -221,9 +223,8 @@ Change your program output to a different message. Make it longer, you can use i
 `Hello, Susan! Wow, Susan is a great name. Reminds me of this movie star....`
 {% endhint %}
 
-
-
 {% hint style="info" %}
+
 ### Metric Conversion Program
 
 Let's incorporate the math operations we were doing before into our program.
@@ -262,6 +263,7 @@ Other kinds of calculation operations?
 {% endhint %}
 
 {% hint style="info" %}
+
 ## Formatting the Output
 
 Our conversion program should try to be as user-friendly as possible.
@@ -285,5 +287,4 @@ var myOutputValue = "Hi! "+input+" is equal to "+distanceInMiles+" miles.";
 Other kinds of formats?
 {% endhint %}
 
-## 
-
+##

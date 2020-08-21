@@ -132,6 +132,7 @@ We'll find a use for the other logical operator AND \(`&&`\) in the next section
 ## Exercises
 
 {% hint style="info" %}
+
 ### **1\) Duplicate and run the code above.**
 
 ### **2\) Apps**
@@ -160,4 +161,3 @@ Change your dice game so that if the user types in "palatable papaya" instead of
 
 There is a way to mathematically verify that a number is even using the `%` operator - the modulus operator. Google the solution to tell if a number is even in JavaScript, and what the modulus operator does and refactor the logic in the game to use it.
 {% endhint %}
-

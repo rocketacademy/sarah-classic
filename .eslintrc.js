@@ -23,26 +23,30 @@ module.exports = {
   // ESLint settings for Gitbook JavaScript
   rules: {
     // Gitbook formatting
+    // Sometimes we have partial code that doesn't need semicolons
     semi: 'off',
-    'no-unreachable': 'off',
+    // Sometimes we have partial code that doesn't warrant variable usage
     'no-unused-vars': 'off',
-    // Disable func-names rule so that we can have anonymous functions
-    'func-names': 'off',
+    // Sometimes we have partial code that doesn't warrant expression usage
     'no-unused-expressions': 'off',
+    // Sometimes we have partial code that assumes a prior definition above
     'no-undef': 'off',
-    'no-console': 'off',
 
     // Course curriculum exceptions
-    // Don't require vars to be declared at the top
-    'vars-on-top': 'off',
+    // Don't enforce ===
+    eqeqeq: 'off',
+    // Disable func-names rule so that we can have anonymous functions
+    'func-names': 'off',
+    // Allow console for students to debug
+    'no-console': 'off',
     // Enable var instead of just let and const
     'no-var': 'off',
     // Enable + sign to concatenate strings
     'prefer-template': 'off',
-    // Don't enforce ===
-    eqeqeq: 'off',
     // Don't require a += b instead of a = a + b
     'operator-assignment': 'off',
+    // Don't require vars to be declared at the top
+    'vars-on-top': 'off',
 
     // Spell checker
     'spellcheck/spell-checker': [1,

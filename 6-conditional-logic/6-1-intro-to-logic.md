@@ -2,8 +2,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=ywFgZIZXGoI" %}
 
-
-
 So far what we have coded are basically calculators or, if the program deals with words, programs that fill in the blanks.
 
 The next level of complexity is to create progams that, given some possible inputs, give output based on some logical decision.
@@ -68,7 +66,7 @@ var myRandomValue = Math.random();
 
 Calling `Math.random()` returns a random number value. However we have a dice game, so there is more code we have to write to get the value we want.
 
-#### `Math.random()` returns a decimal number from 0-1.
+#### `Math.random()` returns a decimal number from 0-1
 
 We have to do some math on this number to get what we want.
 
@@ -129,6 +127,7 @@ var main = function (input) {
 ## Exercises
 
 {% hint style="info" %}
+
 ### **1\) Duplicate and run the code above.**
 
 ### **2\) Apps**
@@ -139,4 +138,3 @@ For each app `clone` a new copy of the starter code using git.
 
 The user wins the game if the dice roll is 2x the guess. E.g., Guess of 1 and roll of 2, guess of 2 and roll of 4, etc. To win for a 6-sided dice, the user should only guess numbers between 1-3, but the game does not restrict what they can guess.
 {% endhint %}
-
