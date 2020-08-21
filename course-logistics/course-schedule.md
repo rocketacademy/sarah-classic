@@ -32,24 +32,24 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 ### Day 4: Sat 22 Aug \(1-3pm\)
 
 * [6.3: Boolean And and Not](../6-conditional-logic/6-3-boolean-and-and-not.md)
-* [6.4: GitHub Fork](../6-conditional-logic/6.4-github-fork.md)
-* [7.1: Program Lifecycle and Global State](../7-managing-state-and-input-validation/7-1-program-lifecycle-and-state.md)
+* [7.1: GitHub Fork](../7-github/7-1-github-fork.md)
+* [8.1: Program Lifecycle and Global State](../8-managing-state-and-input-validation/8-1-program-lifecycle-and-state.md)
 * [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
 
 ### Day 5: Tue 25 Aug \(7-9pm\)
 
 **Project Due: Scissors Paper Stone**
 
-* [7.2: Program State for Game Modes](../7-managing-state-and-input-validation/7-2-program-state-for-game-modes.md)
-* [7.3: Input Validation](../7-managing-state-and-input-validation/7-3-input-validation.md)
+* [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8-2-program-state-for-game-modes.md)
+* [8.3: Input Validation](../8-managing-state-and-input-validation/8-3-input-validation.md)
 
 ### Day 6: Thu 27 Aug \(7-9pm\)
 
-* [8.1: Arrays](../8-arrays-and-iteration/8-1-arrays.md)
+* [9.1: Arrays](../9-arrays-and-iteration/9-1-arrays.md)
 
 ### **Day 7: Sat 29 Aug \(1-3pm\)**
 
-* [8.2: Loops](../8-arrays-and-iteration/8-2-loops.md)
+* [9.2: Loops](../9-arrays-and-iteration/9-2-loops.md)
 * Tic Tac Toe \(In Progress\)
 
 ### Day 8: Tue 1 Sep \(7-9pm\)
@@ -60,7 +60,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 **Project Due: Tic Tac Toe**
 
-* [9.1: Objects](../9-javascript-objects/9-1-objects.md)
+* [10.1: Objects](../10-javascript-objects/10-1-objects.md)
 * Shuffling \(In Progress\)
 * Card Deck Generation \(In Progress\)
 

@@ -1,4 +1,4 @@
-# 7.2: Program State for Game Modes
+# 8.2: Program State for Game Modes
 
 ## Game Modes
 

@@ -9,7 +9,7 @@ For our first project, we are going to make our own version of the classic [Scis
 ## Setup
 
 1. Create a `project` directory in your SWE101 code folder to host your projects if you haven't already.
-2. [Fork](../6-conditional-logic/6.4-github-fork.md) the [SWE101 Scissors Paper Stone repository](https://github.com/rocketacademy/swe101-scissors-paper-stone) into your own GitHub account.
+2. [Fork](../7-github/7-1-github-fork.md) the [SWE101 Scissors Paper Stone repository](https://github.com/rocketacademy/swe101-scissors-paper-stone) into your own GitHub account.
 3. Clone the newly-forked SPS repo from your own GitHub account into a new folder in your `project` directory. You will notice that the SPS repository should look similar to the starter code repository. We made separate repositories for each project so that student Pull Request submissions can be better organised by project.
 
 ## Basic Scissors Paper Stone
@@ -20,7 +20,7 @@ For clarity on rules, scissors beats paper, paper beats stone, and stone beats s
 
 ## Win-Loss Record
 
-Add [state](../7-managing-state-and-input-validation/7-1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
+Add [state](../8-managing-state-and-input-validation/8-1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
 
 ## User Name
 
@@ -42,7 +42,7 @@ Update your program state such that it can keep track of the most recent winner,
 
 ## Submit
 
-[Push](../6-conditional-logic/6.4-github-fork.md#git-push) the commits in your local repo to GitHub. [Create a Pull Request](../6-conditional-logic/6.4-github-fork.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the Pull Request comments when you submit.
+[Push](../7-github/7-1-github-fork.md#git-push) the commits in your local repo to GitHub. [Create a Pull Request](../7-github/7-1-github-fork.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the Pull Request comments when you submit.
 
 Congrats on submitting your first project!
 

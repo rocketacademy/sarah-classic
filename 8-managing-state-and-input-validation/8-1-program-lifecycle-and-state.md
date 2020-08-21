@@ -1,4 +1,4 @@
-# 7.1: Program Lifecycle and State
+# 8.1: Program Lifecycle and State
 
 {% embed url="https://www.youtube.com/watch?v=oxxwcMJN8ec" %}
 

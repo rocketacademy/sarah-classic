@@ -1,4 +1,4 @@
-# 8.1: Arrays
+# 9.1: Arrays
 
 We've been able to build rather complex programs using some basic control flow syntax.
 
