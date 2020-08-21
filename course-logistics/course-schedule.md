@@ -54,7 +54,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 ### Day 8: Tue 1 Sep \(7-9pm\)
 
-* 2D Arrays and nested loops
+* 2D Arrays and Nested Loops
 
 ### Day 9: Thu 3 Sep \(7-9pm\)
 
