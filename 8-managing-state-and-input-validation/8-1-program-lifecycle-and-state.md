@@ -135,16 +135,45 @@ var main = function (input) {
 ```
 
 **Last Roll**  
-Create a version of the dice game that tells the user what their previous dice roll was.  
+Create a version of the dice game that tells the user what their previous dice roll was.
+
+Example:
+
+```text
+Your last roll was 4. You just rolled a 3. You guessed 3. You win!
+```
+
+#### 
+
   
 **Win / Loss**  
-As the user continues to play the game, tell them what their current win / loss percentage is. 
+As the user continues to play the game, tell them what their current win / loss percentage is.  
+  
+Example:
+
+
+
+```text
+You win 23.5% of the time. You just rolled a 4. You guessed 3. You lose!
+```
+
+#### 
 
 #### More Comfortable
 
 **Most Rolled**
 
 Keep track of the number that's rolled the most times.
+
+Example:
+
+
+
+```text
+You just rolled a 4. 2 is the number you roll the most. You guessed 3. You lose!
+```
+
+#### 
 
 **Betting**  
 If the user guess is off by 1 they win 1. If it's exact they win 2.  
