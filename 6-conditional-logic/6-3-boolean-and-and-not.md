@@ -1,12 +1,8 @@
 # 6.3: Boolean And and Not
 
-{% embed url="https://youtu.be/AYmtC4nWKsU" %}
-
-{% embed url="https://youtu.be/Aelo-Ay71oA" %}
-
-{% embed url="https://youtu.be/yXtC954S2W4" %}
-
 ## Input / Output Control
+
+{% embed url="https://youtu.be/AYmtC4nWKsU" %}
 
 Now that we've introduced the idea of randomness, we also need to talk about controlling that randomness.
 
@@ -105,6 +101,8 @@ var main = function (input) {
 
 ## Dice Version 3
 
+{% embed url="https://youtu.be/Aelo-Ay71oA" %}
+
 Let's add another rule: the user can't roll snakeeyes- two ones.
 
 We'll add this rule that they can't win if the dice is snakeeyes.
@@ -131,9 +129,9 @@ the dice are NOT snake eyes
 then the user wins.
 ```
 
-#### 
+## Conditional Debugging
 
-## Condition Debugging
+{% embed url="https://youtu.be/yXtC954S2W4" %}
 
 You've done your pseudo-code. You've written your JavaScript code. You've controlled your logic so it can be tested. Your code could still have errors in it!
 
@@ -204,8 +202,6 @@ _\(Note that you should manage your time so that you have time for next set of e
 * User wins if guess is within 1 for any of 2 dice.
 * User wins if guess is within 1 for all 2 dice.
 * User wins if guess is within 1 but the user does not roll snake eyes.
-* User wins if guess is within 1 or if the user rolls snake eyes.  
-
- 
+* User wins if guess is within 1 or if the user rolls snake eyes.   
 {% endhint %}
 
