@@ -1,6 +1,6 @@
 # 2.2: Git
 
-{% embed url="https://youtu.be/GudllO59HJQ" %}
+{% embed url="https://youtu.be/GudllO59HJQ" caption="" %}
 
 ## Version Control
 
@@ -14,13 +14,13 @@ Git is the specific version control application we'll be using. It was invented 
 
 The process of version control is a fundamental part of being a software engineer, and of developing a complex software project.
 
-In this course you'll use that same process to keep track of your work, and submit your assignments using  the web app GitHub.
+In this course you'll use that same process to keep track of your work, and submit your assignments using the web app GitHub.
 
 ![Parts of a Git repository](../.gitbook/assets/git.png)
 
 ## Repository
 
-The foundation of the system is a repository ****\(repo for short\). This is a folder that holds all the code **for one project.**
+The foundation of the system is a repository **\*\*\(repo for short\). This is a folder that holds all the code** for one project.\*\*
 
 ## Commits
 
@@ -35,7 +35,7 @@ A single commit can contain changes to many files.
 In this course we'll be using the command line to run Git.
 
 {% hint style="warning" %}
-Most commands accept a path \(unix path\) argument -  denoted below as `<path>`, but if you leave it blank it means `.` \(current unix directory\)
+Most commands accept a path \(unix path\) argument - denoted below as `<path>`, but if you leave it blank it means `.` \(current unix directory\)
 {% endhint %}
 
 {% hint style="danger" %}
@@ -68,8 +68,6 @@ git status <path>
 git diff <path>
 ```
 
-###
-
 ![](../.gitbook/assets/screen-shot-2020-08-13-at-4.07.03-pm.png)
 
 ### add
@@ -91,7 +89,7 @@ git add <path>
 
 `git commit` creates the commit record in the repo. You must use the `-m` option to include a \*commit message\* a short sentence about what you changed.
 
-```
+```text
 git commit -m "message that describes the changes"
 ```
 
@@ -159,3 +157,4 @@ See newly created commit
 ```text
 git log
 ```
+

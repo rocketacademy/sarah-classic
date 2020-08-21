@@ -1,11 +1,10 @@
 # 4.2: Our First Program
 
-{% embed url="https://youtu.be/pMMYj-Hbkxc" %}
+{% embed url="https://youtu.be/pMMYj-Hbkxc" caption="" %}
 
 Let's get started with running some code outside of the JavaScript console. We'll be creating a super basic program with a SWE101 starter template and data.
 
 {% hint style="info" %}
-
 #### **Setup**
 
 Copy the starter code from Github:
@@ -44,9 +43,7 @@ Open the `index.html` file in Chrome.
 The default starter code has one basic behaviour. When you click the button you should see `hello world`.
 
 {% hint style="info" %}
-
 #### Try it yourself. Open the `index.html` file in your browser and click the submit button
-
 {% endhint %}
 
 ### **Output Own Values**
@@ -102,7 +99,6 @@ var myOutputValue = 9999999999;
 ```javascript
 var myOutputValue = 1.234234;
 ```
-
 {% endhint %}
 
 ### **Operations as Output**
@@ -143,7 +139,6 @@ var myOutputValue = 12 * 12;
 ```javascript
 var myOutputValue = 100 / 10;
 ```
-
 {% endhint %}
 
 ## Interactivity
@@ -191,7 +186,6 @@ var name = 'Susan';
 > Strings can also be spaces, punctuation, and also emojis, Chinese characters or writing in other languages.
 
 {% hint style="info" %}
-
 #### Interactive Messages
 
 Change the value of `myOutputValue` to a string value \(any set of words you want\) and see them appear in the grey box.
@@ -224,7 +218,6 @@ Change your program output to a different message. Make it longer, you can use i
 {% endhint %}
 
 {% hint style="info" %}
-
 ### Metric Conversion Program
 
 Let's incorporate the math operations we were doing before into our program.
@@ -263,7 +256,6 @@ Other kinds of calculation operations?
 {% endhint %}
 
 {% hint style="info" %}
-
 ## Formatting the Output
 
 Our conversion program should try to be as user-friendly as possible.
@@ -287,4 +279,3 @@ var myOutputValue = "Hi! "+input+" is equal to "+distanceInMiles+" miles.";
 Other kinds of formats?
 {% endhint %}
 
-##

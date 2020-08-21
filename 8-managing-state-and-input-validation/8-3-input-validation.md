@@ -6,7 +6,7 @@ For a real program, it must deal with all possible values that the user enters.
 
 In this particular case, if the user enters something that's not a number we get an output of `NaN`.
 
-### NaN
+## NaN
 
 This value occurs when we attempt a math operation that doesn't result in a number.
 
@@ -36,7 +36,7 @@ var input = 'hello';
 Number(input);
 ```
 
-### isNaN
+## isNaN
 
 Next we need to write a piece of code that tests to see the result of `Number()`.
 
@@ -66,3 +66,4 @@ if (mode == 'bet') {
 We want to message the user when something goes wrong and also to deal when it's a normal case, so we use an `if` `else` structure.
 
 Note that for brevity's sake we won't implement input checking in most of our examples, but that it should be an integral part of a real program.
+

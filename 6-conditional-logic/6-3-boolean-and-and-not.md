@@ -2,7 +2,7 @@
 
 ## Input / Output Control
 
-{% embed url="https://youtu.be/AYmtC4nWKsU" %}
+{% embed url="https://youtu.be/AYmtC4nWKsU" caption="" %}
 
 Now that we've introduced the idea of randomness, we also need to talk about controlling that randomness.
 
@@ -101,7 +101,7 @@ var main = function (input) {
 
 ## Dice Version 3
 
-{% embed url="https://youtu.be/Aelo-Ay71oA" %}
+{% embed url="https://youtu.be/Aelo-Ay71oA" caption="" %}
 
 Let's add another rule: the user can't roll snakeeyes- two ones.
 
@@ -131,7 +131,7 @@ then the user wins.
 
 ## Conditional Debugging
 
-{% embed url="https://youtu.be/yXtC954S2W4" %}
+{% embed url="https://youtu.be/yXtC954S2W4" caption="" %}
 
 You've done your pseudo-code. You've written your JavaScript code. You've controlled your logic so it can be tested. Your code could still have errors in it!
 
@@ -191,7 +191,6 @@ Also remember that if your label is wrong or if your statements in the `console.
 ## Exercises
 
 {% hint style="info" %}
-
 ### 1\) Duplicate and run the above code
 
 ### 2\) App
@@ -205,3 +204,4 @@ _\(Note that you should manage your time so that you have time for next set of e
 * User wins if guess is within 1 but the user does not roll snake eyes.
 * User wins if guess is within 1 or if the user rolls snake eyes.
 {% endhint %}
+

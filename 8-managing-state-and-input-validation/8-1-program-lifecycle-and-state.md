@@ -1,14 +1,14 @@
 # 8.1: Program Lifecycle and State
 
-{% embed url="https://www.youtube.com/watch?v=oxxwcMJN8ec" %}
+{% embed url="https://www.youtube.com/watch?v=oxxwcMJN8ec" caption="" %}
 
-### Global World State
+## Global World State
 
 Without mentioning it, our programs have so far dealt with data that only exists while `main` runs or while any other function runs.
 
 Now we will want to expand the kinds of data that our program deals with and can manipulate.
 
-### Memory, Holding Values
+## Memory, Holding Values
 
 We want to keep track **for the life of our program** what the bank roll is.
 
@@ -32,7 +32,7 @@ number
 
 If we refresh the page that value is no longer available. The life of our program has ended and started again.
 
-#### Main Function Scope
+### Main Function Scope
 
 Remember that for a `main` function like this:
 
@@ -56,9 +56,9 @@ This is a generic truth about values that are initialized inside a function. The
 
 Note that main function runs each time the submit button is clicked.
 
-#### Global State
+### Global State
 
-{% embed url="https://www.youtube.com/watch?v=xVIAh\_o4mPc" %}
+{% embed url="https://www.youtube.com/watch?v=xVIAh\_o4mPc" caption="" %}
 
 ```javascript
 var papayaCounter = 0;
@@ -69,9 +69,9 @@ var main = function (input) {
 };
 ```
 
-### Dice Betting
+## Dice Betting
 
-{% embed url="https://youtu.be/X-b\_LJAJIsU" %}
+{% embed url="https://youtu.be/X-b\_LJAJIsU" caption="" %}
 
 Let's add betting on the dice roll.
 
@@ -94,3 +94,62 @@ var main = function (input) {
   return myOutputValue;
 };
 ```
+
+
+
+## Exercises
+
+{% hint style="info" %}
+**1\) Follow along with the video and duplicate the code.**
+
+**2\) Apps**  
+  
+Put this basic dice game into the starter code:
+
+```javascript
+var diceRoll = function () {
+  // produces a decimal between 0 and 6
+  var randomDecimal = Math.random() * 6;
+
+  // take off the decimal
+  var randomInteger = Math.floor(randomDecimal);
+
+  // it's anumber from 0 - 5 ... add 1
+  var diceNumber = randomInteger + 1;
+
+  return diceNumber;
+};
+
+
+var main = function (input) {
+  var randomDiceNumber = diceRoll();
+
+  var myOutputValue = 'you lose';
+
+  if (randomDiceNumber == input) {
+    myOutputValue = 'you win';
+  }
+
+  return myOutputValue;
+};
+```
+
+**Last Roll**  
+Create a version of the dice game that tells the user what their previous dice roll was.  
+  
+**Win / Loss**  
+As the user continues to play the game, tell them what their current win / loss percentage is. 
+
+#### More Comfortable
+
+**Most Rolled**
+
+Keep track of the number that's rolled the most times.
+
+**Betting**  
+If the user guess is off by 1 they win 1. If it's exact they win 2.  
+  
+**Advanced Betting**  
+The user can be off up to 4. They win 1 if they are off by 4 and win 4 if they guess exactly.
+{% endhint %}
+

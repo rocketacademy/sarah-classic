@@ -1,6 +1,6 @@
 # 5.1: Functions
 
-{% embed url="https://youtu.be/M0yXZtZSg-A" %}
+{% embed url="https://youtu.be/M0yXZtZSg-A" caption="" %}
 
 We now have a basis to begin formally defining the code structures we're working with and using them to write slightly more realistic programs.
 
@@ -178,7 +178,6 @@ Given the above function examples we can also say that a function can be a data 
 ## Exercises
 
 {% hint style="info" %}
-
 ### **1\) Duplicate and run the code above.**
 
 ### **2\) Errors: take out `return` and `input` from the examples. What happens? Why?**
@@ -197,10 +196,10 @@ The user will enter a number of guests and the app will say how many oranges are
 
 #### **SG Hugs**
 
-Everyone has a different gauge for how long they like to hug.  
-  
-The user can enter a number of seconds they like to hug on average, and the app will calculate how many years it will take to hug everyone in Singapore.  
-  
+Everyone has a different gauge for how long they like to hug.
+
+The user can enter a number of seconds they like to hug on average, and the app will calculate how many years it will take to hug everyone in Singapore.
+
 You are of course allowed 9 hours a day to sleep and eat.
 
 #### **House Paint**
@@ -223,8 +222,8 @@ Train 1 is traveling 200kph. It will reach Tokyo in 2 hours.
 
 Train 2 is newer and can travel faster.
 
-A bird lands on the track and delays Train 2.  
-  
+A bird lands on the track and delays Train 2.
+
 The app will help the conductor by allowing him to enter the current amount of minutes they are delayed and then calculating how fast they need to travel to arrive at Tokyo at the same time as Train 1. Output the speed in kph in the grey box.
 
 ### More Comfortable
@@ -233,3 +232,4 @@ The app will help the conductor by allowing him to enter the current amount of m
 
 A user can enter the number of minutes past 1pm and the app will calculate the angle between the hour and minute hand.
 {% endhint %}
+

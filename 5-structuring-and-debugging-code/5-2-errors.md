@@ -1,6 +1,6 @@
 # 5.2: Errors
 
-{% embed url="https://youtu.be/ySlMcE14Jvg" %}
+{% embed url="https://youtu.be/ySlMcE14Jvg" caption="" %}
 
 Your program will have errors. In fact, errors are an intrinsic part of developing software for everyone, not just beginners.
 
@@ -127,3 +127,4 @@ var kilometersToMiles = function(distanceInKilometers){
   return;
 };
 ```
+

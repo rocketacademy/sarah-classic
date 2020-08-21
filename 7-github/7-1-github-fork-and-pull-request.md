@@ -1,6 +1,6 @@
 # 7.1: GitHub Fork and Pull Request
 
-{% embed url="https://youtu.be/uMNcnLWTmZU" %}
+{% embed url="https://youtu.be/uMNcnLWTmZU" caption="" %}
 
 We'll begin submitting the assignments we have during the course through Git and GitHub.
 
@@ -10,7 +10,7 @@ Remember that GitHub is the web / cloud app that is built upon the Git version c
 
 Use this page and video as a resource if you forget or get lost while submitting an assignment / starting an assignment.
 
-### GitHub Fork
+## GitHub Fork
 
 A "fork" is the GitHub term for copying a repo from one GitHub account to another. We can do it by clicking the button on a given GitHub repo page.
 
@@ -22,19 +22,17 @@ GitHub fork allows you to make changes to a repo and save them to your own accou
 
 ![A &quot;fork&quot; is when you copy a repo from another account to your own inside of GitHub.](../.gitbook/assets/github-fork.png)
 
-###
+## Git Push
 
-### Git Push
-
-We'll be learning one new Git  command `push` in order to get the commits and code from your laptop to GitHub.
+We'll be learning one new Git command `push` in order to get the commits and code from your laptop to GitHub.
 
 ![](../.gitbook/assets/github-push.png)
 
- `push` is the command to move code between "remote" repos and isn't just used for the specific purpose of getting code to GitHub, but this is the only way we'll use push during the course.
+`push` is the command to move code between "remote" repos and isn't just used for the specific purpose of getting code to GitHub, but this is the only way we'll use push during the course.
 
-### GitHub Pull Request
+## GitHub Pull Request
 
-{% embed url="https://youtu.be/y32p-DDj1Zw" %}
+{% embed url="https://youtu.be/y32p-DDj1Zw" caption="" %}
 
 A GitHub pull request is how we'll submit the assignments.
 
@@ -42,11 +40,11 @@ When you've pushed your changes to the repo, you'll click the "pull request" but
 
 ![How to find the pull request tab and new pull request button in GitHub.](../.gitbook/assets/screen-shot-2020-08-19-at-10.23.25-pm.png)
 
-### GitHub Repo Browsing
+## GitHub Repo Browsing
 
 Use the power of the GitHub website app to browse your code and all your old versions.
 
-### Cheatsheet
+## Cheatsheet
 
 Here is the workflow you'll be using for the assignments:
 
@@ -56,8 +54,9 @@ Here is the workflow you'll be using for the assignments:
 4. `git push` your changes to your repo. Refresh the repo page to see your commits on the repo.
 5. Create a pull request in GitHub. This connects your work on the repo _in your account_ to the original Rocket Academy repo. Fill in the survey and submit.
 
-### Exercises
+## Exercises
 
 {% hint style="info" %}
 **Follow along with the video and create a fork of the example repo.**
 {% endhint %}
+

@@ -1,6 +1,6 @@
 # 6.1: Intro to Logic
 
-{% embed url="https://www.youtube.com/watch?v=ywFgZIZXGoI" %}
+{% embed url="https://www.youtube.com/watch?v=ywFgZIZXGoI" caption="" %}
 
 So far what we have coded are basically calculators or, if the program deals with words, programs that fill in the blanks.
 
@@ -127,7 +127,6 @@ var main = function (input) {
 ## Exercises
 
 {% hint style="info" %}
-
 ### **1\) Duplicate and run the code above.**
 
 ### **2\) Apps**
@@ -138,3 +137,4 @@ For each app `clone` a new copy of the starter code using git.
 
 The user wins the game if the dice roll is 2x the guess. E.g., Guess of 1 and roll of 2, guess of 2 and roll of 4, etc. To win for a 6-sided dice, the user should only guess numbers between 1-3, but the game does not restrict what they can guess.
 {% endhint %}
+
