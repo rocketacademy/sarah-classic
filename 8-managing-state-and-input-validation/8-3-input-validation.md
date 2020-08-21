@@ -4,15 +4,15 @@ Right now when the user enters a dice number guess the app doesn't restrict them
 
 In this case, there won't be any errors with the code, or any behaviors we don't want. But we may want to give the user feedback that their input was invalid for the program.
 
-(There will be a lot of other cases where a wrong type of input *will* cause syntax errors or unexpected behavior).
+\(There will be a lot of other cases where a wrong type of input _will_ cause syntax errors or unexpected behavior\).
 
-First let's see how we can detect if the user typed in a number, then we'll detect if they type in the range we want (1-6).
+First let's see how we can detect if the user typed in a number, then we'll detect if they type in the range we want \(1-6\).
 
 ## Number vs. String
 
-Remember that we've covered 3 basic data types in JavaScript- *booleans*, *numbers*, and *strings*.
+Remember that we've covered 3 basic data types in JavaScript- _booleans_, _numbers_, and _strings_.
 
-When running the `main` function (clicking the submit button), the `input` parameter will always be a *string* data type. The `input` string may sometimes **contain** number **characters** - e.g. "5" or "9383733" or combination of letter characters with number characters e.g., `"SWE101"`.
+When running the `main` function \(clicking the submit button\), the `input` parameter will always be a _string_ data type. The `input` string may sometimes **contain** number **characters** - e.g. "5" or "9383733" or combination of letter characters with number characters e.g., `"SWE101"`.
 
 How do we know if the characters in the `input` string are **only** numbers?
 
@@ -46,7 +46,7 @@ This value also occurs when we attempt a math operation that doesn't result in a
 0/0
 ```
 
-Note that `NaN` *is* a value unto itself, like `0` or `1`. We can take that value and hold it in a variable:
+Note that `NaN` _is_ a value unto itself, like `0` or `1`. We can take that value and hold it in a variable:
 
 ```javascript
 var count = NaN;
@@ -65,12 +65,9 @@ var inputCount = Number(input);
 
 We can now use this behavior to write logic that says:
 
-```text
-// If we try to convert a value to a number and we get the result NaN, then the value is not a number.
-```
+> If we try to convert a value to a number and we get the result NaN, then the value is not a number.
 
-(Note that there is no way to check the positive case, that converting a string to a number went as planned).
-
+\(Note that there is no way to check the positive case, that converting a string to a number went as planned\).
 
 ## isNaN
 
