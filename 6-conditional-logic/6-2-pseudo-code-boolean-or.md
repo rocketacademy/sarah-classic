@@ -1,6 +1,6 @@
 # 6.2: Pseudo Code, Boolean Or
 
-{% embed url="https://youtu.be/3QgxbnIOYnw" %}
+{% embed url="https://youtu.be/3QgxbnIOYnw" caption="" %}
 
 Let's change the game so that if the guess is within 1 the user still wins the game.
 

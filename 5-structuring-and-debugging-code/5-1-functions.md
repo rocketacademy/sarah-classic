@@ -1,12 +1,12 @@
 # 5.1: Functions
 
-{% embed url="https://youtu.be/M0yXZtZSg-A" %}
+{% embed url="https://youtu.be/M0yXZtZSg-A" caption="" %}
 
 We now have a basis to begin formally defining the code structures we're working with and using them to write slightly more realistic programs.
 
 Let's first talk a little about how functions work:
 
-## What does a function do?
+## What does a function do
 
 A function is just a collection of lines of code. We can run those lines of code when we write the appropriate code statement.
 
@@ -165,7 +165,7 @@ With this in mind, assign the value of `input` to myOutputValue to see this conn
 
 Then change the code again to assign the string value "wow hello" to `myOutputValue`.
 
-## What is a function for?
+## What is a function for
 
 We already defined a function as a collection of lines of code we can run.
 
@@ -196,10 +196,10 @@ The user will enter a number of guests and the app will say how many oranges are
 
 #### **SG Hugs**
 
-Everyone has a different gauge for how long they like to hug.  
-  
-The user can enter a number of seconds they like to hug on average, and the app will calculate how many years it will take to hug everyone in Singapore.  
-  
+Everyone has a different gauge for how long they like to hug.
+
+The user can enter a number of seconds they like to hug on average, and the app will calculate how many years it will take to hug everyone in Singapore.
+
 You are of course allowed 9 hours a day to sleep and eat.
 
 #### **House Paint**
@@ -222,8 +222,8 @@ Train 1 is traveling 200kph. It will reach Tokyo in 2 hours.
 
 Train 2 is newer and can travel faster.
 
-A bird lands on the track and delays Train 2.  
-  
+A bird lands on the track and delays Train 2.
+
 The app will help the conductor by allowing him to enter the current amount of minutes they are delayed and then calculating how fast they need to travel to arrive at Tokyo at the same time as Train 1. Output the speed in kph in the grey box.
 
 ### More Comfortable

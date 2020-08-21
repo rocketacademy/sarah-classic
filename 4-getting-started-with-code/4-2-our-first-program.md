@@ -1,6 +1,6 @@
 # 4.2: Our First Program
 
-{% embed url="https://youtu.be/pMMYj-Hbkxc" %}
+{% embed url="https://youtu.be/pMMYj-Hbkxc" caption="" %}
 
 Let's get started with running some code outside of the JavaScript console. We'll be creating a super basic program with a SWE101 starter template and data.
 
@@ -43,12 +43,12 @@ Open the `index.html` file in Chrome.
 The default starter code has one basic behaviour. When you click the button you should see `hello world`.
 
 {% hint style="info" %}
-#### Try it yourself. Open the `index.html` file in your browser and click the submit button.
+#### Try it yourself. Open the `index.html` file in your browser and click the submit button
 {% endhint %}
 
 ### **Output Own Values**
 
-Next, we'll change the output in the grey box from the default to our own text. 
+Next, we'll change the output in the grey box from the default to our own text.
 
 {% hint style="info" %}
 Open the `script.js` file in your editor.
@@ -78,17 +78,15 @@ Change the value of the variable to something else. We'll start with numbers onl
 var myOutputValue = 2;
 ```
 
-#### Remember to save the file and refresh the browser screen.
+#### Remember to save the file and refresh the browser screen
 
-#### Then you can try your changes out.
+#### Then you can try your changes out
 
 **What happens when you click the button?**
 
 Try assigning a bunch of different values.
 
 See them output in the grey square.
-
-
 
 ```javascript
 var myOutputValue = 12;
@@ -200,8 +198,6 @@ Change the code back again to assign the value of `input` to `myOutputValue`:
 var myOutputValue = input;
 ```
 
-
-
 ### Greeting Program
 
 We are going to explicitly state the purpose of our program now:
@@ -220,8 +216,6 @@ Change your program output to a different message. Make it longer, you can use i
 
 `Hello, Susan! Wow, Susan is a great name. Reminds me of this movie star....`
 {% endhint %}
-
-
 
 {% hint style="info" %}
 ### Metric Conversion Program
@@ -284,6 +278,4 @@ var myOutputValue = "Hi! "+input+" is equal to "+distanceInMiles+" miles.";
 
 Other kinds of formats?
 {% endhint %}
-
-## 
 

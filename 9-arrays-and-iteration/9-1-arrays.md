@@ -26,7 +26,7 @@ We use an array to represent the idea of a collection of single values of the sa
 
 There are two sub-types of values we can represent in an array:
 
-#### collections
+#### Collections
 
 Data values of the same kind collected together:
 

@@ -1,8 +1,8 @@
 # 1.2: Web Browsers
 
-{% embed url="https://youtu.be/K7zGrnQ2XOk" %}
+{% embed url="https://youtu.be/K7zGrnQ2XOk" caption="" %}
 
-## Why Browsers?
+## Why Browsers
 
 Web browsers are tools to view web pages and not necessary for writing and executing code. In SWE101 we will use browsers as a learning tool to visualise inputs and outputs of our code through a web page.
 

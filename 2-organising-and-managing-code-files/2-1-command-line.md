@@ -1,6 +1,6 @@
 # 2.1: Command Line
 
-{% embed url="https://youtu.be/iRnFyFMvH1o" %}
+{% embed url="https://youtu.be/iRnFyFMvH1o" caption="" %}
 
 The command line is the interface to the computer that consists only of text characters.
 
@@ -69,7 +69,7 @@ Create a plain text file. A plain text file is one that only contains characters
 {% hint style="warning" %}
 Working with files is easier in the command line if they don't have spaces in them.
 
-If you want two words in your file, separate them with a dash. 
+If you want two words in your file, separate them with a dash.
 {% endhint %}
 
 ```text
@@ -113,7 +113,7 @@ mv
 ```
 
 ```text
-mv cats.txt my-cats.txt  
+mv cats.txt my-cats.txt
 ```
 
 ### rm
@@ -131,7 +131,7 @@ rm my-friends.txt
 {% hint style="danger" %}
 Your removed files **DO NOT** go to a trash bin. **Removing is irreversible.**
 
-**Never, ever, ever** try to ****run a command that removes the **root** directory \(or any other folder you don't want to lose forever\) - for example `rm -r /`
+**Never, ever, ever** try to **\*\*run a command that removes the** root\*\* directory \(or any other folder you don't want to lose forever\) - for example `rm -r /`
 {% endhint %}
 
 Remove a folder.
@@ -210,7 +210,7 @@ If you want to accomplish something specific on the command line, googling for a
 
 Current directory
 
-```
+```text
 pwd
 ```
 
@@ -241,13 +241,13 @@ cp cakes.txt cupcakes.txt
 Copy a folder
 
 ```text
-cp -R pastries new-pastries 
+cp -R pastries new-pastries
 ```
 
 Move a file or folder
 
 ```text
-mv dogs.txt pets.txt 
+mv dogs.txt pets.txt
 ```
 
 Remove a file

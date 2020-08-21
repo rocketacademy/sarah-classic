@@ -1,8 +1,8 @@
 # 3.2: Variables
 
-{% embed url="https://youtu.be/mBZrHgAja78" %}
+{% embed url="https://youtu.be/mBZrHgAja78" caption="" %}
 
-## What are Variables?
+## What are Variables
 
 An abstract piece of data in a program is called a variable.
 
@@ -45,7 +45,7 @@ Our programs must not only _calculate_ values correctly, they must also _represe
 The names of our variables give meaning to the data our code contains.
 
 {% hint style="info" %}
-#### Using just the dev tools console, write code for each representation of the following:
+### Using just the dev tools console, write code for each representation of the following
 
 Use descriptive variable names that explain what you are calculating.
 

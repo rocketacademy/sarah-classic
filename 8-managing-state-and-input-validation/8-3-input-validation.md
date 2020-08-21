@@ -23,7 +23,7 @@ var input = '444';
 Number(input);
 ```
 
-### NaN
+## NaN
 
 When we try to convert a value that isn't only numbers we get `NaN`.
 
@@ -79,9 +79,9 @@ Our logic says that we must check to see if the value we get out of the conversi
 A quirk of JavaScript means that we **can't** do this:
 
 ```javascript
+// this will say FALSE, which is incorrect
 Number('bananas') == NaN
 ```
-The above would not be true.
 
 We need a separate function that returns a boolean value, `isNaN`. This function is built into javascript.
 
@@ -99,9 +99,7 @@ All together with a conditional it would look like:
 if ( isNaN( Number(input) ) == true ) {
   myOutputValue = 'sorry please enter a number.';
 } else {
-
 ...
-
 ```
 
 ## Dice Game

@@ -2,7 +2,7 @@
 
 ## Game Modes
 
-{% embed url="https://youtu.be/rVJq7gFYrxc" %}
+{% embed url="https://youtu.be/rVJq7gFYrxc" caption="" %}
 
 We can use global state to expand the functionality of our games- they can keep track of a game mode to accept different operations and inputs.
 
@@ -32,7 +32,7 @@ Note that the value we set the `mode` to in the beginning is the default one it 
 
 ### Game Playing Modes - Enter Your Name
 
-{% embed url="https://youtu.be/q5ovHXBy82U" %}
+{% embed url="https://youtu.be/q5ovHXBy82U" caption="" %}
 
 ```javascript
 var bankRoll = 10;
@@ -76,7 +76,7 @@ var diceRoll = function () {
 
 ### Refactoring for Modes
 
-{% embed url="https://youtu.be/Uq0K9LdoSqE" %}
+{% embed url="https://youtu.be/Uq0K9LdoSqE" caption="" %}
 
 As our programs become larger and more complicated we want to be able to **refactor** our programs to be more concise, understandable and testable.
 

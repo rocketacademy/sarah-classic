@@ -1,8 +1,6 @@
 # 6.1: Intro to Logic
 
-{% embed url="https://www.youtube.com/watch?v=ywFgZIZXGoI" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=ywFgZIZXGoI" caption="" %}
 
 So far what we have coded are basically calculators or, if the program deals with words, programs that fill in the blanks.
 
@@ -68,7 +66,7 @@ var myRandomValue = Math.random();
 
 Calling `Math.random()` returns a random number value. However we have a dice game, so there is more code we have to write to get the value we want.
 
-#### `Math.random()` returns a decimal number from 0-1.
+#### `Math.random()` returns a decimal number from 0-1
 
 We have to do some math on this number to get what we want.
 
