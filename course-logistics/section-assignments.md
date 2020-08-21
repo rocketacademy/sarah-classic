@@ -4,7 +4,7 @@ description: 'Batch 1: 15 Aug - 12 Sep'
 
 # 🚌 Section and Pairing Assignments
 
-Each student in each section has a unique number from 1-10. Students have been matched such that they pair with someone different every day for as many days as possible. If your partner is not present on a given class day, we may match you with another solo student, or you may be coding solo that day.
+Rocket Academy relies heavily on [pair programming](course-methodology.md#pair-programming) for interactive learning. Each student in each section has a unique number from 1-10, and students have been matched such that they pair with someone different every day for as many days as possible. If your partner is not present on a given class day, we may match you with another solo student, or you may be coding solo that day.
 
 | Student \# | Section 1 \(Akira\) | Section 2 \(Kai\) |
 | :--- | :--- | :--- |
