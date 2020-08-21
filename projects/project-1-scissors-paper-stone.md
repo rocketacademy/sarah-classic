@@ -20,7 +20,7 @@ For clarity on rules, scissors beats paper, paper beats stone, and stone beats s
 
 ## Win-Loss Record
 
-Add [state](../7-managing-state-and-input-validation/7-1-program-lifecycle-and-global-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
+Add [state](../7-managing-state-and-input-validation/7-1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
 
 ## User Name
 

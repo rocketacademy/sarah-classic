@@ -33,7 +33,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [6.3: Boolean And and Not](../6-conditional-logic/6-3-boolean-and-and-not.md)
 * [6.4: GitHub Fork](../6-conditional-logic/6.4-github-fork.md)
-* [7.1: Program Lifecycle and Global State](../7-managing-state-and-input-validation/7-1-program-lifecycle-and-global-state.md)
+* [7.1: Program Lifecycle and Global State](../7-managing-state-and-input-validation/7-1-program-lifecycle-and-state.md)
 * [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
 
 ### Day 5: Tue 25 Aug \(7-9pm\)
