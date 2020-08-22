@@ -97,10 +97,11 @@ console.log(isNaN(result));
 All together with a conditional it would look like:
 
 ```js
-if ( isNaN( Number(input) ) == true ) {
+if (isNaN(Number(input)) == true) {
   myOutputValue = 'sorry please enter a number.';
 } else {
-...
+// ...
+}
 ```
 
 ## Dice Game
@@ -114,7 +115,13 @@ Let's check the input to make sure it is between 1 and 6.
 We could write a long conditional like so:
 
 ```js
-if( input == '1' || input == '2' || .... etc
+if (
+  input == '1'
+  || input == '2'
+  // ... etc
+) {
+  // ...
+}
 ```
 
 Or we could express this condition with `<` and `>`.
