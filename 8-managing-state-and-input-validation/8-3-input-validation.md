@@ -18,7 +18,7 @@ How do we know if the characters in the `input` string are **only** numbers?
 
 We can try to convert from a string type into number type. If the value has only number characters in it, JavaScript will convert it for you.
 
-```javascript
+```js
 var input = '444';
 Number(input);
 ```
@@ -29,36 +29,36 @@ Number(input);
 
 When we try to convert a value that isn't only numbers we get `NaN`.
 
-```javascript
+```js
 var input = 'papayas';
 Number(input);
 ```
 
 This value also occurs when we attempt a math operation that doesn't result in a number.
 
-```javascript
+```js
 2 * 'chocolate'
 ```
 
-```javascript
+```js
 'dogs' / 32
 ```
 
-```javascript
-0/0
+```js
+0 / 0
 ```
 
 Note that `NaN` _is_ a value unto itself, like `0` or `1`. We can take that value and hold it in a variable:
 
-```javascript
+```js
 var count = NaN;
 ```
 
-```javascript
+```js
 var count = 'papayas' * 12;
 ```
 
-```javascript
+```js
 var input = 'papayas';
 var inputCount = Number(input);
 ```
@@ -79,14 +79,14 @@ Our logic says that we must check to see if the value we get out of the conversi
 
 A quirk of JavaScript means that we **can't** do this:
 
-```javascript
+```js
 // this will say FALSE, which is incorrect
 Number('bananas') == NaN
 ```
 
 We need a separate function that returns a boolean value, `isNaN`. This function is built into javascript.
 
-```javascript
+```js
 var input = 'hello';
 
 var result = Number(input);
@@ -96,7 +96,7 @@ console.log(isNaN(result));
 
 All together with a conditional it would look like:
 
-```javascript
+```js
 if ( isNaN( Number(input) ) == true ) {
   myOutputValue = 'sorry please enter a number.';
 } else {
@@ -113,15 +113,15 @@ Let's check the input to make sure it is between 1 and 6.
 
 We could write a long conditional like so:
 
-```javascript
+```js
 if( input == '1' || input == '2' || .... etc
 ```
 
 Or we could express this condition with `<` and `>`.
 
-```javascript
+```js
 // if number is greater or equal to 1 OR less than or equal to 6
-if( input >= 1 || input <= 6 ){
+if (input >= 1 || input <= 6) {
   // number is between 1 and 6
 }
 ```
@@ -134,7 +134,7 @@ There are a couple of different ways to express this same condition. You can als
 
 The full dice game would look like this:
 
-```javascript
+```js
 var diceRoll = function () {
   // produces a decimal between 0 and 6
   var randomDecimal = Math.random() * 6;
@@ -152,23 +152,20 @@ var main = function (input) {
   var myoutputvalue = '';
 
   // before anything check if the input is a number
-  if ( isNaN( Number(input) ) == true ) {
-
+  if (isNaN(Number(input)) == true) {
     myOutputValue = 'sorry please enter a number.';
   } else {
-
     // it's not between 1 and 6
-    if( input < 1 || input > 6 ){
+    if (input < 1 || input > 6) {
       myoutputvalue = 'sorry please enter a number from 1 - 6';
-
-    }else{
+    } else {
       // the input is 1-6, go ahead with the dice game
 
       var randomdicenumber = diceroll();
 
       if (randomdicenumber == input) {
         myoutputvalue = 'you win';
-      }else{
+      } else {
         myoutputvalue = 'you lose';
       }
     }
@@ -177,4 +174,3 @@ var main = function (input) {
   return myoutputvalue;
 };
 ```
-

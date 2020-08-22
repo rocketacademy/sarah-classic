@@ -30,7 +30,7 @@ There are two sub-types of values we can represent in an array:
 
 Data values of the same kind collected together:
 
-```javascript
+```js
 var daysOfTheWeek = [
   'Monday',
   'Tuesday',
@@ -42,24 +42,24 @@ var daysOfTheWeek = [
 ];
 ```
 
-```javascript
-var letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
+```js
+var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 ```
 
-```javascript
-var dailyAverageTemperatureLastWeek = [30,32,29,34,36,38,32];
+```js
+var dailyAverageTemperatureLastWeek = [30, 32, 29, 34, 36, 38, 32];
 ```
 
 #### dynamic length data
 
 This is a type of data collected together but this data collection does not have a set length.
 
-```javascript
-var winningDiceGuesses = [3,4,2,1,4];
+```js
+var winningDiceGuesses = [3, 4, 2, 1, 4];
 ```
 
-```javascript
-var salesThisMonth = [34,23,12,78,56];
+```js
+var salesThisMonth = [34, 23, 12, 78, 56];
 ```
 
 ## Array Data Properties
@@ -79,8 +79,8 @@ Confusingly, the _number_ of the first item in an array is always 0 \(zero\).
 
 In the case above the 3rd bucket, or location, or **index** of this letter array is `2`:
 
-```javascript
-var letters = ['a','b','c'];
+```js
+var letters = ['a', 'b', 'c'];
 var value = letters[2];
 ```
 
@@ -90,8 +90,8 @@ Position implies that for any array `0` will always be the first, left-most loca
 
 ### order
 
-```javascript
-var letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
+```js
+var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 ```
 
 The array above signifies that "a" is before "b". \(and also that index 0 is before index 1\)
@@ -100,8 +100,8 @@ The array above signifies that "a" is before "b". \(and also that index 0 is bef
 
 Let's talk about how to put data into an array, how to get it out, and some of the implications of those actions.
 
-```javascript
-var letters = ['a','b','c'];
+```js
+var letters = ['a', 'b', 'c'];
 var value = letters[2];
 ```
 
@@ -113,15 +113,15 @@ If we want to manipulate the values in an array there are a few methods:
 
 Create an array with values inside:
 
-```javascript
-var temperatures = [23,43];
+```js
+var temperatures = [23, 43];
 ```
 
 Manipulate the values inside the array:
 
 reassign the values in the array after it's been created.
 
-```javascript
+```js
 temperatures[0] = 9999999;
 ```
 
@@ -129,11 +129,11 @@ temperatures[0] = 9999999;
 
 Push: Add new values to an array after it's been created.
 
-```javascript
-var temperatures = [23,43];
+```js
+var temperatures = [23, 43];
 ```
 
-```javascript
+```js
 temperatures.push(33333333);
 ```
 
@@ -141,11 +141,11 @@ Push is a function that takes as an argument the value you want to be put in the
 
 Pop: take the last value out of the array.
 
-```javascript
-var temperatures = [23,43];
+```js
+var temperatures = [23, 43];
 ```
 
-```javascript
+```js
 var lastValue = temperatures.pop();
 ```
 
@@ -155,11 +155,10 @@ Note that the last value in the array is inside of `lastValue` **and** that valu
 
 Let's implement a shell game with this idea.
 
-```javascript
-var getRandomInteger = function(max) {
-
+```js
+var getRandomInteger = function (max) {
   // produces a float between 0 and max + .999999 etc.
-  var randomFloat =  (Math.random() * max);
+  var randomFloat = (Math.random() * max);
 
   // take off the decimal
   var resultInteger = Math.floor(randomFloat);
@@ -167,7 +166,7 @@ var getRandomInteger = function(max) {
   return resultInteger;
 };
 
-var shells = ['empty','empty','empty'];
+var shells = ['empty', 'empty', 'empty'];
 
 var randomBallLocation = getRandomInteger(3);
 
@@ -199,4 +198,3 @@ var myOutputValue = 'you lose. Your guesses: ' + guesses;
 if \(randomDiceNumber == input\) { myOutputValue = 'you win. Your guesses: ' + guesses; }
 
 return myOutputValue; };
-

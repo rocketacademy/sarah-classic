@@ -14,8 +14,8 @@ First of all, a deck of cards is a bunch of data that is **of the same type**. T
 
 We could create an array like so:
 
-```javascript
-var cards = ["nine of hearts","ten of hearts", "jack of hearts" ... ];
+```js
+var cards = ['nine of hearts', 'ten of hearts', 'jack of hearts'];
 ```
 
 Is this a good representation of a game of cards?
@@ -36,11 +36,11 @@ For a given card we need a way to represent the different values in that individ
 
 We can use an object to represent a single piece of data that contains heterogenous data- data of all different types.
 
-```javascript
+```js
 var singleCard = {
-  rank : 11,
-  suit: "heart",
-  name: "jack"
+  rank: 11,
+  suit: 'heart',
+  name: 'jack',
 };
 ```
 
@@ -50,32 +50,29 @@ We can make this into an array of objects.
 
 #### object data access
 
-```javascript
+```js
 singleCard.rank
 ```
 
-```javascript
+```js
 singleCard.suit
 ```
 
-```javascript
+```js
 singleCard.name
 ```
 
 ## card shuffling
 
-```javascript
-var getRandomIndex = function(size){
+```js
+var getRandomIndex = function (size) {
   return Math.floor(Math.random() * size)
 };
 
-var shuffleCards = function( cards ){
-
+var shuffleCards = function (cards) {
   var index = 0;
-  var cards = [1,2,3];
 
-  while( index < cards.length ){
-
+  while (index < cards.length) {
     var randomIndex = getRandomIndex(cards.length);
 
     var currrentItem = cards[index];
@@ -94,29 +91,29 @@ var shuffleCards = function( cards ){
 
 ## High Card
 
-```javascript
-var originalCards = [ ... ];
+```js
+var originalCards = [
+  // card 1,
+  // card 2,
+  // ...
+];
 
 var cards = shuffleCards(originalCards);
 
-var main = function(input){
-
+var main = function (input) {
   var computerCard = cards.pop();
   var playerCard = cards.pop();
 
-  var myOutputValue = "They had: "+computerCard.name + " of "+computerCard.suit+ yu had: "+  "+playerCard.name + " of "+playerCard.suit;
+  var myOutputValue = 'They had: ' + computerCard.name + ' of ' + computerCard.suit + 'you had: ' + playerCard.name + ' of ' + playerCard.suit;
 
-  if( computerCard.rank > playerCard.rank ){
-    myOutputValue = myOutputValue + "computer wins.";
-
-  }else if( computerCard.rank < playerCard.rank ){
-    myOutputValue = myOutputValue + "you win!!";
-
-  }else{
-    myOutputValue = myOutputValue + " its a tie.";
+  if (computerCard.rank > playerCard.rank) {
+    myOutputValue = myOutputValue + 'computer wins.';
+  } else if (computerCard.rank < playerCard.rank) {
+    myOutputValue = myOutputValue + 'you win!!';
+  } else {
+    myOutputValue = myOutputValue + ' its a tie.';
   }
 
   return myOutputValue;
 };
 ```
-

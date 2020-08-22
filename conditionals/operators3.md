@@ -22,7 +22,7 @@ the user guess minus one is equal to the random number
 then the user wins.
 ```
 
-```javascript
+```js
 randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input
 ```
 
@@ -52,13 +52,13 @@ then the user wins.
 
 Translates to:
 
-```javascript
+```js
 randomDiceNumber - 2 >= guess && randomDiceNumber + 2 <= input
 ```
 
 This logic states the same exact thing as our original logic, but it allows us to state a range \(rather than +/- one\)
 
-```javascript
+```js
 guess - 3 >= randomDiceNumber && input + 3 <= randomDiceNumber
 ```
 

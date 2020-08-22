@@ -6,7 +6,7 @@
 
 We can use global state to expand the functionality of our games- they can keep track of a game mode to accept different operations and inputs.
 
-```javascript
+```js
 var mode = 'green';
 
 var main = function (input) {
@@ -34,13 +34,12 @@ Note that the value we set the `mode` to in the beginning is the default one it 
 
 {% embed url="https://youtu.be/q5ovHXBy82U" caption="" %}
 
-```javascript
+```js
 var bankRoll = 10;
 var currentGameMode = 'waiting for user name';
 var userName = '';
 
 var main = function (input) {
-
   var myOutputValue = '';
 
   if (currentGameMode == 'waiting for user name') {
@@ -51,7 +50,6 @@ var main = function (input) {
     currentGameMode = 'dice game';
 
     myOutputValue = 'Hello ' + userName;
-
   } else if (currentGameMode == 'dice game') {
     // dice game logic
     var randomDiceRoll = diceRoll();
@@ -84,13 +82,12 @@ We can use functions as subroutines and use parameters and return values to help
 
 From the example above we can extract the dice roll part and put it into it's own function:
 
-```javascript
+```js
 var bankRoll = 10;
 var currentGameMode = 'waiting for user name';
 var userName = '';
 
 var main = function (input) {
-
   var myOutputValue = '';
 
   if (currentGameMode == 'waiting for user name') {
@@ -101,7 +98,6 @@ var main = function (input) {
     currentGameMode = 'dice game';
 
     myOutputValue = 'Hello ' + userName;
-
   } else if (currentGameMode == 'dice game') {
     myOutputValue = diceGame(userName, input);
   }
@@ -131,4 +127,3 @@ var diceRoll = function () {
   return diceNumber;
 };
 ```
-

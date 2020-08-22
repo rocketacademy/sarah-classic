@@ -28,9 +28,8 @@ Let's introduce a syntax error into your program.
 
 Replace your `kilometersToMiles` function with the one below.
 
-```javascript
-var kilometersToMiles = function distanceInKilometers){
-
+```js
+var kilometersToMiles = function (distanceInKilometers) {
   var distanceInMiles = distanceInKilometers * 0.62;
 
   return distanceInMiles;
@@ -51,8 +50,8 @@ b. runtime errors - errors that happen when you run your program.
 
 Replace this line in the starter code:
 
-```javascript
-var myOutputValue = "hello world"()
+```js
+var myOutputValue = 'hello world'()
 ```
 
 You will see when you refresh the page that there is no red text.
@@ -99,9 +98,8 @@ If our `console.log` statement appears in the dev tools console then we know tha
 
 Replace your main function with this code:
 
-```javascript
-var main = function(input) {
-
+```js
+var main = function (input) {
   var myOutputValue = kilometersToMiles;
 
   return myOutputValue;
@@ -114,17 +112,13 @@ Another way we can use `console.log` is to pass it the variable values our progr
 
 Are the values in our program the ones we expect?
 
-```javascript
-var main = function(input) {
+```js
+var kilometersToMiles = function (distanceInKilometers) {
+  var distanceInMiles = distanceInKilometers * 0.62;
+};
+
+var main = function (input) {
   var myOutputValue = kilometersToMiles(input);
   return myOutputValue;
 };
-
-var kilometersToMiles = function(distanceInKilometers){
-
-  var distanceInMiles = distanceInKilometers * 0.62;
-
-  return;
-};
 ```
-

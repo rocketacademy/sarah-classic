@@ -37,4 +37,3 @@ git clone
 
 Make sure that you are not already inside another repo directory before you run the command.
 {% endhint %}
-

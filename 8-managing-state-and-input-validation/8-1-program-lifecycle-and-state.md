@@ -18,15 +18,15 @@ We'll also define **life of our program** as the time from when it loads in the 
 
 First let's prove the basic behavior that when we initialize a value in the console we can manipulate it and get the new value out:
 
-```javascript
+```js
 var number = 5;
 ```
 
-```javascript
+```js
 number = number * 2;
 ```
 
-```javascript
+```js
 number
 ```
 
@@ -36,7 +36,7 @@ If we refresh the page that value is no longer available. The life of our progra
 
 Remember that for a `main` function like this:
 
-```javascript
+```js
 var main = function (input) {
   var myOutputValue = kilometersToMiles(input);
 
@@ -48,7 +48,7 @@ var main = function (input) {
 
 Note that when you try to check the value of `myOutputValue` in the console it doesn't exist.
 
-```javascript
+```js
 myOutputValue
 ```
 
@@ -60,7 +60,7 @@ Note that main function runs each time the submit button is clicked.
 
 {% embed url="https://www.youtube.com/watch?v=xVIAh\_o4mPc" caption="" %}
 
-```javascript
+```js
 var papayaCounter = 0;
 
 var main = function (input) {
@@ -75,17 +75,15 @@ var main = function (input) {
 
 Let's add betting on the dice roll.
 
-```javascript
+```js
 var bankRoll = 10;
 
 var main = function (input) {
-
   var randomDiceNumber = diceRoll();
 
   var myOutputValue = 'you lose. current bank roll: ' + bankRoll;
 
   if (randomDiceNumber == input) {
-
     bankRoll = bankRoll + 1;
 
     myOutputValue = 'you win. current bank roll: ' + bankRoll;
@@ -94,8 +92,6 @@ var main = function (input) {
   return myOutputValue;
 };
 ```
-
-
 
 ## Exercises
 
@@ -106,7 +102,7 @@ var main = function (input) {
   
 Put this basic dice game into the starter code:
 
-```javascript
+```js
 var diceRoll = function () {
   // produces a decimal between 0 and 6
   var randomDecimal = Math.random() * 6;
@@ -119,7 +115,6 @@ var diceRoll = function () {
 
   return diceNumber;
 };
-
 
 var main = function (input) {
   var randomDiceNumber = diceRoll();
@@ -143,21 +138,18 @@ Example:
 Your last roll was 4. You just rolled a 3. You guessed 3. You win!
 ```
 
-#### 
+####
 
-  
 **Win / Loss**  
 As the user continues to play the game, tell them what their current win / loss percentage is.  
   
 Example:
 
-
-
 ```text
 You win 23.5% of the time. You just rolled a 4. You guessed 3. You lose!
 ```
 
-#### 
+####
 
 #### More Comfortable
 
@@ -167,13 +159,11 @@ Keep track of the number that's rolled the most times.
 
 Example:
 
-
-
 ```text
 You just rolled a 4. 2 is the number you roll the most. You guessed 3. You lose!
 ```
 
-#### 
+####
 
 **Betting**  
 If the user guess is off by 1 they win 1. If it's exact they win 2.  
@@ -181,4 +171,3 @@ If the user guess is off by 1 they win 1. If it's exact they win 2.
 **Advanced Betting**  
 The user can be off up to 4. They win 1 if they are off by 4 and win 4 if they guess exactly.
 {% endhint %}
-

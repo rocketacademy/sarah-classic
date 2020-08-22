@@ -18,11 +18,10 @@ We'll look at loops in isolation first, then we'll see that they match up perfec
 
 This is a loop that runs 10 times.
 
-```javascript
+```js
 var counter = 0;
 
-while ( counter < 10 ) {
-
+while (counter < 10) {
   console.log('hello');
 
   counter = counter + 1;
@@ -33,7 +32,7 @@ while ( counter < 10 ) {
 
 Let's create a program that outputs things in a loop based on some input.
 
-```javascript
+```js
 var main = function (input) {
   var myOutputValue = '';
 
@@ -61,11 +60,11 @@ The trick is that we can make an eqivalence between the `counter` we had in the 
 
 This is a value given to us for any array:
 
-```javascript
-var letters = ['a','b','c'];
+```js
+var letters = ['a', 'b', 'c'];
 ```
 
-```javascript
+```js
 letters.length
 ```
 
@@ -73,9 +72,9 @@ We use `length` to know how many times to run the loop.
 
 We use `counter` to access the location of each item in the array.
 
-```javascript
+```js
 var index = 0;
-var letters = ['a','b','c'];
+var letters = ['a', 'b', 'c'];
 var letterLength = letters.length;
 
 while (index < letterLength) {
@@ -91,7 +90,7 @@ Let's make a simple program that demonstrates the use of loops and arrays.
 
 Our app is an address book that keeps names and doesnt add a new one if its already in the book.
 
-```javascript
+```js
 var names = [];
 
 var main = function (input) {
@@ -126,7 +125,7 @@ var main = function (input) {
 
 Let's create a game of hangman, where a player guesses the secret word.
 
-```javascript
+```js
 var secretWordArray = ['c', 'a', 't'];
 
 var lettersFound = [];
@@ -159,4 +158,3 @@ var main = function (input) {
   return myOutputValue;
 };
 ```
-

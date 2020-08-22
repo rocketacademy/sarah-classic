@@ -6,7 +6,7 @@
 
 An abstract piece of data in a program is called a variable.
 
-```javascript
+```js
 var pi = 3.14;
 ```
 
@@ -14,19 +14,19 @@ We name a variable and we associate a specific data value with it.
 
 We use a variable to represent some data that our program will process.
 
-```javascript
+```js
 var radius = 4;
 ```
 
 Using these 2 data values we can calculate the area of this circle:
 
-```javascript
+```js
 pi * radius * radius;
 ```
 
 We can also use variables to capture that calculated value:
 
-```javascript
+```js
 var area = pi * radius * radius;
 ```
 
@@ -34,7 +34,7 @@ var area = pi * radius * radius;
 
 If we wanted the same result we could also write:
 
-```javascript
+```js
 var area = 3.14 * 4 * 4;
 ```
 
@@ -45,6 +45,7 @@ Our programs must not only _calculate_ values correctly, they must also _represe
 The names of our variables give meaning to the data our code contains.
 
 {% hint style="info" %}
+
 ### Using just the dev tools console, write code for each representation of the following
 
 Use descriptive variable names that explain what you are calculating.
@@ -57,4 +58,3 @@ When you are done, paste the code into a slack message to yourself.
 * for a given rise and run, the percentage grade of a road
 * milliliters to pints
 {% endhint %}
-

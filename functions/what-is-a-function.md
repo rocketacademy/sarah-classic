@@ -22,7 +22,7 @@ We assign a function to that variable: `var kilometersToMiles = function`
 
 We note the beggining and end of the function `block` with **curly braces**:
 
-```javascript
+```js
 var kilometersToMiles = function(){
 
 };
@@ -30,25 +30,25 @@ var kilometersToMiles = function(){
 
 We define what actions happen when the function will be executed:
 
-```javascript
+```js
 var distanceInMiles = distanceInKilometers * 0.62;
 ```
 
 Using `return` keyword we define the output value of the function:
 
-```javascript
+```js
 return distanceInMiles;
 ```
 
 We define the function input called a `parameter` as `distanceInKilometers`.
 
-```javascript
+```js
 var kilometersToMiles = function(distanceInKilometers){
 ```
 
 All together it looks like this:
 
-```javascript
+```js
 var kilometersToMiles = function(distanceInKilometers){
 
   var distanceInMiles = distanceInKilometers * 0.62;
@@ -63,13 +63,13 @@ Let's run this function without the rest of our starter code first.
 
 The syntax for running our function is to mention the name of the function and add **parentheses** to the end of it:
 
-```javascript
+```js
 kilometersToMiles();
 ```
 
 Our function takes an argument - an actual value representing kilometers:
 
-```javascript
+```js
 var someNumber = 4;
 kilometersToMiles(someNumber);
 ```
@@ -86,7 +86,7 @@ Type the name of the function into the console. You should see the code `block` 
 
 You can run this code again from the console with a different value:
 
-```javascript
+```js
 kilometersToMiles(7676);
 ```
 
@@ -98,7 +98,7 @@ We can see the result of the calculation in the console.
 
 We can also capture that value to use it later.
 
-```javascript
+```js
 var result = kilometersToMiles(7676);
 ```
 
@@ -108,7 +108,7 @@ Type in the name of the variable: `result` and press enter to see the given valu
 
 Inside main call the functions and give the input value as an argument.
 
-```javascript
+```js
 var main = function(input) {
 
   var myOutputValue = kilometersToMiles(input);
@@ -128,7 +128,7 @@ var kilometersToMiles = function(distanceInKilometers){
 
 ### Doubling a number
 
-```javascript
+```js
 var double = function(number){
   return number * 2;
 };
@@ -136,7 +136,7 @@ var double = function(number){
 
 ### Kilos to Pounds
 
-```javascript
+```js
 var kilosToPounds = function(kilos){
   return kilos * 2.2;
 };
@@ -144,7 +144,7 @@ var kilosToPounds = function(kilos){
 
 ### Area of a circle
 
-```javascript
+```js
 var circleArea = function(radius){
   var pi = 3.1415;
   return pi * radius * radius;
@@ -201,7 +201,7 @@ Let's introduce a syntax error into your program.
 
 Replace your `kilometersToMiles` function with the one below.
 
-```javascript
+```js
 var kilometersToMiles = function distanceInKilometers){
 
   var distanceInMiles = distanceInKilometers * 0.62;
@@ -224,7 +224,7 @@ b. runtime errors - errors that happen when you run your porogram.
 
 Replace this line in the starter code:
 
-```javascript
+```js
 var myOutputValue = "hello world"()
 ```
 
@@ -242,7 +242,7 @@ Some of the errors your program will have will not produce any red output on the
 
 Replace your main function with this code:
 
-```javascript
+```js
 var main = function(input) {
 
   var myOutputValue = kilometersToMiles(input);
@@ -289,7 +289,7 @@ Are the values in our program the ones we expect?
 
 As below we can pass variable values to `console.log`:
 
-```javascript
+```js
 var main = function(input) {
   var myOutputValue = "hello world";
   return myOutputValue;
