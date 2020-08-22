@@ -7,7 +7,6 @@ Coding means writing instructions for the computer to execute.
 We will begin with the most basic kinds of instructions the computer can execute, which is an operation between 2 number data values.
 
 {% hint style="info" %}
-
 ### **Setup**
 
 1. Open a new tab in the Chrome browser. \(file menu -&gt; new tab _or_ `cmd + t`\)
@@ -20,25 +19,24 @@ We will begin with the most basic kinds of instructions the computer can execute
 The JavaScript language is capable of calculating math operations.
 
 {% hint style="info" %}
-
 ### Paste these into the dev tools console
 
-```js
+```javascript
 2 + 2
 ```
 
-```js
+```javascript
 4 * 2
 ```
 
-```js
+```javascript
 4 / 2
 ```
 
-```js
+```javascript
 4 - 2
 ```
 
 ### What is the smallest and largest number you can make a calculation with
-
 {% endhint %}
+

@@ -24,7 +24,7 @@ We assign a function to that variable: `var kilometersToMiles = function`
 
 We note the beggining and end of the function `block` with **curly braces**:
 
-```js
+```javascript
 var kilometersToMiles = function () {
 
 };
@@ -32,25 +32,25 @@ var kilometersToMiles = function () {
 
 We define what actions happen when the function will be executed:
 
-```js
+```javascript
 var distanceInMiles = distanceInKilometers * 0.62;
 ```
 
 Using `return` keyword we define the output value of the function:
 
-```js
+```javascript
 return distanceInMiles;
 ```
 
 We define the function input called a `parameter` as `distanceInKilometers`.
 
-```js
+```javascript
 var kilometersToMiles = function(distanceInKilometers) {
 ```
 
 All together it looks like this:
 
-```js
+```javascript
 var kilometersToMiles = function (distanceInKilometers) {
   var distanceInMiles = distanceInKilometers * 0.62;
 
@@ -64,13 +64,13 @@ Let's run this function without the rest of our starter code first.
 
 The syntax for running our function is to mention the name of the function and add **parentheses** to the end of it:
 
-```js
+```javascript
 kilometersToMiles();
 ```
 
 Our function takes an argument - an actual value representing kilometers:
 
-```js
+```javascript
 var someNumber = 4;
 kilometersToMiles(someNumber);
 ```
@@ -87,7 +87,7 @@ Type the name of the function into the console. You should see the code `block` 
 
 You can run this code again from the console with a different value:
 
-```js
+```javascript
 kilometersToMiles(7676);
 ```
 
@@ -99,7 +99,7 @@ We can see the result of the calculation in the console.
 
 We can also capture that value to use it later.
 
-```js
+```javascript
 var result = kilometersToMiles(7676);
 ```
 
@@ -109,7 +109,7 @@ Type in the name of the variable: `result` and press enter to see the given valu
 
 Inside main call the functions and give the input value as an argument.
 
-```js
+```javascript
 var main = function (input) {
   var myOutputValue = kilometersToMiles(input);
 
@@ -127,7 +127,7 @@ var kilometersToMiles = function (distanceInKilometers) {
 
 ### Doubling a number
 
-```js
+```javascript
 var double = function (number) {
   return number * 2;
 };
@@ -135,7 +135,7 @@ var double = function (number) {
 
 ### Kilos to pounds
 
-```js
+```javascript
 var kilosToPounds = function (kilos) {
   return kilos * 2.2;
 };
@@ -143,7 +143,7 @@ var kilosToPounds = function (kilos) {
 
 ### Area of a circle
 
-```js
+```javascript
 var circleArea = function (radius) {
   var pi = 3.1415;
   return pi * radius * radius;
@@ -175,7 +175,6 @@ Given the above function examples we can also say that a function can be a data 
 ## Exercises
 
 {% hint style="info" %}
-
 ### **1\) Duplicate and run the code above.**
 
 ### **2\) Errors: take out `return` and `input` from the examples. What happens? Why?**
@@ -230,3 +229,4 @@ The app will help the conductor by allowing him to enter the current amount of m
 
 A user can enter the number of minutes past 1pm and the app will calculate the angle between the hour and minute hand.
 {% endhint %}
+

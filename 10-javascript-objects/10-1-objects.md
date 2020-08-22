@@ -14,7 +14,7 @@ First of all, a deck of cards is a bunch of data that is **of the same type**. T
 
 We could create an array like so:
 
-```js
+```javascript
 var cards = ['nine of hearts', 'ten of hearts', 'jack of hearts'];
 ```
 
@@ -36,7 +36,7 @@ For a given card we need a way to represent the different values in that individ
 
 We can use an object to represent a single piece of data that contains heterogenous data- data of all different types.
 
-```js
+```javascript
 var singleCard = {
   rank: 11,
   suit: 'heart',
@@ -50,21 +50,21 @@ We can make this into an array of objects.
 
 #### object data access
 
-```js
+```javascript
 singleCard.rank
 ```
 
-```js
+```javascript
 singleCard.suit
 ```
 
-```js
+```javascript
 singleCard.name
 ```
 
 ## card shuffling
 
-```js
+```javascript
 var getRandomIndex = function (size) {
   return Math.floor(Math.random() * size)
 };
@@ -91,7 +91,7 @@ var shuffleCards = function (cards) {
 
 ## High Card
 
-```js
+```javascript
 var originalCards = [
   // card 1,
   // card 2,
@@ -117,3 +117,4 @@ var main = function (input) {
   return myOutputValue;
 };
 ```
+

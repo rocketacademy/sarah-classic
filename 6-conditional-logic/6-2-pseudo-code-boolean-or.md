@@ -41,7 +41,7 @@ If the guess is equal to the random number the user wins.
 
 translates to:
 
-```js
+```javascript
 if (randomDiceNumber == input) {
   myOutputValue = 'you win';
 }
@@ -65,7 +65,7 @@ If the user guess minus one is equal to the random number, the user wins.
 
 We could translate this to a series of `if` blocks:
 
-```js
+```javascript
 if (randomDiceNumber == input) {
   myOutputValue = 'you win';
 }
@@ -121,7 +121,7 @@ Logical OR is represented by `||`
 
 So the final syntax looks like:
 
-```js
+```javascript
 if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input) {
   myOutputValue = 'you win';
 }
@@ -132,7 +132,6 @@ We'll find a use for the other logical operator AND \(`&&`\) in the next section
 ## Exercises
 
 {% hint style="info" %}
-
 ### **1\) Duplicate and run the code above.**
 
 ### **2\) Apps**
@@ -161,3 +160,4 @@ Change your dice game so that if the user types in "palatable papaya" instead of
 
 There is a way to mathematically verify that a number is even using the `%` operator - the modulus operator. Google the solution to tell if a number is even in JavaScript, and what the modulus operator does and refactor the logic in the game to use it.
 {% endhint %}
+

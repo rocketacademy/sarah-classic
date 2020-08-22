@@ -16,7 +16,7 @@ This game is very simple but as soon as things become more complicated we need t
 
 We'll implement the strategy for getting to the winning condition in a simple way- getting rid of the randomness. We will cheat and fix the random number by changing my dice function like so:
 
-```js
+```javascript
 var diceRoll = function () {
   return 6;
 
@@ -40,12 +40,12 @@ We just have to remember to take it back out later!
 
 Every boolean operator, just like addition and other math operators, produces a new value.
 
-```js
+```javascript
 // this is the result of number 1 math operator number 2
 var myVal = 3 + 2;
 ```
 
-```js
+```javascript
 // this is the result of number 1 boolean operator number 2
 var myVal = 3 == 2;
 ```
@@ -54,7 +54,7 @@ what's the value inside of `myVal` in this case?
 
 We've seen numbers and strings. Boolean values are a 3rd kind of data we'll deal with. They **represent** a value that is true or false. Just like we can hold the rersult of a math operation, we can hold the result of a logical boolean operation.
 
-```js
+```javascript
 var userWin = true;
 ```
 
@@ -84,7 +84,7 @@ then the user wins.
 
 #### JavaScript
 
-```js
+```javascript
 var main = function (input) {
   var randomDiceNumber1 = diceRoll();
   var randomDiceNumber2 = diceRoll();
@@ -163,7 +163,7 @@ Does the logic say what you meant it to say?
 
 For a given statement like this one:
 
-```js
+```javascript
 if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input) {
   myOutputValue = 'you win';
 }
@@ -171,7 +171,7 @@ if (randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumb
 
 We can simply look at each value and boolean expression value:
 
-```js
+```javascript
 console.log('random dice number:');
 console.log(randomDiceNumber);
 console.log('input');
@@ -191,7 +191,6 @@ Also remember that if your label is wrong or if your statements in the `console.
 ## Exercises
 
 {% hint style="info" %}
-
 ### 1\) Duplicate and run the above code
 
 ### 2\) App
@@ -205,3 +204,4 @@ _\(Note that you should manage your time so that you have time for next set of e
 * User wins if guess is within 1 but the user does not roll snake eyes.
 * User wins if guess is within 1 or if the user rolls snake eyes.
 {% endhint %}
+

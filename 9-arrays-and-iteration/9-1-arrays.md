@@ -30,7 +30,7 @@ There are two sub-types of values we can represent in an array:
 
 Data values of the same kind collected together:
 
-```js
+```javascript
 var daysOfTheWeek = [
   'Monday',
   'Tuesday',
@@ -42,11 +42,11 @@ var daysOfTheWeek = [
 ];
 ```
 
-```js
+```javascript
 var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 ```
 
-```js
+```javascript
 var dailyAverageTemperatureLastWeek = [30, 32, 29, 34, 36, 38, 32];
 ```
 
@@ -54,11 +54,11 @@ var dailyAverageTemperatureLastWeek = [30, 32, 29, 34, 36, 38, 32];
 
 This is a type of data collected together but this data collection does not have a set length.
 
-```js
+```javascript
 var winningDiceGuesses = [3, 4, 2, 1, 4];
 ```
 
-```js
+```javascript
 var salesThisMonth = [34, 23, 12, 78, 56];
 ```
 
@@ -79,7 +79,7 @@ Confusingly, the _number_ of the first item in an array is always 0 \(zero\).
 
 In the case above the 3rd bucket, or location, or **index** of this letter array is `2`:
 
-```js
+```javascript
 var letters = ['a', 'b', 'c'];
 var value = letters[2];
 ```
@@ -90,7 +90,7 @@ Position implies that for any array `0` will always be the first, left-most loca
 
 ### order
 
-```js
+```javascript
 var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 ```
 
@@ -100,7 +100,7 @@ The array above signifies that "a" is before "b". \(and also that index 0 is bef
 
 Let's talk about how to put data into an array, how to get it out, and some of the implications of those actions.
 
-```js
+```javascript
 var letters = ['a', 'b', 'c'];
 var value = letters[2];
 ```
@@ -113,7 +113,7 @@ If we want to manipulate the values in an array there are a few methods:
 
 Create an array with values inside:
 
-```js
+```javascript
 var temperatures = [23, 43];
 ```
 
@@ -121,7 +121,7 @@ Manipulate the values inside the array:
 
 reassign the values in the array after it's been created.
 
-```js
+```javascript
 temperatures[0] = 9999999;
 ```
 
@@ -129,11 +129,11 @@ temperatures[0] = 9999999;
 
 Push: Add new values to an array after it's been created.
 
-```js
+```javascript
 var temperatures = [23, 43];
 ```
 
-```js
+```javascript
 temperatures.push(33333333);
 ```
 
@@ -141,11 +141,11 @@ Push is a function that takes as an argument the value you want to be put in the
 
 Pop: take the last value out of the array.
 
-```js
+```javascript
 var temperatures = [23, 43];
 ```
 
-```js
+```javascript
 var lastValue = temperatures.pop();
 ```
 
@@ -155,7 +155,7 @@ Note that the last value in the array is inside of `lastValue` **and** that valu
 
 Let's implement a shell game with this idea.
 
-```js
+```javascript
 var getRandomInteger = function (max) {
   // produces a float between 0 and max + .999999 etc.
   var randomFloat = (Math.random() * max);
@@ -198,3 +198,4 @@ var myOutputValue = 'you lose. Your guesses: ' + guesses;
 if \(randomDiceNumber == input\) { myOutputValue = 'you win. Your guesses: ' + guesses; }
 
 return myOutputValue; };
+

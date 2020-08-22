@@ -28,7 +28,7 @@ Let's introduce a syntax error into your program.
 
 Replace your `kilometersToMiles` function with the one below.
 
-```js
+```javascript
 var kilometersToMiles = function (distanceInKilometers) {
   var distanceInMiles = distanceInKilometers * 0.62;
 
@@ -50,7 +50,7 @@ b. runtime errors - errors that happen when you run your program.
 
 Replace this line in the starter code:
 
-```js
+```javascript
 var myOutputValue = 'hello world'()
 ```
 
@@ -98,7 +98,7 @@ If our `console.log` statement appears in the dev tools console then we know tha
 
 Replace your main function with this code:
 
-```js
+```javascript
 var main = function (input) {
   var myOutputValue = kilometersToMiles;
 
@@ -112,7 +112,7 @@ Another way we can use `console.log` is to pass it the variable values our progr
 
 Are the values in our program the ones we expect?
 
-```js
+```javascript
 var kilometersToMiles = function (distanceInKilometers) {
   var distanceInMiles = distanceInKilometers * 0.62;
 };
@@ -122,3 +122,4 @@ var main = function (input) {
   return myOutputValue;
 };
 ```
+

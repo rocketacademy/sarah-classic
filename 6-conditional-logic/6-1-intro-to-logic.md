@@ -14,7 +14,7 @@ Let's write a program that changes the output value of "hello world" if you type
 
 An if statement is a control flow `block` that runs if a condition is `true`. We'll talk more about what specifically `true` means later, but you can see that what's happening is very intuitive.
 
-```js
+```javascript
 var main = function (input) {
   var myOutputValue = 'hello world';
 
@@ -46,7 +46,7 @@ Now that things are getting more complicated, we might want to leave notes to ou
 
 Comments let you write things in the code file that are just notes.
 
-```js
+```javascript
 // this won't actually run
 ```
 
@@ -60,7 +60,7 @@ Let's build the random number generation before we talk about the dice game logi
 
 Javascript language can produce random numbers using a build-in set of functions called `Math` \(case-sensetive\).
 
-```js
+```javascript
 var myRandomValue = Math.random();
 ```
 
@@ -76,7 +76,7 @@ We will use the code refered to on this [page.](https://developer.mozilla.org/en
 
 We can make a function that produces any random integer:
 
-```js
+```javascript
 var getRandomInteger = function (max) {
   // produces a float between 1 and max + .999999 etc.
   var randomFloat = (Math.random() * max) + 1;
@@ -92,7 +92,7 @@ But what we are creating is a dice rolling game, so we can just make a dice func
 
 We can make a function that produces any random integer:
 
-```js
+```javascript
 var diceRoll = function () {
   // produces a decimal between 0 and 6
   var randomDecimal = Math.random() * 6;
@@ -113,7 +113,7 @@ let's implement the logical rules to our game.
 
 if the dice roll the same number as the user entered, they win.
 
-```js
+```javascript
 var main = function (input) {
   var randomDiceNumber = diceRoll();
 
@@ -130,7 +130,6 @@ var main = function (input) {
 ## Exercises
 
 {% hint style="info" %}
-
 ### **1\) Duplicate and run the code above.**
 
 ### **2\) Apps**
@@ -141,3 +140,4 @@ For each app `clone` a new copy of the starter code using git.
 
 The user wins the game if the dice roll is 2x the guess. E.g., Guess of 1 and roll of 2, guess of 2 and roll of 4, etc. To win for a 6-sided dice, the user should only guess numbers between 1-3, but the game does not restrict what they can guess.
 {% endhint %}
+
