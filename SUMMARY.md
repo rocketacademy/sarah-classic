@@ -72,7 +72,3 @@
 
 * [10.1: Objects](10-javascript-objects/10-1-objects.md)
 
----
-
-* [Test Page](test-page.md)
-
