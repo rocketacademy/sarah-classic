@@ -25,6 +25,8 @@ Number(input);
 
 ## NaN
 
+{% embed url="https://youtu.be/P24Rp6HmMkM" %}
+
 When we try to convert a value that isn't only numbers we get `NaN`.
 
 ```javascript
@@ -71,6 +73,8 @@ We can now use this behavior to write logic that says:
 
 ## isNaN
 
+{% embed url="https://youtu.be/6RMjO0FbyQc" %}
+
 Our logic says that we must check to see if the value we get out of the conversion is `NaN`.
 
 A quirk of JavaScript means that we **can't** do this:
@@ -102,6 +106,8 @@ if ( isNaN( Number(input) ) == true ) {
 ## Dice Game
 
 ### Conditional Range
+
+{% embed url="https://youtu.be/mjkj-OfCLKc" %}
 
 Let's check the input to make sure it is between 1 and 6.
 
