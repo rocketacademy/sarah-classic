@@ -4,9 +4,9 @@ Now we'll continue to build programs of increasing complexity.
 
 We'll be implementing a game of cards, and we'll introduce a new kind of data that will make our programs easier to write and reason about.
 
-Note that the javascript `object` is not the same object concept that is usually refered to in _Object Oriented Programming_. A javascript obejct is refered to as a _hash_ or _dictionary_ in some other languages.
+Note that the javascript `object` is not the same object concept that is usually referred to in _Object Oriented Programming_. A javascript object is referred to as a _hash_ or _dictionary_ in some other languages.
 
-### Compound Data
+## Compound Data
 
 What is a deck of cards and how could we represent the deck in our program?
 
@@ -28,11 +28,11 @@ A deck of cards is implicitly ordered. An array was a good choice to represent t
 
 #### card order
 
-Each card has an rank. Our array of strings doesnt represent this rank, except by the sub-string "nine" etc. A card has a suit. We are representing this by the string "heart". A card has a rank of face cards, which we are not representing. \(`jack < queen`\)
+Each card has a rank. Our array of strings doesn't represent this rank, except by the sub-string "nine" etc. A card has a suit. We are representing this by the string "heart". A card has a rank of face cards, which we are not representing. \(`jack < queen`\)
 
 For a given card we need a way to represent the different values in that individual card.
 
-#### objects as compound data
+## Objects as Compound Data
 
 We can use an object to represent a single piece of data that contains heterogenous data- data of all different types.
 
@@ -62,7 +62,42 @@ singleCard.suit
 singleCard.name
 ```
 
-## card shuffling
+## Objects + Arrays
+
+```javascript
+var cards = [
+    {
+        rank:1,
+        suit: 'heart',
+        name: 'one'
+    },
+    {
+        rank:2,
+        suit: 'heart',
+        name: 'two'
+    }
+    
+    ...
+];
+```
+
+## Objects + Arrays + Loops
+
+
+
+```javascript
+var index = 0;
+
+while( index < cards.length ){
+    var cardTitle = cards[index].name + ' of ' + cards[index].suit;
+    
+    console.log( cardTitle );
+    
+    index = index + 1;
+}
+```
+
+## Card Shuffling
 
 ```javascript
 var getRandomIndex = function (size) {
