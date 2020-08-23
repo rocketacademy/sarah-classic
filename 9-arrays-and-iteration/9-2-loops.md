@@ -1,20 +1,18 @@
 # 9.2: Loops
 
-## loops
-
 We've defined an array and looked inside of it and added values, but we don't yet have anything that can deal with the entire array. Or specifically that can deal with **each** item in the array, when the array is an arbitrary length.
 
 For that we are going to add the last control structure we'll use, **loops**.
 
-In the context of games we'll see a few uses of loops that don't have to do with arrays, but from the point of view of software that manipulates imput data, the concept of the loop is very much tied to the concept of the array.
+In the context of games we'll see a few uses of loops that don't have to do with arrays, but from the point of view of software that manipulates input data, the concept of the loop is very much tied to the concept of the array.
 
 A loop defines a **block** of code \(with curly braces\) that will run a set number of times.
 
-A loop relies on a condition to tell it to keep running or not.
+A loop relies on a **condition** to tell it to keep running or not.
 
 We'll look at loops in isolation first, then we'll see that they match up perfectly with how an array works.
 
-### while
+## while
 
 This is a loop that runs 10 times.
 

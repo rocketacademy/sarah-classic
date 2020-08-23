@@ -4,7 +4,9 @@ We've been able to build rather complex programs using some basic control flow s
 
 Now we're going to add in a new type of data- dynamic length data **arrays**. Then we'll talk about the manipulation of this kind of data using the control structure **loops**.
 
-Just like each of the new concepts that we've added, the mechanics are simple, but what we will be able to build can increase in complexity by a large amount.
+Just like each of the new concepts that we've added, the mechanics are simple, but what we will be able to build can increase 
+
+in complexity by a large amount.
 
 ## Data Collections
 
@@ -64,29 +66,34 @@ var salesThisMonth = [34, 23, 12, 78, 56];
 
 ## Array Data Properties
 
+When talking about arrays, we need to understand what unique properties they have that will allow us to represent new kinds of data.
+
 Data in arrays can imply a few different things about the properties of that data:
 
 ### position
 
-Acessing an array is done through **indexes**- the position of each item in the array.
-
-Confusingly, the _number_ of the first item in an array is always 0 \(zero\).
+Accessing an array is done through **indexes**- the position of each item in the array.
 
 ```text
   0   1   2
 ['a','b','c']
 ```
 
-In the case above the 3rd bucket, or location, or **index** of this letter array is `2`:
+In the case above the 3rd bucket, or location, or **index** of this letter array is `2`
+
+> \(Confusingly, the _number_ of the first item in an array is always 0 \(zero\).
 
 ```javascript
 var letters = ['a', 'b', 'c'];
+```
+
+```javascript
 var value = letters[2];
 ```
 
 Square bracket syntax gives us the value at that location of the array `letters`.
 
-Position implies that for any array `0` will always be the first, left-most location in the array and the last item is the right-most position in the array.
+**Position** implies that for any array `0` will always be the first, left-most location in the array and the last item is the right-most position in the array.
 
 ### order
 
@@ -109,7 +116,7 @@ Notice that this code above doesn't manipulate the values in the array. It puts 
 
 If we want to manipulate the values in an array there are a few methods:
 
-## manipulation in place
+### Data Manipulation in Place
 
 Create an array with values inside:
 
@@ -117,41 +124,13 @@ Create an array with values inside:
 var temperatures = [23, 43];
 ```
 
-Manipulate the values inside the array:
-
-reassign the values in the array after it's been created.
+Manipulate the values inside the array- Reassign the values in the array after it's been created:
 
 ```javascript
 temperatures[0] = 9999999;
 ```
 
-### push and pop
-
-Push: Add new values to an array after it's been created.
-
-```javascript
-var temperatures = [23, 43];
-```
-
-```javascript
-temperatures.push(33333333);
-```
-
-Push is a function that takes as an argument the value you want to be put in the array. Notice that the new value is added to the end of the array.
-
-Pop: take the last value out of the array.
-
-```javascript
-var temperatures = [23, 43];
-```
-
-```javascript
-var lastValue = temperatures.pop();
-```
-
-Note that the last value in the array is inside of `lastValue` **and** that value has been removed from the array.
-
-## user input accesses array values
+#### User Input Accesses Array Values
 
 Let's implement a shell game with this idea.
 
@@ -183,19 +162,56 @@ var main = function (input) {
 };
 ```
 
-## user input adds to array
+### Adding and Subtracting From an Array
+
+#### `push()`and `pop()`
+
+**Push**: _add new values to an array after it's been created._
+
+```javascript
+var temperatures = [23, 43];
+```
+
+```javascript
+temperatures.push(33333333);
+```
+
+Push is a function that takes as an argument the value you want to be put in the array. Notice that the new value is added to the end of the array.
+
+**Pop**: _take the last value out of the array._
+
+```javascript
+var temperatures = [23, 43];
+```
+
+```javascript
+var lastValue = temperatures.pop();
+```
+
+_Note that the last value in the array is inside of `lastValue` **and** that value has been removed from the array._
+
+## User Input Adds to Array
 
 Let's implement a dice game that keeps track of every guess the user makes.
 
-\`\`\`javascript var guesses = \[\];
+```javascript
+var guesses = [];
 
-var main = function \(input\) { guesses.push\(input\);
+var main = function (input) {
 
-var randomDiceNumber = diceRoll\(\);
+    guesses.push(input);
+    
+    var randomDiceNumber = diceRoll();
+    
+    var myOutputValue = 'you lose. Your guesses: ' + guesses;
+    
+    if (randomDiceNumber == input) {
+        myOutputValue = 'you win. Your guesses: ' + guesses;
+    }
+    
+    return myOutputValue;
+};
+```
 
-var myOutputValue = 'you lose. Your guesses: ' + guesses;
 
-if \(randomDiceNumber == input\) { myOutputValue = 'you win. Your guesses: ' + guesses; }
-
-return myOutputValue; };
 
