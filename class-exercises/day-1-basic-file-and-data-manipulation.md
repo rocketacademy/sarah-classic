@@ -32,11 +32,7 @@ Format the output nicely. Like: `In 3 weeks there are 4320 minutes! Wow!`
 
 ### **Temperatures 1**
 
-The user enters a temperature in Fahrenheit. Output the conversion to Kelvin in the grey box. Format the output nicely.
-
-### **Temperatures 2**
-
-The user enters a temperature in Celsius. Output the conversion to Kelvin and Fahrenheit in the grey box. Format the output nicely.
+The user enters a temperature in Fahrenheit. Output the conversion to Celsius in the grey box. Format the output nicely.
 
 ### **Buffet**
 
