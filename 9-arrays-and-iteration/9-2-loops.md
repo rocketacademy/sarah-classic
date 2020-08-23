@@ -46,8 +46,6 @@ var main = function (input) {
 };
 ```
 
-## 
-
 ### outputting program with logic
 
 Let's create a program that outputs things in a loop based on some input. If we put a conditional inside the loop we can have it output two types of things.
