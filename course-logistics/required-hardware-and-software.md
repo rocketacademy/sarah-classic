@@ -120,3 +120,17 @@ GitHub is the most popular code-hosting platform. Developers around the world us
 
 Go to [https://github.com/](https://github.com/), click the Sign Up button and follow on-screen instructions.
 
+#### Git & GitHub Configuration
+
+Add your GitHub account credentials to your computer through the command line.
+
+```text
+% git config --global user.name "your-github-username"
+```
+
+```text
+% git config --global user.email "github-acct-email@example.com"
+```
+
+
+
