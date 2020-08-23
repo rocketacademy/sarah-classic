@@ -46,111 +46,56 @@ var main = function (input) {
 };
 ```
 
-## loops + arrays
+## 
 
-Now let's talk about arrays and loops together.
+### outputting program with logic
 
-Specifically we want our programs to be able to deal with a set of data, `guesses` or some other value, which, at any given point of the program, could have a different number of items inside.
-
-We can use loops to visit each item in the array and run some code for that item.
-
-The trick is that we can make an eqivalence between the `counter` we had in the loop and the `index` we had for the array, by using the `length` of the array.
-
-This is a value given to us for any array:
+Let's create a program that outputs things in a loop based on some input. If we put a conditional inside the loop we can have it output two types of things.
 
 ```javascript
-var letters = ['a', 'b', 'c'];
-```
-
-```javascript
-letters.length
-```
-
-We use `length` to know how many times to run the loop.
-
-We use `counter` to access the location of each item in the array.
-
-```javascript
-var index = 0;
-var letters = ['a', 'b', 'c'];
-var letterLength = letters.length;
-
-while (index < letterLength) {
-  var currentLoopLetter = letters[index];
-
-  console.log(currentLoopLetter);
-
-  index = index + 1;
-}
-```
-
-Let's make a simple program that demonstrates the use of loops and arrays.
-
-Our app is an address book that keeps names and doesnt add a new one if its already in the book.
-
-```javascript
-var names = [];
-
 var main = function (input) {
-  // look at all the names and make sure it's not in there yet
-  var index = 0;
-  var namesLength = names.length;
+  var myOutputValue = '';
 
-  var found = false;
+  var counter = 0;
 
-  while (index < namesLength) {
-    var currentName = names[index];
-
-    if (currentName == input) {
-      found = true;
+  while (counter < input) {
+    if( counter < 5 ){
+      myOutputValue = myOutputValue + 'yes';
+    }else{
+      myOutputValue = myOutputValue + 'no';
     }
-
-    index = index + 1;
+    counter = counter + 1;
   }
-
-  // we didn't find the name, put it in
-  if (found == false) {
-    names.push(input);
-  }
-
-  var myOutputValue = 'All your names: ' + names;
 
   return myOutputValue;
 };
 ```
 
-### hangman - word guessing game
+### outputting program with dimensions
 
-Let's create a game of hangman, where a player guesses the secret word.
+Let's create a program that outputs things in a loop based on some input. If we put another loop inside the loop we can represent other _lines_ of output.
+
+Note we are using `<br>` to create a new line.
 
 ```javascript
-var secretWordArray = ['c', 'a', 't'];
-
-var lettersFound = [];
-
 var main = function (input) {
-  // look inside of array to see if input matches.
+  var myOutputValue = '';
 
-  var index = 0;
+  var lineCounter = 0;
 
-  var foundLetter = false;
+  while (lineCounter < input) {
+    var columnCounter = 0;
+  
+    while (columnCounter < input) {
+      myOutputValue = myOutputValue + 'x';
 
-  while (index < secretWordArray) {
-    if (secretWordArray[index] == input) {
-      foundLetter = true;
+      columnCounter = columnCounter + 1;
     }
 
-    index = index + 1;
-  }
-
-  if (foundLetter == true) {
-    lettersFound.push(input);
-  }
-
-  var myOutputValue = 'Letters so far: ' + lettersFound;
-
-  if (lettersFound.length == secretWordArray.length) {
-    myOutputValue = myOutputValue + ' - you win!';
+    // start a new line
+    myOutputValue = myOutputValue + '<br>';
+  
+    lineCounter = lineCounter + 1;
   }
 
   return myOutputValue;
