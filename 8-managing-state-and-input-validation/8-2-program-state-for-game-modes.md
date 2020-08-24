@@ -128,3 +128,15 @@ var diceRoll = function () {
 };
 ```
 
+
+
+## Exercises
+
+{% hint style="info" %}
+### 1\) Duplicate the Blue / Green app above.
+
+### 2\) Add a Red mode to the game.
+
+### 3\) Begin the [Scissors Paper Stone project.](../projects/project-1-scissors-paper-stone.md)
+{% endhint %}
+

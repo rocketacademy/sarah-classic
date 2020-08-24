@@ -182,3 +182,11 @@ var main = function (input) {
 };
 ```
 
+## Exercises
+
+{% hint style="info" %}
+### 1\) Choose one of your previous dice games and implement the validation logic above.
+
+### 2\) Begin the [Scissors Paper Stone project.](../projects/project-1-scissors-paper-stone.md)
+{% endhint %}
+
