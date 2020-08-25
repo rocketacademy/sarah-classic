@@ -85,19 +85,22 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 ### **Day 7: Sat 29 Aug \(1-3pm\)**
 
-#### Mini Project Due
+#### Project Due
 
 * Drawing
 
 #### Pre-Class Material
 
-* [9.3: Arrays + Loops](../9-arrays-and-iteration/9.3-arrays-and-loops.md)
+* [9.3: Arrays and Loops](../9-arrays-and-iteration/9.3-arrays-and-loops.md)
 
 #### In-Class Material
 
 ### Day 8: Tue 1 Sep \(7-9pm\)
 
 #### Pre-Class Material
+
+* [10.1: Objects](../10-javascript-objects/10-1-objects.md)
+* Card Deck Shuffling
 
 #### In-Class Material
 
@@ -109,8 +112,6 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Pre-Class Material
 
-* [10.1: Objects](../10-javascript-objects/10-1-objects.md)
-* Shuffling
 * Card Deck Generation
 
 #### In-Class Material
@@ -119,15 +120,19 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Pre-Class Material
 
-* Card Game
+* Sample Card Game Implementation
 
 #### In-Class Material
 
 ### Day 11: Tue 8 Sep \(7-9pm\)
 
+**Project Due**
+
+* Simple Card Game
+
 #### Pre-Class Material
 
-* Advanced Game Logic
+* "AI" Computer Player
 
 #### In-Class Material
 
@@ -135,7 +140,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Pre-Class Material
 
-* Advanced Topics
+* Next Steps: Document Object Model
 
 #### In-Class Material
 
@@ -143,7 +148,11 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 **Project Due**
 
-* Card Game
+* Complex Card Game
+
+#### Pre-Class Material
+
+* Foundational Topics in Software Engineering \(SWE1 Overview\)
 
 #### In-Class Material
 
