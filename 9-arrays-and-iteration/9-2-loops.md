@@ -1,5 +1,7 @@
 # 9.2: Loops
 
+{% embed url="https://youtu.be/wn3G\_OO32kg" %}
+
 We've defined an array and looked inside of it and added values, but we don't yet have anything that can deal with the entire array. Or specifically that can deal with **each** item in the array, when the array is an arbitrary length.
 
 For that we are going to add the last control structure we'll use, **loops**.
@@ -48,6 +50,8 @@ var main = function (input) {
 
 ### outputting program with logic
 
+{% embed url="https://youtu.be/ozrUPHZWfIw" %}
+
 Let's create a program that outputs things in a loop based on some input. If we put a conditional inside the loop we can have it output two types of things.
 
 ```javascript
@@ -69,7 +73,11 @@ var main = function (input) {
 };
 ```
 
+{% embed url="https://youtu.be/5qeXMmGRhZY" %}
+
 ### outputting program with dimensions
+
+{% embed url="https://youtu.be/wxUafGMsOw4" %}
 
 Let's create a program that outputs things in a loop based on some input. If we put another loop inside the loop we can represent other _lines_ of output.
 
