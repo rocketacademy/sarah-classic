@@ -1,0 +1,70 @@
+# Project 2: Drawing Game
+
+Use loops to create an app that draws things into the grey box.
+
+Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-drawing](https://github.com/rocketacademy/swe101-drawing)
+
+### Number of characters
+
+The user will enter a number of characters to display on the screen.
+
+For example, if the user enters 4 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.35.32-am.png)
+
+### Square
+
+The user will enter the dimensions of a square to display on the screen.
+
+Use a loop within a loop and the `<br>` tag in your output to create the square.
+
+For example, if the user enters 4 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.35.12-am.png)
+
+###  Triangle <a id="square"></a>
+
+The user will enter the dimensions of a triangle to display on the screen.‌
+
+Use a loop within a loop, a conditional and the `<br>` tag in your output to create the triangle.
+
+For example, if the user enters 4 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.37.35-am.png)
+
+### Modes
+
+Add modes to the program so that the user can create any shape- first the user will enter the shape they want, \(this is a shape entering mode\), e.g., square, triangle, etc. Then the user will enter the dimensions they want. 
+
+### More Comfortable
+
+### Upside down Triangle
+
+The user will enter the dimensions of a triangle to display on the screen.
+
+For example, if the user enters 4 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.36.09-am.png)
+
+### Outline Square
+
+The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character.
+
+For example, if the user enters 4 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.54.56-am.png)
+
+### Center Square
+
+The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character and there is another different character in the center. The app doesn't allow dimensions that will not allow the center character. 
+
+For example, if the user enters 5 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.58.34-am.png)
+
+### Rings
+
+The user will enter the dimensions of a square to display on the screen. The characters in the square alternate, creating concentric rings.
+
+
+
