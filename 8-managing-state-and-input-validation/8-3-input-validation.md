@@ -156,7 +156,7 @@ var diceRoll = function () {
 };
 
 var main = function (input) {
-  var myoutputvalue = '';
+  var myOutputValue = '';
 
   // before anything check if the input is a number
   if (isNaN(Number(input)) == true) {
@@ -164,21 +164,21 @@ var main = function (input) {
   } else {
     // it's not between 1 and 6
     if (input < 1 || input > 6) {
-      myoutputvalue = 'sorry please enter a number from 1 - 6';
+      myOutputValue = 'sorry please enter a number from 1 - 6';
     } else {
       // the input is 1-6, go ahead with the dice game
 
-      var randomdicenumber = diceroll();
+      var randomDiceNumber = diceRoll();
 
-      if (randomdicenumber == input) {
-        myoutputvalue = 'you win';
+      if (randomDiceNumber == input) {
+        myOutputValue = 'you win';
       } else {
-        myoutputvalue = 'you lose';
+        myOutputValue = 'you lose';
       }
     }
   }
 
-  return myoutputvalue;
+  return myOutputValue;
 };
 ```
 
