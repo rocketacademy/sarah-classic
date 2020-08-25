@@ -99,10 +99,8 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Pre-Class Material
 
-* 
 #### In-Class Material
 
-* 
 ### Day 9: Thu 3 Sep \(7-9pm\)
 
 #### Project Due
@@ -117,7 +115,6 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
-* 
 ### Day 10: Sat 5 Sep \(1-3pm\)
 
 #### Pre-Class Material
@@ -126,7 +123,6 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
-* 
 ### Day 11: Tue 8 Sep \(7-9pm\)
 
 #### Pre-Class Material
@@ -135,7 +131,6 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
-* 
 ### Day 12: Thu 10 Sep \(7-9pm\)
 
 #### Pre-Class Material
@@ -144,7 +139,6 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
-* 
 ### Day 13: Sat 12 Sep \(1-3pm\)
 
 **Project Due**
