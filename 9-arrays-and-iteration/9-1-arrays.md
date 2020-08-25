@@ -1,5 +1,7 @@
 # 9.1: Arrays
 
+{% embed url="https://youtu.be/CI09j\_aHLE0" %}
+
 We've been able to build rather complex programs using some basic control flow syntax.
 
 Now we're going to add in a new type of data- dynamic length data **arrays**. Then we'll talk about the manipulation of this kind of data using the control structure **loops**.
