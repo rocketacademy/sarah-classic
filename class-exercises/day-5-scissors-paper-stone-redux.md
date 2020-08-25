@@ -1,24 +1,22 @@
 # Day 5: Scissors Paper Stone Redux
 
-## Code Review
+## Code Review - Individual
 
-#### 1\) Review each others' SPS project code.
+### 1\) Clone Partner's Code
 
-You'll be paired up so that you can exchange the links for your repos via Slack.
+You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
 
-Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
+**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo. 
 
-**If you have forked the repo, but you don't have the latest code on GitHub take a moment now to do a** `git push`. Let your partner know you're updating the repo. 
-
-Run a `git clone <repo url> new-folder-name` to get a copy of your partner's code.
+Run a `git clone <repo-url> <new-folder-name>` to get a copy of your partner's code.
 
 _Note: you need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone._
 
-#### 2\) Run
+### 2\) Run Partner's Code
 
 Open the code in the browser and test it. What does it do? If you're not sure what it does look inside the `script.js` to see.
 
-#### 3\) Read
+### 3\) Read Partner's Code
 
 Read the code.
 
@@ -27,11 +25,11 @@ Read the code.
 * Does it implement something that you were trying to do? 
 * Does it implement a feature that you haven't started yet? How does the code work?
 
-#### 4\) Run & Read
+### 4\) Play with Partner's Code
 
-It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in  a certain way to prove how it works or doesn't work.
+It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
 
-#### 5\) Discuss
+### 5\) Breakout and Discuss
 
 We'll put you in breakout rooms so you can discuss what you saw. 
 
@@ -49,7 +47,7 @@ Switch to work on the other person's code.
 
 _Note that if you are working on the other person's code you can't commit or update GitHub because of the way the repos are setup._
 
-If you are both done with all parts of the game, implement new features in one of the games together:
+If you are both done with all parts of the game \(except Korean SPS\), implement the following new features in one of the games together.
 
 ## SPS Reverse Game Mode
 
@@ -58,8 +56,4 @@ You decide to prank your friends and create an SPS game mode where the rules are
 ## Korean Scissors Paper Stone
 
 Implement the [Korean version of Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md#optional-korean-scissors-paper-stone) that was optional in the project writeup. Once done, push your code and update your pull request in GitHub.
-
-
-
-
 
