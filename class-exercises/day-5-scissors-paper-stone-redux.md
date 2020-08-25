@@ -39,7 +39,7 @@ We'll put you in breakout rooms so you can discuss what you saw.
 
 You'll be working on your SPS projects together as pairs one at a time. The goal of this pairing should be to get working versions for each person.
 
-The driver will be the person who is \*not\* working on their own code.
+**The driver will be the person who is \*not\* working on their own code.**
 
 Try to go through the code and get to the basic working version, or to code that is working without errors.
 
