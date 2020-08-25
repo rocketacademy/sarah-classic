@@ -97,6 +97,16 @@ Square bracket syntax gives us the value at that location of the array `letters`
 
 **Position** implies that for any array `0` will always be the first, left-most location in the array and the last item is the right-most position in the array.
 
+{% hint style="warning" %}
+What happens when you try to access an array element that doesn't exist? 
+
+```javascript
+letters[234534534534];
+```
+{% endhint %}
+
+
+
 ### order
 
 ```javascript
@@ -137,28 +147,10 @@ temperatures[0] = 9999999;
 Let's implement a shell game with this idea.
 
 ```javascript
-var getRandomInteger = function (max) {
-  // produces a float between 0 and max + .999999 etc.
-  var randomFloat = (Math.random() * max);
-
-  // take off the decimal
-  var resultInteger = Math.floor(randomFloat);
-
-  return resultInteger;
-};
-
-var shells = ['empty', 'empty', 'empty'];
-
-var randomBallLocation = getRandomInteger(3);
-
-shells[randomBallLocation] = 'win';
+var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 
 var main = function (input) {
-  var myOutputValue = 'sorry wrong guess';
-
-  if (shells[input] == 'win') {
-    myOutputValue = 'you found the shell, you win!';
-  }
+  var myOutputValue = 'your letter: '+letters[input];
 
   return myOutputValue;
 };
@@ -214,6 +206,14 @@ var main = function (input) {
     return myOutputValue;
 };
 ```
+
+
+
+## Exercises
+
+{% hint style="info" %}
+**1\) Implement the above code.**
+{% endhint %}
 
 
 

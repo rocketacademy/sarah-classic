@@ -108,3 +108,11 @@ var main = function (input) {
 };
 ```
 
+## Exercises
+
+{% hint style="info" %}
+**1\) Implement the above code.**
+{% endhint %}
+
+
+

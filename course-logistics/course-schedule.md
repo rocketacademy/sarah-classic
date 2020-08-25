@@ -91,7 +91,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Pre-Class Material
 
-* [9.3: Arrays and Loops](../9-arrays-and-iteration/9.3-arrays-and-loops.md)
+* [9.3: Arrays + Loops](../9-arrays-and-iteration/9.3-arrays-and-loops.md)
 
 #### In-Class Material
 
