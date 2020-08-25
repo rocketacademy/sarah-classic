@@ -72,20 +72,26 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
+* [Day 5: Scissors Paper Stone Redux](../class-exercises/day-5-scissors-paper-stone-redux.md)
+
 ### Day 6: Thu 27 Aug \(7-9pm\)
 
 #### Pre-Class Material
 
 * [9.1: Arrays](../9-arrays-and-iteration/9-1-arrays.md)
+* [9.2: Loops](../9-arrays-and-iteration/9-2-loops.md)
 
 #### In-Class Material
 
 ### **Day 7: Sat 29 Aug \(1-3pm\)**
 
+#### Mini Project Due
+
+* Drawing
+
 #### Pre-Class Material
 
-* [9.2: Loops](../9-arrays-and-iteration/9-2-loops.md)
-* Tic Tac Toe \(In Progress\)
+* [9.3: Arrays and Loops](../9-arrays-and-iteration/9.3-arrays-and-loops.md)
 
 #### In-Class Material
 
@@ -93,10 +99,10 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Pre-Class Material
 
-* 2D Arrays and Nested Loops
-
+* 
 #### In-Class Material
 
+* 
 ### Day 9: Thu 3 Sep \(7-9pm\)
 
 #### Project Due
@@ -106,35 +112,39 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 #### Pre-Class Material
 
 * [10.1: Objects](../10-javascript-objects/10-1-objects.md)
-* Shuffling \(In Progress\)
-* Card Deck Generation \(In Progress\)
+* Shuffling
+* Card Deck Generation
 
 #### In-Class Material
 
+* 
 ### Day 10: Sat 5 Sep \(1-3pm\)
 
 #### Pre-Class Material
 
-* Card Game \(In Progress\)
+* Card Game
 
 #### In-Class Material
 
+* 
 ### Day 11: Tue 8 Sep \(7-9pm\)
 
 #### Pre-Class Material
 
-* Advanced Game Logic \(In Progress\)
+* Advanced Game Logic
 
 #### In-Class Material
 
+* 
 ### Day 12: Thu 10 Sep \(7-9pm\)
 
 #### Pre-Class Material
 
-* Advanced Topics \(In Progress\)
+* Advanced Topics
 
 #### In-Class Material
 
+* 
 ### Day 13: Sat 12 Sep \(1-3pm\)
 
 **Project Due**
