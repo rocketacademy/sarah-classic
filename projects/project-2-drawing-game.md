@@ -6,7 +6,7 @@ Use loops to create an app that draws emojis into the grey box.
 
 Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-drawing](https://github.com/rocketacademy/swe101-drawing)
 
-### Number of characters
+## Number of Characters
 
 The user will enter a number of characters to display on the screen.
 
@@ -14,7 +14,7 @@ For example, if the user enters 4 they will see this:
 
 ![](../.gitbook/assets/screen-shot-2020-08-26-at-12.35.32-am.png)
 
-### Square
+## Square
 
 The user will enter the dimensions of a square to display on the screen.
 
@@ -24,7 +24,7 @@ For example, if the user enters 4 they will see this:
 
 ![](../.gitbook/assets/screen-shot-2020-08-26-at-12.35.12-am.png)
 
-###  Triangle <a id="square"></a>
+##  Triangle
 
 The user will enter the dimensions of a triangle to display on the screen.‌
 
@@ -34,11 +34,11 @@ For example, if the user enters 4 they will see this:
 
 ![](../.gitbook/assets/screen-shot-2020-08-26-at-12.37.35-am.png)
 
-### Modes
+## Modes
 
 Add modes to the program so that the user can create any shape- first the user will enter the shape they want, \(this is a shape entering mode\), e.g., square, triangle, etc. Then the user will enter the dimensions they want. 
 
-### More Comfortable
+## More Comfortable
 
 ### Upside down Triangle
 
@@ -68,5 +68,7 @@ For example, if the user enters 5 they will see this:
 
 The user will enter the dimensions of a square to display on the screen. The characters in the square alternate, creating concentric rings.
 
+## Submit
 
+[Push](../7-github/7-1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../7-github/7-1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit.
 
