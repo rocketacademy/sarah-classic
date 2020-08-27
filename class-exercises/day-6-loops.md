@@ -4,7 +4,7 @@ For each app \(except Infinite Loop\), make a copy of the starter code, as per t
 
 For some apps you may need to google things. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
 
-### Simple Loop with Variations
+## Simple Loop with Variations
 
 Create a simple loop in the `main` function. Make the loop run 6 times, adding `"hello"` to `myOutputValue` every time the loop runs.
 
@@ -14,7 +14,7 @@ What happens if, inside the loop, you alter the `counter` by adding a number oth
 
 What happens if you change the condition inside the loop from `counter < 6` to `counter <= 6`.
 
-### Loop within Loop
+## Loop within Loop
 
 Create a simple loop in the `main` function. Make the loop run 9 times. 3 times in one loop, 3 times in the inner loop. The inner loop will add `"hello"` to `myOutputValue`.
 
@@ -36,11 +36,11 @@ Use `input` to control how many times the loop runs.
 
 Change it so that the inner loop runs 2x times the outer loop.
 
-### Infiinite Loop
+## Infiinite Loop
 
 Make a loop that never stops running. Be prepared to stop / kill this chrome tab, because it will freeze. You should also be able to see this tab on the Activity Monitor / Task Manager.
 
-### Multi-Dice Game
+## Multi-Dice Game
 
 Create a dice game with a variable number of dice.
 
@@ -54,7 +54,7 @@ The program will run a loop that, for each iteration of the loop, represents a s
 
 Each dice roll will see if the user has won for that dice roll and add to the output the record of that roll, and the game will output the result for all dice rolls.
 
-### Easier Multi-Dice Game
+## Easier Multi-Dice Game
 
 Create a dice game with a variable _n_ number of dice. The user will be able to roll that _n_ number of dice in 4  different rounds. 
 
@@ -71,4 +71,8 @@ _**Within**_ each round the game will run an inner loop that will roll the set o
 If the user guessed correctly for any of those _n_ dice, they win that round.
 
 The game will add to the output the record of that round, and the game will output the result for all rounds.
+
+## Daily Feedback
+
+Please [share feedback](https://forms.gle/gWW8MbbRhaYdKiR38) on today's material and SWE101 overall. Thank you for making SWE101 great!
 
