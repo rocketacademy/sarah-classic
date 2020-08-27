@@ -18,7 +18,7 @@ cd ~/code
 `git clone` the starter code and install linter packages:
 
 ```bash
-git clone https://github.com/rocketacademy/swe101-starter-code.git first-program && npm install
+git clone https://github.com/rocketacademy/swe101-starter-code.git first-program
 ```
 
 This will create a `first-program` directory inside your `code` directory.
