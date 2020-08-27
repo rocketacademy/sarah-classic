@@ -23,6 +23,7 @@
 * [Day 3: If Statements, Boolean Or](class-exercises/day-3-if-statements-boolean-or.md)
 * [Day 4: Boolean And, GitHub, Program State](class-exercises/day-4-boolean-and-program-state.md)
 * [Day 5: Scissors Paper Stone Redux](class-exercises/day-5-scissors-paper-stone-redux.md)
+* [Day 6: Loops](class-exercises/day-6-loops.md)
 
 ## 1: Introduction
 
