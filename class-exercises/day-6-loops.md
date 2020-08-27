@@ -42,13 +42,13 @@ Make a loop that never stops running. Be prepared to stop / kill this chrome tab
 
 ## Multi-Dice Game
 
-Create a dice game with a variable number of dice.
+Create a dice game with a variable number of dice rolls.
 
 The game will have 2 modes.
 
-In the first mode, the user will enter the number of dice they want to roll.
+In the first mode, the user will enter the number of times they wish to roll 1 dice.
 
-In the second mode, the user will enter a guess.
+In the second mode, the user will enter a guess that will apply to all dice rolls.
 
 The program will run a loop that, for each iteration of the loop, represents a single dice roll.
 
