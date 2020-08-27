@@ -45,7 +45,9 @@ VSCode is RA's software editor of choice. It is also the most popular code edito
 
 1. Download VSCode for your OS [here](https://code.visualstudio.com/download).
 2. Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint). "ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
-3. Enable "Format On Save" and "Eslint &gt; Format: Enable" in [VSCode settings](https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings) to format your code automatically.
+3. Enable the following settings in [VSCode settings](https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings) to format your code automatically
+   1. "Format On Save"
+   2. "Eslint &gt; Format: Enable"
 
 ### Chrome
 
