@@ -113,7 +113,7 @@ var main = function (input) {
 {% hint style="info" %}
 **1\) Implement the above code.**
 
-**2\) Begin the** [**drawing project.**](../projects/project-2-drawing-game.md)\*\*\*\*
+**2\) Begin the** [**drawing project.**](../projects/project-2-drawing-with-emojis.md)\*\*\*\*
 {% endhint %}
 
 

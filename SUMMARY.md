@@ -14,7 +14,7 @@
 ## Projects
 
 * [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone.md)
-* [Project 2: Drawing With Emojis](projects/project-2-drawing-game.md)
+* [Project 2: Drawing With Emojis](projects/project-2-drawing-with-emojis.md)
 
 ## Class Exercises
 
