@@ -15,10 +15,10 @@ Copy the starter code from Github:
 cd ~/code
 ```
 
-`git clone` the starter code:
+`git clone` the starter code and install linter packages:
 
 ```bash
-git clone https://github.com/rocketacademy/swe101-starter-code.git first-program
+git clone https://github.com/rocketacademy/swe101-starter-code.git first-program && npm install
 ```
 
 This will create a `first-program` directory inside your `code` directory.
@@ -29,7 +29,7 @@ This will create a `first-program` directory inside your `code` directory.
 cd first-program
 ```
 
-Install linter packages to auto-format your JavaScript code in `script.js`.
+If you haven't already, install linter packages to auto-format your JavaScript code in `script.js`.
 
 ```bash
 npm install
