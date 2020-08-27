@@ -52,7 +52,7 @@ In the second mode, the user will enter a guess that will apply to all dice roll
 
 The program will run a loop that, for each iteration of the loop, represents a single dice roll.
 
-Each dice roll will see if the user has won for that dice roll and add to the output the record of that roll, and the game will output the result for all dice rolls.
+Each dice roll will see if the user has won for that dice roll and the game will keep track of the overall win-loss record. The program will output the overall win-loss record.
 
 ## Easier Multi-Dice Game
 
