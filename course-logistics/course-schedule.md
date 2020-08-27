@@ -83,6 +83,8 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
+* [Day 6: Loops](../class-exercises/day-6-loops.md)
+
 ### **Day 7: Sat 29 Aug \(1-3pm\)**
 
 #### Project Due

@@ -4,7 +4,7 @@ For each app \(except Infinite Loop\), make a copy of the starter code, as per t
 
 For some apps you may need to google things. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
 
-### Simple Loop w/ variations
+### Simple Loop with Variations
 
 Create a simple loop in the `main` function. Make the loop run 6 times, adding `"hello"` to `myOutputValue` every time the loop runs.
 
@@ -71,10 +71,4 @@ _**Within**_ each round the game will run an inner loop that will roll the set o
 If the user guessed correctly for any of those _n_ dice, they win that round.
 
 The game will add to the output the record of that round, and the game will output the result for all rounds.
-
-
-
-
-
-
 
