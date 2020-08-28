@@ -128,12 +128,7 @@ Go to [https://github.com/](https://github.com/), click the Sign Up button and f
 Add your GitHub account credentials to your computer through the command line.
 
 ```text
-% git config --global user.name "your-github-username"
+git config --global user.name "your-github-username"
+git config --global user.email "github-acct-email@example.com"
 ```
-
-```text
-% git config --global user.email "github-acct-email@example.com"
-```
-
-
 
