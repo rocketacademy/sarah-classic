@@ -125,7 +125,7 @@ Go to [https://github.com/](https://github.com/), click the Sign Up button and f
 
 #### Git & GitHub Configuration
 
-Add your GitHub account credentials to your computer through the command line.
+Add your GitHub account credentials to your computer through the command line. You should not get any response from the command line after entering these commands.
 
 ```text
 git config --global user.name "your-github-username"
