@@ -78,3 +78,7 @@
 
 * [10.1: Objects](10-javascript-objects/10-1-objects.md)
 
+## 11: ADVANCED DEBUGGING
+
+* [11.1 Advanced Debugging with Sources Tab](11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
+
