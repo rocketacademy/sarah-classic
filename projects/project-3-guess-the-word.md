@@ -1,6 +1,12 @@
 # Project 3: Guess the Word
 
+#### Due: Thursday 3 September
+
 This is a game where the player must guess a secret word.
+
+Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-guess-the-word](https://github.com/rocketacademy/swe101-guess-the-word)
+
+
 
 For each wrong guess the program adds to the figure: \(凸ಠ益ಠ\)凸
 
@@ -22,9 +28,9 @@ A word array would look like this: `var word = ['c','a','t'];`.
 
 When the user guesses a letter, you have to have the program look through the word array and determine if the user guessed correctly.
 
-"Looking through" means looping over the word array and comparing it to the letter the user has inputted.
+> "Looking through" means looping over the word array and comparing it to the letter the user has inputted.
 
-There are two possibilities:
+When the user guesses there are two possibilities:
 
 1. The user guesses incorrectly. Add a character to the figure that marks when they lose the game.
 2. The user guesses correctly, add the letter to the word they are trying to complete.
