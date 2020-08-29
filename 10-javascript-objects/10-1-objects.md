@@ -157,3 +157,13 @@ var main = function (input) {
 };
 ```
 
+
+
+## Exercises
+
+{% hint style="info" %}
+**1\) Implement the above code.  
+  
+2\) Change the high card program so that the player and computer draw 2 cards instead of 1. Highest of any of the cards wins.**
+{% endhint %}
+
