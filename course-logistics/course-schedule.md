@@ -89,7 +89,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Project Due
 
-* Drawing
+* [Project 2: Drawing With Emojis](../projects/project-2-drawing-with-emojis.md)
 
 #### Pre-Class Material
 
@@ -102,7 +102,6 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 #### Pre-Class Material
 
 * [10.1: Objects](../10-javascript-objects/10-1-objects.md)
-* Card Deck Shuffling
 
 #### In-Class Material
 
