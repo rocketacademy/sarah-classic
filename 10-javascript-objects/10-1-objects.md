@@ -114,7 +114,7 @@ var shuffleCards = function (cards) {
   while (index < cards.length) {
     var randomIndex = getRandomIndex(cards.length);
 
-    var currrentItem = cards[index];
+    var currentItem = cards[index];
 
     var randomItem = cards[randomIndex];
 
