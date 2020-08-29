@@ -24,6 +24,7 @@
 * [Day 4: Boolean And, GitHub, Program State](class-exercises/day-4-boolean-and-program-state.md)
 * [Day 5: Scissors Paper Stone Redux](class-exercises/day-5-scissors-paper-stone-redux.md)
 * [Day 6: Loops](class-exercises/day-6-loops.md)
+* [Day 7: Drawing Redux 😜](class-exercises/day-7-drawing-redux.md)
 
 ## 1: Introduction
 
