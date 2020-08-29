@@ -1,5 +1,9 @@
 # 10.1: Objects
 
+{% embed url="https://www.youtube.com/watch?v=\_s1j9A\_JF70" %}
+
+
+
 Now we'll continue to build programs of increasing complexity.
 
 We'll be implementing a game of cards, and we'll introduce a new kind of data that will make our programs easier to write and reason about.
