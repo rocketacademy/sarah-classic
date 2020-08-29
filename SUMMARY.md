@@ -82,3 +82,7 @@
 
 * [11.1 Advanced Debugging with Sources Tab](11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
 
+## 12: NEXT STEPS
+
+* [12.1 Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
+
