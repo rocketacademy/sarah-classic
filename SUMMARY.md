@@ -26,6 +26,7 @@
 * [Day 5: Scissors Paper Stone Redux](class-exercises/day-5-scissors-paper-stone-redux.md)
 * [Day 6: Loops](class-exercises/day-6-loops.md)
 * [Day 7: Drawing Redux 😜](class-exercises/day-7-drawing-redux.md)
+* [Day 8: Card Games](class-exercises/day-8-card-games.md)
 
 ## 1: Introduction
 
