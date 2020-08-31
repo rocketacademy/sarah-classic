@@ -86,3 +86,7 @@
 
 * [12.1 Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
 
+## 13: HOW TO CODE
+
+* [13.1 How to Code](13-how-to-code/13.1-how-to-code.md)
+
