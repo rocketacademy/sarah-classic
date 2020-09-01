@@ -97,6 +97,8 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
+* [Day 7: Drawing Redux](../class-exercises/day-7-drawing-redux.md)
+
 ### Day 8: Tue 1 Sep \(7-9pm\)
 
 #### Pre-Class Material
@@ -105,11 +107,13 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
+* [Day 8: Card Games](../class-exercises/day-8-card-games.md)
+
 ### Day 9: Thu 3 Sep \(7-9pm\)
 
 #### Project Due
 
-* Hangman
+* [Project 3: Guess The Word](../projects/project-3-guess-the-word.md)
 
 #### Pre-Class Material
 
