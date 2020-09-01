@@ -78,6 +78,7 @@
 ## 10: JavaScript Objects
 
 * [10.1: Objects](10-javascript-objects/10-1-objects.md)
+* [10.2 Card Deck Generation with Loops](10-javascript-objects/10.2-card-deck-generation-with-loops.md)
 
 ## 11: ADVANCED DEBUGGING
 
