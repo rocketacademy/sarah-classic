@@ -162,264 +162,213 @@ var main = function (input) {
 ```javascript
 var deck = [
   {
-     rank:1,
-     suit:'hearts',
-     name:'ace'
-  },
-  {
-     rank:2,
-     suit:'hearts',
-     name:'1'
-  },
-  {
-     rank:3,
-     suit:'hearts',
-     name:'2'
-  },
-  {
-     rank:4,
-     suit:'hearts',
-     name:'3'
-  },
-  {
-     rank:5,
-     suit:'hearts',
-     name:'4'
-  },
-  {
-     rank:6,
-     suit:'hearts',
-     name:'5'
-  },
-  {
-     rank:7,
-     suit:'hearts',
-     name:'6'
-  },
-  {
-     rank:8,
-     suit:'hearts',
-     name:'7'
-  },
-  {
-     rank:9,
-     suit:'hearts',
-     name:'8'
-  },
-  {
-     rank:10,
-     suit:'hearts',
-     name:'9'
-  },
-  {
-     rank:11,
-     suit:'hearts',
-     name:'jack'
-  },
-  {
-     rank:12,
-     suit:'hearts',
-     name:'queen'
-  },
-  {
-     rank:13,
-     suit:'hearts',
-     name:'king'
-  },
-  {
-     rank:1,
-     suit:'diamonds',
-     name:'ace'
-  },
-  {
-     rank:2,
-     suit:'diamonds',
-     name:'1'
-  },
-  {
-     rank:3,
-     suit:'diamonds',
-     name:'2'
-  },
-  {
-     rank:4,
-     suit:'diamonds',
-     name:'3'
-  },
-  {
-     rank:5,
-     suit:'diamonds',
-     name:'4'
-  },
-  {
-     rank:6,
-     suit:'diamonds',
-     name:'5'
-  },
-  {
-     rank:7,
-     suit:'diamonds',
-     name:'6'
-  },
-  {
-     rank:8,
-     suit:'diamonds',
-     name:'7'
-  },
-  {
-     rank:9,
-     suit:'diamonds',
-     name:'8'
-  },
-  {
-     rank:10,
-     suit:'diamonds',
-     name:'9'
-  },
-  {
-     rank:11,
-     suit:'diamonds',
-     name:'jack'
-  },
-  {
-     rank:12,
-     suit:'diamonds',
-     name:'queen'
-  },
-  {
-     rank:13,
-     suit:'diamonds',
-     name:'king'
-  },
-  {
-     rank:1,
-     suit:'spades',
-     name:'ace'
-  },
-  {
-     rank:2,
-     suit:'spades',
-     name:'1'
-  },
-  {
-     rank:3,
-     suit:'spades',
-     name:'2'
-  },
-  {
-     rank:4,
-     suit:'spades',
-     name:'3'
-  },
-  {
-     rank:5,
-     suit:'spades',
-     name:'4'
-  },
-  {
-     rank:6,
-     suit:'spades',
-     name:'5'
-  },
-  {
-     rank:7,
-     suit:'spades',
-     name:'6'
-  },
-  {
-     rank:8,
-     suit:'spades',
-     name:'7'
-  },
-  {
-     rank:9,
-     suit:'spades',
-     name:'8'
-  },
-  {
-     rank:10,
-     suit:'spades',
-     name:'9'
-  },
-  {
-     rank:11,
-     suit:'spades',
-     name:'jack'
-  },
-  {
-     rank:12,
-     suit:'spades',
-     name:'queen'
-  },
-  {
-     rank:13,
-     suit:'spades',
-     name:'king'
-  },
-  {
-     rank:1,
-     suit:'clubs',
-     name:'ace'
-  },
-  {
-     rank:2,
-     suit:'clubs',
-     name:'1'
-  },
-  {
-     rank:3,
-     suit:'clubs',
-     name:'2'
-  },
-  {
-     rank:4,
-     suit:'clubs',
-     name:'3'
-  },
-  {
-     rank:5,
-     suit:'clubs',
-     name:'4'
-  },
-  {
-     rank:6,
-     suit:'clubs',
-     name:'5'
-  },
-  {
-     rank:7,
-     suit:'clubs',
-     name:'6'
-  },
-  {
-     rank:8,
-     suit:'clubs',
-     name:'7'
-  },
-  {
-     rank:9,
-     suit:'clubs',
-     name:'8'
-  },
-  {
-     rank:10,
-     suit:'clubs',
-     name:'9'
-  },
-  {
-     rank:11,
-     suit:'clubs',
-     name:'jack'
-  },
-  {
-     rank:12,
-     suit:'clubs',
-     name:'queen'
-  },
-  {
-     rank:13,
-     suit:'clubs',
-     name:'king'
+    name: 'ace',
+    suit: 'hearts',
+    rank: 1
+  }, {
+    name: '2',
+    suit: 'hearts',
+    rank: 2
+  }, {
+    name: '3',
+    suit: 'hearts',
+    rank: 3
+  }, {
+    name: '4',
+    suit: 'hearts',
+    rank: 4
+  }, {
+    name: '5',
+    suit: 'hearts',
+    rank: 5
+  }, {
+    name: '6',
+    suit: 'hearts',
+    rank: 6
+  }, {
+    name: '7',
+    suit: 'hearts',
+    rank: 7
+  }, {
+    name: '8',
+    suit: 'hearts',
+    rank: 8
+  }, {
+    name: '9',
+    suit: 'hearts',
+    rank: 9
+  }, {
+    name: '10',
+    suit: 'hearts',
+    rank: 10
+  }, {
+    name: 'jack',
+    suit: 'hearts',
+    rank: 11
+  }, {
+    name: 'queen',
+    suit: 'hearts',
+    rank: 12
+  }, {
+    name: 'king',
+    suit: 'hearts',
+    rank: 13
+  }, {
+    name: 'ace',
+    suit: 'diamonds',
+    rank: 1
+  }, {
+    name: '2',
+    suit: 'diamonds',
+    rank: 2
+  }, {
+    name: '3',
+    suit: 'diamonds',
+    rank: 3
+  }, {
+    name: '4',
+    suit: 'diamonds',
+    rank: 4
+  }, {
+    name: '5',
+    suit: 'diamonds',
+    rank: 5
+  }, {
+    name: '6',
+    suit: 'diamonds',
+    rank: 6
+  }, {
+    name: '7',
+    suit: 'diamonds',
+    rank: 7
+  }, {
+    name: '8',
+    suit: 'diamonds',
+    rank: 8
+  }, {
+    name: '9',
+    suit: 'diamonds',
+    rank: 9
+  }, {
+    name: '10',
+    suit: 'diamonds',
+    rank: 10
+  }, {
+    name: 'jack',
+    suit: 'diamonds',
+    rank: 11
+  }, {
+    name: 'queen',
+    suit: 'diamonds',
+    rank: 12
+  }, {
+    name: 'king',
+    suit: 'diamonds',
+    rank: 13
+  }, {
+    name: 'ace',
+    suit: 'clubs',
+    rank: 1
+  }, {
+    name: '2',
+    suit: 'clubs',
+    rank: 2
+  }, {
+    name: '3',
+    suit: 'clubs',
+    rank: 3
+  }, {
+    name: '4',
+    suit: 'clubs',
+    rank: 4
+  }, {
+    name: '5',
+    suit: 'clubs',
+    rank: 5
+  }, {
+    name: '6',
+    suit: 'clubs',
+    rank: 6
+  }, {
+    name: '7',
+    suit: 'clubs',
+    rank: 7
+  }, {
+    name: '8',
+    suit: 'clubs',
+    rank: 8
+  }, {
+    name: '9',
+    suit: 'clubs',
+    rank: 9
+  }, {
+    name: '10',
+    suit: 'clubs',
+    rank: 10
+  }, {
+    name: 'jack',
+    suit: 'clubs',
+    rank: 11
+  }, {
+    name: 'queen',
+    suit: 'clubs',
+    rank: 12
+  }, {
+    name: 'king',
+    suit: 'clubs',
+    rank: 13
+  }, {
+    name: 'ace',
+    suit: 'spades',
+    rank: 1
+  }, {
+    name: '2',
+    suit: 'spades',
+    rank: 2
+  }, {
+    name: '3',
+    suit: 'spades',
+    rank: 3
+  }, {
+    name: '4',
+    suit: 'spades',
+    rank: 4
+  }, {
+    name: '5',
+    suit: 'spades',
+    rank: 5
+  }, {
+    name: '6',
+    suit: 'spades',
+    rank: 6
+  }, {
+    name: '7',
+    suit: 'spades',
+    rank: 7
+  }, {
+    name: '8',
+    suit: 'spades',
+    rank: 8
+  }, {
+    name: '9',
+    suit: 'spades',
+    rank: 9
+  }, {
+    name: '10',
+    suit: 'spades',
+    rank: 10
+  }, {
+    name: 'jack',
+    suit: 'spades',
+    rank: 11
+  }, {
+    name: 'queen',
+    suit: 'spades',
+    rank: 12
+  }, {
+    name: 'king',
+    suit: 'spades',
+    rank: 13
   }
 ];
 ```
