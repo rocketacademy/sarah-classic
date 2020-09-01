@@ -24,6 +24,10 @@ Change the program so the player can select the number of cards dealt.
 
 Allow the player to wager a number of points on each game. \(A new mode will be needed for the beginning of the game where the player selects the number of points to wager\). They lose the points if they lose or a draw, and double them if they win. The player begins with 100 points.
 
+## Two-Player
+
+Add another mode so that the game can be played by 2 players taking turns. The grey box will tell the players to switch so they don't see each other's cards.
+
 ## n-of-a-kind
 
 Detect if the player has a three of a kind or four of a kind.
