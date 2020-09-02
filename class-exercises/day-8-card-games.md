@@ -16,7 +16,7 @@ Implement the high card game from the GitBook
 
 ## Best Hand
 
-Draw 6 cards for the player and the computer. The player with the most pairs wins. Let the player know if it was a tie or if someone won.
+Draw 6 cards for the player and the computer. The player with the most pairs wins. Let the player know if it was a tie or if someone won. To count the number of pairs in a hand, you may want to create a tally of each card rank in that hand using an Object. See sample code for how to do this [here](%20https://pastebin.com/NQhiPiYx). 
 
 Change the program so the player can select the number of cards dealt.
 
