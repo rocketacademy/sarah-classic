@@ -16,6 +16,7 @@
 * [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone.md)
 * [Project 2: Drawing With Emojis](projects/project-2-drawing-with-emojis.md)
 * [Project 3: Guess the Word](projects/project-3-guess-the-word.md)
+* [Project 4: Blackjack Part 1](projects/project-4-blackjack-part-1.md)
 
 ## Class Exercises
 
