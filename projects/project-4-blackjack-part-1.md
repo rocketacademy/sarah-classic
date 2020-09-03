@@ -4,6 +4,10 @@
 
 In this first part of the Blackjack project you'll build the gameplay logic.
 
+#### Due: Tuesday 8 September
+
+Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
+
 ## Gameplay
 
 If you haven't played Blackjack before, refer to [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) to see what the rules of the game are.
