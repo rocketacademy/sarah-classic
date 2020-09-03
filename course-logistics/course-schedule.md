@@ -117,9 +117,11 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Pre-Class Material
 
-* Card Deck Generation
+* [10.2: Card Deck Generation with Loops](../10-javascript-objects/10.2-card-deck-generation-with-loops.md)
 
 #### In-Class Material
+
+* [Day 9: Guess the Word Redux](../class-exercises/day-9-guess-the-word-redux.md)
 
 ### Day 10: Sat 5 Sep \(1-3pm\)
 
