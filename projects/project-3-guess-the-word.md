@@ -73,5 +73,5 @@ Please only refer to the reference solution after you have attempted the project
 
 Note that there are many ways to implement the project and the reference solution is only 1 way.
 
-[https://github.com/rocketacademy/swe101-guess-the-word/pull/5](https://github.com/rocketacademy/swe101-guess-the-word/pull/5)
+[https://github.com/rocketacademy/swe101-guess-the-word/pull/5/files](https://github.com/rocketacademy/swe101-guess-the-word/pull/5/files)
 
