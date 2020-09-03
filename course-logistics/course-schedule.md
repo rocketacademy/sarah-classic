@@ -127,7 +127,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Pre-Class Material
 
-* Sample Card Game Implementation
+* [10.3: War Card Game Sample Implementation](../10-javascript-objects/10.3-card-game-example.md)
 
 #### In-Class Material
 
