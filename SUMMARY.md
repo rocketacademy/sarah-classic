@@ -29,6 +29,7 @@
 * [Day 7: Drawing Redux 😜](class-exercises/day-7-drawing-redux.md)
 * [Day 8: Card Games](class-exercises/day-8-card-games.md)
 * [Day 9: Guess the Word Redux](class-exercises/day-9-guess-the-word-redux.md)
+* [Day 10: Moar Cards](class-exercises/day-10-moar-cards.md)
 
 ## 1: Introduction
 
