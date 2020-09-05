@@ -20,7 +20,7 @@ At the beginning of the game the player can say how many cards they want. The hi
 
 ## **Wild**
 
-At the beginning of the game, pick a random card in the deck that the player will always win the game with. \(No ties\).
+Same rules as High Card, with the following twist. At the beginning of the game, pick a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins the game.
 
 ## Hands 2
 
@@ -28,7 +28,7 @@ At the beginning of the game the player can say how many cards they want. For ea
 
 ## Wild - Player's Choice
 
-At the beginning of the game ask the player to name a single card that will win the game no matter what.  \(No ties\).
+Same rules as Wild, except at the beginning of the game the player names a single card as input to be the Wild Card.
 
 ## **Bets**
 
