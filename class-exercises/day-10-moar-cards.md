@@ -22,10 +22,6 @@ At the beginning of the game the player can say how many cards they want. The hi
 
 Same rules as High Card, with the following twist. At the beginning of the game, pick a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins the game.
 
-## Hands 2
-
-At the beginning of the game the player can say how many cards they want. For each turn they say which card in their hand they want to play. 
-
 ## Wild - Player's Choice
 
 Same rules as Wild, except at the beginning of the game the player names a single card as input to be the Wild Card.
