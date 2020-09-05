@@ -22,6 +22,10 @@ At the beginning of the game the player can say how many cards they want. The hi
 
 At the beginning of the game, pick a random card in the deck that the player will always win the game with. \(No ties\).
 
+## Hands 2
+
+At the beginning of the game the player can say how many cards they want. For each turn they say which card in their hand they want to play. 
+
 ## Wild - Player's Choice
 
 At the beginning of the game ask the player to name a single card that will win the game no matter what.  \(No ties\).
@@ -32,7 +36,7 @@ Allow the player to wager a number of points on each game. \(A new mode will be 
 
 ## Two-Player
 
-Add another mode so that the game can be played by 2 players taking turns. The grey box will tell the players to switch so they don't see each other's cards.
+Add another mode so that the game can be played by 2 players taking turns playing a card from their hand. The grey box will tell the players to switch so they don't see each other's cards.
 
 ## Daily Feedback
 
