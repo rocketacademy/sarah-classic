@@ -12,7 +12,7 @@ When the user clicks submit draw a single card from the deck and show it to them
 
 ## High Card
 
-Implement the high card game from the GitBook
+Implement the High Card game from [10.1: Objects](../10-javascript-objects/10-1-objects.md#high-card) without copying the code.
 
 ## Hands
 
