@@ -131,15 +131,17 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
+* [Day 10: Moar Cards](../class-exercises/day-10-moar-cards.md)
+
 ### Day 11: Tue 8 Sep \(7-9pm\)
 
 **Project Due**
 
-* Simple Card Game
+* [Project 4: Blackjack Part 1](../projects/project-4-blackjack-part-1.md)
 
 #### Pre-Class Material
 
-* "AI" Computer Player
+* [11.1: Advanced Debugging with Sources Tab](../11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
 
 #### In-Class Material
 
@@ -147,7 +149,8 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### Pre-Class Material
 
-* Next Steps: Document Object Model
+* [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
+* [12.2: HTML & CSS Review](../12-next-steps/12.2-html-css-review.md)
 
 #### In-Class Material
 
@@ -155,14 +158,15 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 **Project Due**
 
-* Complex Card Game
+* Blackjack Part 2
 
 #### Pre-Class Material
 
-* Foundational Topics in Software Engineering \(SWE1 Overview\)
+* [13.1: How to Code](../13-how-to-code/13.1-how-to-code.md)
 
 #### In-Class Material
 
 * Project Presentations
+* Foundational Topics in Software Engineering \(SWE1 Overview\)
 * Class Party 🥳
 
