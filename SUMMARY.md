@@ -30,6 +30,7 @@
 * [Day 8: Card Games](class-exercises/day-8-card-games.md)
 * [Day 9: Guess the Word Redux](class-exercises/day-9-guess-the-word-redux.md)
 * [Day 10: Moar Cards](class-exercises/day-10-moar-cards.md)
+* [Day 11: Debugger](class-exercises/day-11-debugger.md)
 
 ## 1: Introduction
 

@@ -123,3 +123,17 @@ var main = function (input) {
 };
 ```
 
+**\`\`**
+
+{% hint style="warning" %}
+**`console.log` Formatting**
+
+The format of of your output on the console is an important aspect of making it visible and decipherable to yourself. 
+
+A few tips:
+
+* accurately describe what each output is. Don't write `number` or `output.`
+* spelling errors or special formatting can make your output easier to read. `**duistance in kilometers` is better than `Distance in kilometers value:`
+* just make whatever formatting that helps you to read the output as quickly and clearly as possible 
+{% endhint %}
+
