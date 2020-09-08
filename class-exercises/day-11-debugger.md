@@ -46,9 +46,7 @@ Choose one person's Blackjack card game to work on. If applicable chose the pers
 
 If possible, use the debugger to investigate the error.
 
+## Daily Feedback
 
-
-
-
-
+Please [share feedback](https://forms.gle/gWW8MbbRhaYdKiR38) on today's material. Thank you for making SWE101 great!
 

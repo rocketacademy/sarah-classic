@@ -41,15 +41,19 @@ They are also analyzed for losing conditions, since it's possible for any player
 
 Either the game ends or continues.
 
-### More Comfortable
+## More Comfortable
 
 ### Splits
 
-Add hand splitting functionality to the game.
+Add hand splitting functionality to the game. Splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
 
-If the player has two fo the same kind of card, they can choose to split and get dealt 2 new cards.
+If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards.
 
+## Reference Solution
 
+Please only refer to the reference solution after you have attempted the project. Thank you!
 
+Note that there are many ways to implement the project and the reference solution is only 1 way.
 
+[https://github.com/rocketacademy/swe101-blackjack/pull/3/files](https://github.com/rocketacademy/swe101-blackjack/pull/3/files)
 

@@ -145,6 +145,8 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
+* [Day 11: Debugger and Blackjack Redux](../class-exercises/day-11-debugger.md)
+
 ### Day 12: Thu 10 Sep \(7-9pm\)
 
 #### Pre-Class Material
@@ -158,7 +160,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 **Project Due**
 
-* Blackjack Part 2
+* Project 5: Blackjack Part 2
 
 #### Pre-Class Material
 
