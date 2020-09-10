@@ -124,3 +124,7 @@ Add an input to makeBox.
 
 The user can fill out a number, _x_ in the input. When they click the button, _x_ images are made inside the card.
 
+## Daily Feedback
+
+Please [share feedback](https://forms.gle/gWW8MbbRhaYdKiR38) on today's material. Thank you for making SWE101 great!
+
