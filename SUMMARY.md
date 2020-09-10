@@ -32,6 +32,7 @@
 * [Day 9: Guess the Word Redux](class-exercises/day-9-guess-the-word-redux.md)
 * [Day 10: Moar Cards](class-exercises/day-10-moar-cards.md)
 * [Day 11: Debugger](class-exercises/day-11-debugger.md)
+* [Day 12: DOM](class-exercises/day-12-dom.md)
 
 ## 1: Introduction
 
@@ -94,6 +95,7 @@
 
 * [12.1 Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
 * [12.2 HTML / CSS Review](12-next-steps/12.2-html-css-review.md)
+* [12.3 Deployment](12-next-steps/12.3-deployment.md)
 
 ## 13: HOW TO CODE
 
