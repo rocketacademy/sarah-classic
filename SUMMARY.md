@@ -9,6 +9,7 @@
 * [📆 Course Schedule](course-logistics/course-schedule.md)
 * [❤️ Social Rules](course-logistics/love-social-rules.md)
 * [💡 Pro Tips](course-logistics/pro-tips.md)
+* [🎓 LinkedIn Certificates](course-logistics/linkedin-certificates.md)
 
 ## Projects
 
