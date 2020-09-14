@@ -4,11 +4,22 @@ description: What and when we will learn
 
 # 📆 Course Schedule
 
-The following are live class times for Batch 1 \(15 Aug - 12 Sep\). You can add these to your calendar via this [Google Calendar Link](https://calendar.google.com/calendar/ical/c_gk08cvi7junnsufojhgb9cse0g%40group.calendar.google.com/private-0ad96a6295ce32db230e9bf3a742c33b/basic.ics).
+The following are live class times for Batch 2 \(19 Sep - 17 Oct\).
 
-Each day's deliverables are due by the **start** of that day's class. Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
+| Week | Saturday \(1-3pm\) | Monday \(7-9pm\) | Wednesday \(7-9pm\) |
+| :--- | :--- | :--- | :--- |
+| 1 | 9/19 **Day 1 -** [Setup](course-schedule.md#day-1) | 9/21 **Day 2 -** [Functions](course-schedule.md#day-2) | 9/23 **Day 3** - [Logic](course-schedule.md#day-3) |
+| 2 | 9/26 **Day 4** - [Logic 2](course-schedule.md#day-4) | 9/28 **Day 5** - [State](course-schedule.md#day-5) | 9/30 **Day 6** - [Loops](course-schedule.md#day-6) |
+| 3 | 10/3 **Day 7** - [Loops 2](course-schedule.md#day-7) | 10/5 **Day 8** - [Objects](course-schedule.md#day-8) | 10/7 **Day 9** - [Card Deck](course-schedule.md#day-9) |
+| 4 | 10/10 **Day 10** - [Game Example](course-schedule.md#day-10) | 10/12 **Day 11** - [Debugger](course-schedule.md#day-11) | 10/14 **Day 12** - [DOM](course-schedule.md#day-12) |
+| 5 | 10/17 **Day 13** - Project Presentation |  |  |
+|  |  |  |  |
 
-### Day 1: Sat 15 Aug \(1-3pm\)
+Each day's deliverables are due by the **start** of that day's class. \(You prepare the linked day's content _**before**_ the start of class\). Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
+
+## Daily Breakdown
+
+### Day 1
 
 #### Pre-Class Material
 
@@ -25,7 +36,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 1: Basic File and Data Manipulation](../class-exercises/day-1-basic-file-and-data-manipulation.md)
 
-### Day 2: Tue 18 Aug \(7-9pm\)
+### Day 2
 
 #### Pre-Class Material
 
@@ -36,7 +47,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 2: Functions](../class-exercises/day-2-functions.md)
 
-### **Day 3: Thu 20 Aug \(7-9pm\)**
+### **Day 3**
 
 #### Pre-Class Material
 
@@ -47,7 +58,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 3: If Statements, Boolean Or](../class-exercises/day-3-if-statements-boolean-or.md)
 
-### Day 4: Sat 22 Aug \(1-3pm\)
+### Day 4
 
 #### Pre-Class Material
 
@@ -59,7 +70,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 4: Boolean And, GitHub, Program State](../class-exercises/day-4-boolean-and-program-state.md)
 
-### Day 5: Tue 25 Aug \(7-9pm\)
+### Day 5
 
 #### Project Due
 
@@ -74,7 +85,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 5: Scissors Paper Stone Redux](../class-exercises/day-5-scissors-paper-stone-redux.md)
 
-### Day 6: Thu 27 Aug \(7-9pm\)
+### Day 6
 
 #### Pre-Class Material
 
@@ -85,7 +96,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 6: Loops](../class-exercises/day-6-loops.md)
 
-### **Day 7: Sat 29 Aug \(1-3pm\)**
+### **Day 7**
 
 #### Project Due
 
@@ -99,7 +110,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 7: Drawing Redux](../class-exercises/day-7-drawing-redux.md)
 
-### Day 8: Tue 1 Sep \(7-9pm\)
+### Day 8
 
 #### Pre-Class Material
 
@@ -109,7 +120,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 8: Card Games](../class-exercises/day-8-card-games.md)
 
-### Day 9: Thu 3 Sep \(7-9pm\)
+### Day 9
 
 #### Project Due
 
@@ -123,7 +134,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 9: Guess the Word Redux](../class-exercises/day-9-guess-the-word-redux.md)
 
-### Day 10: Sat 5 Sep \(1-3pm\)
+### Day 10
 
 #### Pre-Class Material
 
@@ -133,7 +144,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 10: Moar Cards](../class-exercises/day-10-moar-cards.md)
 
-### Day 11: Tue 8 Sep \(7-9pm\)
+### Day 11
 
 **Project Due**
 
@@ -147,7 +158,7 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 * [Day 11: Debugger and Blackjack Redux](../class-exercises/day-11-debugger.md)
 
-### Day 12: Thu 10 Sep \(7-9pm\)
+### Day 12
 
 #### Pre-Class Material
 
@@ -156,19 +167,16 @@ Each day's deliverables are due by the **start** of that day's class. Bulleted i
 
 #### In-Class Material
 
-### Day 13: Sat 12 Sep \(1-3pm\)
+### Day 13
 
 **Project Due**
 
 * Project 5: Blackjack Part 2
 
-#### Pre-Class Material
-
-* [13.1: How to Code](../13-how-to-code/13.1-how-to-code.md)
+[13.1: How to Code](../13-how-to-code/13.1-how-to-code.md)
 
 #### In-Class Material
 
 * Project Presentations
-* Foundational Topics in Software Engineering \(SWE1 Overview\)
 * Class Party 🥳
 

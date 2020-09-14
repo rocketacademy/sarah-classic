@@ -1,7 +1,3 @@
----
-description: How SWE101 will run
----
-
 # ✍🏽 Course Methodology
 
 ## Class Organisation
@@ -22,7 +18,7 @@ The goal of self-learning is for students to learn concepts **before** class, su
 
 The goal of live classes is for students to solidify understanding of concepts through explaining concepts with peers and working through exercises in pairs based on those concepts.
 
-**Live classes are mandatory** and will be held from 1-3pm on Saturdays, 7-9pm on Tuesdays, and 7-9pm on Thursdays over Zoom. There will be 13 classes total. Each section will have their own Zoom room to meet for live classes.
+**Live classes are mandatory** and will be held from 1-3pm on Saturdays, 7-9pm on Mondays, and 7-9pm on Wednesdays over Zoom. There will be 13 classes total. Each section will have their own Zoom room to meet for live classes.
 
 Live classes will generally follow this outline:
 
