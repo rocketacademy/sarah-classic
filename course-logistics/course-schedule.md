@@ -167,16 +167,23 @@ Each day's deliverables are due by the **start** of that day's class. \(You prep
 
 #### In-Class Material
 
+* [Day 12: DOM](../class-exercises/day-12-dom.md)
+
 ### Day 13
 
 **Project Due**
 
-* Project 5: Blackjack Part 2
+* [Project 4.5: Blackjack Part 2](../projects/project-4.5-blackjack-part-2.md)
 
-[13.1: How to Code](../13-how-to-code/13.1-how-to-code.md)
+**Pre-Class Material**
+
+* [13.1: How to Code](../13-how-to-code/13.1-how-to-code.md)
 
 #### In-Class Material
 
-* Project Presentations
-* Class Party 🥳
+* Course feedback
+* Wrap up Blackjack
+* Project presentations
+* SWE1 presentation
+* LinkedIn certificate presentations
 
