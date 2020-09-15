@@ -77,12 +77,5 @@ The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface
 
 If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop&hl=en).
 
-## Organising Folders for SWE101
-
-In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep things organised, we recommend the following folder structure. Note that all files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line.
-
-1. Host all SWE101 code in a folder called `swe101`. Keep this somewhere accessible like your  `Documents` folder.
-2. Within the `swe101` folder, for each class session \(there are 13 total\) in SWE101, create a new folder for that day. This means you will have 13 day-specific folders, such as `day1`, `day2`, ..., `day13`.
-3. Within each `dayX` folder, create 1 folder for homework exercises and another folder for class-time exercises. These can look like `homework` and `class`, or any other naming scheme that works for you.
-4. Within `homework` and `class` folders, keep a separate folder for every exercise you do that requires you to create a new Git repository or clone a new copy of the SWE101 starter code. When cloning the starter code, you can choose to [name the target folder](../4-getting-started-with-code/4-1-intro-to-github.md#clone) to the relevant exercise name. This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
+## 
 

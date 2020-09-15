@@ -37,20 +37,6 @@ Zoom is RA's video conferencing software for live classes. Each section will hav
 1. Download the Zoom Client for Meetings [here](https://zoom.us/download).
 2. Start a new meeting to test that your webcam and microphone are working.
 
-### VSCode
-
-VSCode is RA's software editor of choice. It is also the most popular code editor in the world. We will write all code for SWE101 inside of VSCode.
-
-#### Installation
-
-1. Download VSCode for your OS [here](https://code.visualstudio.com/download).
-2. Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint). "ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
-3. Enable the following settings in [VSCode settings](https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings) to format your code automatically
-   1. Format On Save
-   2. Eslint &gt; Format: Enable
-   3. Eslint &gt; Migration: 2\_x
-      1. Set this to "off"
-
 ### Chrome
 
 Chrome is the most popular web browser for software engineers because of its mature developer tools \(we will soon see in course videos\). Chrome also has the largest library of browser extensions, which further help developers build and maintain web software.
@@ -58,6 +44,14 @@ Chrome is the most popular web browser for software engineers because of its mat
 #### Installation
 
 1. Download Chrome for your OS [here](https://www.google.com/intl/en_sg/chrome/).
+
+### VSCode
+
+VSCode is RA's software editor of choice. It is also the most popular code editor in the world. We will write all code for SWE101 inside of VSCode.
+
+#### Installation
+
+1. Download VSCode for your OS [here](https://code.visualstudio.com/download).
 
 ## Required Command Line Software
 
@@ -115,6 +109,23 @@ In case it helps, here is a video demonstrating how to verify Git and Node insta
 
 {% embed url="https://www.youtube.com/watch?v=YsRt9YJNFP4" %}
 
+## Organising Folders for SWE101
+
+In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep things organised, we  recommend the following folder structure.
+
+_Note that all files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them._
+
+1. Host all SWE101 code in a folder called `swe101`. Keep this in your  `Documents` folder.
+2. Within the `swe101` folder, for each class session \(there are 13 total\) in SWE101, create a new folder for that day. This means you will have 13 day-specific folders, such as `day1`, `day2`, ..., `day13`.
+3. Within each `dayX` folder, create 1 folder for homework exercises and another folder for class-time exercises. These can look like `homework` and `class`, or any other naming scheme that works for you.
+4. Within `homework` and `class` folders, keep a separate folder for every exercise you do that requires you to create a new Git repository or clone a new copy of the SWE101 starter code.
+
+{% hint style="warning" %}
+When cloning the starter code, choose to [name the target folder](../4-getting-started-with-code/4-1-intro-to-github.md#clone) to the relevant exercise name. 
+
+This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
+{% endhint %}
+
 ## Required Software Accounts
 
 ### GitHub
@@ -125,7 +136,7 @@ GitHub is the most popular code-hosting platform. Developers around the world us
 
 Go to [https://github.com/](https://github.com/), click the Sign Up button and follow on-screen instructions.
 
-#### Git & GitHub Configuration
+#### Git & GitHub Credential Configuration
 
 Add your GitHub account credentials to your computer through the command line. You should not get any response from the command line after entering these commands.
 
@@ -133,4 +144,46 @@ Add your GitHub account credentials to your computer through the command line. Y
 git config --global user.name "your-github-username"
 git config --global user.email "github-acct-email@example.com"
 ```
+
+You **will not** get any feedback from the terminal after entering these commands. Type the following command into the terminal to check your work.
+
+```text
+git config -l
+```
+
+You should see your user name and email in the output. \(And possibly some other settings\).
+
+### VSCode Formatter and Settings
+
+#### Install the ESLint Extension for VSCode
+
+This will auto-format your code and give you warnings about common simple coding errors. 
+
+Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+
+{% hint style="warning" %}
+"ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
+{% endhint %}
+
+#### Get the SWE101 VSCode snd ESLint Settings
+
+```text
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "eslint.codeAction.showDocumentation": {
+
+        "enable": true
+    },
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.migration.2_x": "off"
+}
+```
+
+Open VSCode and open the command prompt with:  **⌘ + shift + p** \(Windows: **ctrl + shift + p**\). 
+
+Type to get the settings file: `Preferences: Open Settings (JSON)` \(Start typing this to get the autocomplete\).
+
+Replace the file with the settings code above. Save the file and restart VSCode.
 
