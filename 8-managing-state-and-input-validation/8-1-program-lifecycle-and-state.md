@@ -61,7 +61,7 @@ Note that main function runs each time the submit button is clicked.
 {% embed url="https://www.youtube.com/watch?v=xVIAh\_o4mPc" caption="" %}
 
 ```javascript
-var papayaCounter = 0;
+var papayaCount = 0;
 
 var main = function (input) {
   var myOutputValue = 'You have ' + papayaCount + ' papayas';
