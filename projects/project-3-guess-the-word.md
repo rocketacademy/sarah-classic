@@ -1,7 +1,5 @@
 # Project 3: Guess the Word
 
-#### Due: Thursday 3 September
-
 This is a game where the player must guess a secret word.
 
 Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-guess-the-word](https://github.com/rocketacademy/swe101-guess-the-word)

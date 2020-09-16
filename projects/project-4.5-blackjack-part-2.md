@@ -4,8 +4,6 @@
 
 In this second part of the game, you'll fill out your game using your creativity.
 
-#### Due: Saturday 12 September
-
 Now that the gameplay of Blackjack has been completed we are leaving it up to you to complete your game in the way that you want.
 
 There are several possibilities:

@@ -1,7 +1,5 @@
 # Project 2: Drawing With Emojis
 
-**Due: Saturday 29 August**
-
 Use loops to create an app that draws emojis into the grey box.
 
 Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-drawing](https://github.com/rocketacademy/swe101-drawing)

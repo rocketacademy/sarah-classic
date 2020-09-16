@@ -4,8 +4,6 @@ description: "✂️\U0001F4C3\U0001F48E\U0001F61C"
 
 # Project 1: Scissors Paper Stone
 
-**Due: Tuesday 25 August**
-
 For our first project, we are going to make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game.
 
 ## Setup
