@@ -28,7 +28,7 @@ We know that the gameplay turns will be represented by the `main` function.
 * User clicks submit button to deal cards.
 * The cards are analyzed for any game winning conditions. \(Blackjack\)
 * The cards are displayed to the user.
-* Then begins a new action, where the user has to decide something: do they hit or stand.
+* Then begins a new action, where the user has to decide whether to hit or stand, using the submit button to submit their choice. 
 * The computer also decides to hit or stand.
 
 _For the user choice to hit or stand, we know that when a new action of the user has different logic means that the game must have a mode to deal with this._
