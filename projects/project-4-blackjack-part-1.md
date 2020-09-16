@@ -29,15 +29,11 @@ We know that the gameplay turns will be represented by the `main` function.
 * The cards are analyzed for any game winning conditions. \(Blackjack\)
 * The cards are displayed to the user.
 * Then begins a new action, where the user has to decide whether to hit or stand, using the submit button to submit their choice. 
-* The computer also decides to hit or stand.
+* When the user makes a decision the cards are analyzed for any winning conditions. They are also analyzed for losing conditions, since it's possible for any player to lose now.
+* The computer also decides to hit or stand automatically based on game rules.
+* Either the game ends or continues.
 
 _For the user choice to hit or stand, we know that when a new action of the user has different logic means that the game must have a mode to deal with this._
-
-When the user makes a decision the cards are analyzed for any winning conditions.
-
-They are also analyzed for losing conditions, since it's possible for any player to lose now.
-
-Either the game ends or continues.
 
 ## More Comfortable
 
