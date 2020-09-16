@@ -52,7 +52,7 @@ VSCode is RA's software editor of choice. It is also the most popular code edito
 #### Installation
 
 1. Download VSCode for your OS [here](https://code.visualstudio.com/download).
-2. Follow instructions in the following VSCode Formatter and Settings section to install a linter and linter settings for SWE101.
+2. Follow instructions in the following [VSCode Formatter and Settings section](required-hardware-and-software.md#vscode-formatter-and-settings) to install a linter and linter settings for SWE101.
 
 ### VSCode Formatter and Settings
 
