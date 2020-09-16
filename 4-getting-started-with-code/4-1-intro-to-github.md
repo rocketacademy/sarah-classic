@@ -22,19 +22,13 @@ We'll use a git command to download a copy of the code. We won't be concerned ye
 git clone <repo url> folder-name
 ```
 
-![](../.gitbook/assets/github-clone.png)
+![Cloning a repo into your computer from GitHub.](../.gitbook/assets/github-clone.png)
 
 {% hint style="info" %}
-Go to the starter code repo and download a copy of the repo.
+**Follow along with the video to create a copy of the starter code repo.**
 
-Go to the repo website page here: [https://github.com/rocketacademy/swe101-starter-code](https://github.com/rocketacademy/swe101-starter-code) and click to copy the repo url \(the website page and repo url are different\)
-
-Run the git clone command on the command line. Name it `test`.
-
-```text
-git clone
-```
-
-Make sure that you are not already inside another repo directory before you run the command.
+The repo website page is here: [https://github.com/rocketacademy/swe101-starter-code](https://github.com/rocketacademy/swe101-starter-code) 
 {% endhint %}
+
+
 

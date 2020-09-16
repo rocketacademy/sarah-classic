@@ -248,11 +248,9 @@ Try changing the values of `distanceInKilometers` to see the new conversion bein
 Now we can make out program interactive by letting the user enter a temperature amount.
 
 Simply assign the value of `input` to `distanceInKilometers`.
-
-#### Extensions
-
-Other kinds of calculation operations?
 {% endhint %}
+
+#### 
 
 {% hint style="info" %}
 ## Formatting the Output
@@ -272,9 +270,7 @@ Simply use the result of the calculation together with some string values like w
 ```javascript
 var myOutputValue = 'Hi! ' + input + ' is equal to ' + distanceInMiles + ' miles.';
 ```
-
-#### Extensions
-
-Other kinds of formats?
 {% endhint %}
+
+#### 
 

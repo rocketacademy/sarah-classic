@@ -155,6 +155,12 @@ You should see your user name and email in the output. \(And possibly some other
 
 ### VSCode Formatter and Settings
 
+We will make a few small configurations to VSCode to make it easier to work with.
+
+{% embed url="https://youtu.be/gGzX8uUbuIo" %}
+
+
+
 #### Install the ESLint Extension for VSCode
 
 This will auto-format your code and give you warnings about common simple coding errors. 

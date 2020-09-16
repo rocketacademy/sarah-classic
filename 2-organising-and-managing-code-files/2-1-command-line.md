@@ -9,7 +9,9 @@ We'll be using the command line to run our Git version control system for all th
 #### Language
 
 {% hint style="warning" %}
-The words "**command line**" and "**terminal**" are synonymous. We will be using them interchangeably. The "terminal" used to be a piece of actual hardware when computers were the size of rooms, but has since lost it's original meaning.
+The words "**command line**" and "**terminal**" are synonymous. We will be using them interchangeably.
+
+The "terminal" used to refer to a piece of actual hardware when computers were the size of rooms, but has since lost it's original meaning.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -28,7 +30,7 @@ There are certain interfaces that bring you into a page navigator, like the comm
 
 #### ctrl-c
 
-You might get stuck in a different kind of command line interface \(there are many\)- another universal way to get out is `ctrl - c`
+You might get stuck in a different kind of command line interface \(there are many\)- another universal way to get out is `ctrl - c`   \(In a Mac, this is also still `ctrl` \*not\* command **⌘\).**
 
 ## Commands
 
@@ -261,4 +263,8 @@ Remove a folder
 ```text
 rm -r my-boats
 ```
+
+{% hint style="info" %}
+#### Follow along with the video or the commands above. See your results in a GUI window.
+{% endhint %}
 

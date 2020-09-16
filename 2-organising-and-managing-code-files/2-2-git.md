@@ -48,7 +48,9 @@ Creating a repo inside a repo can cause problems. If you are in the command line
 git init
 ```
 
-`git init` is the command to create a completely new repository. Note that we will not be using this command that often- most of the time we'll use starter code.
+`git init` is the command to create a completely new repository.
+
+_Note that we will not be using this command that often- most of the time we'll use starter code._
 
 ### status
 
@@ -117,7 +119,7 @@ git log
 ```
 
 {% hint style="info" %}
-Follow along with the steps in the video to create your own repo with a plain text file inside it.
+**Follow along with the steps in the video to create your own repo with a plain text file inside it.**
 {% endhint %}
 
 ## Cheat Sheet
@@ -157,4 +159,6 @@ See newly created commit
 ```text
 git log
 ```
+
+
 

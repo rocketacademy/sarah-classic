@@ -33,6 +33,8 @@ Open the `index.html` file in Chrome. Double click it if Chrome is your default 
 
 ### Change text on the page
 
-Change line `31` to something else. Make sure to save the file before you refresh.
+Change line `41` to something else. Make sure to save the file before you refresh.
+
+Change the text of the button on line `45`.
 {% endhint %}
 

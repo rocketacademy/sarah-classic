@@ -37,6 +37,6 @@ The JavaScript language is capable of calculating math operations.
 4 - 2
 ```
 
-### What is the smallest and largest number you can make a calculation with
+#### What is the smallest and largest number you can make a calculation with?
 {% endhint %}
 
