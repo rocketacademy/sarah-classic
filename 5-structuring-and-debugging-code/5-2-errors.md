@@ -22,7 +22,9 @@ These are errors where you will see red text in the console.
 
 Syntax errors can be divided into 2 kinds:
 
-a. compilation errors - JavaScript looks at your code file for the first time and sees some syntax error that it can't move past.
+### a: compilation errors
+
+JavaScript looks at your code file for the first time and sees some syntax error that it can't move past. None of your code after this error will run.
 
 Let's introduce a syntax error into your program.
 
@@ -46,7 +48,9 @@ There are some specific rules about why JavaScript can't know that a left parent
 
 A significant amount of the feedback you will get from the computer will be these semi-cryptic messages about why your code is wrong.
 
-b. runtime errors - errors that happen when you run your program.
+### b: runtime errors
+
+Errors that happen _when_ you run your program.
 
 Replace this line in the starter code:
 
@@ -64,11 +68,11 @@ Specifically JavaScript thinks the parentheses mean that you want to run some ki
 
 ## 2. Logical / control errors
 
-Some of the errors your program will have will not produce any red output on the console.
+Some of the errors your program will have **will not** produce any red output on the console.
 
 This is code that does not have any JavaScript _syntax_ errors - it is considered by the computer to be valid JavaScript code, but it does not **behave** the way we want.
 
-## Debugging
+### Debugging
 
 Debugging is the process of diagnosing and fixing the errors you have in your program.
 
@@ -76,11 +80,10 @@ The debugging process can be relatively simple, in the case of type 1.a errors -
 
 Debugging can become more complicated when you are trying to diagnose a logical error in your code- the computer is running the code without errors, but the behaviour is not correct.
 
-We'll talk about a few strategies you can use to diagnose and correct errors.
+We'll talk about a few strategies you can use to diagnose and correct errors:
 
-1. control flow checking - is our code even running?
-
-Functions give us the ability to execute code in a certain order, from certain places in our code that we specify. If something in our code seems incomplete or wrong, one of the first things we can check is to see if it is running at all.
+1. **control flow checking** - is our code even running?
+2. **value checking** - is this value what I think it was?
 
 ### console.log
 
@@ -90,30 +93,19 @@ The thing we want to appear is passed an argument to `console.log` like so: `con
 
 Try writing some `console.log`s in all of the different structures of your code. Each `console.log` statement should be descriptive of where in the code you are. Also be careful not to make any errors here and describe something incorrectly!
 
-#### 1. flow checking - does the code run
+### 1. flow checking - does the code run
+
+Functions give us the ability to execute code in a certain order, from certain places in our code that we specify. If something in our code seems incomplete or wrong, one of the first things we can check is to see if it is running at all.
 
 We can use the fact that text is appearing in the dev tools console as an implicit signal that JavaScript it executing our code.
 
 If our `console.log` statement appears in the dev tools console then we know that our code is reachable by our program.
 
-Replace your main function with this code:
-
-```javascript
-var main = function (input) {
-  var myOutputValue = kilometersToMiles;
-
-  return myOutputValue;
-};
-```
-
-#### 2. value checking - is the value correct
-
-Another way we can use `console.log` is to pass it the variable values our program deals with.
-
-Are the values in our program the ones we expect?
+Replace your code with this:
 
 ```javascript
 var kilometersToMiles = function (distanceInKilometers) {
+  console.log('running kilometers to miles function');
   var distanceInMiles = distanceInKilometers * 0.62;
 };
 
@@ -123,7 +115,25 @@ var main = function (input) {
 };
 ```
 
-**\`\`**
+### 2. value checking - is the value correct
+
+Another way we can use `console.log` is to pass it the variable values our program deals with.
+
+Are the values in our program the ones we expect?
+
+```javascript
+var kilometersToMiles = function (distanceInKilometers) {
+  var distanceInMiles = distanceInKilometers * 0.62;
+  return distanceInMiles;
+};
+
+var main = function (input) {
+  var myOutputValue = kilometersToMiles(input);
+  console.log('** myOutputValue');
+  console.log(myOutputValue);
+  return myOutputValue;
+};
+```
 
 {% hint style="warning" %}
 **`console.log` Formatting**
@@ -133,7 +143,16 @@ The format of of your output on the console is an important aspect of making it 
 A few tips:
 
 * accurately describe what each output is. Don't write `number` or `output.`
-* spelling errors or special formatting can make your output easier to read. `**duistance in kilometers` is better than `Distance in kilometers value:`
+* spelling errors or special formatting can make your output easier to read. `**duistance in kilometers` is better than `Distance in kilometers value`
+* Use special characters like `**` or `##` in the log messages to help make the output more readable. 
 * just make whatever formatting that helps you to read the output as quickly and clearly as possible 
+
+Things to avoid:
+
+* `console.log` that are not labeled at all. You will lose track of which value is which.
+* using the same label text over and over again
+* using text that is not specific or descriptive of the value
 {% endhint %}
+
+
 

@@ -12,6 +12,7 @@ A function is just a collection of lines of code. We can run those lines of code
 
 A function is a type of **control flow**, which means we can write code that **does not** just execute line by line downwards through the code file. We can control the order and flow of the execution of our lines of code.
 
+{% hint style="info" %}
 ### Define a function
 
 First we'll define a function that isolates the kilometers to miles conversion we were making before, then we'll use it in our program.
@@ -91,19 +92,44 @@ You can run this code again from the console with a different value:
 kilometersToMiles(7676);
 ```
 
-Type in your own values.
+**Now type in your own values.**
+
+Create several variables and use them as input to your function. 
+
+```javascript
+var kmsToMyHouse = 4;
+var kmsToSchool = 6;
+var kmsToWork = 7;
+```
+
+Use these variables as input to the function. \(Paste each call into the dev tools one by one\).
+
+
+
+```javascript
+kilometersToMiles( kmsToMyHouse );
+kilometersToMiles(  kmsToSchool );
+kilometersToMiles( kmsToWork );
+```
+{% endhint %}
+
+### \*\*\*\*
 
 ### Capture the result
 
 We can see the result of the calculation in the console.
 
-We can also capture that value to use it later.
+We can capture that value to use it later.
+
+{% hint style="info" %}
+Paste this code into the dev tools console:
 
 ```javascript
 var result = kilometersToMiles(7676);
 ```
 
 Type in the name of the variable: `result` and press enter to see the given value.
+{% endhint %}
 
 ### Putting it all together
 
@@ -175,11 +201,21 @@ Given the above function examples we can also say that a function can be a data 
 ## Exercises
 
 {% hint style="info" %}
-### **1\) Duplicate and run the code above.**
+#### **1\) Duplicate and run the code above.** 
 
-### **2\) Errors: take out `return` and `input` from the examples. What happens? Why?**
+**2\) Paste the other function examples in instead of `kilometersToMiles`.**
 
-### **3\) Apps**
+#### **2\) Errors: take out `return` from the examples. What happens? Why?**
+
+The **return** keyword is crucial to the way our functions run. What does it do? How does it work?
+
+#### **3\) Errors: take out `distanceInKilometers` from the examples. What happens? Why?**
+
+The **parameter** name `distanceInKilometers` represents something in our program. What does it represent?
+
+Change the name `distanceInKilometers` in every place in the program. What happens?
+
+#### **4\) Apps**
 
 For the following apps try to encapsulate each distinct operation inside a function that returns a value. e.g.,`daysToMinutes(3)`.
 
