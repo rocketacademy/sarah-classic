@@ -1,4 +1,4 @@
-# 6.3: Boolean And and Not
+# 6.3: Boolean And & Not
 
 ## Input / Output Control
 
@@ -52,10 +52,14 @@ var myVal = 3 == 2;
 
 what's the value inside of `myVal` in this case?
 
-We've seen numbers and strings. Boolean values are a 3rd kind of data we'll deal with. They **represent** a value that is true or false. Just like we can hold the rersult of a math operation, we can hold the result of a logical boolean operation.
+We've seen numbers and strings. Boolean values are a 3rd kind of data we'll deal with. They **represent** a value that is true or false. Just like we can hold the result of a math operation, we can hold the result of a logical boolean operation.
 
 ```javascript
 var userWin = true;
+```
+
+```javascript
+var userWin = input == randomDiceNumber; // hold the value that says if the user has won or not 
 ```
 
 ## Dice Version 2
@@ -103,15 +107,37 @@ var main = function (input) {
 
 {% embed url="https://youtu.be/Aelo-Ay71oA" caption="" %}
 
-Let's add another rule: the user can't roll snakeeyes- two ones.
+Let's add another rule: the user can't roll _snake eyes_- two ones.
 
-We'll add this rule that they can't win if the dice is snakeeyes.
+We'll add this rule that they can't win if the dice is _snake eyes_.
 
 ### Not Operator
 
 Use `!` to reverse a boolean statement.
 
-#### Pseudo Code
+Run some code when user has not won:
+
+```javascript
+if( userWin != true ) {
+    console.log('user didnt win!');
+}
+```
+
+```javascript
+if( !userWin ) {
+    console.log('user didnt win!');
+}
+```
+
+Run some code when roll is not 2:
+
+```javascript
+if( diceRoll != 2 ) {
+    console.log('dice roll is not 2!');
+}
+```
+
+#### Snake Eyes Pseudo Code
 
 ```text
 if:
@@ -127,6 +153,18 @@ AND
 the dice are NOT snake eyes
 
 then the user wins.
+```
+
+This value is snake eyes:
+
+```javascript
+diceRoll1 == 1 && diceRoll2 == 1 
+```
+
+This is the condition that's true when you **don't** have snake eyes.
+
+```javascript
+!( diceRoll1 == 1 && diceRoll2 == 1 )
 ```
 
 ## Conditional Debugging
@@ -145,7 +183,7 @@ If you are not seeing the desired behavior what do you do?
 
 Just like for any program you write you must deconstruct your code to check each part. You must do this in a methodical and correct way.
 
-Errors in a conditional statement could be:
+#### _Errors in a conditional statement could be:_
 
 #### Boolean expression is not reached
 
@@ -191,9 +229,9 @@ Also remember that if your label is wrong or if your statements in the `console.
 ## Exercises
 
 {% hint style="info" %}
-### 1\) Duplicate and run the above code
+#### 1\) Duplicate and run the dice game versions above.
 
-### 2\) App
+#### 2\) App
 
 Create new versions of the dice game for each of these winning conditions.
 

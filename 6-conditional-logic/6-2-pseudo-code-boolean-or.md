@@ -6,7 +6,7 @@ Let's change the game so that if the guess is within 1 the user still wins the g
 
 In order to encode this we need some other conditional structures- _boolean operators_.
 
-## Logical Expression Translation: Pseudo Code
+## Pseudo Code: Logical Expression Translation 
 
 Before we talk about the syntax of these structures, let's talk about what kind of control flow we are trying to accomplish.
 
@@ -39,7 +39,7 @@ Notice how we are thinking about reformulating the sentences **describing** the 
 If the guess is equal to the random number the user wins.
 ```
 
-translates to:
+Translates to:
 
 ```javascript
 if (randomDiceNumber == input) {
@@ -51,7 +51,7 @@ if (randomDiceNumber == input) {
 
 Note that one of the main difficulties of this course will be this step, which may be tangential to code **syntax**: translating the program's desired behavior into explicit \(plain english\) logical statements.
 
-After enough practice it may be unneccesary to explicitly state the program logic. However, expert programmers still find it important to complete this part of the coding process. It is not something used only for beginners.
+After enough practice it may be unnecessary to explicitly state the program logic. However, expert programmers still find it important to complete this part of the coding process. It is not something used only for beginners.
 
 ## Logical Operators
 
@@ -79,7 +79,7 @@ if (randomDiceNumber - 1 == input) {
 }
 ```
 
-To code this we'll introduce another logical control flow syntax- boolean operators. This allows us to create more complex logical statments and state this logic in a different way.
+To code this we'll introduce another logical control flow syntax- boolean operators. This allows us to create more complex logical statements and state this logic in a different way.
 
 ### Logical OR: Any of These Statements
 

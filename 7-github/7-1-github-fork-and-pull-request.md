@@ -57,6 +57,6 @@ Here is the workflow you'll be using for the assignments:
 ## Exercises
 
 {% hint style="info" %}
-**Follow along with the video and create a fork of the example repo.**
+#### **Follow along with the video and create a fork and pull request of the** [**example repo.**](https://github.com/rocketacademy/github-practice)\*\*\*\*
 {% endhint %}
 

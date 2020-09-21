@@ -36,7 +36,7 @@ This is the 2nd main way we use curly braces to denote `blocks` - specific secti
 
 Try your program both ways. Enter the secret phrase and click the button to see the different output. Enter anything else and click the button to see the base case.
 
-#### Equality
+### Equality
 
 We're using the **boolean operator** `==` to test to see if `input` is **equal** to "palatable papaya".
 
@@ -58,7 +58,7 @@ Let's build a game of dice program. We will begin with very simple rules to this
 
 Let's build the random number generation before we talk about the dice game logic.
 
-Javascript language can produce random numbers using a build-in set of functions called `Math` \(case-sensetive\).
+Javascript language can produce random numbers using a build-in set of functions called `Math` \(case-sensitive\).
 
 ```javascript
 var myRandomValue = Math.random();
@@ -107,11 +107,11 @@ var diceRoll = function () {
 };
 ```
 
-### game: dice roll guess
+### Game: Dice Roll Guess
 
 let's implement the logical rules to our game.
 
-if the dice roll the same number as the user entered, they win.
+If the dice roll the same number as the user entered, they win.
 
 ```javascript
 var main = function (input) {
@@ -130,14 +130,16 @@ var main = function (input) {
 ## Exercises
 
 {% hint style="info" %}
-### **1\) Duplicate and run the code above.**
+#### **1\) Duplicate and run the code above.**
 
-### **2\) Apps**
+#### **2\) Apps**
 
 For each app `clone` a new copy of the starter code using git.
 
 #### **Multiples**
 
-The user wins the game if the dice roll is 2x the guess. E.g., Guess of 1 and roll of 2, guess of 2 and roll of 4, etc. To win for a 6-sided dice, the user should only guess numbers between 1-3, but the game does not restrict what they can guess.
+The user wins the game if the dice roll is 2x the guess.
+
+E.g., Guess of 1 and roll of 2, guess of 2 and roll of 4, etc. To win for a 6-sided dice, the user should only guess numbers between 1-3, but the game does not restrict what they can guess.
 {% endhint %}
 
