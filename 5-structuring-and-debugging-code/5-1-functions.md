@@ -43,7 +43,7 @@ Using `return` keyword we define the output value of the function:
 return distanceInMiles;
 ```
 
-We define the function input called a `parameter` as `distanceInKilometers`.
+We define the function input called a **parameter** as `distanceInKilometers`.
 
 ```javascript
 var kilometersToMiles = function(distanceInKilometers) {

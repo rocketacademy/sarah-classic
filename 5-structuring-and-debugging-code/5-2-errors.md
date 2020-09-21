@@ -16,7 +16,7 @@ You should always make sure either your page loaded with the tools already, or y
 
 There are 2 broad categories of errors. We can use the dev tools to fix both kinds.
 
-## 1. Syntax errors / runtime errors
+## 1. Syntax errors
 
 These are errors where you will see red text in the console.
 
@@ -66,7 +66,7 @@ You'll get the error `Uncaught TypeError: "hello world" is not a function`. This
 
 Specifically JavaScript thinks the parentheses mean that you want to run some kind of function. This error isn't too common, but notice that for this type of error, JavaScript didn't let you know until it tried to run the code.
 
-## 2. Logical / control errors
+## 2. Logical errors
 
 Some of the errors your program will have **will not** produce any red output on the console.
 
