@@ -46,3 +46,7 @@ Uncle likes children and wants to educate children about food. He will give a fr
 
 Children will input their guesses in the format of "&lt;dish&gt; &lt;base&gt;", for example, "char kway teow rice". We can determine whether a dish or a base is inside an input string with the JavaScript String [`includes`](https://www.w3schools.com/jsref/jsref_includes.asp) function. For example, `if (input.includes("char kway teow"))` will tell me if the string "char kway teow" is part of my input string.
 
+## Daily Feedback
+
+Please [share feedback](https://forms.gle/gWW8MbbRhaYdKiR38) on today's material. Thank you for making SWE101 great!
+

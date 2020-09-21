@@ -50,3 +50,7 @@ A new Ferrari consumes 9km/litre. Petrol costs $2.20/litre. The user will enter 
 
 The user will enter their Words Per Minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours.
 
+## Daily Feedback
+
+Please [share feedback](https://forms.gle/gWW8MbbRhaYdKiR38) on today's material. Thank you for making SWE101 great!
+

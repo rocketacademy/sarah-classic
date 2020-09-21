@@ -40,3 +40,7 @@ Output several values including:
 * How much the user will pay just in interest.
 * How much their monthly payment will be.
 
+## Daily Feedback
+
+Please [share feedback](https://forms.gle/gWW8MbbRhaYdKiR38) on today's material. Thank you for making SWE101 great!
+
