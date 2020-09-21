@@ -6,13 +6,15 @@ For each app, make a copy of the starter code, as in the [setup](https://swe101.
 
 For some apps you may need to google things. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
 
-### Singtel
-
-Create a calculator for the 8GB data plan, which costs $19.99 a month. The user will enter how many GB they used this month and the app will calculate the per-GB cost.
-
 ### Air Conditioner
 
 Your aircon uses 2 KW/h. Electricity is $0.20 a KW/h. The user can enter the number of hours they'll use their aircon for, and the app will tell them the cost. 
+
+### Screen Time
+
+You can find out how much time you spend on your phone on [Android 10](https://wellbeing.google/tools/)+ and [iOS 12](https://support.apple.com/en-us/HT208982)+.  Given the average life expectancy of 82 years in Singapore, create an app that tells you how many days you will spend in your lifetime in the app you use the most. \(If you don't have this information about app usage you can look up some common statistics\).
+
+
 
 ### Ice Machine
 
