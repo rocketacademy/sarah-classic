@@ -4,21 +4,6 @@ description: Tips for better programming
 
 # 💡 Pro Tips
 
-## Window Snapping
-
-On both Windows and MacOS, there are features to automatically snap windows to standard places on your screen. This is especially helpful when, say, you are coding, and you want to view your code on one side and documentation on another. Without window snapping we need to manually drag our windows and resize them. With window snapping, we can get our windows in the right size and place with a single swipe or keyboard shortcut.
-
-### Windows
-
-Window snapping is built-in to Windows, and you can take advantage of it with instructions [here](https://support.microsoft.com/en-sg/help/4027324/windows-10-snap-your-windows).
-
-### Mac
-
-Window snapping is not built-in to MacOS, and we will need to download an external program to snap windows. We recommend any of the following. 
-
-1. [Magnet](https://magnet.crowdcafe.com/) \(S$5\) is an actively maintained window snapping app on the Mac App Store.
-2. [Spectacle](https://www.spectacleapp.com/) \(free\) is similar to Magnet, but is no longer actively maintained, which means that it may stop working when Apple makes changes to MacOS.
-
 ## Using Slack Effectively
 
 ### Asking Questions
@@ -40,14 +25,6 @@ For variables or files/folders in regular text, we can use a single backtick \(\
 For multi-line blocks of code like functions, we can use triple backtick \(\`\`\`\) at the start and end of the code to format that code in Slack.
 
 ## Using VSCode Effectively
-
-### Opening Folders in VSCode
-
-When working with code, it's often necessary to jump between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to quickly jump between files in that folder without having to File &gt; Open every time.
-
-![What my &quot;rocket&quot; directory looks like in Finder on my Mac](../.gitbook/assets/jie-ping-20200815-17.55.48.png)
-
-![What my &quot;rocket&quot; directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200815-17.52.55.png)
 
 ### Comment Out Multiple Lines at Once
 
@@ -76,6 +53,4 @@ The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface
 ## Watching YouTube Videos at Different Speeds
 
 If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop&hl=en).
-
-## 
 
