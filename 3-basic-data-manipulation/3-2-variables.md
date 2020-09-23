@@ -44,6 +44,16 @@ Our programs must not only _calculate_ values correctly, they must also _represe
 
 The names of our variables give meaning to the data our code contains.
 
+{% hint style="warning" %}
+**Naming Variables**
+
+Variable names should always start with a lowercase letter.
+
+**Multi-word variable names:**
+
+For consistencies' sake, we'll be naming multi-word variables with "camel case"-  the name starts with a lowercase letter and every subsequent word starts with uppercase. e.g., `bananaCount` or `papayaPickerCount`.
+{% endhint %}
+
 {% hint style="info" %}
 ### Using just the dev tools console, write code for each representation of the following
 
