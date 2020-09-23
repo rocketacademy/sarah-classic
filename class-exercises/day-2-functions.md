@@ -5,7 +5,7 @@
 For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`.
 
 {% hint style="warning" %}
-When cloning, put each app in a separate folder, like the folder structure in [Pro Tips](../course-logistics/pro-tips.md#organising-folders-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
 For some apps you may need to google things. Remember that as pairs, you are also googling together. 
