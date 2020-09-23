@@ -18,6 +18,10 @@ Follow the instructions in the order they appear.
 8. Title your poem about trees. Add the title to the text in the file, and change the filename to reflect the title. Commit these changes.
 9. Delete your poem about winter from the repo. \(Delete the file and commit the changes\).
 
+{% hint style="warning" %}
+**Hint:** At any time you can type the `tab` key and the command line will try to auto complete for you. This works for the names of commands and also long file or folder names.
+{% endhint %}
+
 ## Data Manipulation with Operations and Variables
 
 For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`.
