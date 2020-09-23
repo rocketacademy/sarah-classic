@@ -30,7 +30,7 @@ For example if the user only used 1GB this month, the app would calculate $19.99
 
 ### Ice Machine
 
-The ice machine at your hotel can produce 120 pounds of ice a day. An average cube weighs 1.5 grams. The user will enter the number of guests at a hotel event. The app will calculate how long the hotel needs to run the machine for @ 2 drinks per guest, 4 cubes per drink.
+The ice machine at your hotel can produce 120 pounds of ice a day. An average cube weighs 1.5 grams. The user will enter the number of guests at a hotel event. The app will calculate how long the hotel needs to run the machine for 2 drinks per guest, 4 cubes per drink.
 
 ### Mortgage
 
