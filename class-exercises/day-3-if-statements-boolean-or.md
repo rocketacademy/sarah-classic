@@ -72,7 +72,7 @@ Wine pairing with your meal is an extra charge.
 
 ### Easy 4D
 
-Modify your 4D game to make it easier to win. If the user guess is below 300 or above 8000 then they win.
+Modify your 4D game to make it easier to win. The user wins if they guess within 1000 \(above or below\) of the winning number.
 
 _You can experiment with operators such as less than \(`<`\) and greater than \(`>`\)._
 

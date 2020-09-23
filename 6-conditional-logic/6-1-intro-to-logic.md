@@ -72,7 +72,7 @@ We have to do some math on this number to get what we want.
 
 We'll also be using another math functionality: `Math.floor()`.
 
-We will use the code refered to on this [page.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+We will use the code referred to on this [page.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
 
 We can make a function that produces any random integer:
 

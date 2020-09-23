@@ -10,7 +10,7 @@ In order to encode this we need some other conditional structures- _boolean oper
 
 Before we talk about the syntax of these structures, let's talk about what kind of control flow we are trying to accomplish.
 
-An english language specification for what behaviour we want to see might be:
+An English language specification for what behaviour we want to see might be:
 
 ```text
 If the guess is correct the user wins.
@@ -33,7 +33,7 @@ If the user guess plus one is equal to the random number, the user wins.
 If the user guess minus one is equal to the random number, the user wins.
 ```
 
-Notice how we are thinking about reformulating the sentences **describing** the behavior into a format that more closely resembles code:
+Notice how we are thinking about reformulating the sentences **describing** the behaviour into a format that more closely resembles code:
 
 ```text
 If the guess is equal to the random number the user wins.
