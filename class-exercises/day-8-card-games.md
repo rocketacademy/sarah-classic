@@ -14,12 +14,6 @@ When the user clicks submit draw a single card from the deck and show it to them
 
 Implement the high card game from the GitBook
 
-## Best Hand
-
-Draw 6 cards for the player and the computer. The player with the most pairs wins. Let the player know if it was a tie or if someone won. To count the number of pairs in a hand, you may want to create a tally of each card rank in that hand using an Object. See sample code for how to do this [here](%20https://pastebin.com/NQhiPiYx). 
-
-Change the program so the player can select the number of cards dealt.
-
 ## **Bets**
 
 Allow the player to wager a number of points on each game. \(A new mode will be needed for the beginning of the game where the player selects the number of points to wager\). They lose the points if they lose or a draw, and double them if they win. The player begins with 100 points.
