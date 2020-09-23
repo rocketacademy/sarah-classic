@@ -14,7 +14,7 @@ The user will input their 4D guess. For each submission, the program will genera
 
 ### Hawker Food Randomness
 
-The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish every day. The dishes in his repertoire are: "chicken rice", "hokkien mee", "char kway teow", "roti prata", "nasi lemak", "carrot cake", "bak kut teh", and "laksa".
+Hawker food is a convenient and affordable food option in Singapore. The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish every day. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa".
 
 Use random numbers to help Uncle decide which dish to cook. The customer gets a free meal if she can guess which dish Uncle is cooking today. The customer can only input dish names.
 
@@ -22,9 +22,9 @@ Use random numbers to help Uncle decide which dish to cook. The customer gets a 
 
 ### Hawker Food Categorisation
 
-Uncle has learned programming and wants to programmatically tell his customers whether the dish they choose has a "rice", "noodle", or "other" base. Write a program that takes a dish name as input, and outputs whether they have a "rice", "noodle", or "other" base.
+Uncle has learned programming and wants to programmatically tell his customers whether the dish they choose has a "rice", "noodle", or "other" base. Write a program that takes a dish name as input, and outputs whether they have a "rice", "noodle", or "other" base. Please use the `||` operator.
 
-For example, if a user enters "laksa", the program should output "noodle". If a user enters "bak kut teh", the program could output "other".
+For example, if a user enters "laksa", the program should output "noodle". If a user enters "roti prata", the program could output "other".
 
 ### 20D
 
@@ -42,7 +42,7 @@ The uncle is charging more for his fancy menu, so when telling the user what the
 
 Say at the end if sambal is included. \(Not all dishes come with it- "roti prata" and "bak kut teh" don't come with sambal\).
 
-Example if the user puts in "rice":
+For example if the user puts in "rice":
 
 The app will choose two random rice options. In this example we will use "bak kut teh" and "nasi lemak".
 
@@ -85,8 +85,6 @@ _Hint: For this and following problems, you may want to consider nested if-state
 ### 4D with 2nd/3rd Digit Multiple of 3
 
 Extend your 4D game even further. A user wins a bonus prize if the 2nd digit _or_ the 3rd digit of the number they guess is a multiple of 3.
-
-
 
 ## Daily Feedback
 
