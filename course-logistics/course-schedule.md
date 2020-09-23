@@ -72,6 +72,7 @@ Total Video Watch Time: **~40 mins**
 
 * [6.3: Boolean And and Not](../6-conditional-logic/6-3-boolean-and-and-not.md)
 * [7.1: GitHub Fork and Pull Request](../7-github/7-1-github-fork-and-pull-request.md)
+* [7.2: GitHub Navigation](../7-github/7-2-github-repo-browsing.md)
 * [8.1: Program Lifecycle and Global State](../8-managing-state-and-input-validation/8-1-program-lifecycle-and-state.md)
 
 #### In-Class Material

@@ -1,4 +1,4 @@
-# GIthub Repo Browsing
+# 7.2: Github Repo Browsing
 
 {% embed url="https://youtu.be/a-flBCpOmBU" %}
 
