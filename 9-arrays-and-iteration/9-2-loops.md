@@ -113,7 +113,65 @@ var main = function (input) {
 {% hint style="info" %}
 **1\) Implement the above code.**
 
-**2\) Begin the** [**drawing project.**](../projects/project-2-drawing-with-emojis.md)\*\*\*\*
+**2\) Drawing**
+
+Use loops to create an app that draws emojis into the grey box.
+
+Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-drawing](https://github.com/rocketacademy/swe101-drawing)
+
+## Number of Characters
+
+The user will enter a number of characters to display on the screen.
+
+For example, if the user enters 4 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.35.32-am.png)
+
+## Square
+
+The user will enter the dimensions of a square to display on the screen.
+
+Use a loop within a loop and the `<br>` tag in your output to create the square.
+
+For example, if the user enters 4 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.35.12-am.png)
+
+## More Comfortable
+
+### 
+
+##  Triangle
+
+The user will enter the dimensions of a triangle to display on the screen.‌
+
+Use a loop within a loop, a conditional and the `<br>` tag in your output to create the triangle.
+
+For example, if the user enters 4 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.37.35-am.png)
+
+## 
+
+### 
+
+### Outline Square
+
+The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character.
+
+For example, if the user enters 4 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.54.56-am.png)
+
+### 
+
+## Submit
+
+[Push](../7-github/7-1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../7-github/7-1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit.
+
+## Reference Solution
+
+Please find a reference solution [here](https://github.com/rocketacademy/swe101-drawing/pull/9/files). Note that there are many ways to code solutions to these problems and the reference solution is only 1 way.
 {% endhint %}
 
 
