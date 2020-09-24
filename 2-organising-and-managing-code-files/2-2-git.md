@@ -58,7 +58,7 @@ _Note that we will not be using this command that often- most of the time we'll 
 git status <path>
 ```
 
-`git status` is the command to see the current status of the repo.
+`git status` is the command to see the current status of the repo. This is typically used to see which files are "staged for commit" in green, and which files are "not staged for commit", in red. 
 
 ![Example of git status output.](../.gitbook/assets/screen-shot-2020-08-13-at-3.00.28-pm.png)
 
@@ -74,12 +74,10 @@ git diff <path>
 
 ### add
 
-`git add` is the command that stages files. In Git, creating a commit happens in 2 steps.
+`git add` is the command that stages files for commits. Staging is a label for a group of files, where all "staged" files will be included in the next commit. `git status` will show us which files are staged and not staged. Staged files will appear in green, and not staged files in red. In Git, creating a commit happens in 2 steps.
 
-1. At least one file is added to Git commit _staging with the_ `add` _command_.
-2. A commit is created with the commit command
-
-Staging is that state of a repo that prepares the group of files for a commit.
+1. At least one file is labeled as "staged" with the `add` command.
+2. A commit is created that includes the staged files with the `commit` command
 
 ```text
 git add <path>
@@ -89,7 +87,7 @@ git add <path>
 
 ### commit
 
-`git commit` creates the commit record in the repo. You must use the `-m` option to include a \*commit message\* a short sentence about what you changed.
+`git commit` creates the commit record in the repo. You must use the `-m` option to include a "commit message", a short sentence about what you changed. Commit messages typically include **what** and **why** a change was made.
 
 ```text
 git commit -m "message that describes the changes"

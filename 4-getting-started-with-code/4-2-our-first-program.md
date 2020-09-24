@@ -9,10 +9,10 @@ Let's get started with running some code outside of the JavaScript console. We'l
 
 Copy the starter code from Github:
 
-`cd` into your `code` directory.
+`cd` into your `swe101/day1/homework` directory.
 
 ```bash
-cd ~/code
+cd ~/Documents/swe101/day1/homework
 ```
 
 `git clone` the starter code and install linter packages:
@@ -29,7 +29,7 @@ This will create a `first-program` directory inside your `code` directory.
 cd first-program
 ```
 
-If you haven't already, install linter packages to auto-format your JavaScript code in `script.js`.
+If you haven't already, install linter packages to auto-format your JavaScript code in `script.js`. Note that you will need to run `npm install` every time you clone the starter code in SWE101.
 
 ```bash
 npm install

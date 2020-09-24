@@ -114,6 +114,8 @@ Move a file or folder.
 mv
 ```
 
+Rename a file or folder.
+
 ```text
 mv cats.txt my-cats.txt
 ```
