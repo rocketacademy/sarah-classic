@@ -36,6 +36,10 @@ For example if the user only used 1GB this month, the app would calculate $19.99
 
 The ice machine at your hotel can produce 120 pounds of ice a day. An average cube weighs 1.5 grams. The user will enter the number of guests at a hotel event. The app will calculate how long the hotel needs to run the machine for 2 drinks per guest, 4 cubes per drink.
 
+### Beer Order
+
+Create an app that estimates for a bar how many standard US 1/2 barrel size kegs they need per quarter. This is assuming that an average customer drinks two pints per visit. The user will be able to enter the average number of customers per day. 
+
 ### Mortgage
 
 Create a mortgage calculator for a bank. This bank is just starting out so their loan terms are simple and the same for everyone. The amount is always the same: $100,000. The interest is 3% APR. The term is 10 years.  
