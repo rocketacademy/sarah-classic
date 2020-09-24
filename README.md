@@ -21,7 +21,7 @@ In this short amount of time, we hope to enable your further learnings about \*a
 1. SWE101 Course Page: [swe101.rocketacademy.co](https://swe101.rocketacademy.co)
    * All course material will be linked from this page.
 2. RA Slack: [rocketacademy.slack.com](https://github.com/rocketacademy/swe101/tree/6b08702a2474a3fb5a286b7f690032985ad8ad30/rocketacademy.slack.com)
-   * School, course, and section-wide communication happens over Slack. We recommend you download the relevant mobile and desktop apps to keep in touch with peers and instructors.
+   * School and course-wide communication happens over Slack. We recommend you download the Slack mobile and desktop apps to keep in touch with peers and instructors.
 3. Starter Code: [https://github.com/rocketacademy/swe101-starter-code](https://github.com/rocketacademy/swe101-starter-code)
    * We will build most projects in SWE101 from this starter code. We will go through how to fork and start a new project in a later page.
 
