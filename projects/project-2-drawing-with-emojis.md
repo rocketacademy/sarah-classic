@@ -1,6 +1,6 @@
 # Project 2: Dice
 
-Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-drawing](https://github.com/rocketacademy/swe101-dice-project)
+Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-dice-project](https://github.com/rocketacademy/swe101-dice-project)
 
 ## Submit
 
