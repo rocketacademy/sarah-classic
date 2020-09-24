@@ -206,6 +206,8 @@ When cloning the starter code, choose to [name the target folder](../4-getting-s
 This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
 {% endhint %}
 
+![What my \`swe101\` directory looks like in Finder on my Mac](../.gitbook/assets/jie-ping-20200924-16.57.21.png)
+
 ## Open SWE101 Folder in VSCode
 
 When working with code, it's often necessary to jump between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to quickly jump between files in that folder without having to File &gt; Open every time.
@@ -214,7 +216,5 @@ When working with code, it's often necessary to jump between different files in 
 For SWE101, we recommend storing all of your code in a folder called `swe101` as per the [recommended folder structure](required-hardware-and-software.md#folder-structure-for-swe101), and keeping that folder open in VSCode for the duration of the course. 
 {% endhint %}
 
-![What my &quot;rocket&quot; directory looks like in Finder on my Mac](../.gitbook/assets/jie-ping-20200815-17.55.48.png)
-
-![What my &quot;rocket&quot; directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200815-17.52.55.png)
+![What my \`swe101\` directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200924-16.58.52.png)
 
