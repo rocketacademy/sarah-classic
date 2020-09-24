@@ -1,4 +1,4 @@
-# Project 4.5: Blackjack Part 2
+# Project 3.5: Blackjack Part 2
 
 ![](../.gitbook/assets/images-bj.jpeg)
 

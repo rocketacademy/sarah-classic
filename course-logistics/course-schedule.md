@@ -145,7 +145,7 @@ Total Video Watch Time: **~15 mins**
 
 #### Project Due
 
-* [Project 3: Guess The Word](../projects/project-3-guess-the-word.md)
+* [Project 3: Guess The Word]()
 
 #### Pre-Class Material
 

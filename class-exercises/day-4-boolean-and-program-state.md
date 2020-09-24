@@ -8,15 +8,15 @@ For each app, make a copy of the starter code, as per the [setup](https://swe101
 When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
-For some apps you may need to google things. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
+For some apps you may need to google things. Remember that as pairs, you are also googling together.
+
+Please switch driver and navigator each app.
 
 ## Boolean And
 
-### Bus Timings
+### Lucky 11
 
-A couple Jack and Jill are waiting at the bus stop after their date and plan to take different buses home. To stay together longer, they decide they will only get on their respective buses when both buses arrive at the same time AND they successfully guess how long the buses will take. Both buses arrive independently and randomly within every 5 minutes. 
-
-Write a program that takes Jack and Jill's guess on how long the buses will take as input, randomly generates when each bus will arrive, and outputs whether it is time for Jack and Jill to go home.
+Create a dice game where in order to win, red dice 1 must be 5 and blue dice 2 must be 6.
 
 ## GitHub Fork and Pull Request, Program State
 
@@ -24,22 +24,46 @@ We will follow the "fork and pull request" workflow for the following app. This 
 
 1. Make a fork of the [`swe101-github-practice` repo](https://github.com/rocketacademy/swe101-github-practice) into your own GitHub account. 
 2. Clone the `swe101-github-practice` repo from your own account
-3. Complete the following Tom and Jerry app
+3. Complete the following Secret Word app
 4. Once done, submit the app by committing your code, pushing changes to your repo, and submitting a pull request. 
 
-### Tom and Jerry
+### Secret Word
 
-Tom the cat loves to chase Jerry the mouse and could do it forever. At each interval, Jerry runs a random distance between 1-10 metres. Tom needs to guess the distance between himself and Jerry's next position in order to catch him. Tom and Jerry's moves are additive, and their respective total distances are tracked in 2 global variables. 
+There are 3 possible secret words. "banana", "chisel" and "faucet". In order to win the game the user must guess correctly twice.
 
-Write a program for Tom to simulate how to catch Jerry. With each submission, Tom will input the number of metres he plans to run. The program will add Tom's distance to his current total distance. The program will generate a distance between 1-10 for Jerry to run, and add that to Jerry's total distance. The program will output Tom and Jerry's respective total distances, and whether Tom has finally caught Jerry 😸.
+For each guess make sure to output all the game's information such as what the correct secret word was, how many guesses they have until they win.
+
+### Secret Word V2
+
+Change the game so that in order to win the user must guess twice \*in a row\*. Make sure that the random word does not repeat for the next guess.
+
+### Secret Word V3
+
+Change the game so that in order to win the user must guess a random number of times in a row \(from 2-4\). When the user wins the number of times they need to guess correctly changes.
+
+Use input control to test your logic.
 
 ## More Comfortable
 
-### Matching T-Shirts
+### Dice Within
 
-Rick and Ryan have the same fashion sense and only wear t-shirts of 5 colours randomly. Their friends decide to play a game, where if they correctly guess the colour of one of the friends' shirts, they get 1 point. But if the guess is correct and both shirts are the same colour, they lose 4 points. If the guess matches neither shirt colours, they get 0 points.
+Make a dice game that becomes easier or harder. The game selects a random number from 1 to 3 that the user can guess within. 
 
-Write a program that enables Rick and Ryan's friends to simulate this game. Keep track of the number of points in program state, and output the guess, actual shirt colours, and total point value after every guess.
+Example: the app randomly chooses 3. The user can guess within 3 to win the game. They guess 2 and the dice rolls 5. The guess is within 3 so they win the game.
+
+Each time the user wins the difficulty of the game changes. \(The randomly selected "within" number changes\).
+
+### Dice Within V2
+
+Add a second dice to the game.
+
+### Dice 4D
+
+Create a game that creates a 4D number when the user has guessed correctly twice.
+
+Once they have guessed correctly four times, play a 4D lucky draw.
+
+Use input control / early return to make sure that your game logic actually works and you can win the 4D game.
 
 ## Daily Feedback
 

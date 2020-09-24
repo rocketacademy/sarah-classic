@@ -72,6 +72,10 @@ Chile sambal will be included.
 Wine pairing with your meal is an extra charge.
 ```
 
+### 4D Leading Zeros
+
+Create a 4D game that includes numbers like 0102 and 0001.
+
 ### Easy 4D
 
 Modify your 4D game to make it easier to win. The user wins if they guess within 1000 \(above or below\) of the winning number.
