@@ -14,7 +14,7 @@
 
 ## Section 1 Daily Pairs
 
-| D1,6,11 | D2,7,12 | D3,8 | D4,9 | D5,10 |
+| Days 1, 6, 11 | Days 2, 7, 12 | Days 3, 8 | Days 4, 9 | Days 5, 10 |
 | :--- | :--- | :--- | :--- | :--- |
 | Adeline, Chris | Adeline, Haruka | Adeline, Jit Corn | Adeline, Maxine | Adeline, Pradeep |
 | Haruka, Jit Corn | Chris, Maxine | Chris, Pradeep | Chris, Jit Corn | Chris, Haruka |
@@ -22,7 +22,7 @@
 
 ## Section 2 Daily Pairs
 
-| D1,8 | D2,9 | D3,10 | D4,11 | D5,12 | D6 | D7 |
+| Days 1, 8 | Days 2, 9 | Days 3, 10 | Days 4, 11 | Days 5, 12 | Day 6 | Day 7 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Wiyah, Ansel | Wiyah, Cynthia | Wiyah, Ivy | Wiyah, Jeremy | Wiyah, Marie | Wiyah, Nic | Ansel, Cynthia |
 | Cynthia, Ivy | Ansel, Jeremy | Ansel, Marie | Ansel, Nic | Ansel, Ivy | Cynthia, Jeremy | Ivy, Jeremy |
