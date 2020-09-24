@@ -218,3 +218,27 @@ For SWE101, we recommend storing all of your code in a folder called `swe101` as
 
 ![What my \`swe101\` directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200924-16.58.52.png)
 
+## Using Slack Effectively
+
+### Ask Questions in the Channel
+
+During RA's courses you will inevitably have questions about the material. To ensure your question gets answered as soon as possible, and so that others can help and learn as well, please ask your questions in the batch-wide channel, e.g. \#swe101-batch-2. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
+
+### Provide Context for Questions
+
+The ability to ask technical questions effectively is one of the biggest differences between junior and senior engineers. Junior engineers tend to ask questions like: "It doesn't work. Could you help?" Senior engineers tend to ask questions more like: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it tells me that this may be related to Y, but I don't see Y anywhere in the system."
+
+In SWE101, we want to start acting like senior engineers. Your peers want to help you, and Slack is a convenient way to get help 24/7, but for others to help effectively, we need to give them context. When asking questions in Slack, try to include the following, while including any relevant context or google results.
+
+1. What is the problem? Include any relevant error messages in text or screenshots.
+2. What is your hypothesis? Include relevant portions of your code, formatted as code in Slack. For snippets of code longer than your computer screen height, please use [pastebin.com](https://pastebin.com/) and share the Pastebin link.
+3. What have you tried?
+
+### Format Code in Slack
+
+When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates a code block with monospaced text for easier reading.
+
+For variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the word to format that word as code.
+
+For multi-line blocks of code like functions, we can use triple backtick \(\`\`\`\) to format that code in Slack.
+
