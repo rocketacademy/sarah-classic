@@ -132,9 +132,9 @@ We'll find a use for the other logical operator AND \(`&&`\) in the next section
 ## Exercises
 
 {% hint style="info" %}
-### **1\) Duplicate and run the code above.**
+#### **1\) Duplicate and run the code above.**
 
-### **2\) Apps**
+#### **2\) Apps**
 
 For each app `clone` a new copy of the starter code using git.
 
