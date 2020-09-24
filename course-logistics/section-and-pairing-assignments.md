@@ -14,7 +14,7 @@
 
 ## Section 1 Daily Pairs
 
-| D1,6 | D2,7 | D3,8 | D4,9 | D5,10 |
+| D1,6,11 | D2,7,12 | D3,8 | D4,9 | D5,10 |
 | :--- | :--- | :--- | :--- | :--- |
 | Adeline, Chris | Adeline, Haruka | Adeline, Jit Corn | Adeline, Maxine | Adeline, Pradeep |
 | Haruka, Jit Corn | Chris, Maxine | Chris, Pradeep | Chris, Jit Corn | Chris, Haruka |
