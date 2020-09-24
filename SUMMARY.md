@@ -7,6 +7,7 @@
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [✍🏽 Course Methodology](course-logistics/course-methodology.md)
 * [📆 Course Schedule](course-logistics/course-schedule.md)
+* [🪑 Section and Pairing Assignments](course-logistics/section-and-pairing-assignments.md)
 * [❤️ Social Rules](course-logistics/love-social-rules.md)
 * [💡 Pro Tips](course-logistics/pro-tips.md)
 * [🎓 LinkedIn Certificates](course-logistics/linkedin-certificates.md)
