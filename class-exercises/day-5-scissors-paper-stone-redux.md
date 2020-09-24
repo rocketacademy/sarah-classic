@@ -57,3 +57,7 @@ You decide to prank your friends and create an SPS game mode where the rules are
 
 Implement the [Korean version of Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md#optional-korean-scissors-paper-stone) that was optional in the project writeup. Once done, push your code and update your pull request in GitHub.
 
+## Daily Feedback
+
+Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+

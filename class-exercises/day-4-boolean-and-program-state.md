@@ -41,3 +41,7 @@ Rick and Ryan have the same fashion sense and only wear t-shirts of 5 colours ra
 
 Write a program that enables Rick and Ryan's friends to simulate this game. Keep track of the number of points in program state, and output the guess, actual shirt colours, and total point value after every guess.
 
+## Daily Feedback
+
+Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+
