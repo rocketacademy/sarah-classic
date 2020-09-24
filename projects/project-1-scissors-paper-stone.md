@@ -30,15 +30,44 @@ To make this game more personal, add a feature to collect the user's name as the
 
 Sometimes the user types bad and types something other than "scissors", "paper", or "stone" during gameplay. Add input validation to kindly let the user know that there are only 3 input options, and ask them to try again.
 
-## \(Optional\) Korean Scissors Paper Stone
+## Formatting
 
-If you're looking to try something more complex, consider this or similar project extensions.
+Make the output of your game look nice.
+
+You can use string `'<br>'` to create new lines in the output.
+
+Your output might look something like this:
+
+```text
+The computer chose scissors ✂️.
+You chose paper 🗒.
+
+You lose! Bummer.
+
+So far Kai, you've been winning 5/7 turns. Pretty good!
+```
+
+## More Comfortable
+
+### Korean Scissors Paper Stone
 
 The following is adapted from [Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors#Adapted_rules):
 
 > In Korea, a two-player upgraded version exists by the name [muk-jji-ppa](https://en.wikipedia.org/wiki/Muk-jji-ppa). After showing their hands, the player with the winning throw shouts "muk-jji-ppa!" upon which both players throw again. If they throw differently \(for example, rock and paper, or paper and scissors\), whoever wins this second round shouts "muk-jji-ppa!" and thus the play continues until both players throw the same item \(for example, rock and rock\), at which point whoever was the last winner becomes the actual winner.
 
 Update your program state such that it can keep track of the most recent winner, and update the program logic to declare the most recent winner the ultimate winner when there is a draw.
+
+### Versions
+
+Allow the player to select if they want to play normal or korean versions of the game.
+
+### Computer vs. Computer
+
+Add a mode that lets the computer choose for you on each turn.
+
+### Further Variations
+
+Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock\_paper\_scissors\#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
 
 ## Submit
 
