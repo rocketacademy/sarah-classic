@@ -16,7 +16,9 @@ For some apps you may need to google things. Remember that as pairs, you are als
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. We will simulate the odds of winning this game without money. Rocket Academy does not endorse gambling.
 
-The user will input their 4D guess. For each submission, the program will generate a random winning number between 0000 and 9999 inclusive. If the user's guess matches the winning number, let the user know that they have won!
+The user will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the user's guess matches the winning number, let the user know that they have won!
+
+For the purposes of RA's 4D, a guess of "0000" is the same as "0". We can ignore leading 0s.
 
 ### Hawker Food Randomness
 
