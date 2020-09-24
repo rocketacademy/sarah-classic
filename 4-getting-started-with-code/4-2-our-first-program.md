@@ -35,6 +35,8 @@ If you haven't already, install linter packages to auto-format your JavaScript c
 npm install
 ```
 
+You may see a popup asking you to use ESLint in VSCode. Please select "Allow".
+
 Open the `index.html` file in Chrome.
 {% endhint %}
 
