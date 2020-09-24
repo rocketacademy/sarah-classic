@@ -20,7 +20,9 @@ Your aircon uses 2 KW/h. Electricity is $0.20 a KW/h. The user can enter the num
 
 ### Screen Time
 
-You can find out how many hours per day you spend on each app on [Android 10](https://wellbeing.google/tools/)+ and [iOS 12](https://support.apple.com/en-us/HT208982)+. Given the average life expectancy of 82 years in Singapore, create an app that tells you how many days you will spend in your lifetime in the app you use the most. \(If you don't have this information about app usage you can look up some common statistics\).
+You can find out how many hours per day you spend on each app on [Android 10](https://wellbeing.google/tools/)+ and [iOS 12](https://support.apple.com/en-us/HT208982)+. Look in your phone and find the app you use the most often. The OS given this number in hours.
+
+Given the average life expectancy of 82 years in Singapore, create an app that tells you how many days you will spend in your lifetime in the app you use the most. \(If you don't have this information about app usage you can look up some common statistics\).
 
 For example, if I spend 2 hours per day on WhatsApp and I live an average lifetime, how many days will I spend in my lifetime on WhatsApp?
 
