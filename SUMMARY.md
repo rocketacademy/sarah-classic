@@ -83,6 +83,10 @@
 * [9.2: Loops](9-arrays-and-iteration/9-2-loops.md)
 * [9.3: Arrays and Loops](9-arrays-and-iteration/9.3-arrays-and-loops.md)
 
+## How to Code
+
+* [How to Code](how-to-code/how-to-code.md)
+
 ## 10: JavaScript Objects
 
 * [10.1: Objects](10-javascript-objects/10-1-objects.md)
@@ -98,8 +102,4 @@
 * [12.1 Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
 * [12.2 HTML / CSS Review](12-next-steps/12.2-html-css-review.md)
 * [12.3 Deployment](12-next-steps/12.3-deployment.md)
-
-## 13: HOW TO CODE
-
-* [13.1 How to Code](13-how-to-code/13.1-how-to-code.md)
 

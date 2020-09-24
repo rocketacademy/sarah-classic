@@ -8,11 +8,11 @@ The following are live class times for Batch 2 \(19 Sep - 17 Oct\).
 
 | Week | Saturday \(1-3pm\) | Monday \(7-9pm\) | Wednesday \(7-9pm\) |
 | :--- | :--- | :--- | :--- |
-| 1 | 9/19 **Day 1 -** [Setup](course-schedule.md#day-1) | 9/21 **Day 2 -** [Functions](course-schedule.md#day-2) | 9/23 **Day 3** - [Logic](course-schedule.md#day-3) |
-| 2 | 9/26 **Day 4** - [Logic 2](course-schedule.md#day-4) | 9/28 **Day 5** - [State](course-schedule.md#day-5) | 9/30 **Day 6** - [Loops](course-schedule.md#day-6) |
-| 3 | 10/3 **Day 7** - [Loops 2](course-schedule.md#day-7) | 10/5 **Day 8** - [Objects](course-schedule.md#day-8) | 10/7 **Day 9** - [Card Deck](course-schedule.md#day-9) |
-| 4 | 10/10 **Day 10** - [Game Example](course-schedule.md#day-10) | 10/12 **Day 11** - [Debugger](course-schedule.md#day-11) | 10/14 **Day 12** - [DOM](course-schedule.md#day-12) |
-| 5 | 10/17 **Day 13** - Project Presentation |  |  |
+| 1 | 19/9 **Day 1 -** [Setup](course-schedule.md#day-1) | 21/9 **Day 2 -** [Functions](course-schedule.md#day-2) | 23/9 **Day 3** - [Logic](course-schedule.md#day-3) |
+| 2 | 26/9 **Day 4** - [Logic 2](course-schedule.md#day-4) | 28/9 **Day 5** - [State](course-schedule.md#day-5) | 30/9 **Day 6** - [Loops](course-schedule.md#day-6) |
+| 3 | 3/10 **Day 7** - [Loops 2](course-schedule.md#day-7) | 5/10 **Day 8** - [Objects](course-schedule.md#day-8) | 7/10 **Day 9** - [Card Deck](course-schedule.md#day-9) |
+| 4 | 10/10 **Day 10** - [Game Example](course-schedule.md#day-10) | 12/10 **Day 11** - [Debugger](course-schedule.md#day-11) | 14/10 **Day 12** - [DOM](course-schedule.md#day-12) |
+| 5 | 17/10 **Day 13** - Project Presentation |  |  |
 |  |  |  |  |
 
 Each day's deliverables are due by the **start** of that day's class. \(You prepare the linked day's content _**before**_ the start of class\). Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
@@ -104,10 +104,11 @@ Total Video Watch Time: **~36 mins**
 
 #### Pre-Class Material
 
-Total Video Watch Time: **~22 mins**
+Total Video Watch Time: **~41 mins**
 
 * [9.1: Arrays](../9-arrays-and-iteration/9-1-arrays.md)
 * [9.2: Loops](../9-arrays-and-iteration/9-2-loops.md)
+* [How to Code](../how-to-code/how-to-code.md)
 
 #### In-Class Material
 
@@ -194,19 +195,9 @@ Total Video Watch Time: **~22 mins**
 * [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
 * [12.2: HTML & CSS Review](../12-next-steps/12.2-html-css-review.md)
 
-#### In-Class Material
-
-* [Day 12: DOM](../class-exercises/day-12-dom.md)
-
-### Day 13
-
 **Project Due**
 
 * [Project 4.5: Blackjack Part 2](../projects/project-4.5-blackjack-part-2.md)
-
-**Pre-Class Material**
-
-* [13.1: How to Code](../13-how-to-code/13.1-how-to-code.md)
 
 #### In-Class Material
 
