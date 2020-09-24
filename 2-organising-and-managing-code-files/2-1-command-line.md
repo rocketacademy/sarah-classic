@@ -266,6 +266,10 @@ Remove a folder
 rm -r my-boats
 ```
 
+## Pro Tip: Tab Complete
+
+Use the `tab` key on your keyboard to auto-complete partially-typed file or folder names. This can save us a lot of typing!
+
 {% hint style="info" %}
 #### Follow along with the video or the commands above. See your results in a GUI window.
 {% endhint %}
