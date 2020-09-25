@@ -12,6 +12,8 @@ When we run `npm install` each time we clone a repo in SWE101, we are installing
 
 VSCode shows us ESLint errors with red squiggly lines under the parts of our code with errors. To see what the error is, hover over the red squiggly line in VSCode.
 
+![ESLint shows errors with red squiggly lines. View error messages by hovering over red lines.](../.gitbook/assets/jie-ping-20200924-18.55.18.png)
+
 ### Comment Out Multiple Lines at Once
 
 Sometimes we wish to enable or disable certain segments of our code for quick testing. The easiest way to do this is to "comment out" the code we want to disable by turning it into comments, making our JavaScript runtime ignore those lines of code.
