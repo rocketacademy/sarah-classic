@@ -16,7 +16,7 @@ Please switch driver and navigator each app.
 
 ### Lucky 11
 
-Create a dice game where in order to win, red dice 1 must be 5 and blue dice 2 must be 6.
+Create a dice game where in order to win, dice 1 must be 5 and dice 2 must be 6.
 
 ## GitHub Fork and Pull Request, Program State
 
