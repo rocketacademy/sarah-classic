@@ -39,7 +39,7 @@ Change the game so that in order to win the user must guess twice \*in a row\*. 
 
 ### Secret Word V3
 
-Change the game so that in order to win the user must guess a random number of times in a row \(from 2-4\). When the user wins the number of times they need to guess correctly changes.
+Change the game so that in order to win the user must guess a random number of times in a row \(from 2-4\). When the user wins, the number of times they need to guess correctly changes.
 
 Use input control to test your logic.
 
