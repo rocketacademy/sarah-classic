@@ -50,7 +50,7 @@ Here is the workflow you'll be using for the assignments:
 
 1. Go to the assignment repo page. Click the "fork" button to copy the repo to your own GitHub account.
 2. On your computer in the command line, clone the repo _from your own Github account's copy of the repo._
-3. Once the repo is on your computer, follow the normal workflow /cheatsheet for git from [here](../2-organising-and-managing-code-files/2-2-git.md#cheat-sheet).
+3. Once the repo is on your computer, follow the normal workflow / cheatsheet for Git from [here](../2-organising-and-managing-code-files/2-2-git.md#cheat-sheet).
 4. `git push` your changes to your repo. Refresh the repo page to see your commits on the repo.
 5. Create a pull request in GitHub. This connects your work on the repo _in your account_ to the original Rocket Academy repo. Fill in the survey and submit.
 
