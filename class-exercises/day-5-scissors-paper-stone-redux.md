@@ -47,15 +47,15 @@ Switch to work on the other person's code.
 
 _Note that if you are working on the other person's code you can't commit or update GitHub because of the way the repos are setup._
 
-If you are both done with all parts of the game \(except Korean SPS\), implement the following new features in one of the games together.
+If you are both done with all parts of the game \(except [More Comfortable exercises](../projects/project-1-scissors-paper-stone.md#more-comfortable)\), implement the following new features in one of the games together.
 
 ## SPS Reverse Game Mode
 
 You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create a game mode where if a user types in "reverse", it reverses the SPS rules. Once done, push your code and update your pull request in GitHub.
 
-## Korean Scissors Paper Stone
+## More Comfortable
 
-Implement the [Korean version of Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md#optional-korean-scissors-paper-stone) that was optional in the project writeup. Once done, push your code and update your pull request in GitHub.
+Implement the [More Comfortable exercises](../projects/project-1-scissors-paper-stone.md#more-comfortable) that were optional in the project writeup. Once done, push your code and update your pull request in GitHub.
 
 ## Daily Feedback
 
