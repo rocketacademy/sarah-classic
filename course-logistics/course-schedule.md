@@ -115,10 +115,6 @@ Total Video Watch Time: **~41 mins**
 
 ### **Day 7**
 
-#### Project Due
-
-* [Project 2: Drawing With Emojis](../projects/project-2-drawing-with-emojis.md)
-
 #### Pre-Class Material
 
 Total Video Watch Time: **~11 mins**
@@ -130,6 +126,10 @@ Total Video Watch Time: **~11 mins**
 * [Day 7: Drawing Redux](../class-exercises/day-7-drawing-redux.md)
 
 ### Day 8
+
+#### Project Due
+
+* [Project 2: Drawing With Emojis](../projects/project-2-drawing-with-emojis.md)
 
 #### Pre-Class Material
 
