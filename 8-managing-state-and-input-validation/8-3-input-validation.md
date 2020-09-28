@@ -127,8 +127,8 @@ if (
 Or we could express this condition with `<` and `>`.
 
 ```javascript
-// if number is greater or equal to 1 OR less than or equal to 6
-if (input >= 1 || input <= 6) {
+// if number is greater or equal to 1 AND less than or equal to 6
+if (input >= 1 && input <= 6) {
   // number is between 1 and 6
 }
 ```
