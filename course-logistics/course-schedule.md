@@ -99,6 +99,10 @@ Total Video Watch Time: **~36 mins**
 
 * [Day 5: Scissors Paper Stone Redux](../class-exercises/day-5-scissors-paper-stone-redux.md)
 
+#### Begin Project
+
+* [Project 2: Dice - Beat That!](../projects/project-2-dice.md)
+
 ### Day 6
 
 #### Pre-Class Material
@@ -141,6 +145,10 @@ Total Video Watch Time: **~15 mins**
 
 * [Day 8: Card Games](../class-exercises/day-8-card-games.md)
 
+#### Begin Project
+
+* [Project 3: Blackjack Part 1](../projects/project-3-blackjack-part-1.md)
+
 ### Day 9
 
 #### Pre-Class Material
@@ -181,6 +189,10 @@ Total Video Watch Time: **~18 mins**
 
 * [Day 11: Debugger and Blackjack Redux](../class-exercises/day-11-debugger.md)
 
+#### Begin Project
+
+* [Project 3.5: Blackjack Part 2](../projects/project-3.5-blackjack-part-2.md)
+
 ### Day 12
 
 #### Pre-Class Material
@@ -205,6 +217,6 @@ Total Video Watch Time: **~22 mins**
 * Course feedback
 * Wrap up Blackjack
 * Project presentations
-* SWE1 presentation
+* Brief SWE1 presentation
 * LinkedIn certificate presentations
 
