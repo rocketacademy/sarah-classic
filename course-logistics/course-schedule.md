@@ -129,7 +129,7 @@ Total Video Watch Time: **~11 mins**
 
 #### Project Due
 
-* [Project 2: Drawing With Emojis](../projects/project-2-dice.md)
+* [Project 2: Dice - Beat That!](../projects/project-2-dice.md)
 
 #### Pre-Class Material
 
@@ -142,10 +142,6 @@ Total Video Watch Time: **~15 mins**
 * [Day 8: Card Games](../class-exercises/day-8-card-games.md)
 
 ### Day 9
-
-#### Project Due
-
-* [Project 3: Guess The Word]()
 
 #### Pre-Class Material
 
@@ -173,7 +169,7 @@ Total Video Watch Time: **~60 mins**
 
 **Project Due**
 
-* [Project 4: Blackjack Part 1](../projects/project-3-blackjack-part-1.md)
+* [Project 3: Blackjack Part 1](../projects/project-3-blackjack-part-1.md)
 
 #### Pre-Class Material
 
@@ -202,7 +198,7 @@ Total Video Watch Time: **~22 mins**
 
 **Project Due**
 
-* [Project 4.5: Blackjack Part 2](../projects/project-3.5-blackjack-part-2.md)
+* [Project 3.5: Blackjack Part 2](../projects/project-3.5-blackjack-part-2.md)
 
 #### In-Class Material
 
