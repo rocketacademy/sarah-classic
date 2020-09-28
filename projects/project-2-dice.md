@@ -68,13 +68,21 @@ The user might enter:
 3102
 ```
 
- Use this input and turn it into a series of positions.
+Which means they want the number 7321.
 
-```text
+{% hint style="warning" %}
+**Use arrays and loops to construct this number:**
+
+Use  `input` and turn it into a series of positions.
+
+```javascript
 var positions = input.split(''); // makes an array: [3,1,0,2];
 ```
 
 Loop over `positions` to construct the new number.
+{% endhint %}
+
+
 
 ### Score
 
