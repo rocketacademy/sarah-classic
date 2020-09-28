@@ -100,7 +100,5 @@ At the beginning of the game ask how many players would like to play.
 
 [Push](../7-github/7-1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../7-github/7-1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit.
 
-## Reference Solution
-
 
 
