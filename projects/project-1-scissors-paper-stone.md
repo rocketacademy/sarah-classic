@@ -61,7 +61,7 @@ Update your program state such that it can keep track of the most recent winner,
 
 ### Versions
 
-Allow the player to select if they want to play normal or korean versions of the game.
+Allow the player to select if they want to play normal or Korean versions of the game.
 
 ### Computer vs. Computer
 
