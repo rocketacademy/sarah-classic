@@ -173,7 +173,7 @@ Total Video Watch Time: **~60 mins**
 
 **Project Due**
 
-* [Project 4: Blackjack Part 1](../projects/project-4-blackjack-part-1.md)
+* [Project 4: Blackjack Part 1](../projects/project-3-blackjack-part-1.md)
 
 #### Pre-Class Material
 
@@ -202,7 +202,7 @@ Total Video Watch Time: **~22 mins**
 
 **Project Due**
 
-* [Project 4.5: Blackjack Part 2](../projects/project-4.5-blackjack-part-2.md)
+* [Project 4.5: Blackjack Part 2](../projects/project-3.5-blackjack-part-2.md)
 
 #### In-Class Material
 
