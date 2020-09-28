@@ -15,7 +15,7 @@
 ## Projects
 
 * [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone.md)
-* [Project 2: Dice - Beat That!](projects/project-2-drawing-with-emojis.md)
+* [Project 2: Dice - Beat That!](projects/project-2-dice.md)
 * [Project 3: Blackjack Part 1](projects/project-3-blackjack-part-1.md)
 * [Project 3.5: Blackjack Part 2](projects/project-3.5-blackjack-part-2.md)
 

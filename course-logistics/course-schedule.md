@@ -129,7 +129,7 @@ Total Video Watch Time: **~11 mins**
 
 #### Project Due
 
-* [Project 2: Drawing With Emojis](../projects/project-2-drawing-with-emojis.md)
+* [Project 2: Drawing With Emojis](../projects/project-2-dice.md)
 
 #### Pre-Class Material
 
