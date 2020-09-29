@@ -28,7 +28,7 @@ while (counter < 10) {
 }
 ```
 
-### outputting program
+## Outputting Program
 
 Let's create a program that outputs things in a loop based on some input.
 
@@ -48,7 +48,7 @@ var main = function (input) {
 };
 ```
 
-### outputting program with logic
+### Outputting Program with Logic
 
 {% embed url="https://youtu.be/ozrUPHZWfIw" %}
 
@@ -73,9 +73,77 @@ var main = function (input) {
 };
 ```
 
+#### Logic Variations
+
+Just with the combination of loops and conditionals we have a very powerful set of tools to create a set of  output patterns.
+
+By using the property of counter alternating between odd and even numbers we can get an output that alternates.
+
+{% hint style="warning" %}
+Note that one of the main tricks to working with loops is being able to identify the pattern you want to create and working backwards from there to construct the logic within the loop and without to get that pattern.
+
+Many patterns will be a combination of this creation of a repeating pattern like here with `%` and some more specific global conditions like the example above.  
+{% endhint %}
+
+```javascript
+var counter = 0;
+
+while (counter < input) {
+
+  // see if counter is even
+  // % is the remander of division
+  // so if a number divided by 2 has no remainder, it is even
+  // the output will alternate btwn yes and no
+  if( counter % 2 == 0 ){
+    myOutputValue = myOutputValue + 'yes';
+  }else{
+    myOutputValue = myOutputValue + 'no';
+  }
+  counter = counter + 1;
+}
+```
+
+## Loops and Functions
+
 {% embed url="https://youtu.be/5qeXMmGRhZY" %}
 
-### outputting program with dimensions
+We can combine a loop and a function together, effectively moving a block of code outside the loop definition. \(Obviously you can also do the reverse- put a loop inside a function\).
+
+We can use the `diceRoll` function elsewhere and it also helps to keep our code clean inside the loop block. 
+
+```javascript
+var diceRoll = function () {
+  // produces a decimal between 0 and 6
+  var randomDecimal = Math.random() * 6;
+
+  // take off the decimal
+  var randomInteger = Math.floor(randomDecimal);
+
+  // it's anumber from 0 - 5 ... add 1
+  var diceNumber = randomInteger + 1;
+
+  return diceNumber;
+};
+
+var main = function (input) {
+  var myOutputValue = '';
+
+  var counter = 0;
+
+  while (counter < input) {
+
+    // roll the dice inside the loop  
+    var roll = diceRoll();
+    myOutputValue = myOutputValue + ' ' + roll + ' ';
+
+    counter = counter + 1;
+  }
+
+  return myOutputValue;
+};
+```
+
+## Loops and Loops - Outputting Program with Dimensions
 
 {% embed url="https://youtu.be/wxUafGMsOw4" %}
 

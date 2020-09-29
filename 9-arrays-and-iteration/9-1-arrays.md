@@ -54,7 +54,7 @@ var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 
 var dailyAverageTemperatureLastWeek = [30, 32, 29, 34, 36, 38, 32];
 ```
 
-#### dynamic length data
+#### Dynamic Length Data
 
 This is a type of data collected together but this data collection does not have a set length.
 
@@ -72,7 +72,7 @@ When talking about arrays, we need to understand what unique properties they hav
 
 Data in arrays can imply a few different things about the properties of that data:
 
-### position
+### Position
 
 Accessing an array is done through **indexes**- the position of each item in the array.
 
@@ -107,7 +107,7 @@ letters[234534534534];
 
 
 
-### order
+### Order
 
 ```javascript
 var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];

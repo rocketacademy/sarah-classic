@@ -39,6 +39,13 @@ var bankRoll = 10;
 var currentGameMode = 'waiting for user name';
 var userName = '';
 
+var diceRoll = function () {
+  var randomDecimal = Math.random() * 6;
+  var randomInteger = Math.floor(randomDecimal);
+  var diceNumber = randomInteger + 1;
+  return diceNumber;
+};
+
 var main = function (input) {
   var myOutputValue = '';
 
@@ -62,13 +69,6 @@ var main = function (input) {
   }
 
   return myOutputValue;
-};
-
-var diceRoll = function () {
-  var randomDecimal = Math.random() * 6;
-  var randomInteger = Math.floor(randomDecimal);
-  var diceNumber = randomInteger + 1;
-  return diceNumber;
 };
 ```
 
