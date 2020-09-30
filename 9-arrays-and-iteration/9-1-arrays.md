@@ -28,11 +28,13 @@ An array is a value that hold other individual values.
 
 We use an array to represent the idea of a collection of single values of the same kind.
 
-There are two sub-types of values we can represent in an array:
+When creating the logic for our programs, a central decision we must make is how to represent our data using the syntax structures we have at our disposal. When talking about the JavaScript array type, there are two sub-types of values we can **represent** using the array:
 
-#### Collections
+### Static Collections
 
-Data values of the same kind collected together:
+We can represent data values of the same kind collected together. These are values that will never change.
+
+#### Hold a list of the names of every day in the week.
 
 ```javascript
 var daysOfTheWeek = [
@@ -46,21 +48,33 @@ var daysOfTheWeek = [
 ];
 ```
 
+**Hold a list of all letters in the alphabet.**
+
 ```javascript
 var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 ```
+
+### Static Length Collections
+
+We can represent data values of the same kind collected together. These are values where the _amount_ of data will never change.
+
+**Record a temperature for each day of the week.**
 
 ```javascript
 var dailyAverageTemperatureLastWeek = [30, 32, 29, 34, 36, 38, 32];
 ```
 
-#### Dynamic Length Data
+### Dynamic Length Data
 
-This is a type of data collected together but this data collection does not have a set length.
+We can represent data that our program needs to alter as it runs. The program is responsible for keeping track of these data values, and making the array grow larger or smaller. 
+
+**Record a list of all guesses a user makes in the game.**
 
 ```javascript
 var winningDiceGuesses = [3, 4, 2, 1, 4];
 ```
+
+#### List of the sales recorded up to the current day \(whichever current date this program runs\).
 
 ```javascript
 var salesThisMonth = [34, 23, 12, 78, 56];
@@ -97,7 +111,7 @@ Square bracket syntax gives us the value at that location of the array `letters`
 
 **Position** implies that for any array `0` will always be the first, left-most location in the array and the last item is the right-most position in the array.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 What happens when you try to access an array element that doesn't exist? 
 
 ```javascript
@@ -143,8 +157,6 @@ temperatures[0] = 9999999;
 ```
 
 #### User Input Accesses Array Values
-
-Let's implement a shell game with this idea.
 
 ```javascript
 var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
