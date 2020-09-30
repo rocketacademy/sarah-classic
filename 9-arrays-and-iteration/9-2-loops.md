@@ -174,6 +174,28 @@ var main = function (input) {
 };
 ```
 
+{% hint style="warning" %}
+#### for loops
+
+There are other variations on the syntax we have shown above which also have the same behavior of repeating a set of code over and over again. \(for, for in, forEach iterator, etc.\).
+
+One syntax that you will encounter on the internet quite often is the `for` loop syntax:
+
+```javascript
+for ( var counter=0; counter<10; counter=counter+1 ) {
+  console.log('hello');
+}
+```
+
+You may also see the incrementation step replaced by: `counter++`. \(All this does is add one to `counter`\).
+
+The key thing to know about this syntax \(that we believe is confusing\), is that **the steps in the for loop syntax are rearranged to the top parenthesis group**, but when the code runs, each step actually **happens in the same order as in the while loop example.**
+
+These steps are: 1\) create counter variable 2\) evaluate condition 3\) increment counter 4\) evaluate condition, etc.
+
+For that reason we suggest you stick with while loops until you are very comfortable with the mechanic of the loop syntax. 
+{% endhint %}
+
 ## Exercises
 
 {% hint style="info" %}
