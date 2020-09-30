@@ -26,6 +26,10 @@ while (counter < 10) {
 
   counter = counter + 1;
 }
+
+for (var i = 0; i < 10; i += 1) {
+  console.log('hello')
+}
 ```
 
 ## Outputting Program
@@ -59,11 +63,10 @@ var main = function (input) {
   var myOutputValue = '';
 
   var counter = 0;
-
   while (counter < input) {
-    if( counter < 5 ){
+    if (counter < 5) {
       myOutputValue = myOutputValue + 'yes';
-    }else{
+    } else {
       myOutputValue = myOutputValue + 'no';
     }
     counter = counter + 1;

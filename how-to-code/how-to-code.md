@@ -13,7 +13,7 @@ There are two main aspects to this process:
 ### 1\) Understand your problem using language.
 
 * Do you understand the problem from a programatic perspective?
-* Do you understand what it's purpose is?
+* Do you understand what its purpose is?
 * Do you understand the logic of the application itself? \(i.e., a recipe app understands what a liter is\)
 
 ### 2\) Strategize which part to concentrate on
