@@ -150,7 +150,7 @@ Let's implement a shell game with this idea.
 var letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 
 var main = function (input) {
-  var myOutputValue = 'your letter: '+letters[input];
+  var myOutputValue = 'your letter: ' + letters[input];
 
   return myOutputValue;
 };
