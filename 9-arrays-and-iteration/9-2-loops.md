@@ -227,9 +227,7 @@ For example, if the user enters 4 they will see this:
 
 ## More Comfortable
 
-### 
-
-##  Triangle
+## Triangle
 
 The user will enter the dimensions of a triangle to display on the screen.‌
 
@@ -239,10 +237,6 @@ For example, if the user enters 4 they will see this:
 
 ![](../.gitbook/assets/screen-shot-2020-08-26-at-12.37.35-am.png)
 
-## 
-
-### 
-
 ### Outline Square
 
 The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character.
@@ -250,8 +244,6 @@ The user will enter the dimensions of a square to display on the screen. The squ
 For example, if the user enters 4 they will see this:
 
 ![](../.gitbook/assets/screen-shot-2020-08-26-at-12.54.56-am.png)
-
-### 
 
 ## Submit
 
