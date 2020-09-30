@@ -78,6 +78,14 @@ If the user guessed correctly for any of those _n_ dice, they win that round.
 
 The game will add to the output the record of that round, and the game will output the result for all rounds.
 
+## Two Player
+
+Change the game so that 2 players can play.
+
+## Multi Player
+
+Change the game so that it asks how many players are in the game at the beginning.
+
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
