@@ -80,11 +80,17 @@ The game will add to the output the record of that round, and the game will outp
 
 ## Two Player
 
-Change the game so that 2 players can play.
+Change the game so that 2 players can play.  
+  
+The game will begin with Player One's turn.  
+  
+The game play will proceed as in the dice game above. The user will receive a score of 0-4, the total of all rounds played. \(4 rounds per turn\).
+
+Then the game will switch to the other player's turn.
 
 ## Multi Player
 
-Change the game so that it asks how many players are in the game at the beginning.
+Change the game so that it asks how many players are in the game at the beginning. Each player will take turns playing the game as above. 
 
 ## Daily Feedback
 
