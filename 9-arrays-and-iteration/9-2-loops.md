@@ -20,15 +20,10 @@ This is a loop that runs 10 times.
 
 ```javascript
 var counter = 0;
-
 while (counter < 10) {
   console.log('hello');
 
   counter = counter + 1;
-}
-
-for (var i = 0; i < 10; i += 1) {
-  console.log('hello')
 }
 ```
 
