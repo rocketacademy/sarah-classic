@@ -39,14 +39,16 @@ It is now player 2's turn.
 
 Player One picks **Dice 2** as the first numeral, \(and **Dice 1** as the second\) so gets the number **63**.
 
-Player Two has to beat this score.
+Player Two rolls two dice and must create a number that is greater.
 {% endhint %}
 
 ## More Comfortable
 
 ### Variable Number of Dice
 
-At the beginning of the game, add a mode where the game asks the user how many dice they want to play with.
+Create a new version of the game that deals with two or more dice.
+
+At the beginning of the game is a mode that asks the user how many dice they want to play with.
 
 Each player's set of dice should be stored in an array.
 
@@ -86,7 +88,7 @@ Loop over `positions` to construct the new number.
 
 ### Score
 
-Keep score for each player. The score is the total of the number they come up with
+Keep score for each player. The score is the running sum total of all numbers that player has constructed.
 
 ### Auto-Choose
 
