@@ -13,6 +13,8 @@ exclamation           adverb                                     noun           
 ```
 
 Hard code the exclamation, adverb and noun.  
+
+
 At the beginning of the app, ask the user to input just a series of adjectives. Store these in an array.
 
 When the user types "create" in the input, change the mode to create a Mad Lib by randomly selecting an adjective from the array. Show it in the grey box.
@@ -21,13 +23,19 @@ When the user types "create" in the input, change the mode to create a Mad Lib b
 
 Create a mode to input the words from each type. 
 
-### Mad Libs V3
+### Popular Mad Libs
+
+Create a mode of the game that shows the set of words that are selected the most often.
+
+Add another mode that also shows the set of least selected words.
+
+### Sets of Mad Libs
 
 Create an array of sentences.
 
 Example:
 
-She asked {adverb} for the {noun} and when they were rude, she said {exclamation} {adjective} and hung up the phone.
+She asked {adverb} for the {noun} and when they were rude, she said {exclamation} and hung up the {adjective}  phone.
 
 ## Daily Feedback
 
