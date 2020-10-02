@@ -4,13 +4,12 @@
 
 | Student Num | Section 1 \(Akira\) | Section 2 \(Kai\) |
 | :--- | :--- | :--- |
-| 1 | Adeline | Wiyah |
-| 2 | Chris | Ansel |
-| 3 | Haruka | Cynthia |
-| 4 | Jit Corn | Ivy |
-| 5 | Maxine | Jeremy |
-| 6 | Pradeep | Marie |
-| 7 |  | Nic |
+| 1 | Adeline | Ansel |
+| 2 | Chris | Cynthia |
+| 3 | Haruka | Ivy |
+| 4 | Jit Corn | Jeremy |
+| 5 | Maxine | Marie |
+| 6 | Pradeep | Nic |
 
 ## Section 1 Daily Pairs
 
@@ -22,10 +21,9 @@
 
 ## Section 2 Daily Pairs
 
-| Days 1, 8 | Days 2, 9 | Days 3, 10 | Days 4, 11 | Days 5, 12 | Day 6 | Day 7 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Wiyah, Ansel | Wiyah, Cynthia | Wiyah, Ivy | Wiyah, Jeremy | Wiyah, Marie | Wiyah, Nic | Ansel, Cynthia |
-| Cynthia, Ivy | Ansel, Jeremy | Ansel, Marie | Ansel, Nic | Ansel, Ivy | Cynthia, Jeremy | Ivy, Jeremy |
-| Jeremy, Marie | Ivy, Nic | Cynthia, Nic | Cynthia, Marie | Jeremy, Nic | Ivy, Marie | Marie, Nic |
-| Nic | Marie | Jeremy | Ivy | Cynthia | Ansel | Wiyah |
+| Days 1, 6, 11 | Days 2, 7, 12 | Days 3, 8 | Days 4, 9 | Days 5, 10 |
+| :--- | :--- | :--- | :--- | :--- |
+| Ansel, Cynthia | Ansel, Ivy | Ansel, Jeremy | Ansel, Marie | Ansel, Nic |
+| Ivy, Jeremy | Cynthia, Marie | Cynthia, Nic | Cynthia, Jeremy | Cynthia, Ivy |
+| Marie, Nic | Jeremy, Nic | Ivy, Marie | Ivy, Nic | Jeremy, Marie |
 
