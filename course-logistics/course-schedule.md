@@ -2,7 +2,7 @@
 description: What and when we will learn
 ---
 
-# 📆 Course Schedule
+# 📅 Course Schedule
 
 The following are live class times for Batch 2 \(19 Sep - 17 Oct\).
 
