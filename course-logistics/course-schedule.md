@@ -127,7 +127,7 @@ Total Video Watch Time: **~11 mins**
 
 #### In-Class Material
 
-* [Day 7: Drawing Redux](../class-exercises/day-7-drawing-redux.md)
+* [Day 7: Loops and Arrays](../class-exercises/day-7-drawing-redux.md)
 
 ### Day 8
 
@@ -159,7 +159,7 @@ Total Video Watch Time: **~16 mins**
 
 #### In-Class Material
 
-* [Day 9: Guess the Word Redux](../class-exercises/day-9-guess-the-word-redux.md)
+* [Day 9: Chat Bot](../class-exercises/day-9-guess-the-word-redux.md)
 
 ### Day 10
 

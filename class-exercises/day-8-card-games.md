@@ -1,34 +1,53 @@
-# Day 8: Card Games
+# Day 8: Dice Game Redux
 
-![](../.gitbook/assets/deckofcards_cover-02.png)
+## Code Review - Individual
 
-Begin by cloning a new copy of the [starter code.](https://github.com/rocketacademy/swe101-starter-code) Reminder to `npm install` to activate ESLint!
+### 1\) Clone Partner's Code
 
-Copy the deck array and the card shuffle function from the [objects page](https://swe101.rocketacademy.co/10-javascript-objects/10-1-objects).
+You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
 
-## Display a single card
+**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo. 
 
-When the user clicks submit draw a single card from the deck and show it to them.
+Run a `git clone <repo-url> <new-folder-name>` to get a copy of your partner's code.
 
-## High Card
+_Note: you need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone._
 
-Implement the high card game from the GitBook
+### 2\) Run Partner's Code
 
-## **Bets**
+Open the code in the browser and test it. What does it do? If you're not sure what it does look inside the `script.js` to see.
 
-Allow the player to wager a number of points on each game. \(A new mode will be needed for the beginning of the game where the player selects the number of points to wager\). They lose the points if they lose or a draw, and double them if they win. The player begins with 100 points.
+### 3\) Read Partner's Code
 
-## Two-Player
+Read the code.
 
-Add another mode so that the game can be played by 2 players taking turns. The grey box will tell the players to switch so they don't see each other's cards.
+* How does it work?
+* Does it have any obvious errors?
+* Does it implement something that you were trying to do? 
+* Does it implement a feature that you haven't started yet? How does the code work?
 
-## n-of-a-kind
+### 4\) Play with Partner's Code
 
-Detect if the player has a three of a kind or four of a kind.
+It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
 
-## Multi-Player
+### 5\) Breakout and Discuss
 
-Add another mode so that the game can be played by multiple players taking turns. At the very beginning of the game, ask how many players would like to play.
+We'll put you in breakout rooms so you can discuss what you saw. 
+
+## Code Review - Pairing
+
+You'll be working on your SPS projects together as pairs one at a time. The goal of this pairing should be to get working versions for each person.
+
+**The driver will be the person who is \*not\* working on their own code.**
+
+Try to go through the code and get to the basic working version, or to code that is working without errors.
+
+Send the new, fixed version of the file to your pair \(it's their project\) via a Slack message attachment.
+
+Switch to work on the other person's code.
+
+_Note that if you are working on the other person's code you can't commit or update GitHub because of the way the repos are setup._
+
+If you are both done with all parts of the game, implement the following new features in one of the games together.
 
 ## Daily Feedback
 

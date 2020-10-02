@@ -1,59 +1,82 @@
-# Day 9: Guess the Word Redux
+# Day 9: Chat Bot
 
-## Code Review - Individual
+Given these arrays of words:
 
-### 1\) Clone Partner's Code
+```javascript
+var verbs = ['climb','read','cook','dance'];
+var pluralNouns = ['apples','bananas','tables','pilots'];
+var exclamations = ['Wow!','Amazing!','Cool.','No way!'];
+```
 
-You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
+Create a chat bot that can have the following conversation.
 
-**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo. 
+```text
+Bot: Hey how are you?
+---
+User: Good.
+---
+Bot: Wow! Me too!
+Bot: You know, I just read in the paper that scientists discovered that apples can cook.
+Bot: What do you think about that?
+---
+User: Interesting
+---
+Bot: I know right??
+Bot: I thought so too.
+Bot: You know, I just read [...](bot repeats itself)
+```
 
-Run a `git clone <repo-url> <new-folder-name>` to get a copy of your partner's code.
+Note that the bot outputs everything in the grey box. The user inputs things in the input box. You don't need to display any of the user's inputs in the grey box.
 
-_Note: you need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone._
+Use these arrays to randomly construct the things that the chat bot is saying.
 
-### 2\) Run Partner's Code
+### Chat Bot Asks For Your Name
 
-Open the code in the browser and test it. What does it do? If you're not sure what it does look inside the `script.js` to see.
+```text
+Bot: Hey! I'm Dennis. What's your name?
+---
+User: Kai.
+---
+Bot: Hey Kai! What a cool name.
+(chat bot continues)
+```
 
-### 3\) Read Partner's Code
+Use the user's name in the bot's output.
 
-Read the code.
+```text
+Bot: You know Kai, I just read in the paper that scientists discovered that apples can cook.
+```
 
-* How does it work?
-* Does it have any obvious errors?
-* Does it implement something that you were trying to do? 
-* Does it implement a feature that you haven't started yet? How does the code work?
+### Chat Bot Asks Your Age
 
-### 4\) Play with Partner's Code
+```text
+Bot: Hey! I'm Dennis. What's your name?
+---
+User: Kai.
+---
+Bot: Hey Kai! What a cool name. How old are you?
+---
+User: 63
+---
+Bot: Wow that's old.
+Bot: Kai, I bet people at your advanced age don't know that pilots never know how to cook.
+Bot: What's the most imporant thing you've learned at your age?
+---
+User: (answer)
+---
+Bot: Cool!
+Bot: But for someone so elderly I thought you might also want to know that nowadays, tables can climb.
+Bot: What do you think of that one!?
+```
 
-It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
+You are adding these 2 functionalities: 
 
-### 5\) Breakout and Discuss
+**1\)** When the user gives their name, set some behavior that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
 
-We'll put you in breakout rooms so you can discuss what you saw. 
-
-## Code Review - Pairing
-
-You'll be working on your Guess the Word projects together as pairs one at a time. The goal of this pairing should be to get working versions for each person.
-
-**The driver will be the person who is \*not\* working on their own code.**
-
-Try to go through the code and get to the basic working version, or to code that is working without errors.
-
-Send the new, fixed version of the file to your pair \(it's their project\) via a Slack message attachment.
-
-Switch to work on the other person's code.
-
-_Note that if you are working on the other person's code you can't commit or update GitHub because of the way the repos are setup._
-
-If you are both done with all parts of the game, implement the following new features in one of the games together.
-
-## Levels
-
-Use [this repo](https://github.com/bpropelled/English-Words-Array) to create levels. The game will select a random word, and will select a figure that will give the user more chances based on the number of letters in the word.   
+**2\)** The bot repeats itself with 2 different modes of response. In this example it's:  
   
-Use [this list ](https://smiley.cool/emoticons.php)of possible figures.
+  **a\)** `{name} I bet {something about age} don't know that ...`  
+  **b\)** `But for someone {age} I thought you might also want to know that nowadays`
 
 ## Daily Feedback
 

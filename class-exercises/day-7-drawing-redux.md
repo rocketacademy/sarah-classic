@@ -1,59 +1,33 @@
-# Day 7: Drawing Redux 😜
+# Day 7: Loops and Arrays
 
-## Code Review - Individual
+### Mad Libs
 
-### 1\) Clone Partner's Code
+If you're unfamiliar with the game MadLibs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
 
-You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
+Come up with your Mad Lib. If you don't want to create anything, you can use the default one from the wikipedia page:
 
-**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo. 
+```text
+ "___________! he said ________ as he jumped into his convertible ______ and drove off with his _________ wife."
+exclamation           adverb                                     noun                         adjective 
+                                                     
+```
 
-Run a `git clone <repo-url> <new-folder-name>` to get a copy of your partner's code.
+Hard code the exclamation, adverb and noun.  
+At the beginning of the app, ask the user to input just a series of adjectives. Store these in an array.
 
-_Note: you need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone._
+When the user types "create" in the input, change the mode to create a Mad Lib by randomly selecting an adjective from the array. Show it in the grey box.
 
-### 2\) Run Partner's Code
+### Mad Libs V2
 
-Open the code in the browser and test it. What does it do? If you're not sure what it does look inside the `script.js` to see.
+Create a mode to input the words from each type. 
 
-### 3\) Read Partner's Code
+### Mad Libs V3
 
-Read the code.
+Create an array of sentences.
 
-* How does it work?
-* Does it have any obvious errors?
-* Does it implement something that you were trying to do? 
-* Does it implement a feature that you haven't started yet? How does the code work?
+Example:
 
-### 4\) Play with Partner's Code
-
-It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
-
-### 5\) Breakout and Discuss
-
-We'll put you in breakout rooms so you can discuss what you saw. 
-
-## Code Review - Pairing
-
-You'll be working on your SPS projects together as pairs one at a time. The goal of this pairing should be to get working versions for each person.
-
-**The driver will be the person who is \*not\* working on their own code.**
-
-Try to go through the code and get to the basic working version, or to code that is working without errors.
-
-Send the new, fixed version of the file to your pair \(it's their project\) via a Slack message attachment.
-
-Switch to work on the other person's code.
-
-_Note that if you are working on the other person's code you can't commit or update GitHub because of the way the repos are setup._
-
-If you are both done with all parts of the game, implement the following new features in one of the games together.
-
-## Triangles Within Square
-
-User enters dimensions of square. Program outputs a square where the bottom left triangle is one emoji and the top right triangle is a different one.
-
-Can you modify this program such that the top left triangle is one emoji and the bottom right triangle is a different one?
+She asked {adverb} for the {noun} and when they were rude, she said {exclamation} {adjective} and hung up the phone.
 
 ## Daily Feedback
 
