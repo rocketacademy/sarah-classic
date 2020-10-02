@@ -92,7 +92,7 @@ Keep score for each player. The score is the running sum total of all numbers th
 
 ### Auto-Choose
 
-Add the functionality where the game auto selects the high number from the dice that are rolled.
+Add functionality where the game auto-selects the highest number from the dice that are rolled. E.g. for dice rolls 2 3 1 6, the game auto-selects 6321.
 
 ### Variable Number of Players
 
