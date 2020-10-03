@@ -2,9 +2,9 @@
 
 Right now when the user enters a dice number guess the app doesn't restrict them from entering `"bananas"` or 38373 or any other value besides one to six.
 
-In this case, there won't be any errors with the code, or any behaviors we don't want. But we may want to give the user feedback that their input was invalid for the program.
+In this case, there won't be any errors with the code, or any behaviours we don't want. But we may want to give the user feedback that their input was invalid for the program.
 
-\(There will be a lot of other cases where a wrong type of input _will_ cause syntax errors or unexpected behavior\).
+\(There will be a lot of other cases where a wrong type of input _will_ cause syntax errors or unexpected behaviour\).
 
 First let's see how we can detect if the user typed in a number, then we'll detect if they type in the range we want \(1-6\).
 
@@ -12,16 +12,22 @@ First let's see how we can detect if the user typed in a number, then we'll dete
 
 Remember that we've covered 3 basic data types in JavaScript- _booleans_, _numbers_, and _strings_.
 
-When running the `main` function \(clicking the submit button\), the `input` parameter will always be a _string_ data type. The `input` string may sometimes **contain** number **characters** - e.g. "5" or "9383733" or combination of letter characters with number characters e.g., `"SWE101"`.
+When running the `main` function \(clicking the submit button\), the `input` parameter will always be a _string_ data type. The `input` string may sometimes _contain_ number _characters_ - e.g. "5", "9383733", or a combination of letter with number characters e.g., `"SWE101"`.
 
-How do we know if the characters in the `input` string are **only** numbers?
+How do we know if the characters in the `input` string are _only_ numbers? If we are expecting only number characters, how would we convert `input` to be a number and not a string?
 
-We can try to convert from a string type into number type. If the value has only number characters in it, JavaScript will convert it for you.
+We can try to convert from a string type to a number type with the `Number()` function. If the string value only has number characters in it, `Number()` will transform the string into a number.
 
 ```javascript
 var input = '444';
-Number(input);
+var inputNum = Number(input); // inputNum is 444
 ```
+
+{% hint style="warning" %}
+In certain projects and exercises we do in SWE101 \(and beyond\), we will compare the value of `input` with a number as part of our program logic. This can result in unexpected errors if we do not transform `input` from a string to a number first.
+
+Whenever we expect `input` to represent a number, we should always cast it to a number with `Number(input)` before using it. This will help us prevent unexpected errors where `input` may not equal what we expect, for example when comparing "1" with 1.
+{% endhint %}
 
 ## NaN
 
