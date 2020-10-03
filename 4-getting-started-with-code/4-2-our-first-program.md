@@ -58,7 +58,6 @@ console.log('bananas');
 
 var main = function (input) {
   var myOutputValue = 'hello world';
-
   return myOutputValue;
 };
 ```
@@ -67,7 +66,7 @@ On line 3 we define the `main` function. The `{}` curly brace characters define 
 
 Without a further formal definition we'll begin using this code to make stuff appear on the screen. We'll come back to the formal definitions later.
 
-We are going to start with line 5: `myOutputValue` is a variable that holds the value that we see in the grey box after we click the button.
+We are going to start with line 4: `myOutputValue` is a variable that holds the value that we see in the grey box after we click the button.
 
 Change the value of the variable to something else. We'll start with numbers only:
 
