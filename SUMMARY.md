@@ -27,7 +27,7 @@
 * [Day 4: Boolean And, GitHub, Program State](class-exercises/day-4-boolean-and-program-state.md)
 * [Day 5: Scissors Paper Stone Redux](class-exercises/day-5-scissors-paper-stone-redux.md)
 * [Day 6: Loops](class-exercises/day-6-loops.md)
-* [Day 7: Loops and Arrays](class-exercises/day-7-drawing-redux.md)
+* [Day 7: Loops and Arrays](class-exercises/day-7-loops-and-arrays.md)
 * [Day 8: Dice Game Redux](class-exercises/day-8-card-games.md)
 * [Day 9: Chat Bot](class-exercises/day-9-guess-the-word-redux.md)
 * [Day 10: Moar Cards](class-exercises/day-10-moar-cards.md)
