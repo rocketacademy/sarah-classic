@@ -8,8 +8,7 @@ Come up with your Mad Lib. If you don't want to create anything, you can use the
 
 ```text
 "___________! he said ________ as he jumped into his convertible ______ and drove off with his _________ wife."
- exclamation           adverb                                     noun                         adjective 
-                                                     
+ exclamation           adverb                                     noun                         adjective                                                   
 ```
 
 Hard code the exclamation, adverb and noun.
