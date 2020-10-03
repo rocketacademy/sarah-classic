@@ -2,7 +2,7 @@
 
 ### Mad Libs
 
-If you're unfamiliar with the game MadLibs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
+If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
 
 Come up with your Mad Lib. If you don't want to create anything, you can use the default one from the Wikipedia page:
 
@@ -29,13 +29,15 @@ Add another mode that also shows the set of least selected words.
 
 ### Sets of Mad Libs
 
-Create an array of Mad Lib sentences.
+Store an array of Mad Lib sentences in your app. For example, Mad Lib 1 might be:
 
-Example:
+> She asked {adverb} for the {noun} and when they were rude, she said {exclamation} and hung up the {adjective} phone.
 
-She asked {adverb} for the {noun} and when they were rude, she said {exclamation} and hung up the {adjective} phone.
+Mad Lib 2 might be:
 
-When the user creates a random Mad Lib sentence have the app choose a random Mad Lib sentence and a set of words.
+> It was a {adjective}, cold November day. I woke up to the {adjective} smell of {noun} roasting in the {noun} downstairs.
+
+When the user chooses to create a random Mad Lib sentence, have the app choose a random sentence and set of words.
 
 For more inspiration you can look here: [https://www.google.com/search?q=mad+lib+examples&tbm=isch](https://www.google.com/search?q=mad+lib+examples&tbm=isch)
 
