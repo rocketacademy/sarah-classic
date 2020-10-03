@@ -7,21 +7,17 @@ Let's get started with running some code outside of the JavaScript console. We'l
 {% hint style="info" %}
 #### **Setup**
 
-Copy the starter code from Github:
-
 `cd` into your `swe101/day1/homework` directory.
 
 ```bash
 cd ~/Documents/swe101/day1/homework
 ```
 
-`git clone` the starter code and install linter packages:
+`git clone` the starter code into a folder name of your choice inside the `homework` directory. In this case, we choose to name the folder `first-program`.
 
 ```bash
 git clone https://github.com/rocketacademy/swe101-starter-code.git first-program
 ```
-
-This will create a `first-program` directory inside your `code` directory.
 
 `cd` into the `first-program` directory.
 
@@ -29,7 +25,7 @@ This will create a `first-program` directory inside your `code` directory.
 cd first-program
 ```
 
-If you haven't already, install linter packages to auto-format your JavaScript code in `script.js`. Note that you will need to run `npm install` every time you clone the starter code in SWE101.
+Install linter packages to auto-format your JavaScript code in `script.js`. Note that you will need to run `npm install` every time you clone the starter code in SWE101.
 
 ```bash
 npm install
@@ -37,7 +33,7 @@ npm install
 
 You may see a popup asking you to use ESLint in VSCode. Please select "Allow".
 
-Open the `index.html` file in Chrome.
+Open the `index.html` file in Chrome to run your program.
 {% endhint %}
 
 ### **Default Template Behaviour**
