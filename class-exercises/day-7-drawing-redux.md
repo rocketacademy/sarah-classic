@@ -23,17 +23,21 @@ Create a mode\(s\) to input words from each type, e.g. exclamation, adverb, noun
 
 ### Popular Mad Libs
 
-Create a mode of the game that shows the set of words that are selected the most often.
+Keep track of which words are selected. Create a mode of the game that shows a Mad Lib using the set of words \(verb, adjective, etc.\) that are \(randomly\) selected the most often by the app. 
 
 Add another mode that also shows the set of least selected words.
 
 ### Sets of Mad Libs
 
-Create an array of sentences.
+Create an array of Mad Lib sentences.
 
 Example:
 
 She asked {adverb} for the {noun} and when they were rude, she said {exclamation} and hung up the {adjective} phone.
+
+When the user creates a random Mad Lib sentence have the app choose a random Mad Lib sentence and a set of words.
+
+For more inspiration you can look here: [https://www.google.com/search?q=mad+lib+examples&tbm=isch](https://www.google.com/search?q=mad+lib+examples&tbm=isch)
 
 ## Daily Feedback
 
