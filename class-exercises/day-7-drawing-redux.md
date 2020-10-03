@@ -11,15 +11,15 @@ Come up with your Mad Lib. If you don't want to create anything, you can use the
  exclamation           adverb                                     noun                         adjective                                                   
 ```
 
-Hard code the exclamation, adverb and noun.
+Hard code the exclamation, adverb and noun, but leave 1 adjective blank. In the Wikipedia sentence, the adjective is at the end of the sentence.
 
-At the beginning of the app, ask the user to input just a series of adjectives. Store these in an array.
+At the beginning of the app, ask the user to input a series of adjectives. We can choose to have the user input 1 adjective per input or multiple. Store these in an array.
 
-When the user types "create" in the input, change the mode to create a Mad Lib by randomly selecting an adjective from the array. Show it in the grey box.
+When the user types "create" in the input, change the mode to complete your Mad Lib by randomly selecting an adjective from the array. Output the completed Mad Lib in the grey box.
 
 ### Mad Libs V2
 
-Create a mode to input the words from each type. 
+Create a mode\(s\) to input words from each type, e.g. exclamation, adverb, noun, and adjective. For each type, prompt the user what type of word they should be entering.
 
 ### Popular Mad Libs
 
