@@ -221,6 +221,18 @@ var main = function (input) {
 
 
 
+{% hint style="warning" %}
+Javascript will let you put \*any\* JavaScript data type of value inside an array:
+
+```javascript
+var myValues = [23, "rocks", true, 0.345, "awesome"]; // this is valid code
+```
+
+However, the **concept** of the array as we described it is for holding data that is of the same kind, i.e., dice rolls, and this almost always means it is of the same JavaScript data type as well. \(In this case, numbers\).
+
+When choosing to use an array in your code it is almost always to store a set of data of the same kind, and it will follow that it will be the same _JavaScript data type_ as well. 
+{% endhint %}
+
 ## Exercises
 
 {% hint style="info" %}

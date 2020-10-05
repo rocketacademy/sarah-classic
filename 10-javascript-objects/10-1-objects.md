@@ -1,6 +1,6 @@
 # 10.1: Objects
 
-{% embed url="https://www.youtube.com/watch?v=\_s1j9A\_JF70" %}
+{% embed url="https://www.youtube.com/watch?v=\_s1j9A\_JF70" caption="" %}
 
 Now we'll continue to build programs of increasing complexity.
 
@@ -24,11 +24,11 @@ Is this a good representation of a game of cards?
 
 Let's start to think abstractly about what kind of data a deck of cards contains?
 
-#### Order
+### Order
 
 A deck of cards is implicitly ordered. An array was a good choice to represent this.
 
-#### Card Order
+### Card Order
 
 Each card has a rank. Our array of strings doesn't represent this rank, except by the sub-string "nine" etc. A card has a suit. We are representing this by the string "heart". A card has a rank of face cards, which we are not representing. \(`jack < queen`\)
 
@@ -50,7 +50,7 @@ We've encoded in this variable the three important pieces of data about the card
 
 We can make this into an array of objects.
 
-#### Object Data Access
+### Object Data Access
 
 ```javascript
 singleCard.rank;
@@ -88,6 +88,8 @@ var cards = [
 
 We can use loops to access all of the cards in an array.
 
+
+
 ```javascript
 var index = 0;
 
@@ -104,7 +106,17 @@ while (index < cards.length) {
 }
 ```
 
+Inside the loop we can add the attribute name onto the end of an array element access: 
+
+```javascript
+cards[0].name // gets the name of the first card
+```
+
 ## Card Shuffling
+
+We can shuffle a deck of cards by swapping around the objects inside the array.
+
+It's not too important to understand all the aspects of this loop. It's just important that we have a deck that is randomly ordered.
 
 ```javascript
 // get a random index from an array given it's size
@@ -140,6 +152,10 @@ var shuffleCards = function (cards) {
 ```
 
 ## High Card
+
+The high card draws two random cards and compares them. We are using `pop` to take them off the top of the deck, because the deck is already randomly ordered.
+
+We can use the rank attribute of the cards to compare.
 
 ```javascript
 var originalCards = [
@@ -456,3 +472,4 @@ var deck = [
 
 2\) Change the high card program so that the player and computer draw 2 cards instead of 1. Highest of any of the cards wins.\*\*
 {% endhint %}
+
