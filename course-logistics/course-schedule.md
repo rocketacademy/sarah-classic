@@ -111,7 +111,7 @@ Total Video Watch Time: **~41 mins**
 
 * [9.1: Arrays](../9-arrays-and-iteration/9-1-arrays.md)
 * [9.2: Loops](../9-arrays-and-iteration/9-2-loops.md)
-* [How to Code](../how-to-code/how-to-code.md)
+* [How to Code](how-to-code.md)
 
 #### In-Class Material
 

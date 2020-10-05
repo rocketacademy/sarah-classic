@@ -9,6 +9,7 @@
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [✍🏽 Course Methodology](course-logistics/course-methodology.md)
 * [❤️ Social Rules](course-logistics/love-social-rules.md)
+* [👩‍💻 How to Code](course-logistics/how-to-code.md)
 * [💡 Pro Tips](course-logistics/pro-tips.md)
 * [🎓 LinkedIn Certificates](course-logistics/linkedin-certificates.md)
 
@@ -81,10 +82,6 @@
 * [9.1: Arrays](9-arrays-and-iteration/9-1-arrays.md)
 * [9.2: Loops](9-arrays-and-iteration/9-2-loops.md)
 * [9.3: Arrays and Loops](9-arrays-and-iteration/9.3-arrays-and-loops.md)
-
-## How to Code
-
-* [How to Code](how-to-code/how-to-code.md)
 
 ## 10: JavaScript Objects
 

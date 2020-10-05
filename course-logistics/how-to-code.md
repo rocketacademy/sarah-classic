@@ -1,4 +1,4 @@
-# How to Code
+# 👩‍💻 How to Code
 
 ## Getting Started / How to Break a Problem Down
 
