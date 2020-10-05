@@ -49,6 +49,28 @@ _Note that if you are working on the other person's code you can't commit or upd
 
 If you are both done with all parts of the game, implement the following new features in one of the games together.
 
+## More Comfortable
+
+If you've finished every part of the assignment you can work on these additions:
+
+### Least
+
+Add a mode to the game so that the player with the least amount is the one who wins.
+
+### Leaderboard
+
+When outputting results in the grey box, add a leaderboard that lists the players and their scores in order. \(From most to least \*or\* least to most depending on the mode from above\).
+
+### Faceoff
+
+Make a mode where if the number of players is over 2, the game can match players against each other one at a time until there is one winner.
+
+**Example:** there are 4 players. The computer matches player 1 and 2. The winner is player 1. The computer matches the winner, \(player 1\) against player 3. The winner of that match plays player 4. 
+
+
+
+
+
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
