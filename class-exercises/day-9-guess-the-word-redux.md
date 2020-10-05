@@ -60,7 +60,7 @@ User: 63
 ---
 Bot: Wow that's old.
 Bot: Kai, I bet people at your advanced age don't know that pilots never know how to cook.
-Bot: What's the most imporant thing you've learned at your age?
+Bot: What's the most important thing you've learned at your age?
 ---
 User: (answer)
 ---
@@ -71,7 +71,7 @@ Bot: What do you think of that one!?
 
 You are adding these 2 functionalities: 
 
-**1\)** When the user gives their name, set some behavior that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
+**1\)** When the user gives their age, set some behaviour that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
 
 **2\)** The bot repeats itself with 2 different modes of response. In this example it's:  
   
