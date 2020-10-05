@@ -71,16 +71,15 @@ singleCard.name
 ```javascript
 var cards = [
     {
-        rank:1,
+        rank: 1,
         suit: 'heart',
         name: 'one'
     },
     {
-        rank:2,
+        rank: 2,
         suit: 'heart',
         name: 'two'
     }
-    
     ...
 ];
 ```
@@ -108,17 +107,16 @@ var getRandomIndex = function (size) {
   return Math.floor(Math.random() * size)
 };
 
+// cards is an array of card objects
 var shuffleCards = function (cards) {
-  var index = 0;
+  var currentIndex = 0;
 
-  while (index < cards.length) {
+  while (currentIndex < cards.length) {
     var randomIndex = getRandomIndex(cards.length);
-
-    var currentItem = cards[index];
-
+    var currentItem = cards[currentIndex];
     var randomItem = cards[randomIndex];
 
-    cards[index] = randomItem;
+    cards[currentIndex] = randomItem;
     cards[randomIndex] = currentItem;
 
     index = index + 1;
