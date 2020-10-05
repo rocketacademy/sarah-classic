@@ -67,10 +67,6 @@ Make a mode where if the number of players is over 2, the game can match players
 
 **Example:** there are 4 players. The computer matches player 1 and 2. The winner is player 1. The computer matches the winner, \(player 1\) against player 3. The winner of that match plays player 4. 
 
-
-
-
-
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
