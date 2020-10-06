@@ -102,5 +102,13 @@ At the beginning of the game ask how many players would like to play.
 
 [Push](../7-github/7-1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../7-github/7-1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit.
 
+## Reference Solution
 
+Please only refer to the reference solution after you have attempted the project. Thank you!
+
+Note that there are many ways to implement the project and the reference solution is only 1 way.
+
+This reference solution does not include exercises in the More Comfortable section.
+
+[https://github.com/rocketacademy/swe101-dice-project/pull/10/files](https://github.com/rocketacademy/swe101-dice-project/pull/10/files)
 
