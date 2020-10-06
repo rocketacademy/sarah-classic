@@ -99,3 +99,7 @@
 * [12.2 HTML / CSS Review](12-next-steps/12.2-html-css-review.md)
 * [12.3 Deployment](12-next-steps/12.3-deployment.md)
 
+## Retired Projects
+
+* [Guess the Word](retired-projects/guess-the-word.md)
+
