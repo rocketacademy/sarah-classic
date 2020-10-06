@@ -101,5 +101,6 @@
 
 ## Retired Projects
 
+* [Drawing With Emojis](retired-projects/drawing-with-emojis.md)
 * [Guess the Word](retired-projects/guess-the-word.md)
 
