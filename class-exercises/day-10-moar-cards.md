@@ -1,4 +1,4 @@
-# Day 10: Moar Cards
+# Day 9: Moar Cards
 
 ![](../.gitbook/assets/images-ccad.jpeg)
 

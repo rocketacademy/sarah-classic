@@ -1,50 +1,75 @@
-# Day 11: Debugger
+# Day 11: Debugger - BlackJack Redux
 
-## Debugger
+## Code Review - Individual
 
-Practice using the debugger on sample code and real problems.
+### 1\) Clone Partner's Code
 
-### Someone Else's Code
+You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
 
-Part 1
+**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo. 
 
-Begin by cloning Kai's [solution repo for drawing.](https://github.com/kai-rocket/swe101-drawing)
+Run a `git clone <repo-url> <new-folder-name>` to get a copy of your partner's code.
 
-Open up the code in the editor.
+_Note: you need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone._
 
-Change the code so that it runs "center square"- you have to change[ line 171](https://github.com/kai-rocket/swe101-drawing/blob/master/script.js#L171) so the function name is `main`.
+### 2\) Run Partner's Code
 
-Spend a few minutes to read the code and understand how it works.
+Open the code in the browser and test it. What does it do? If you're not sure what it does look inside the `script.js` to see.
 
-Run the code so you can see that it works.
+### 3\) Read Partner's Code
 
-Now we'll use the debugger to see into the code.
+Read the code.
 
-Set a breakpoint for[ line 186](https://github.com/kai-rocket/swe101-drawing/blob/master/script.js#L186). 
+* How does it work?
+* Does it have any obvious errors?
+* Does it implement something that you were trying to do? 
+* Does it implement a feature that you haven't started yet? How does the code work?
 
-Enter the number 9 into the input and click the submit button.
+### 4\) Play with Partner's Code
 
-On the 6th iteration of the loop write down what the individual boolean values are for each boolean statement. \(i.e `outerCounter == 0` and `outerCounter == sideLength - 1` and`innerCounter == 0`  , etc.\) 
+It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
 
-#### Part 2
+### 5\) Breakout and Discuss
 
-Do the same for [the rings code.](https://github.com/kai-rocket/swe101-drawing/blob/master/script.js#L209) See if you can use the debugger to help you figure out what the code is doing. \(If you just use it to see the values, it won't help you understand unless you are building a model of how it runs\). 
+We'll put you in breakout rooms so you can discuss what you saw. 
 
-### Your Own Code
+## Code Review - Pairing
 
-Use the debugger on your drawing code inside the loop.
+### Debugger
 
-Set a breakpoint at the same place, one that has a conditional statement inside a loop.
+Practice using the debugger on the game.
 
-Look to see all the values.
+#### Someone Else's Code
 
-Switch with your partner to look at their code.
+We'll use the debugger to see into the code.
 
-## BlackJack
+Create two console.log, before and after where the cards are swapped in the shuffle function. Set the breakpoints on the console.logs.
 
-Choose one person's Blackjack card game to work on. If applicable chose the person who has been working on a bug in their game.
+If the code is using the deck generation function set a breakpoint in the code where it pushes the individual card object into the deck array.   
 
-If possible, use the debugger to investigate the error.
+#### Your Own Code
+
+Switch to use the debugger on your own code.
+
+Set a breakpoint inside the main part of the game when the cards are being dealt. 
+
+If you have an error set a breakpoint to investigate the error. 
+
+### Complete the Blackjack Game
+
+You'll be working on your Blackjack projects together as pairs one at a time. The goal of this pairing should be to get working versions for each person.
+
+**The driver will be the person who is \*not\* working on their own code.**
+
+Try to go through the code and get to the basic working version, or to code that is working without errors.
+
+Send the new, fixed version of the file to your pair \(it's their project\) via a Slack message attachment.
+
+Switch to work on the other person's code.
+
+_Note that if you are working on the other person's code you can't commit or update GitHub because of the way the repos are setup._
+
+If you are both done with all parts of the game, implement the following new features in one of the games together.
 
 ## Daily Feedback
 

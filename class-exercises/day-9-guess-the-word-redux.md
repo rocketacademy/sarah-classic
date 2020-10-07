@@ -1,4 +1,4 @@
-# Day 9: Chat Bot
+# Day 10: Chat Bot
 
 Given these arrays of words:
 

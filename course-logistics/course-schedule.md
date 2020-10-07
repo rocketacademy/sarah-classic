@@ -159,7 +159,7 @@ Total Video Watch Time: **~16 mins**
 
 #### In-Class Material
 
-* [Day 9: Chat Bot](../class-exercises/day-9-guess-the-word-redux.md)
+* [Day 9: Moar Cards](../class-exercises/day-10-moar-cards.md)
 
 ### Day 10
 
@@ -171,7 +171,7 @@ Total Video Watch Time: **~60 mins**
 
 #### In-Class Material
 
-* [Day 10: Moar Cards](../class-exercises/day-10-moar-cards.md)
+* [Day 10: Chat Bot](../class-exercises/day-9-guess-the-word-redux.md)
 
 ### Day 11
 
