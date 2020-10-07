@@ -143,7 +143,7 @@ var shuffleCards = function (cards) {
     cards[currentIndex] = randomItem;
     cards[randomIndex] = currentItem;
 
-    index = index + 1;
+    currentIndex = currentIndex + 1;
   }
 
   // give back the shuffled deck
