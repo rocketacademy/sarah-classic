@@ -88,8 +88,6 @@ var cards = [
 
 We can use loops to access all of the cards in an array.
 
-
-
 ```javascript
 var index = 0;
 
