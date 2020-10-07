@@ -78,11 +78,12 @@ We can make a function that produces any random integer:
 
 ```javascript
 var getRandomInteger = function (max) {
-  // produces a float between 1 and max + .999999 etc.
-  var randomFloat = (Math.random() * max) + 1;
+  // produces a decimal from 0 *up to* max (but not including max).
+  var randomDecimal = (Math.random() * max);
 
   // take off the decimal
-  var resultInteger = Math.floor(randomFloat);
+  // this will be a number from 0 to ( max - 1 ).
+  var resultInteger = Math.floor(randomDecimal);
 
   return resultInteger;
 };
@@ -94,13 +95,14 @@ We can make a function that produces any random integer:
 
 ```javascript
 var diceRoll = function () {
-  // produces a decimal between 0 and 6
+  // produces a decimal from 0 *up to* 6 (but not including 6).
   var randomDecimal = Math.random() * 6;
 
   // take off the decimal
+  // this will be a number from 0 to ( 6 - 1 ).
   var randomInteger = Math.floor(randomDecimal);
 
-  // it's anumber from 0 - 5 ... add 1
+  // it's a number from 0 - 5 ... add 1
   var diceNumber = randomInteger + 1;
 
   return diceNumber;
