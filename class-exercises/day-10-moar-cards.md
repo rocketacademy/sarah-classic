@@ -14,7 +14,7 @@ When the user clicks submit draw a single card from the deck and show it to them
 
 Implement the High Card game from [10.1: Objects](../10-javascript-objects/10-1-objects.md#high-card) with one difference. The winner is the person with the lowest card.
 
-## Low Card with Joker
+## Low Card with Queen Winner
 
 Alter the Low Card game. If any of the players draw a Queen, they win.
 
