@@ -41,7 +41,7 @@ Player 2 wins!
 
 ## **Wild**
 
-Same rules as High Card, with the following twist. At the beginning of the game, pick a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins the game.
+Same rules as Low Card, with the following twist. At the beginning of the game, pick a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins the game.
 
 ## Wild - Player's Choice
 
