@@ -57,9 +57,9 @@ Add another mode so that the game can be played by 2 players taking turns playin
 
 ## More Comfortable
 
-Pairs
+### Pairs
 
-If any player gets a pair in the cards they craw, they win.
+If any player gets a pair in the cards they draw, they win.
 
 ## Daily Feedback
 
