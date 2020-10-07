@@ -10,13 +10,34 @@ Copy the deck array and the card shuffle function from the [objects page](https:
 
 When the user clicks submit draw a single card from the deck and show it to them.
 
-## High Card
+## Low Card
 
-Implement the High Card game from [10.1: Objects](../10-javascript-objects/10-1-objects.md#high-card). Feel free to use the code from 10.1.
+Implement the High Card game from [10.1: Objects](../10-javascript-objects/10-1-objects.md#high-card) with one difference. The winner is the person with the lowest card.
+
+## Low Card with Joker
+
+Alter the Low Card game. If any of the players draw a Queen, they win.
 
 ## Hands
 
 At the beginning of the game the player can say how many cards they want. The highest card the player has is what's compared against the computer card.  
+
+## Output
+
+Implement a nice looking output for the card game. Use a helper function to display each card nicely with emoji. \(♠️, etc.\).
+
+Example:
+
+```text
+Player 1 drew:
+1 of ♦️.
+
+Player 2 drew:
+6 of ♣️.
+
+6 of ♣️ beats 1 of ♦!
+Player 2 wins!
+```
 
 ## **Wild**
 
@@ -33,6 +54,12 @@ Allow the player to wager a number of points on each game. \(A new mode will be 
 ## Two-Player
 
 Add another mode so that the game can be played by 2 players taking turns playing a card from their hand. The grey box will tell the players to switch so they don't see each other's cards.
+
+## More Comfortable
+
+Pairs
+
+If any player gets a pair in the cards they craw, they win.
 
 ## Daily Feedback
 
