@@ -86,18 +86,18 @@
 ## 10: JavaScript Objects
 
 * [10.1: Objects](10-javascript-objects/10-1-objects.md)
-* [10.2 Card Deck Generation with Loops](10-javascript-objects/10.2-card-deck-generation-with-loops.md)
-* [10.3 Card Game Example](10-javascript-objects/10.3-card-game-example.md)
+* [10.2: Card Deck Generation with Loops](10-javascript-objects/10.2-card-deck-generation-with-loops.md)
+* [10.3: Card Game Example](10-javascript-objects/10.3-card-game-example.md)
 
 ## 11: ADVANCED DEBUGGING
 
-* [11.1 Advanced Debugging with Sources Tab](11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
+* [11.1: Advanced Debugging with Sources Tab](11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
 
 ## 12: NEXT STEPS
 
-* [12.1 Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
-* [12.2 HTML / CSS Review](12-next-steps/12.2-html-css-review.md)
-* [12.3 Deployment](12-next-steps/12.3-deployment.md)
+* [12.1: Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
+* [12.2: HTML / CSS Review](12-next-steps/12.2-html-css-review.md)
+* [12.3: Deployment](12-next-steps/12.3-deployment.md)
 
 ## Past Projects
 
