@@ -78,11 +78,11 @@ We can make a function that produces any random integer:
 
 ```javascript
 var getRandomInteger = function (max) {
-  // produces a decimal from 0 *up to* max (but not including max).
-  var randomDecimal = (Math.random() * max);
+  // produces a decimal from 0 through max + 1.
+  var randomDecimal = Math.random() * (max + 1);
 
   // take off the decimal
-  // this will be a number from 0 to ( max - 1 ).
+  // this will be a number from 0 through max.
   var resultInteger = Math.floor(randomDecimal);
 
   return resultInteger;
