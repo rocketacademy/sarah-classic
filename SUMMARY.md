@@ -99,8 +99,8 @@
 * [12.2 HTML / CSS Review](12-next-steps/12.2-html-css-review.md)
 * [12.3 Deployment](12-next-steps/12.3-deployment.md)
 
-## Retired Projects
+## Past Projects
 
-* [Drawing With Emojis](retired-projects/drawing-with-emojis.md)
-* [Guess the Word](retired-projects/guess-the-word.md)
+* [Drawing With Emojis](past-projects/drawing-with-emojis.md)
+* [Guess the Word](past-projects/guess-the-word.md)
 
