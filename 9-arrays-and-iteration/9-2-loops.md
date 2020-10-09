@@ -47,6 +47,10 @@ var main = function (input) {
 };
 ```
 
+{% hint style="warning" %}
+Note that except for some rare exceptions, the increment of the counter \(`counter = counter + 1`\) should be the last statement in the loop block. Don't write any statement below that, it's most likely not what you intended.
+{% endhint %}
+
 ### Outputting Program with Logic
 
 {% embed url="https://youtu.be/ozrUPHZWfIw" %}
