@@ -1,5 +1,11 @@
 # Day 10: Chat Bot
 
+**Let's make a chat bot that can ask the user a single question when the submit button it clicked.**
+
+The user can respond to the question by typing in the input and the bot can respond.
+
+Read the entire set of exercises before you begin so you can see how the chat bot will become more complex.
+
 Use an object to encode the kinds of things the chat bot will respond with:
 
 ```text
