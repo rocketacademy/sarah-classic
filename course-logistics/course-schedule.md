@@ -171,7 +171,7 @@ Total Video Watch Time: **~60 mins**
 
 #### In-Class Material
 
-* [Day 10: Chat Bot](../class-exercises/day-9-guess-the-word-redux.md)
+* [Day 10: Chat Bot](../class-exercises/day-10-chat-bot.md)
 
 ### Day 11
 
