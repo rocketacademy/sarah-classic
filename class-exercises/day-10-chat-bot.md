@@ -123,7 +123,7 @@ var chatBotData = {
 };
 ```
 
-## Chat Bot Asks Your Age
+### Chat Bot Asks Your Age
 
 ```text
 Bot: Hey! I'm Dennis. What's your name?
@@ -166,7 +166,7 @@ var chatBotData = {
 };
 ```
 
-## Barnum Questions
+### Barnum Questions
 
 Implement questions that the bot can ask and answer universally. Have the bot ask these questions randomly interspersed with the other questions.
 
