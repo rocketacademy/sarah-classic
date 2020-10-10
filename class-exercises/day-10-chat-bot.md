@@ -1,6 +1,6 @@
 # Day 10: Chat Bot
 
-**Let's make a chat bot that can ask the user a single question when the submit button it clicked.**
+**Let's make a chat bot that can ask the user a single question when the submit button is clicked.**
 
 The user can respond to the question by typing in the input and the bot can respond.
 
@@ -19,7 +19,7 @@ Bot: I've been trying this new raw meat diet. Works wonders.
 
 The answer to one question will be encoded in an object:
 
-```js
+```javascript
 var answer = {
   yes: 'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
   no: 'Oh ok, just normally good lookin ;)',
@@ -29,7 +29,7 @@ var answer = {
 
 You can access the data directly by using the user response as an attribute in the object.
 
-```js
+```javascript
 var answerText = answer[input] // value of input is: 'yes'
 ```
 
@@ -37,7 +37,7 @@ var answerText = answer[input] // value of input is: 'yes'
 
 Extend the capabilities of the chat bot by putting the text of the question with the answer:
 
-```js
+```javascript
 var chatBotData = {
   question: 'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
   answers: {
@@ -95,16 +95,16 @@ You are adding these 2 functionalities:
 
 **1\)** When the user gives their age, set some behaviour that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
 
-**2\)** The bot repeats itself with 2 different modes of response. In this example it's:  
-  
-  **a\)** `{name} I bet {something about age} don't know that ...`  
-  **b\)** `But for someone {age} I thought you might also want to know that nowadays`
+**2\)** The bot repeats itself with 2 different modes of response. In this example it's:
+
+**a\)** `{name} I bet {something about age} don't know that ...`  
+**b\)** `But for someone {age} I thought you might also want to know that nowadays`
 
 ## Chat Bot Response Setting
 
 Instead of an array, use an object to hold all the questions. And use another key to set the order the questions are asked in.
 
-```js
+```javascript
 var chatBotData = {
   first: {
     question: 'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
@@ -125,17 +125,17 @@ var chatBotData = {
     nextQuestion: 'weather',
 
   },
-
   // [...] other questions down here
 };
 ```
 
 ## More Comfortable
 
-## Dynamic Chat Bot
+### Dynamic Chat Bot
 
-Change the next question based on the user response
+Change the next question based on the user response.
 
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+

@@ -1,6 +1,6 @@
 # 9.2: Loops
 
-{% embed url="https://youtu.be/wn3G\_OO32kg" %}
+{% embed url="https://youtu.be/wn3G\_OO32kg" caption="" %}
 
 We've defined an array and looked inside of it and added values, but we don't yet have anything that can deal with the entire array. Or specifically that can deal with **each** item in the array, when the array is an arbitrary length.
 
@@ -18,7 +18,7 @@ We'll look at loops in isolation first, then we'll see that they match up perfec
 
 This is a loop that runs 10 times.
 
-```js
+```javascript
 var counter = 0;
 while (counter < 10) {
   console.log('hello');
@@ -52,7 +52,7 @@ Note that except for some rare exceptions, the increment of the counter \(`count
 
 ### Outputting Program with Logic
 
-{% embed url="https://youtu.be/ozrUPHZWfIw" %}
+{% embed url="https://youtu.be/ozrUPHZWfIw" caption="" %}
 
 Let's create a program that outputs things in a loop based on some input. If we put a conditional inside the loop we can have it output two types of things.
 
@@ -76,14 +76,14 @@ var main = function (input) {
 
 #### Logic Variations
 
-Just with the combination of loops and conditionals we have a very powerful set of tools to create a set of  output patterns.
+Just with the combination of loops and conditionals we have a very powerful set of tools to create a set of output patterns.
 
 By using the property of counter alternating between odd and even numbers we can get an output that alternates.
 
 {% hint style="warning" %}
 Note that one of the main tricks to working with loops is being able to identify the pattern you want to create and working backwards from there to construct the logic within the loop and without to get that pattern.
 
-Many patterns will be a combination of this creation of a repeating pattern like here with `%` and some more specific global conditions like the example above.  
+Many patterns will be a combination of this creation of a repeating pattern like here with `%` and some more specific global conditions like the example above.
 {% endhint %}
 
 ```javascript
@@ -106,7 +106,7 @@ while (counter < input) {
 
 ## Loops and Functions
 
-{% embed url="https://youtu.be/5qeXMmGRhZY" %}
+{% embed url="https://youtu.be/5qeXMmGRhZY" caption="" %}
 
 We can combine a loop and a function together, effectively moving a block of code outside the loop definition. \(Obviously you can also do the reverse- put a loop inside a function\).
 
@@ -146,7 +146,7 @@ var main = function (input) {
 
 ## Loops and Loops - Outputting Program with Dimensions
 
-{% embed url="https://youtu.be/wxUafGMsOw4" %}
+{% embed url="https://youtu.be/wxUafGMsOw4" caption="" %}
 
 Let's create a program that outputs things in a loop based on some input. If we put another loop inside the loop we can represent other _lines_ of output.
 
@@ -160,7 +160,7 @@ var main = function (input) {
 
   while (lineCounter < input) {
     var columnCounter = 0;
-  
+
     while (columnCounter < input) {
       myOutputValue = myOutputValue + 'x';
 
@@ -169,7 +169,7 @@ var main = function (input) {
 
     // start a new line
     myOutputValue = myOutputValue + '<br>';
-  
+
     lineCounter = lineCounter + 1;
   }
 
@@ -178,7 +178,6 @@ var main = function (input) {
 ```
 
 {% hint style="warning" %}
-
 #### for loops
 
 There are other variations on the syntax we have shown above which also have the same behavior of repeating a set of code over and over again. \(for, for in, forEach iterator, etc.\).
@@ -257,3 +256,4 @@ For example, if the user enters 4 they will see this:
 
 Please find a reference solution [here](https://github.com/rocketacademy/swe101-drawing/pull/9/files). Note that there are many ways to code solutions to these problems and the reference solution is only 1 way.
 {% endhint %}
+

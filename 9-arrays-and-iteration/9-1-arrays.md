@@ -1,6 +1,6 @@
 # 9.1: Arrays
 
-{% embed url="https://youtu.be/CI09j\_aHLE0" %}
+{% embed url="https://youtu.be/CI09j\_aHLE0" caption="" %}
 
 We've been able to build rather complex programs using some basic control flow syntax.
 
@@ -36,7 +36,7 @@ We can represent data values of the same kind collected together. These are valu
 
 #### Hold a list of the names of every day in the week
 
-```js
+```javascript
 var daysOfTheWeek = [
   'Monday',
   'Tuesday',
@@ -117,7 +117,6 @@ What happens when you try to access an array element that doesn't exist?
 ```javascript
 letters[234534534534];
 ```
-
 {% endhint %}
 
 ### Order
@@ -235,3 +234,4 @@ When choosing to use an array in your code it is almost always to store a set of
 {% hint style="info" %}
 **1\) Implement the above code.**
 {% endhint %}
+
