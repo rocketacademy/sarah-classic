@@ -231,7 +231,7 @@ The ability to ask technical questions effectively is one of the biggest differe
 In SWE101, we want to start acting like senior engineers. Your peers want to help you, and Slack is a convenient way to get help 24/7, but for others to help effectively, we need to give them context. When asking questions in Slack, try to include the following, while including any relevant context or google results.
 
 1. What is the problem? Include any relevant error messages in text or screenshots.
-2. What is your hypothesis? Include relevant portions of your code, formatted as code in Slack. For snippets of code longer than your computer screen height, please use [pastebin.com](https://pastebin.com/) and share the Pastebin link.
+2. What is your hypothesis? Include relevant portions of your code, formatted as code in Slack. For snippets of code longer than your computer screen height, please use [Slack code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet).
 3. What have you tried?
 
 ### Format Code in Slack
