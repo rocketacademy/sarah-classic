@@ -30,7 +30,7 @@
 * [Day 6: Loops](class-exercises/day-6-loops.md)
 * [Day 7: Loops and Arrays](class-exercises/day-7-loops-and-arrays.md)
 * [Day 8: Dice Game Redux](class-exercises/day-8-card-games.md)
-* [Day 9: Moar Cards](class-exercises/day-10-moar-cards.md)
+* [Day 9: Moar Cards](class-exercises/day-9-moar-cards.md)
 * [Day 10: Chat Bot](class-exercises/day-10-chat-bot.md)
 * [Day 11: Debugger - BlackJack Redux](class-exercises/day-11-debugger.md)
 * [Day 12: DOM](class-exercises/day-12-dom.md)
