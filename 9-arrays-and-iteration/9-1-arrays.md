@@ -6,7 +6,7 @@ We've been able to build rather complex programs using some basic control flow s
 
 Now we're going to add in a new type of data- dynamic length data **arrays**. Then we'll talk about the manipulation of this kind of data using the control structure **loops**.
 
-Just like each of the new concepts that we've added, the mechanics are simple, but what we will be able to build can increase 
+Just like each of the new concepts that we've added, the mechanics are simple, but what we will be able to build can increase
 
 in complexity by a large amount.
 
@@ -34,9 +34,9 @@ When creating the logic for our programs, a central decision we must make is how
 
 We can represent data values of the same kind collected together. These are values that will never change.
 
-#### Hold a list of the names of every day in the week.
+#### Hold a list of the names of every day in the week
 
-```javascript
+```js
 var daysOfTheWeek = [
   'Monday',
   'Tuesday',
@@ -45,7 +45,7 @@ var daysOfTheWeek = [
   'Friday',
   'Saturday',
   'Sunday',
-];
+]
 ```
 
 **Hold a list of all letters in the alphabet.**
@@ -66,7 +66,7 @@ var dailyAverageTemperatureLastWeek = [30, 32, 29, 34, 36, 38, 32];
 
 ### Dynamic Length Data
 
-We can represent data that our program needs to alter as it runs. The program is responsible for keeping track of these data values, and making the array grow larger or smaller. 
+We can represent data that our program needs to alter as it runs. The program is responsible for keeping track of these data values, and making the array grow larger or smaller.
 
 **Record a list of all guesses a user makes in the game.**
 
@@ -74,7 +74,7 @@ We can represent data that our program needs to alter as it runs. The program is
 var winningDiceGuesses = [3, 4, 2, 1, 4];
 ```
 
-#### List of the sales recorded up to the current day \(whichever current date this program runs\).
+#### List of the sales recorded up to the current day \(whichever current date this program runs\)
 
 ```javascript
 var salesThisMonth = [34, 23, 12, 78, 56];
@@ -112,14 +112,13 @@ Square bracket syntax gives us the value at that location of the array `letters`
 **Position** implies that for any array `0` will always be the first, left-most location in the array and the last item is the right-most position in the array.
 
 {% hint style="info" %}
-What happens when you try to access an array element that doesn't exist? 
+What happens when you try to access an array element that doesn't exist?
 
 ```javascript
 letters[234534534534];
 ```
+
 {% endhint %}
-
-
 
 ### Order
 
@@ -206,20 +205,18 @@ var guesses = [];
 var main = function (input) {
 
     guesses.push(input);
-    
+
     var randomDiceNumber = diceRoll();
-    
+
     var myOutputValue = 'you lose. Your guesses: ' + guesses;
-    
+
     if (randomDiceNumber == input) {
         myOutputValue = 'you win. Your guesses: ' + guesses;
     }
-    
+
     return myOutputValue;
 };
 ```
-
-
 
 {% hint style="warning" %}
 Javascript will let you put \*any\* JavaScript data type of value inside an array:
@@ -230,7 +227,7 @@ var myValues = [23, "rocks", true, 0.345, "awesome"]; // this is valid code
 
 However, the **concept** of the array as we described it is for holding data that is of the same kind, i.e., dice rolls, and this almost always means it is of the same JavaScript data type as well. \(In this case, numbers\).
 
-When choosing to use an array in your code it is almost always to store a set of data of the same kind, and it will follow that it will be the same _JavaScript data type_ as well. 
+When choosing to use an array in your code it is almost always to store a set of data of the same kind, and it will follow that it will be the same _JavaScript data type_ as well.
 {% endhint %}
 
 ## Exercises
@@ -238,6 +235,3 @@ When choosing to use an array in your code it is almost always to store a set of
 {% hint style="info" %}
 **1\) Implement the above code.**
 {% endhint %}
-
-
-

@@ -18,11 +18,10 @@ We'll look at loops in isolation first, then we'll see that they match up perfec
 
 This is a loop that runs 10 times.
 
-```javascript
+```js
 var counter = 0;
 while (counter < 10) {
   console.log('hello');
-
   counter = counter + 1;
 }
 ```
@@ -111,7 +110,7 @@ while (counter < input) {
 
 We can combine a loop and a function together, effectively moving a block of code outside the loop definition. \(Obviously you can also do the reverse- put a loop inside a function\).
 
-We can use the `diceRoll` function elsewhere and it also helps to keep our code clean inside the loop block. 
+We can use the `diceRoll` function elsewhere and it also helps to keep our code clean inside the loop block.
 
 ```javascript
 var diceRoll = function () {
@@ -179,6 +178,7 @@ var main = function (input) {
 ```
 
 {% hint style="warning" %}
+
 #### for loops
 
 There are other variations on the syntax we have shown above which also have the same behavior of repeating a set of code over and over again. \(for, for in, forEach iterator, etc.\).
@@ -197,7 +197,7 @@ The key thing to know about this syntax \(that we believe is confusing\), is tha
 
 These steps are: 1\) create counter variable 2\) evaluate condition 3\) increment counter 4\) evaluate condition, etc.
 
-For that reason we suggest you stick with while loops until you are very comfortable with the mechanic of the loop syntax. 
+For that reason we suggest you stick with while loops until you are very comfortable with the mechanic of the loop syntax.
 {% endhint %}
 
 ## Exercises
@@ -257,6 +257,3 @@ For example, if the user enters 4 they will see this:
 
 Please find a reference solution [here](https://github.com/rocketacademy/swe101-drawing/pull/9/files). Note that there are many ways to code solutions to these problems and the reference solution is only 1 way.
 {% endhint %}
-
-
-

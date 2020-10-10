@@ -5,20 +5,14 @@ module.exports = {
   },
   extends: [
     'airbnb-base',
+    // Markdown setup from here https://github.com/eslint/eslint-plugin-markdown
+    'plugin:markdown/recommended',
   ],
   parserOptions: {
     ecmaVersion: 11,
   },
-  // Markdown setup from here https://github.com/eslint/eslint-plugin-markdown
   plugins: [
-    'markdown',
     'spellcheck',
-  ],
-  overrides: [
-    {
-      files: ['**/*.md'],
-      processor: 'markdown/markdown',
-    },
   ],
   // ESLint settings for Gitbook JavaScript
   rules: {
