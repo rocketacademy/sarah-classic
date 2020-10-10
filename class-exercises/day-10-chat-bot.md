@@ -166,6 +166,12 @@ var chatBotData = {
 };
 ```
 
+## Barnum Questions
+
+Implement questions that the bot can ask and answer universally. Have the bot ask these questions randomly interspersed with the other questions.
+
+See: the Barnum Effect: [https://en.wikipedia.org/wiki/Barnum\_effect](https://en.wikipedia.org/wiki/Barnum_effect)
+
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
