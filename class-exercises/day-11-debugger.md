@@ -1,4 +1,4 @@
-# Day 11: Debugger - BlackJack Redux
+# Day 11: Debugger - Blackjack Redux
 
 ## Code Review - Individual
 
