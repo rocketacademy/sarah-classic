@@ -81,7 +81,10 @@ Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.
     },
     "eslint.format.enable": true,
     "eslint.lintTask.enable": true,
-    "eslint.migration.2_x": "off"
+    "eslint.migration.2_x": "off",
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    }
 }
 ```
 
