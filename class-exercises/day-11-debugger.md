@@ -71,6 +71,10 @@ _Note that if you are working on the other person's code you can't commit or upd
 
 If you are both done with all parts of the game, implement the following new features in one of the games together.
 
+### More Comfortable
+
+If you have completed [Blackjack Part 1](../projects/project-3-blackjack-part-1.md) including Splits, please start working on [Blackjack Part 2](../projects/project-3.5-blackjack-part-2.md) with your partner.
+
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
