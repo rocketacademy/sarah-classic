@@ -39,6 +39,8 @@ We'll put you in breakout rooms so you can discuss what you saw.
 
 Practice using the debugger on the game.
 
+Please switch driver so that each person gets a chance to set the debugger on their own computer. 
+
 #### Someone Else's Code
 
 We'll use the debugger to see into the code.
