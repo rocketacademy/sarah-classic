@@ -45,9 +45,9 @@ Please switch driver so that each person gets a chance to set the debugger on th
 
 We'll use the debugger to see into the code.
 
-Create two console.log, before and after where the cards are swapped in the shuffle function. Set the breakpoints on the console.logs.
+Create two `console.log`s, before and after where the cards are swapped in the shuffle function. Set the breakpoints on the `console.log`s.
 
-If the code is using the deck generation function set a breakpoint in the code where it pushes the individual card object into the deck array.   
+If the code is using the deck generation function, set a breakpoint in the code where it pushes the individual card object into the deck array.
 
 #### Your Own Code
 
@@ -71,11 +71,9 @@ Switch to work on the other person's code.
 
 _Note that if you are working on the other person's code you can't commit or update GitHub because of the way the repos are setup._
 
-If you are both done with all parts of the game, implement the following new features in one of the games together.
-
 ### More Comfortable
 
-If you have completed [Blackjack Part 1](../projects/project-3-blackjack-part-1.md) including Splits, please start working on [Blackjack Part 2](../projects/project-3.5-blackjack-part-2.md) with your partner.
+If you are both done with all parts of the game, implement the More Comfortable exercises for the project. If you have completed [Blackjack Part 1](../projects/project-3-blackjack-part-1.md)'s More Comfortable exercises including Splits, please start working on [Blackjack Part 2](../projects/project-3.5-blackjack-part-2.md) with your partner.
 
 ## Daily Feedback
 
