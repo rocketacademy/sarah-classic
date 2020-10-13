@@ -205,6 +205,7 @@ Total Video Watch Time: **~22 mins**
 #### In-Class Material
 
 * [DOM](../class-exercises/day-12-dom.md)
+* [Project Deployment](../12-next-steps/12.3-deployment.md)
 
 ### Day 13
 
