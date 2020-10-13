@@ -68,20 +68,16 @@ Calling `Math.random()` returns a random decimal number value between 0 and 1, i
 
 We'll be using another math functionality: `Math.floor()`. We will use the code referred to on this [page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random).
 
-With `Math.random()` and `Math.floor()`, we can make a function that produces any random integer from 1 to a provided `max` number:
+With `Math.random()` and `Math.floor()`, we can make a function that produces any random integer from 0 to a provided `max` number:
 
 ```javascript
 var getRandomInteger = function (max) {
-  // produce a decimal from 0 through max, exclusive of max.
-  var randomDecimal = Math.random() * max;
+  // produce a decimal from 0 through max + 1, exclusive of max + 1.
+  var randomDecimal = Math.random() * (max + 1);
 
   // take off the decimal
-  // this will be a number from 0 through max - 1.
-  var randomInteger = Math.floor(randomDecimal);
-
-  // create resultInteger by incrementing randomInteger by 1
-  // this will create a number from 1 through max.
-  var resultInteger = randomInteger + 1;
+  // this will be a number from 0 through max, inclusive of max.
+  var resultInteger = Math.floor(randomDecimal);
 
   return resultInteger;
 };
