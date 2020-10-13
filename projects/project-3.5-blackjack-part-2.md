@@ -8,11 +8,11 @@ Now that the gameplay of Blackjack has been completed we are leaving it up to yo
 
 There are several possibilities:
 
-#### Add betting
+### Add Betting
 
 Keep track of the user's points at the beginning of the game. They can bet on their hands.
 
-#### Better Output Formatting
+### Better Output Formatting
 
 Make the output of the game look really cool.
 
@@ -20,7 +20,7 @@ Can you represent the cards with some graphics?
 
 Ask the player their name?
 
-#### Multi-Player
+### Multi-Player
 
 Add multi-player so different people can take turns. The game hides and shows the hand according to the turn. 
 
