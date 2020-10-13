@@ -212,6 +212,10 @@ Total Video Watch Time: **~22 mins**
 
 * [Project 3.5: Blackjack Part 2](../projects/project-3.5-blackjack-part-2.md)
 
+#### Pre-Class Material
+
+* [12.3: Deployment](../12-next-steps/12.3-deployment.md)
+
 #### In-Class Material
 
 * Course feedback
