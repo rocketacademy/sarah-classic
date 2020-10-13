@@ -58,40 +58,36 @@ Let's build a game of dice program. We will begin with very simple rules to this
 
 Let's build the random number generation before we talk about the dice game logic.
 
-Javascript language can produce random numbers using a build-in set of functions called `Math` \(case-sensitive\).
+JavaScript language can produce random numbers using a build-in set of functions called `Math` \(case-sensitive\).
 
 ```javascript
 var myRandomValue = Math.random();
 ```
 
-Calling `Math.random()` returns a random number value. However we have a dice game, so there is more code we have to write to get the value we want.
+Calling `Math.random()` returns a random decimal number value between 0 and 1, inclusive of 0 and exclusive of 1. However we have a dice game, so we have to do some math on this number to get what we want.
 
-#### `Math.random()` returns a decimal number from 0-1
+We'll be using another math functionality: `Math.floor()`. We will use the code referred to on this [page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random).
 
-We have to do some math on this number to get what we want.
-
-We'll also be using another math functionality: `Math.floor()`.
-
-We will use the code referred to on this [page.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
-
-We can make a function that produces any random integer:
+With `Math.random()` and `Math.floor()`, we can make a function that produces any random integer from 1 to a provided `max` number:
 
 ```javascript
 var getRandomInteger = function (max) {
-  // produces a decimal from 0 through max + 1.
-  var randomDecimal = Math.random() * (max + 1);
+  // produce a decimal from 0 through max, exclusive of max.
+  var randomDecimal = Math.random() * max;
 
   // take off the decimal
-  // this will be a number from 0 through max.
-  var resultInteger = Math.floor(randomDecimal);
+  // this will be a number from 0 through max - 1.
+  var randomInteger = Math.floor(randomDecimal);
+
+  // create resultInteger by incrementing randomInteger by 1
+  // this will create a number from 1 through max.
+  var resultInteger = randomInteger + 1;
 
   return resultInteger;
 };
 ```
 
-But what we are creating is a dice rolling game, so we can just make a dice function.
-
-We can make a function that produces any random integer:
+But what we are creating is a dice rolling game, so we can just make a `diceRoll` function that produces a random integer from 1 to 6:
 
 ```javascript
 var diceRoll = function () {
@@ -99,10 +95,10 @@ var diceRoll = function () {
   var randomDecimal = Math.random() * 6;
 
   // take off the decimal
-  // this will be a number from 0 to ( 6 - 1 ).
+  // this will be a number from 0 to 5.
   var randomInteger = Math.floor(randomDecimal);
 
-  // it's a number from 0 - 5 ... add 1
+  // Add 1 to get valid dice numbers of 1 through 6.
   var diceNumber = randomInteger + 1;
 
   return diceNumber;
@@ -111,7 +107,7 @@ var diceRoll = function () {
 
 ### Game: Dice Roll Guess
 
-let's implement the logical rules to our game.
+Let's implement the logical rules to our game.
 
 If the dice roll the same number as the user entered, they win.
 
