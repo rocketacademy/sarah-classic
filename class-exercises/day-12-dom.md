@@ -90,7 +90,7 @@ Call `makeCard` in `script.js`.
 
 ## Events
 
-Change `makeCard` so that it has a `button` inside it.
+Change `makeBox` so that it has a `button` inside it.
 
 ```markup
 <div>
