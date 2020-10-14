@@ -56,7 +56,7 @@ Refer to [the gitbook page](../12-next-steps/12.1-browser-applications-with-dom.
 
 You can use DOM to set the `img` `src` attribute.
 
-Given this HTML:
+Using JavaScript create HTML elements that would create a UI card like this:
 
 ```css
 <section>
@@ -96,7 +96,7 @@ Change `makeBox` so that it has a `button` inside it.
 <div>
     <p>Make Box was Called</p>
     <p>Hello :)</p>
-    <button id="makeBoxButton">make card</button>
+    <button>make card</button>
 </div>
 ```
 
@@ -105,7 +105,6 @@ When this button gets clicked it calls `makeCard`- Call `addEventListener` on th
 ```javascript
 var button = document.createElement('button');
 button.innerText = 'make card';
-button.id = 'makeBoxButton';
 button.addEventListener('click', makeCard);
 ```
 
