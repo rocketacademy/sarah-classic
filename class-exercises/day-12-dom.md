@@ -1,6 +1,13 @@
 # Day 12: DOM
 
-  
+## Deployment
+
+Make a fork of[ this starter code](https://github.com/rocketacademy/swe101-deployment) and git clone it onto your computer. Customize it to your name and add whatever content you want.
+
+Follow the [deployment instructions](../12-next-steps/12.3-deployment.md) to put it onto the internet. Send the link to your pair.
+
+## DOM
+
 Begin by cloning a new copy of the [DOM starter code.](https://github.com/rocketacademy/swe101-next-steps-dom) Reminder to `npm install` to activate ESLint!‌
 
 ## Creating Elements
