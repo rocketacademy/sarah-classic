@@ -241,7 +241,9 @@ In SWE101, we want to start acting like senior engineers. Your peers want to hel
 
 When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates a code block with monospaced text for easier reading.
 
-For variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the word to format that word as code.
+For single-line code like variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the code to format it.
 
-For multi-line blocks of code like functions, we can use triple backtick \(\`\`\`\) to format that code in Slack.
+For multi-line blocks of code like functions, we can use triple backtick \(\`\`\`\) to format that code in Slack.  
+  
+For longer code blocks, please use [Slack code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) to format code so that the code is formatted nicely and takes up less space in Slack.
 
