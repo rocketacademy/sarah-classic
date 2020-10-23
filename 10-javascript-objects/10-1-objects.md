@@ -151,7 +151,7 @@ var shuffleCards = function (cards) {
 
 ## High Card
 
-The high card draws two random cards and compares them. We are using `pop` to take them off the top of the deck, because the deck is already randomly ordered.
+In High Card, each player draws a random card and compares them. We are using `pop` to take them off the top of the deck, because the deck is already randomly ordered.
 
 We can use the rank attribute of the cards to compare.
 
@@ -466,8 +466,8 @@ var deck = [
 ## Exercises
 
 {% hint style="info" %}
-\*\*1\) Implement the above code.
+1\) Implement the High Card code above to get a working High Card game.
 
-2\) Change the high card program so that the player and computer draw 2 cards instead of 1. Highest of any of the cards wins.\*\*
+2\) Change the High Card program so that the player and computer each draw 2 cards instead of 1. The player with the highest of any of the cards wins.
 {% endhint %}
 
