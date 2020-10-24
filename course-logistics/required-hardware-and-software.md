@@ -76,6 +76,7 @@ Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.
 {
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
+    "editor.tabSize": 2,
     "eslint.codeAction.showDocumentation": {
         "enable": true
     },
