@@ -60,11 +60,11 @@ We will make a few small configurations to VSCode to make it easier to work with
 
 {% embed url="https://youtu.be/gGzX8uUbuIo" %}
 
-#### Install the ESLint Extension for VSCode
+#### Install the ESLint and Prettier Extensions for VSCode
 
 This will auto-format your code and give you warnings about common simple coding errors. 
 
-Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), and the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 
 {% hint style="warning" %}
 "ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
