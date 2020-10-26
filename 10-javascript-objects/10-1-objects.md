@@ -6,7 +6,7 @@ Now we'll continue to build programs of increasing complexity.
 
 We'll be implementing a game of cards, and we'll introduce a new kind of data that will make our programs easier to write and reason about.
 
-Note that the javascript `object` is not the same object concept that is usually referred to in _Object Oriented Programming_. A javascript object is referred to as a _hash_ or _dictionary_ in some other languages.
+Note that the JavaScript `object` is not the same object concept that is usually referred to in _Object Oriented Programming_. A JavaScript Object is referred to as a _hash_ or _dictionary_ in some other languages.
 
 ## Compound Data
 
