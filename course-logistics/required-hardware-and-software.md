@@ -205,7 +205,7 @@ _Note that all files and folders are in lowercase and kebab case \(hyphenated\) 
 4. Within `homework` and `class` folders, keep a separate folder for every exercise you do that requires you to create a new Git repository or clone a new copy of the SWE101 starter code.
 
 {% hint style="warning" %}
-When cloning the starter code, choose to [name the target folder](../4-getting-started-with-code/4-1-intro-to-github.md#clone) to the relevant exercise name. 
+When cloning the starter code, choose to [name the target folder](../4-getting-started-with-code/4.1-intro-to-github.md#clone) to the relevant exercise name. 
 
 This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
 {% endhint %}

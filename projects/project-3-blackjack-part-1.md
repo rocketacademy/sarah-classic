@@ -75,7 +75,7 @@ Add the part of the logic that deals with the Ace being 1 or 11.
 
 * Creating helper functions can be a powerful way to refactor your code and keep it neat.
 * Don't be afraid to throw away code, especially if you already know how you would write it better.
-* Commit your code often- whenever you have a small working version. \(Each version listed above would be a commit\). Make legible and accurate commit messages so that you can refer to your old changes [through the GitHub website later.](../7-github/7-2-github-repo-browsing.md)
+* Commit your code often- whenever you have a small working version. \(Each version listed above would be a commit\). Make legible and accurate commit messages so that you can refer to your old changes [through the GitHub website later.](../7-github/7.2-github-repo-browsing.md)
 
 ## More Comfortable
 
