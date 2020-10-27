@@ -18,14 +18,13 @@ The goal of self-learning is for students to learn concepts **before** class, su
 
 The goal of live classes is for students to solidify understanding of concepts through explaining concepts with peers and working through exercises in pairs based on those concepts.
 
-**Live classes are mandatory** and will be held from 1-3pm on Saturdays, 7-9pm on Mondays, and 7-9pm on Wednesdays over Zoom. There will be 13 classes total. Each section will have their own Zoom room to meet for live classes.
+**Live classes are mandatory** and will be held from 7-9pm on Tuesdays and 1-3pm on Saturdays over Zoom. There will be 1 pre-course briefing and 12 classes total. Each section will have their own Zoom room to meet for live classes.
 
 Live classes will generally follow this outline:
 
 1. 15 minutes for students to explain and review concepts with the section
-2. 60 minutes of pair programming on new exercises with a designated peer
+2. 90 minutes of pair programming on new exercises with a designated peer
 3. 15 minutes for students to summarise and conclude with the section
-4. 30 minutes of office hours where section leaders will be available to answer questions
 
 ## Pair Programming
 
