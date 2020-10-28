@@ -40,11 +40,11 @@ Specifically your function needs 7 steps:
 Edit `style.css` so you can clearly identify the box:
 
 ```css
-div{
-    background-color:white;
-    border:2px solid red;
-    padding:10px;
-    margin:10px;
+div {
+  background-color: white;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
 }
 ```
 
@@ -72,17 +72,18 @@ Using JavaScript create HTML elements that would create a UI card like this:
 An example of setting the `src` attribute in JS would look like this:
 
 ```javascript
-imgTag.src = 'https://gblobscdn.gitbook.com/assets%2F-MBhJa4xpezxI4J9lolG%2F-MGrF6rE0CBWVzznQayq%2F-MGrGfwNRi1D6aKWmg4G%2Fducks2.jpeg?alt=media&token=9dff244b-10e8-4fab-ab68-715e09998ff3';
+imgTag.src =
+  'https://gblobscdn.gitbook.com/assets%2F-MBhJa4xpezxI4J9lolG%2F-MGrF6rE0CBWVzznQayq%2F-MGrGfwNRi1D6aKWmg4G%2Fducks2.jpeg?alt=media&token=9dff244b-10e8-4fab-ab68-715e09998ff3';
 ```
 
 Edit `style.css` for `makeCard` as well:
 
 ```css
-section{
-    background-color:grey;
-    border:2px solid blue;
-    padding:10px;
-    margin:10px;
+section {
+  background-color: grey;
+  border: 2px solid blue;
+  padding: 10px;
+  margin: 10px;
 }
 ```
 
@@ -133,4 +134,3 @@ The user can fill out a number, _x_ in the input. When they click the button, _x
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
-

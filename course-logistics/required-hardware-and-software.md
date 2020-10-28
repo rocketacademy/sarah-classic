@@ -30,7 +30,7 @@ Slack is RA's primary mode of communication. It allows us to communicate across 
 
 ### Zoom
 
-Zoom is RA's video conferencing software for live classes. Each section will have its own Zoom link to join for each class. 
+Zoom is RA's video conferencing software for live classes. Each section will have its own Zoom link to join for each class.
 
 #### Installation
 
@@ -62,7 +62,7 @@ We will make a few small configurations to VSCode to make it easier to work with
 
 #### Install the ESLint and Prettier Extensions for VSCode
 
-This will auto-format your code and give you warnings about common simple coding errors. 
+This will auto-format your code and give you warnings about common simple coding errors.
 
 Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), and the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 
@@ -89,7 +89,7 @@ Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.
 }
 ```
 
-Open VSCode and open the command prompt with:  **⌘ + Shift + P** \(Windows: **Ctrl + Shift + P**\). 
+Open VSCode and open the command prompt with: **⌘ + Shift + P** \(Windows: **Ctrl + Shift + P**\).
 
 Type to get the settings file: `Preferences: Open Settings (JSON)` \(Start typing this to get the autocomplete\).
 
@@ -105,9 +105,9 @@ Window snapping is built-in to Windows, and you can take advantage of it with in
 
 #### Mac
 
-Window snapping is not built-in to MacOS, and we will need to download an external program to snap windows. We recommend any of the following. 
+Window snapping is not built-in to MacOS, and we will need to download an external program to snap windows. We recommend any of the following.
 
-1. [Magnet](https://magnet.crowdcafe.com/) \(S$5\) is an actively maintained window snapping app on the Mac App Store.
+1. [Magnet](https://magnet.crowdcafe.com/) \(S\$5\) is an actively maintained window snapping app on the Mac App Store.
 2. [Spectacle](https://www.spectacleapp.com/) \(free\) is similar to Magnet, but is no longer actively maintained, which means that it may stop working when Apple makes changes to MacOS.
 
 ## Required Command Line Software
@@ -125,7 +125,7 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 
 #### Installation
 
-1. Download and install Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+1. Download and install Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 2. \[Windows Only\] Follow [command line setup instructions below](required-hardware-and-software.md#command-line-setup-for-windows) to set Bash as the terminal language.
 3. Verify Git is installed by typing `git --version` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `git version 2.28.0`.
 
@@ -140,7 +140,7 @@ Node.js is the most popular JavaScript runtime. "Runtime" in a coding context re
 
 ### Command Line Setup for Windows
 
-We will need to use the command line \(also known as a terminal, more on this in a later video\) during SWE101. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994). 
+We will need to use the command line \(also known as a terminal, more on this in a later video\) during SWE101. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
 
 1. Open Visual Studio Code and press and hold Ctrl + \` to open the terminal.
 
@@ -195,32 +195,32 @@ You should see your user name and email in the output. \(And possibly some other
 
 ## Folder Structure for SWE101
 
-In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep things organised, we  recommend the following folder structure.
+In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep things organised, we recommend the following folder structure.
 
 _Note that all files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them._
 
-1. Host all SWE101 code in a folder called `swe101`. Keep this in your  `Documents` folder.
+1. Host all SWE101 code in a folder called `swe101`. Keep this in your `Documents` folder.
 2. Within the `swe101` folder, for each class session \(there are 13 total\) in SWE101, create a new folder for that day. This means you will have 13 day-specific folders, such as `day1`, `day2`, ..., `day13`.
 3. Within each `dayX` folder, create 1 folder for homework exercises and another folder for class-time exercises. These can look like `homework` and `class`, or any other naming scheme that works for you.
 4. Within `homework` and `class` folders, keep a separate folder for every exercise you do that requires you to create a new Git repository or clone a new copy of the SWE101 starter code.
 
 {% hint style="warning" %}
-When cloning the starter code, choose to [name the target folder](../4-getting-started-with-code/4.1-intro-to-github.md#clone) to the relevant exercise name. 
+When cloning the starter code, choose to [name the target folder](../4-getting-started-with-code/4.1-intro-to-github.md#clone) to the relevant exercise name.
 
 This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
 {% endhint %}
 
-![What my \`swe101\` directory looks like in Finder on my Mac](../.gitbook/assets/jie-ping-20200924-16.57.21.png)
+![What my `swe101` directory looks like in Finder on my Mac](../.gitbook/assets/jie-ping-20200924-16.57.21.png)
 
 ## Open SWE101 Folder in VSCode
 
 When working with code, it's often necessary to jump between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to quickly jump between files in that folder without having to File &gt; Open every time.
 
 {% hint style="warning" %}
-For SWE101, we recommend storing all of your code in a folder called `swe101` as per the [recommended folder structure](required-hardware-and-software.md#folder-structure-for-swe101), and keeping that folder open in VSCode for the duration of the course. 
+For SWE101, we recommend storing all of your code in a folder called `swe101` as per the [recommended folder structure](required-hardware-and-software.md#folder-structure-for-swe101), and keeping that folder open in VSCode for the duration of the course.
 {% endhint %}
 
-![What my \`swe101\` directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200924-16.58.52.png)
+![What my `swe101` directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200924-16.58.52.png)
 
 ## Using Slack Effectively
 
@@ -244,7 +244,6 @@ When sharing code in Slack, it's best to use Slack's built-in code formatting, w
 
 For single-line code like variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the code to format it.
 
-For multi-line blocks of code like functions, we can use triple backtick \(\`\`\`\) to format that code in Slack.  
-  
-For longer code blocks, please use [Slack code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) to format code so that the code is formatted nicely and takes up less space in Slack.
+For multi-line blocks of code like functions, we can use triple backtick \(\`\`\`\) to format that code in Slack.
 
+For longer code blocks, please use [Slack code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) to format code so that the code is formatted nicely and takes up less space in Slack.

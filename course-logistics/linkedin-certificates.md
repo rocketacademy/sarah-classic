@@ -37,4 +37,3 @@ At the end of SWE101, you will receive a link to a personalised Certificate of C
 ![](../.gitbook/assets/jie-ping-20200914-21.59.17-fu-ben-.png)
 
 ![](../.gitbook/assets/jie-ping-20200914-22.05.54.png)
-

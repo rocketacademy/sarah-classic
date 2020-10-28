@@ -67,7 +67,7 @@ Add a mode that lets the computer choose for you on each turn.
 
 ### Further Variations
 
-Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock\_paper\_scissors\#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
+Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock_paper_scissors\#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
 
 ## Submit
 
@@ -84,4 +84,3 @@ Note that there are many ways to implement the project and the reference solutio
 This reference solution does not include exercises in the More Comfortable section.
 
 [https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files)
-

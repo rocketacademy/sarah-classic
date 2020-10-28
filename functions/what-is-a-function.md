@@ -23,9 +23,7 @@ We assign a function to that variable: `var kilometersToMiles = function`
 We note the beggining and end of the function `block` with **curly braces**:
 
 ```js
-var kilometersToMiles = function(){
-
-};
+var kilometersToMiles = function () {};
 ```
 
 We define what actions happen when the function will be executed:
@@ -43,16 +41,14 @@ return distanceInMiles;
 We define the function input called a `parameter` as `distanceInKilometers`.
 
 ```js
-var kilometersToMiles = function(distanceInKilometers){
+var kilometersToMiles = function (distanceInKilometers) {};
 ```
 
 All together it looks like this:
 
 ```js
-var kilometersToMiles = function(distanceInKilometers){
-
+var kilometersToMiles = function (distanceInKilometers) {
   var distanceInMiles = distanceInKilometers * 0.62;
-
   return distanceInMiles;
 };
 ```
@@ -109,17 +105,13 @@ Type in the name of the variable: `result` and press enter to see the given valu
 Inside main call the functions and give the input value as an argument.
 
 ```js
-var main = function(input) {
-
+var main = function (input) {
   var myOutputValue = kilometersToMiles(input);
-
   return myOutputValue;
 };
 
-var kilometersToMiles = function(distanceInKilometers){
-
+var kilometersToMiles = function (distanceInKilometers) {
   var distanceInMiles = distanceInKilometers * 0.62;
-
   return distanceInMiles;
 };
 ```
@@ -129,7 +121,7 @@ var kilometersToMiles = function(distanceInKilometers){
 ### Doubling a number
 
 ```js
-var double = function(number){
+var double = function (number) {
   return number * 2;
 };
 ```
@@ -137,7 +129,7 @@ var double = function(number){
 ### Kilos to Pounds
 
 ```js
-var kilosToPounds = function(kilos){
+var kilosToPounds = function (kilos) {
   return kilos * 2.2;
 };
 ```
@@ -145,7 +137,7 @@ var kilosToPounds = function(kilos){
 ### Area of a circle
 
 ```js
-var circleArea = function(radius){
+var circleArea = function (radius) {
   var pi = 3.1415;
   return pi * radius * radius;
 };
@@ -202,10 +194,8 @@ Let's introduce a syntax error into your program.
 Replace your `kilometersToMiles` function with the one below.
 
 ```js
-var kilometersToMiles = function distanceInKilometers){
-
+var kilometersToMiles = function (distanceInKilometers) {
   var distanceInMiles = distanceInKilometers * 0.62;
-
   return distanceInMiles;
 };
 ```
@@ -225,7 +215,7 @@ b. runtime errors - errors that happen when you run your porogram.
 Replace this line in the starter code:
 
 ```js
-var myOutputValue = "hello world"()
+var myOutputValue = 'hello world'();
 ```
 
 You will see when you refresh the page that there is no red text.
@@ -243,10 +233,8 @@ Some of the errors your program will have will not produce any red output on the
 Replace your main function with this code:
 
 ```js
-var main = function(input) {
-
+var main = function (input) {
   var myOutputValue = kilometersToMiles(input);
-
   myOutputValue;
 };
 ```
@@ -290,19 +278,17 @@ Are the values in our program the ones we expect?
 As below we can pass variable values to `console.log`:
 
 ```js
-var main = function(input) {
-  var myOutputValue = "hello world";
+var main = function (input) {
+  var myOutputValue = 'hello world';
   return myOutputValue;
 };
 
-var kilometersToMiles = function(distanceInKilometers){
-
+var kilometersToMiles = function (distanceInKilometers) {
   var distanceInMiles = distanceInKilometers * 0.62;
 
-  console.log("this is distance in miles value");
+  console.log('this is distance in miles value');
   console.log(distanceInMiles);
 
   return distanceInMiles;
 };
 ```
-

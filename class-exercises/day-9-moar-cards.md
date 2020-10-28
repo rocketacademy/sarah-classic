@@ -20,7 +20,7 @@ Alter the Low Card game. If any of the players draw a Queen, they win.
 
 ## Hands
 
-At the beginning of the game the player can say how many cards they want. The highest card the player has is what's compared against the computer card.  
+At the beginning of the game the player can say how many cards they want. The highest card the player has is what's compared against the computer card.
 
 ## Output
 
@@ -64,4 +64,3 @@ If any player gets a pair in the cards they draw, they win.
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
-

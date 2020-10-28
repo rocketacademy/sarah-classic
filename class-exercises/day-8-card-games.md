@@ -6,7 +6,7 @@
 
 You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
 
-**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo. 
+**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo.
 
 Run a `git clone <repo-url> <new-folder-name>` to get a copy of your partner's code.
 
@@ -20,10 +20,10 @@ Open the code in the browser and test it. What does it do? If you're not sure wh
 
 Read the code.
 
-* How does it work?
-* Does it have any obvious errors?
-* Does it implement something that you were trying to do? 
-* Does it implement a feature that you haven't started yet? How does the code work?
+- How does it work?
+- Does it have any obvious errors?
+- Does it implement something that you were trying to do?
+- Does it implement a feature that you haven't started yet? How does the code work?
 
 ### 4\) Play with Partner's Code
 
@@ -31,7 +31,7 @@ It may be helpful to make changes to the code to help you understand it better. 
 
 ### 5\) Breakout and Discuss
 
-We'll put you in breakout rooms so you can discuss what you saw. 
+We'll put you in breakout rooms so you can discuss what you saw.
 
 ## Code Review - Pairing
 
@@ -65,9 +65,8 @@ When outputting results in the grey box, add a leaderboard that lists the player
 
 Make a mode where if the number of players is over 2, the game can match players against each other one at a time until there is one winner.
 
-**Example:** there are 4 players. The computer matches player 1 and 2. The winner is player 1. The computer matches the winner, \(player 1\) against player 3. The winner of that match plays player 4. 
+**Example:** there are 4 players. The computer matches player 1 and 2. The winner is player 1. The computer matches the winner, \(player 1\) against player 3. The winner of that match plays player 4.
 
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
-

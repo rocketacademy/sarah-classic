@@ -4,7 +4,7 @@ This is a game where the player must guess a secret word.‌
 
 Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-guess-the-word](https://github.com/rocketacademy/swe101-guess-the-word)​‌
 
-For each wrong guess the program adds to the figure: \(凸ಠ益ಠ\)凸‌
+For each wrong guess the program adds to the figure: \(凸 ಠ 益 ಠ\)凸 ‌
 
 The player can only guess wrong 7 times before the game ends. \(the number of characters in the figure\)‌
 
@@ -72,4 +72,3 @@ Please only refer to the reference solution after you have attempted the project
 Note that there are many ways to implement the project and the reference solution is only 1 way.‌
 
 ​[https://github.com/rocketacademy/swe101-guess-the-word/pull/5/files](https://github.com/rocketacademy/swe101-guess-the-word/pull/5/files)​
-

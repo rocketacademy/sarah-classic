@@ -22,8 +22,10 @@ the user guess minus one is equal to the random number
 then the user wins.
 ```
 
-```js
-randomDiceNumber == input || randomDiceNumber + 1 == input || randomDiceNumber - 1 == input
+```javascript
+randomDiceNumber == input ||
+  randomDiceNumber + 1 == input ||
+  randomDiceNumber - 1 == input;
 ```
 
 We want to be able to write logic where the user is within 2-
@@ -53,14 +55,13 @@ then the user wins.
 Translates to:
 
 ```js
-randomDiceNumber - 2 >= guess && randomDiceNumber + 2 <= input
+randomDiceNumber - 2 >= guess && randomDiceNumber + 2 <= input;
 ```
 
 This logic states the same exact thing as our original logic, but it allows us to state a range \(rather than +/- one\)
 
 ```js
-guess - 3 >= randomDiceNumber && input + 3 <= randomDiceNumber
+guess - 3 >= randomDiceNumber && input + 3 <= randomDiceNumber;
 ```
 
 We would have had to state each number value in the old example.
-

@@ -6,7 +6,7 @@
 
 You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
 
-**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo. 
+**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo.
 
 Run a `git clone <repo-url> <new-folder-name>` to get a copy of your partner's code.
 
@@ -20,10 +20,10 @@ Open the code in the browser and test it. What does it do? If you're not sure wh
 
 Read the code.
 
-* How does it work?
-* Does it have any obvious errors?
-* Does it implement something that you were trying to do? 
-* Does it implement a feature that you haven't started yet? How does the code work?
+- How does it work?
+- Does it have any obvious errors?
+- Does it implement something that you were trying to do?
+- Does it implement a feature that you haven't started yet? How does the code work?
 
 ### 4\) Play with Partner's Code
 
@@ -31,7 +31,7 @@ It may be helpful to make changes to the code to help you understand it better. 
 
 ### 5\) Breakout and Discuss
 
-We'll put you in breakout rooms so you can discuss what you saw. 
+We'll put you in breakout rooms so you can discuss what you saw.
 
 ## Code Review - Pairing
 
@@ -39,7 +39,7 @@ We'll put you in breakout rooms so you can discuss what you saw.
 
 Practice using the debugger on the game.
 
-Please switch driver so that each person gets a chance to set the debugger on their own computer. 
+Please switch driver so that each person gets a chance to set the debugger on their own computer.
 
 #### Someone Else's Code
 
@@ -53,9 +53,9 @@ If the code is using the deck generation function, set a breakpoint in the code 
 
 Switch to use the debugger on your own code.
 
-Set a breakpoint inside the main part of the game when the cards are being dealt. 
+Set a breakpoint inside the main part of the game when the cards are being dealt.
 
-If you have an error set a breakpoint to investigate the error. 
+If you have an error set a breakpoint to investigate the error.
 
 ### Complete the Blackjack Game
 
@@ -78,4 +78,3 @@ If you are both done with all parts of the game, implement the More Comfortable 
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
-

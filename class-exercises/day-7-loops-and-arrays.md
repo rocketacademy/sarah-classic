@@ -2,13 +2,13 @@
 
 ### Mad Libs
 
-If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
+If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
 
 Come up with your Mad Lib. If you don't want to create anything, you can use the default one from the Wikipedia page:
 
 ```text
 "___________! he said ________ as he jumped into his convertible ______ and drove off with his _________ wife."
- exclamation           adverb                                     noun                         adjective                                                   
+ exclamation           adverb                                     noun                         adjective
 ```
 
 Hard code the exclamation, adverb and noun, but leave 1 adjective blank. In the Wikipedia sentence, the adjective is at the end of the sentence.
@@ -23,7 +23,7 @@ Create a mode\(s\) to input words from each type, e.g. exclamation, adverb, noun
 
 ### Popular Mad Libs
 
-Keep track of which words are selected. Create a mode of the game that shows a Mad Lib using the set of words \(verb, adjective, etc.\) that are \(randomly\) selected the most often by the app. 
+Keep track of which words are selected. Create a mode of the game that shows a Mad Lib using the set of words \(verb, adjective, etc.\) that are \(randomly\) selected the most often by the app.
 
 Add another mode that also shows the set of least selected words.
 
@@ -44,4 +44,3 @@ For more inspiration you can look here: [https://www.google.com/search?q=mad+lib
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
-

@@ -2,7 +2,7 @@
 
 For each app, make a copy of the starter code, as per the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`.
 
- Reminder to `npm install` to activate ESLint!
+Reminder to `npm install` to activate ESLint!
 
 {% hint style="warning" %}
 When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
@@ -44,9 +44,9 @@ Create an easier version of 4D. This one picks 4 random numbers between 0 and 20
 
 The uncle has decided to create an omakase option.
 
-The user will say what kind of meal they want and the uncle will pick 2 options for them. The user can say "rice" or "noodle". "Roti prata" is neither rice or noodle, but the Uncle can randomly choose to include it as one of the two dishes if he feels like it. 
+The user will say what kind of meal they want and the uncle will pick 2 options for them. The user can say "rice" or "noodle". "Roti prata" is neither rice or noodle, but the Uncle can randomly choose to include it as one of the two dishes if he feels like it.
 
-The uncle is charging more for his fancy menu, so when telling the user what they are getting, format the output in a nice way. To create a new line in the grey box you can use the string  `'<br>'`. Come up with your own fancier description of each dish.
+The uncle is charging more for his fancy menu, so when telling the user what they are getting, format the output in a nice way. To create a new line in the grey box you can use the string `'<br>'`. Come up with your own fancier description of each dish.
 
 Say at the end if sambal is included. \(Not all dishes come with it- "roti prata" and "bak kut teh" don't come with sambal\).
 
@@ -101,4 +101,3 @@ Extend your 4D game even further. A user wins a bonus prize if the 2nd digit _or
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
-

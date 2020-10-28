@@ -22,7 +22,7 @@ For example, if the user enters 4 they will see this:
 
 ![](../.gitbook/assets/screen-shot-2020-08-26-at-12.35.12-am.png)
 
-##  Triangle
+## Triangle
 
 The user will enter the dimensions of a triangle to display on the screen.‌
 
@@ -34,7 +34,7 @@ For example, if the user enters 4 they will see this:
 
 ## Modes
 
-Add modes to the program so that the user can create any shape- first the user will enter the shape they want, \(this is a shape entering mode\), e.g., square, triangle, etc. Then the user will enter the dimensions they want. 
+Add modes to the program so that the user can create any shape- first the user will enter the shape they want, \(this is a shape entering mode\), e.g., square, triangle, etc. Then the user will enter the dimensions they want.
 
 ## More Comfortable
 
@@ -56,7 +56,7 @@ For example, if the user enters 4 they will see this:
 
 ### Center Square
 
-The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character and there is another different character in the center. The app doesn't allow dimensions that will not allow the center character. 
+The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character and there is another different character in the center. The app doesn't allow dimensions that will not allow the center character.
 
 For example, if the user enters 5 they will see this:
 
@@ -73,4 +73,3 @@ The user will enter the dimensions of a square to display on the screen. The cha
 ## Reference Solution
 
 Please find a reference solution [here](https://github.com/rocketacademy/swe101-drawing/pull/9/files). Note that there are many ways to code solutions to these problems and the reference solution is only 1 way.
-

@@ -30,7 +30,7 @@ var answer = {
 You can access the data directly by using the user response as an attribute in the object.
 
 ```javascript
-var answerText = answer[input] // value of input is: 'yes'
+var answerText = answer[input]; // value of input is: 'yes'
 ```
 
 ## Complex Chat Bot Data
@@ -69,6 +69,41 @@ Use the user's name in the bot's output.
 Bot: You know Kai, I just read in the paper that scientists discovered that apples can cook.
 ```
 
+# <<<<<<< Updated upstream
+
+## Chat Bot Asks Your Age
+
+```text
+Bot: Hey! I'm Dennis. What's your name?
+---
+User: Kai.
+---
+Bot: Hey Kai! What a cool name. How old are you?
+---
+User: 63
+---
+Bot: Wow that's old.
+Bot: Kai, I bet people at your advanced age don't know that pilots never know how to cook.
+Bot: What's the most important thing you've learned at your age?
+---
+User: (answer)
+---
+Bot: Cool!
+Bot: But for someone so elderly I thought you might also want to know that nowadays, tables can climb.
+Bot: What do you think of that one!?
+```
+
+You are adding these 2 functionalities:
+
+**1\)** When the user gives their age, set some behaviour that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
+
+**2\)** The bot repeats itself with 2 different modes of response. In this example it's:
+
+**a\)** `{name} I bet {something about age} don't know that ...`  
+ **b\)** `But for someone {age} I thought you might also want to know that nowadays`
+
+> > > > > > > Stashed changes
+
 ## Chat Bot Response Setting
 
 Instead of an array, use an object to hold all the questions. And use another key to set the order the questions are asked in.
@@ -76,9 +111,11 @@ Instead of an array, use an object to hold all the questions. And use another ke
 ```javascript
 var chatBotData = {
   first: {
-    question: 'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
+    question:
+      'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
     answers: {
-      yes: 'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
+      yes:
+        'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
       no: 'Oh ok, just normally good lookin ;)',
       maybe: 'This zoom meeting makes you look thin.',
     },
@@ -92,7 +129,6 @@ var chatBotData = {
       maybe: "Yea, but it's actually for my mother. Shes not feeling great.",
     },
     nextQuestion: 'weather',
-
   },
   // [...] other questions down here
 };
@@ -111,7 +147,7 @@ var chatBotData = {
     answers: {
       yes: {
         yes: 'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
-        nextQuestion : 'nice'  
+        nextQuestion : 'nice'
       }
       // [...] other answers down here
 
@@ -155,7 +191,7 @@ var chatBotData = {
       {
          range: [58,66],
          answer: 'Wow! Me too! My back really hurts today too.',
-         nextQuestion: 'nice'  
+         nextQuestion: 'nice'
       }
       // [...] other answers down here
     ]
@@ -170,9 +206,8 @@ var chatBotData = {
 
 Implement questions that the bot can ask and answer universally. Have the bot ask these questions randomly interspersed with the other questions.
 
-See: the Barnum Effect: [https://en.wikipedia.org/wiki/Barnum\_effect](https://en.wikipedia.org/wiki/Barnum_effect)
+See: the Barnum Effect: [https://en.wikipedia.org/wiki/Barnum_effect](https://en.wikipedia.org/wiki/Barnum_effect)
 
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
-

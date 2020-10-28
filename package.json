@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rocketacademy/swe101.git"
+    "url": "git+https://github.com/rocketacademy/swe101-docs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rocketacademy/swe101/issues"
+    "url": "https://github.com/rocketacademy/swe101-docs/issues"
   },
-  "homepage": "https://github.com/rocketacademy/swe101#readme",
+  "homepage": "https://github.com/rocketacademy/swe101-docs#readme",
   "devDependencies": {
     "eslint": "^7.11.0",
     "eslint-config-airbnb-base": "^14.2.0",

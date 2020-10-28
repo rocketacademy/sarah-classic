@@ -1,6 +1,6 @@
 # Day 6: Loops
 
-For each app \(except Infinite Loop\), make a copy of the starter code, as per the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`. 
+For each app \(except Infinite Loop\), make a copy of the starter code, as per the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`.
 
 Reminder to `npm install` to activate ESLint!
 
@@ -62,7 +62,7 @@ Each dice roll will see if the user has won for that dice roll and the game will
 
 ## Easier Multi-Dice Game
 
-Create a dice game with a variable _n_ number of dice. The user will be able to roll that _n_ number of dice in 4  different rounds. 
+Create a dice game with a variable _n_ number of dice. The user will be able to roll that _n_ number of dice in 4 different rounds.
 
 The game will have 2 modes.
 
@@ -80,19 +80,18 @@ The game will add to the output the record of that round, and the game will outp
 
 ## Two Player
 
-Change the game so that 2 players can play.  
-  
-The game will begin with Player One's turn.  
-  
+Change the game so that 2 players can play.
+
+The game will begin with Player One's turn.
+
 The game play will proceed as in the dice game above. The user will receive a score of 0-4, the total of all rounds played. \(4 rounds per turn\).
 
 Then the game will switch to the other player's turn.
 
 ## Multi Player
 
-Change the game so that it asks how many players are in the game at the beginning. Each player will take turns playing the game as above. 
+Change the game so that it asks how many players are in the game at the beginning. Each player will take turns playing the game as above.
 
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
-

@@ -6,7 +6,7 @@ Create a dice game based on these rules: [https://www.activityvillage.co.uk/beat
 
 ## Base Version
 
-There will be 2 players. Have a mode for each player. 
+There will be 2 players. Have a mode for each player.
 
 Players will take turns. When the player clicks the submit button, it rolls 2 dice.
 
@@ -17,7 +17,7 @@ The player picks the order of the dice they want.
 Example:
 
 {% hint style="success" %}
-Player One rolls. 
+Player One rolls.
 
 They roll **Dice 1** as 3 and **Dice 2** as 6.
 
@@ -26,8 +26,6 @@ Welcome Player 1.
 You rolled Dice 1:3 and Dice 2:6.
 Choose the order of the dice.
 ```
-
-
 
 They can pick **Dice 1** or **Dice 2** as the first numeral of the number.
 
@@ -75,7 +73,7 @@ Which means they want the number 7321.
 {% hint style="warning" %}
 **Use arrays and loops to construct this number:**
 
-Use  `input` and turn it into a series of positions.
+Use `input` and turn it into a series of positions.
 
 ```javascript
 var positions = input.split(''); // makes an array: [3,1,0,2];
@@ -83,8 +81,6 @@ var positions = input.split(''); // makes an array: [3,1,0,2];
 
 Loop over `positions` to construct the new number.
 {% endhint %}
-
-
 
 ### Score
 
@@ -111,4 +107,3 @@ Note that there are many ways to implement the project and the reference solutio
 This reference solution does not include exercises in the More Comfortable section.
 
 [https://github.com/rocketacademy/swe101-dice-project/pull/10/files](https://github.com/rocketacademy/swe101-dice-project/pull/10/files)
-

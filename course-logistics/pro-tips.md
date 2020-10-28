@@ -41,4 +41,3 @@ The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface
 ## Watching YouTube Videos at Different Speeds
 
 If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop&hl=en).
-
