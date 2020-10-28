@@ -10,7 +10,7 @@
 * [✍🏽 Course Methodology](course-logistics/course-methodology.md)
 * [❤️ Social Rules](course-logistics/love-social-rules.md)
 * [👩‍💻 How to Code](course-logistics/how-to-code.md)
-* [💡 Pro Tips](course-logistics/pro-tips.md)
+* [💡 Tooling Pro Tips](course-logistics/tooling-pro-tips.md)
 * [🎓 LinkedIn Certificates](course-logistics/linkedin-certificates.md)
 
 ## Projects
@@ -28,10 +28,10 @@
 * [Day 5: Scissors Paper Stone Redux](class-exercises/day-5-scissors-paper-stone-redux.md)
 * [Day 6: Loops](class-exercises/day-6-loops.md)
 * [Day 7: Loops and Arrays](class-exercises/day-7-loops-and-arrays.md)
-* [Day 8: Dice Game Redux](class-exercises/day-8-card-games.md)
+* [Day 8: Dice Game Redux](class-exercises/day-8-dice-game-redux.md)
 * [Day 9: Moar Cards](class-exercises/day-9-moar-cards.md)
 * [Day 10: Chat Bot](class-exercises/day-10-chat-bot.md)
-* [Day 11: Debugger, Blackjack Redux](class-exercises/day-11-debugger-blackjack-redux.md)
+* [Day 11: Blackjack Redux, Debugger](class-exercises/day-11-blackjack-redux-debugger.md)
 * [Day 12: DOM](class-exercises/day-12-dom.md)
 
 ## 1: Introduction

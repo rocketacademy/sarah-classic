@@ -1,8 +1,8 @@
 ---
-description: Tips for better programming
+description: Tips for using programming tools
 ---
 
-# 💡 Pro Tips
+# 💡 Tooling Pro Tips
 
 ## Using VSCode Effectively
 

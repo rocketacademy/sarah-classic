@@ -143,7 +143,7 @@ Total Video Watch Time: **~15 mins**
 
 #### In-Class Material
 
-* [Day 8: Card Games](../class-exercises/day-8-card-games.md)
+* [Day 8: Card Games](../class-exercises/day-8-dice-game-redux.md)
 
 #### Begin Project
 
@@ -187,7 +187,7 @@ Total Video Watch Time: **~18 mins**
 
 #### In-Class Material
 
-* [Day 11: Debugger and Blackjack Redux](../class-exercises/day-11-debugger-blackjack-redux.md)
+* [Day 11: Debugger and Blackjack Redux](../class-exercises/day-11-blackjack-redux-debugger.md)
 
 #### Begin Project
 
