@@ -1,4 +1,4 @@
-# Day 11: Debugger - Blackjack Redux
+# Day 11: Debugger, Blackjack Redux
 
 ## Code Review - Individual
 
@@ -20,10 +20,10 @@ Open the code in the browser and test it. What does it do? If you're not sure wh
 
 Read the code.
 
-- How does it work?
-- Does it have any obvious errors?
-- Does it implement something that you were trying to do?
-- Does it implement a feature that you haven't started yet? How does the code work?
+* How does it work?
+* Does it have any obvious errors?
+* Does it implement something that you were trying to do?
+* Does it implement a feature that you haven't started yet? How does the code work?
 
 ### 4\) Play with Partner's Code
 
@@ -73,8 +73,9 @@ _Note that if you are working on the other person's code you can't commit or upd
 
 ### More Comfortable
 
-If you are both done with all parts of the game, implement the More Comfortable exercises for the project. If you have completed [Blackjack Part 1](../projects/project-3-blackjack.md)'s More Comfortable exercises including Splits, please start working on [Blackjack Part 2]() with your partner.
+If you are both done with all parts of the game, implement the More Comfortable exercises for the project. If you have completed [Blackjack Part 1](../projects/project-3-blackjack.md)'s More Comfortable exercises including Splits, please start working on [Blackjack Part 2](day-11-debugger-blackjack-redux.md) with your partner.
 
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+

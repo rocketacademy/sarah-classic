@@ -14,9 +14,9 @@ For our first project, we are going to make our own version of the classic [Scis
 
 ## Basic Scissors Paper Stone
 
-To start, let's recreate a basic version of Scissors Paper Stone where the user will input one of "scissors", "paper", or "stone", the program will internally also randomly choose scissors, paper, or stone, and the program will output whether the user won, the program won, or it's a draw.
+Create a basic version of Scissors Paper Stone where the user inputs one of "scissors", "paper", or "stone", the program internally randomly chooses scissors, paper, or stone, and the program outputs whether the user won, the program won, or it's a draw.
 
-For clarity on rules, scissors beats paper, paper beats stone, and stone beats scissors. If both parties choose the same object, it's a draw.
+Rules: scissors beats paper, paper beats stone, and stone beats scissors. If both parties choose the same object, it's a draw.
 
 ## Win-Loss Record
 
@@ -32,11 +32,7 @@ Sometimes the user types bad and types something other than "scissors", "paper",
 
 ## Formatting
 
-Make the output of your game look nice.
-
-You can use string `'<br>'` to create new lines in the output.
-
-Your output might look something like this:
+Make the output of your game look nice. You can use string `'<br>'` to create new lines in the output. Your output might look something like this:
 
 ```text
 The computer chose scissors ✂️.
@@ -67,20 +63,15 @@ Add a mode that lets the computer choose for you on each turn.
 
 ### Further Variations
 
-Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock_paper_scissors\#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
+Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock\_paper\_scissors\#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
 
 ## Submit
 
-[Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit.
-
-Congrats on submitting your first project!
+[Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit. Congrats on submitting your first project!
 
 ## Reference Solution
 
-Please only refer to the reference solution after you have attempted the project. Thank you!
-
-Note that there are many ways to implement the project and the reference solution is only 1 way.
-
-This reference solution does not include exercises in the More Comfortable section.
+Please only refer to the reference solution after you have attempted the project. There are many ways to implement the project and the reference solution is only 1 way. This reference solution does not include exercises in the More Comfortable section.
 
 [https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files)
+

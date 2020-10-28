@@ -20,10 +20,10 @@ Open the code in the browser and test it. What does it do? If you're not sure wh
 
 Read the code.
 
-- How does it work?
-- Does it have any obvious errors?
-- Does it implement something that you were trying to do?
-- Does it implement a feature that you haven't started yet? How does the code work?
+* How does it work?
+* Does it have any obvious errors?
+* Does it implement something that you were trying to do?
+* Does it implement a feature that you haven't started yet? How does the code work?
 
 ### 4\) Play with Partner's Code
 
@@ -70,3 +70,4 @@ Make a mode where if the number of players is over 2, the game can match players
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+

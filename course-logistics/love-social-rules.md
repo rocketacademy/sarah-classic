@@ -8,13 +8,10 @@ They are unabashedly taken from [Recurse Center.](https://www.recurse.com/social
 
 The social rules are:
 
-- No well-actually’s
-
-- No feigned surprise
-
-- No backseat driving
-
-- No subtle -isms
+* No well-actually’s
+* No feigned surprise
+* No backseat driving
+* No subtle -isms
 
 **One thing that often confuses people about the social rules is that we expect people to break them from time to time. -This means they’re different and totally separate from our code of conduct.**
 
@@ -75,3 +72,4 @@ The social rules aren’t for punishing people. They help make Rocket Academy a 
 ## Code of conduct
 
 The social rules don’t cover harassment or discrimination. For that, we have a separate code of conduct enforced by the faculty. All members of the community are expected to abide by our code of conduct.
+

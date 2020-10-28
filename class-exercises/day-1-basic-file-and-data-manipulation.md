@@ -50,7 +50,7 @@ The user will enter a number of trips to the ice cream station \(picking up **1 
 
 ### **km/L**
 
-A new Ferrari consumes 9km/litre. Petrol costs \$2.20/litre. The user will enter a trip length in kilometres and the app will give a cost estimate.
+A new Ferrari consumes 9km/litre. Petrol costs $2.20/litre. The user will enter a trip length in kilometres and the app will give a cost estimate.
 
 ### **Sonnets**
 
@@ -59,3 +59,4 @@ The user will enter their Words Per Minute typing speed. The app will calculate 
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+

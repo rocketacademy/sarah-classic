@@ -2,7 +2,7 @@
 
 ### Mad Libs
 
-If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
+If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
 
 Come up with your Mad Lib. If you don't want to create anything, you can use the default one from the Wikipedia page:
 
@@ -44,3 +44,4 @@ For more inspiration you can look here: [https://www.google.com/search?q=mad+lib
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+

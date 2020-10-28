@@ -107,3 +107,4 @@ Note that there are many ways to implement the project and the reference solutio
 This reference solution does not include exercises in the More Comfortable section.
 
 [https://github.com/rocketacademy/swe101-dice-project/pull/10/files](https://github.com/rocketacademy/swe101-dice-project/pull/10/files)
+

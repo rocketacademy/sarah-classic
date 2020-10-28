@@ -73,3 +73,4 @@ The user will enter the dimensions of a square to display on the screen. The cha
 ## Reference Solution
 
 Please find a reference solution [here](https://github.com/rocketacademy/swe101-drawing/pull/9/files). Note that there are many ways to code solutions to these problems and the reference solution is only 1 way.
+

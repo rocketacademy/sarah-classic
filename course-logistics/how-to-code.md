@@ -2,7 +2,7 @@
 
 ## Getting Started / How to Break a Problem Down
 
-{% embed url="https://www.youtube.com/watch?v=wO2CSWgf1Xw" %}
+{% embed url="https://www.youtube.com/watch?v=wO2CSWgf1Xw" caption="" %}
 
 One of the biggest challenges when beginning a project is to know where to start.
 
@@ -10,9 +10,9 @@ There are two main aspects to this process:
 
 ### 1\) Understand your problem using language.
 
-- Do you understand the problem from a programatic perspective?
-- Do you understand what its purpose is?
-- Do you understand the logic of the application itself? \(i.e., a recipe app understands what a liter is\)
+* Do you understand the problem from a programatic perspective?
+* Do you understand what its purpose is?
+* Do you understand the logic of the application itself? \(i.e., a recipe app understands what a liter is\)
 
 ### 2\) Strategize which part to concentrate on
 
@@ -28,17 +28,17 @@ Strategize about how you can fake other parts of the program. \(Can you fake a r
 
 **Processes and logic require control flow.**
 
-- Does your program repeat itself? Maybe you need a loop.
-- Does your program have logic? _If this then ...._ You might need a conditional.
+* Does your program repeat itself? Maybe you need a loop.
+* Does your program have logic? _If this then ...._ You might need a conditional.
 
 **Data requires variables and data types.**
 
-- Does your program do math? You need number types.
-- Does your program have a set or list? Is that list ordered? You might need an array.
+* Does your program do math? You need number types.
+* Does your program have a set or list? Is that list ordered? You might need an array.
 
 ## Building Mental Models
 
-{% embed url="https://www.youtube.com/watch?v=C7zIy38my94" %}
+{% embed url="https://www.youtube.com/watch?v=C7zIy38my94" caption="" %}
 
 A program is a sum of it's parts.
 
@@ -68,12 +68,12 @@ Don't write code in order to fix your errors, write code to prove or disprove yo
 
 **Use `console.log` to understand your code's behaviour.**
 
-- Use it to check control flow.
-- Use it to check values.
+* Use it to check control flow.
+* Use it to check values.
 
 ## Learning Strategies
 
-{% embed url="https://www.youtube.com/watch?v=ax7Yf1RcEns" %}
+{% embed url="https://www.youtube.com/watch?v=ax7Yf1RcEns" caption="" %}
 
 **Mental models are the key to building your computational thinking skills.**
 
@@ -87,9 +87,9 @@ Errors are the practice and process of programming. Use them to learn more. Be p
 
 Practice asking questions when you are working on a problem.
 
-- What have you tried?
-- What is the context of the error? When do you see it, what is the incoming data and how does it affect the output?
-- What do you think is happening based on the facts?
+* What have you tried?
+* What is the context of the error? When do you see it, what is the incoming data and how does it affect the output?
+* What do you think is happening based on the facts?
 
 _\(Note that this doesn't mean that during this course a question like- "I dunno what's happening." is not acceptable. Any question is acceptable\)._
 
@@ -97,7 +97,7 @@ _\(Note that this doesn't mean that during this course a question like- "I dunno
 
 ## Pro Tips
 
-{% embed url="https://www.youtube.com/watch?v=IYDRNvVP0w0" %}
+{% embed url="https://www.youtube.com/watch?v=IYDRNvVP0w0" caption="" %}
 
 Optimize your programming and learning process by implementing some best practices.
 
@@ -144,3 +144,4 @@ Learning to code is less like learning things like English and history, and more
 [Deliberate practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) means quality of hours over quantity. \(Although mastery also involves quantity of hours\).
 
 Many of the principles stated above have to do with your meta-awareness of your own process. We believe that the more awareness you have of your own process the more effective your learning will be.
+
