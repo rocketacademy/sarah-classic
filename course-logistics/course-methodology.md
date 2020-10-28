@@ -37,6 +37,22 @@ Pair programming is commonly used for the following purposes:
 
 During SWE101, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming with designated pairings that will rotate each class.
 
+## Exercise / Project Strategy
+
+Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
+
+## Base, More Comfortable
+
+To accommodate different learning speeds and prior experience, exercises and projects may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
+
+### Base
+
+Everything in the Base section must be completed to minimally understand relevant concepts. When short on time, we can complete the Base section then move onto the next exercise or project.
+
+### More Comfortable
+
+The More Comfortable section is for students that wish to push their boundaries. Students can complete SWE101 without touching More Comfortable, but students that complete More Comfortable exercises will gain more experience and may be more valuable in the job market.
+
 ## Peer-Led Code Review
 
 On days where we have longer post-class exercises or projects due, we will review each others' code in groups of 2-3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
