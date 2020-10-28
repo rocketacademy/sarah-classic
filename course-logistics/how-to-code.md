@@ -38,10 +38,6 @@ Strategize about how you can fake other parts of the program. \(Can you fake a r
 * Does your program do math? You need number types.
 * Does your program have a set or list? Is that list ordered? You might need an array.
 
-
-
-
-
 ## Building Mental Models
 
 {% embed url="https://www.youtube.com/watch?v=C7zIy38my94" %}
@@ -156,8 +152,4 @@ Learning to code is less like learning things like English and history, and more
 [Deliberate practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) means quality of hours over quantity. \(Although mastery also involves quantity of hours\). 
 
 Many of the principles stated above have to do with your meta-awareness of your own process. We believe that the more awareness you have of your own process the more effective your learning will be.
-
-
-
-
 
