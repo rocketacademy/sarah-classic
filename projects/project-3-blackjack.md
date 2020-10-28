@@ -1,4 +1,4 @@
-# Project 3: Blackjack Part 1
+# Project 3: Blackjack
 
 ![](../.gitbook/assets/images-bj.jpeg)
 
@@ -84,6 +84,22 @@ Add the part of the logic that deals with the Ace being 1 or 11.
 Add hand splitting functionality to the game. Splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
 
 If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards.
+
+### Add Betting
+
+Keep track of the user's points at the beginning of the game. They can bet on their hands.
+
+### Better Output Formatting
+
+Make the output of the game look really cool.
+
+Can you represent the cards with some graphics?
+
+Ask the player their name?
+
+### Multi-Player
+
+Add multi-player so different people can take turns. The game hides and shows the hand according to the turn. 
 
 ## Reference Solution
 

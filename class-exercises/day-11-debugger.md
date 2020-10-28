@@ -73,7 +73,7 @@ _Note that if you are working on the other person's code you can't commit or upd
 
 ### More Comfortable
 
-If you are both done with all parts of the game, implement the More Comfortable exercises for the project. If you have completed [Blackjack Part 1](../projects/project-3-blackjack-part-1.md)'s More Comfortable exercises including Splits, please start working on [Blackjack Part 2](../projects/project-3.5-blackjack-part-2.md) with your partner.
+If you are both done with all parts of the game, implement the More Comfortable exercises for the project. If you have completed [Blackjack Part 1](../projects/project-3-blackjack.md)'s More Comfortable exercises including Splits, please start working on [Blackjack Part 2]() with your partner.
 
 ## Daily Feedback
 
