@@ -4,15 +4,15 @@ description: What and when we will learn
 
 # 📅 Course Schedule
 
-The following are live class times for Batch 2 \(19 Sep - 17 Oct\).
-
-| Week | Saturday \(1-3pm\) | Monday \(7-9pm\) | Wednesday \(7-9pm\) |
-| :--- | :--- | :--- | :--- |
-| 1 | 19/9 **Day 1 -** [Setup](course-schedule.md#day-1) | 21/9 **Day 2 -** [Functions](course-schedule.md#day-2) | 23/9 **Day 3** - [Logic](course-schedule.md#day-3) |
-| 2 | 26/9 **Day 4** - [Logic 2](course-schedule.md#day-4) | 28/9 **Day 5** - [State](course-schedule.md#day-5) | 30/9 **Day 6** - [Loops](course-schedule.md#day-6) |
-| 3 | 3/10 **Day 7** - [Loops 2](course-schedule.md#day-7) | 5/10 **Day 8** - [Objects](course-schedule.md#day-8) | 7/10 **Day 9** - [Card Deck](course-schedule.md#day-9) |
-| 4 | 10/10 **Day 10** - [Game Example](course-schedule.md#day-10) | 12/10 **Day 11** - [Debugger](course-schedule.md#day-11) | 14/10 **Day 12** - [DOM](../class-exercises/day-12-dom.md) |
-| 5 | 14/10 **Day 13** - Project Presentation |  |  |
+| Week | Saturday \(1-3pm\) | Tuesday \(7-9pm\) |
+| :--- | :--- | :--- |
+| 1 | **Day 0 -** Pre-Course Briefing | **Day 1 -** [Setup](course-schedule.md#day-1) |
+| 2 | **Day 2 -** [Functions](course-schedule.md#day-2) | **Day 3** - [Logic](course-schedule.md#day-3) |
+| 3 | **Day 4** - [Logic 2](course-schedule.md#day-4) | **Day 5** - [State](course-schedule.md#day-5) |
+| 4 | **Day 6** - [Loops](course-schedule.md#day-6) | **Day 7** - [Loops 2](course-schedule.md#day-7) |
+| 5 | **Day 8** - [Objects](course-schedule.md#day-8) | **Day 9** - [Card Deck](course-schedule.md#day-9) |
+| 6 | **Day 10** - [Game Example](course-schedule.md#day-10) | **Day 11** - [Debugger](course-schedule.md#day-11) |
+| 7 | **Day 12** - Project Presentations |  |
 
 Each day's deliverables are due by the **start** of that day's class. \(You prepare the linked day's content _**before**_ the start of class\). Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
 
