@@ -4,6 +4,8 @@ description: What and when we will learn
 
 # 📅 Course Schedule
 
+## Course Overview
+
 | Week | Saturday \(1-3pm\) | Tuesday \(7-9pm\) |
 | :--- | :--- | :--- |
 | 1 | **Day 0 -** Pre-Course Briefing | **Day 1 -** [Setup](course-schedule.md#day-1) |
@@ -206,4 +208,20 @@ Total Video Watch Time: **~18 mins**
 * Wrap up Blackjack
 * Project presentations
 * LinkedIn certificate presentations
+
+## Further Reading
+
+The following is extra reading in case you would like to learn more and get more practice. SWE1 starts with DOM.
+
+### Next Steps
+
+Total Video Watch Time: **~22 mins**
+
+* [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
+* [12.2: HTML, CSS Review](../12-next-steps/12.2-html-css-review.md)
+
+### Past Projects
+
+* [Drawing With Emojis](../past-projects/drawing-with-emojis.md)
+* [Guess The Word](../past-projects/guess-the-word.md)
 

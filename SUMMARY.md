@@ -95,7 +95,7 @@
 ## 12: NEXT STEPS
 
 * [12.1: Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
-* [12.2: HTML / CSS Review](12-next-steps/12.2-html-css-review.md)
+* [12.2: HTML, CSS Review](12-next-steps/12.2-html-css-review.md)
 * [12.3: Deployment](12-next-steps/12.3-deployment.md)
 
 ## Past Projects
