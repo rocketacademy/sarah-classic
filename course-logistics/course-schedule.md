@@ -184,6 +184,7 @@ Total Video Watch Time: **~60 mins**
 Total Video Watch Time: **~18 mins**
 
 * [11.1: Advanced Debugging with Sources Tab](../11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
+* [12.3: Project Deployment](../12-next-steps/12.3-deployment.md)
 
 #### In-Class Material
 
@@ -194,20 +195,6 @@ Total Video Watch Time: **~18 mins**
 * [Project 3: Blackjack \(More Comfortable\)](../projects/project-3-blackjack.md#more-comfortable)
 
 ### Day 12
-
-#### Pre-Class Material
-
-Total Video Watch Time: **~22 mins**
-
-* [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
-* [12.2: HTML & CSS Review](../12-next-steps/12.2-html-css-review.md)
-* [12.3: Project Deployment](../12-next-steps/12.3-deployment.md)
-
-#### In-Class Material
-
-* [DOM](../class-exercises/day-12-dom.md)
-
-### Day 13
 
 **Project Due**
 
