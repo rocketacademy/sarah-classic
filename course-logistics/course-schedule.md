@@ -10,15 +10,27 @@ description: What and when we will learn
 | :--- | :--- | :--- |
 | 1 | **Day 0 -** Pre-Course Briefing | **Day 1 -** [Setup](course-schedule.md#day-1) |
 | 2 | **Day 2 -** [Functions](course-schedule.md#day-2) | **Day 3** - [Logic](course-schedule.md#day-3) |
-| 3 | **Day 4** - [Logic 2](course-schedule.md#day-4) | **Day 5** - [State](course-schedule.md#day-5) |
-| 4 | **Day 6** - [Loops](course-schedule.md#day-6) | **Day 7** - [Loops 2](course-schedule.md#day-7) |
-| 5 | **Day 8** - [Objects](course-schedule.md#day-8) | **Day 9** - [Card Deck](course-schedule.md#day-9) |
+| 3 | **Day 4** - [Logic 2, State](course-schedule.md#day-4) | **Day 5** - [State 2](course-schedule.md#day-5) |
+| 4 | **Day 6** - [Arrays, Loops](course-schedule.md#day-6) | **Day 7** - [Loops 2](course-schedule.md#day-7) |
+| 5 | **Day 8** - [Objects](course-schedule.md#day-8) | **Day 9** - [Card Deck Generation](course-schedule.md#day-9) |
 | 6 | **Day 10** - [Game Example](course-schedule.md#day-10) | **Day 11** - [Debugger](course-schedule.md#day-11) |
-| 7 | **Day 12** - Project Presentations |  |
+| 7 | **Day 12** - [Project Presentations](course-schedule.md#day-12) |  |
 
 Each day's deliverables are due by the **start** of that day's class. \(You prepare the linked day's content _**before**_ the start of class\). Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
 
 ## Daily Breakdown
+
+### Day 0
+
+#### Pre-Course Briefing
+
+* Instructor introductions
+* Icebreaker
+* Learning goals
+* Learning format
+* Code of conduct
+* Deliverables for Day 1
+* Class photo
 
 ### Day 1
 
@@ -113,7 +125,7 @@ Total Video Watch Time: **~41 mins**
 
 * [9.1: Arrays](../9-arrays-and-iteration/9.1-arrays.md)
 * [9.2: Loops](../9-arrays-and-iteration/9.2-loops.md)
-* [How to Code](how-to-code.md)
+* [Coding Strategies](coding-strategies.md)
 
 #### In-Class Material
 

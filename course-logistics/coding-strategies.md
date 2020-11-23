@@ -1,4 +1,4 @@
-# 👩‍💻 How to Code
+# 👩‍💻 Coding Strategies
 
 ## Getting Started / How to Break a Problem Down
 

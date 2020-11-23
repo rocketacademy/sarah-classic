@@ -9,7 +9,7 @@
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [✍🏽 Course Methodology](course-logistics/course-methodology.md)
 * [❤️ Social Rules](course-logistics/love-social-rules.md)
-* [👩‍💻 How to Code](course-logistics/how-to-code.md)
+* [👩‍💻 Coding Strategies](course-logistics/coding-strategies.md)
 * [💡 Tooling Pro Tips](course-logistics/tooling-pro-tips.md)
 * [🎓 LinkedIn Certificates](course-logistics/linkedin-certificates.md)
 
