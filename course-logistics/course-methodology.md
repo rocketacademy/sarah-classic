@@ -4,7 +4,7 @@
 
 Each cohort will be split into sections of no more than 10 students. Each section will be led by a section leader from RA, who will be the primary point of contact for that section during SWE101. Sections are assigned randomly and fixed for the duration of the course. Students will meet with their respective sections for classes to maximise interaction and learning. Students will be able to interact with students from other sections via Slack.
 
-## Class Schedule
+## Course Components
 
 SWE101 applies a flipped classroom model that consists of 2 components: self-learning and live classes.
 
@@ -26,7 +26,7 @@ Live classes will generally follow this outline:
 2. 90 minutes of pair programming on new exercises with a designated peer
 3. 15 minutes for students to summarise and conclude with the section
 
-## Pair Programming
+### Pair Programming
 
 Pair programming is a common software engineering activity that involves 2 engineers working on the same computer, on the same problem together. Typically, 1 engineer acts as the "driver", controlling the keyboard and writing the code. The other engineer acts as the "navigator", helping to guide the overall strategy and look up documentation \(on a separate computer\).
 
@@ -37,27 +37,27 @@ Pair programming is commonly used for the following purposes:
 
 During SWE101, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming with designated pairings that will rotate each class.
 
-## Exercise / Project Strategy
+## Exercise, Project Strategy
 
 Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
 
-## Base, More Comfortable
+### Base, More Comfortable
 
 To accommodate different learning speeds and prior experience, exercises and projects may have different sections to differentiate what must be completed to minimally understand concepts, and what are extra exercises or features to help solidify one's understanding.
 
-### Base
+#### Base
 
 Everything in the Base section must be completed to minimally understand relevant concepts. When short on time, we can complete the Base section then move onto the next exercise or project.
 
-### More Comfortable
+#### More Comfortable
 
 The More Comfortable section is for students that wish to push their boundaries. Students can complete SWE101 without touching More Comfortable, but students that complete More Comfortable exercises will gain more experience and may be more valuable in the job market.
 
-## Peer-Led Code Review
+## Code Review
 
 On days where we have longer post-class exercises or projects due, we will review each others' code in groups of 2-3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
 
-### Code Review - Individual
+### Individual Review
 
 #### 1\) Clone Partner's Code
 
@@ -90,7 +90,7 @@ It may be helpful to make changes to the code to help you understand it better. 
 
 Once both partners are done with \#1-4, discuss what you saw.
 
-### Code Review - In Pairs
+### Peer Review
 
 You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.** 
 
