@@ -103,7 +103,7 @@ Total Video Watch Time: **~36 mins**
 
 #### Begin Project
 
-* [Project 2: Dice - Beat That!](../projects/project-2-dice.md)
+* [Project 2: Dice - Beat That!](../projects/project-2-dice-beat-that.md)
 
 ### Day 6
 
@@ -135,7 +135,7 @@ Total Video Watch Time: **~11 mins**
 
 #### Project Due
 
-* [Project 2: Dice - Beat That!](../projects/project-2-dice.md)
+* [Project 2: Dice - Beat That!](../projects/project-2-dice-beat-that.md)
 
 #### Pre-Class Material
 

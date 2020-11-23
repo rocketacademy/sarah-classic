@@ -6,7 +6,7 @@ Review your partner's code as per [Peer-Led Code Review instructions](../course-
 
 ## More Comfortable
 
-Implement [More Comfortable exercises](../projects/project-2-dice.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
+Implement [More Comfortable exercises](../projects/project-2-dice-beat-that.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
 
 ## Daily Feedback
 
