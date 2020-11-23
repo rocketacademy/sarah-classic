@@ -8,7 +8,7 @@ description: What and when we will learn
 
 | Week | Saturday \(1-3pm\) | Tuesday \(7-9pm\) |
 | :--- | :--- | :--- |
-| 1 | **Day 0 -** Pre-Course Briefing | **Day 1 -** [Setup](course-schedule.md#day-1) |
+| 1 | **Day 0 -** [Pre-Course Briefing](course-schedule.md#pre-course-briefing) | **Day 1 -** [Setup](course-schedule.md#day-1) |
 | 2 | **Day 2 -** [Functions](course-schedule.md#day-2) | **Day 3** - [Logic](course-schedule.md#day-3) |
 | 3 | **Day 4** - [Logic 2, State](course-schedule.md#day-4) | **Day 5** - [State 2](course-schedule.md#day-5) |
 | 4 | **Day 6** - [Arrays, Loops](course-schedule.md#day-6) | **Day 7** - [Loops 2](course-schedule.md#day-7) |
