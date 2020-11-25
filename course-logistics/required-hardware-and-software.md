@@ -4,13 +4,13 @@ description: 'To take part in SWE101, you will need the following hardware and s
 
 # 💻 Required Hardware and Software
 
-## Required Hardware
+### Required Hardware
 
 1. Desktop or laptop computer running the latest version of Windows or MacOS.
 2. Webcam and microphone capable of enabling video conferencing on your computer. These are built-in for most laptops.
 3. Internet connection that is able to run Zoom calls with no interruptions in audio or video. If you're not sure, let us know and we can schedule a chat!
 
-## Required Application Software
+### Required Application Software
 
 Application software is software we run with a graphical user interface on our operating system.
 
@@ -19,48 +19,48 @@ Application software is software we run with a graphical user interface on our o
 3. VSCode
 4. Chrome
 
-### Slack
+#### Slack
 
 Slack is RA's primary mode of communication. It allows us to communicate across our school, within sections, and between individuals. Most tech companies internationally use Slack to communicate internally.
 
-#### Installation
+**Installation**
 
 1. Download the Slack mobile app from Android's Play Store or iOS's App Store
 2. Download the Slack desktop app for your relevant operating system \(OS\) [here](https://slack.com/intl/en-sg/help/categories/360000049043-Getting-started).
 
-### Zoom
+#### Zoom
 
 Zoom is RA's video conferencing software for live classes. Each section will have its own Zoom link to join for each class.
 
-#### Installation
+**Installation**
 
 1. Download the Zoom Client for Meetings [here](https://zoom.us/download).
 2. Start a new meeting to test that your webcam and microphone are working.
 
-### Chrome
+#### Chrome
 
 Chrome is the most popular web browser for software engineers because of its mature developer tools \(we will soon see in course videos\). Chrome also has the largest library of browser extensions, which further help developers build and maintain web software.
 
-#### Installation
+**Installation**
 
 1. Download Chrome for your OS [here](https://www.google.com/intl/en_sg/chrome/).
 
-### VSCode
+#### VSCode
 
 VSCode is RA's software editor of choice. It is also the most popular code editor in the world. We will write all code for SWE101 inside of VSCode.
 
-#### Installation
+**Installation**
 
 1. Download VSCode for your OS [here](https://code.visualstudio.com/download).
 2. Follow instructions in the following [VSCode Formatter and Settings section](required-hardware-and-software.md#vscode-formatter-and-settings) to install a linter and linter settings for SWE101.
 
-### VSCode Formatter and Settings
+#### VSCode Formatter and Settings
 
 We will make a few small configurations to VSCode to make it easier to work with.
 
 {% embed url="https://youtu.be/gGzX8uUbuIo" caption="" %}
 
-#### Install the ESLint and Prettier Extensions for VSCode
+**Install the ESLint and Prettier Extensions for VSCode**
 
 This will auto-format your code and give you warnings about common simple coding errors.
 
@@ -70,7 +70,7 @@ Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.
 "ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
 {% endhint %}
 
-#### Get the SWE101 VSCode snd ESLint Settings
+**Get the SWE101 VSCode snd ESLint Settings**
 
 ```text
 {
@@ -95,71 +95,68 @@ Type to get the settings file: `Preferences: Open Settings (JSON)` \(Start typin
 
 Replace the file with the settings code above. Save the file and restart VSCode.
 
-### Window Snapping Software
+#### Window Snapping Software
 
 On both Windows and MacOS, there are features to automatically snap windows to standard places on your screen. This is especially helpful when, say, you are coding, and you want to view your code on one side and documentation on another. Without window snapping we need to manually drag our windows and resize them. With window snapping, we can get our windows in the right size and place with a single swipe or keyboard shortcut.
 
-#### Windows
+**Windows**
 
 Window snapping is built-in to Windows, and you can take advantage of it with instructions [here](https://support.microsoft.com/en-sg/help/4027324/windows-10-snap-your-windows).
 
-#### Mac
+**Mac**
 
 Window snapping is not built-in to MacOS, and we will need to download an external program to snap windows. We recommend any of the following.
 
 1. [Magnet](https://magnet.crowdcafe.com/) \(S$5\) is an actively maintained window snapping app on the Mac App Store.
 2. [Spectacle](https://www.spectacleapp.com/) \(free\) is similar to Magnet, but is no longer actively maintained, which means that it may stop working when Apple makes changes to MacOS.
 
-## Required Command Line Software
+### Required Command Line Software
 
 Command line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. This is in a separate section so that students do not expect to run this software from their computer's Applications folder.
 
 1. Git
 2. Node.js
 
-### Git
+#### Git
 
 Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during SWE101 to download and upload copies of projects.
 
 On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way across Windows and Mac. A version of Bash called Zsh \(pronounced "zoosh"\) is installed by default on MacOS.
 
-#### Installation
+**Installation**
 
 1. Download and install Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 2. \[Windows Only\] Follow [command line setup instructions below](required-hardware-and-software.md#command-line-setup-for-windows) to set Bash as the terminal language.
 3. Verify Git is installed by typing `git --version` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `git version 2.28.0`.
 
-### Node.js
+#### Node.js
 
 Node.js is the most popular JavaScript runtime. "Runtime" in a coding context refers to the environment in which code runs. ".js" is the file extension for JavaScript files, and a common suffix for JavaScript packages. We will use Node.js to lint and run our JavaScript code in non-browser contexts.
 
-#### Installation
+**Installation**
 
 1. Download and install Node.js for your OS [here](https://nodejs.org/en/download/). It will come with NPM, which stands for Node.js Package Manager. Package managers are used to download and manage 3rd-party packages that our programs rely on, such as ESLint.
 2. Verify Node.js is installed by typing `node -v` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `v12.18.3`.
 
-### Command Line Setup for Windows
+#### Command Line Setup for Windows
 
 We will need to use the command line \(also known as a terminal, more on this in a later video\) during SWE101. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
 
-1. Open Visual Studio Code and press and hold `Ctrl+\`` to open the terminal.
+1. Open Visual Studio Code and press and hold \`Ctrl+\`\` to open the terminal.
 
 ![](../.gitbook/assets/v4hx4.png)
 
-<<<<<<< HEAD
-2. Open the command palette using `Ctrl+Shift+P`.
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD 2. Open the command palette using `Ctrl+Shift+P`.
 
-3. Type and select "Select Default Shell".
+1. Type and select "Select Default Shell".
+2. Select Git Bash from the options.
+3. **Restart VSCode and open terminal again. The terminal should now run with Bash.**
+4. Open the command palette using Ctrl + Shift + P.
+5. Type and select "Select Default Shell".
+6. Select Git Bash from the options.
+7. Restart VSCode and open terminal again. The terminal should now run with Bash.
 
-4. Select Git Bash from the options.
-
-5. Restart VSCode and open terminal again. The terminal should now run with Bash.
-=======
-1. Open the command palette using Ctrl + Shift + P.
-2. Type and select "Select Default Shell".
-3. Select Git Bash from the options.
-4. Restart VSCode and open terminal again. The terminal should now run with Bash.
->>>>>>> a9fead72135c40a1bb6967b83da3d8762136efee
+   > > > > > > > a9fead72135c40a1bb6967b83da3d8762136efee
 
 ![](../.gitbook/assets/5zlap.png)
 
@@ -167,23 +164,23 @@ We will need to use the command line \(also known as a terminal, more on this in
 
 ![](../.gitbook/assets/1agtr.png)
 
-### Verify Git and Node Installation
+#### Verify Git and Node Installation
 
 In case it helps, here is a video demonstrating how to verify Git and Node installation on a Mac. The video uses the built-in Mac terminal, but we should be able to do the same within the VSCode terminal. We recommend Windows students use the VSCode terminal for SWE101.
 
 {% embed url="https://www.youtube.com/watch?v=YsRt9YJNFP4" caption="" %}
 
-## Required Software Accounts
+### Required Software Accounts
 
-### GitHub
+#### GitHub
 
 GitHub is the most popular code-hosting platform. Developers around the world use GitHub to share code and collaborate on projects. Rocket Academy's starter code and project templates are hosted on GitHub, and we will use GitHub in SWE101 to download, host, and submit assignments. Each student will require a GitHub account to host and submit assignment code.
 
-#### Sign Up
+**Sign Up**
 
 Go to [https://github.com/](https://github.com/), click the Sign Up button and follow on-screen instructions.
 
-#### Git & GitHub Credential Configuration
+**Git & GitHub Credential Configuration**
 
 Add your GitHub account credentials to your computer through the command line. You should not get any response from the command line after entering these commands.
 
@@ -200,7 +197,7 @@ git config -l
 
 You should see your user name and email in the output. \(And possibly some other settings\).
 
-## Folder Structure for SWE101
+### Folder Structure for SWE101
 
 In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep things organised, we recommend the following folder structure.
 
@@ -219,7 +216,7 @@ This is so that we do not end up with Git repositories within Git repositories, 
 
 ![What my \`swe101\` directory looks like in Finder on my Mac](../.gitbook/assets/jie-ping-20200924-16.57.21.png)
 
-## Open SWE101 Folder in VSCode
+### Open SWE101 Folder in VSCode
 
 When working with code, it's often necessary to jump between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to quickly jump between files in that folder without having to File &gt; Open every time.
 
@@ -229,13 +226,13 @@ For SWE101, we recommend storing all of your code in a folder called `swe101` as
 
 ![What my \`swe101\` directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200924-16.58.52.png)
 
-## Using Slack Effectively
+### Using Slack Effectively
 
-### Ask Questions in the Channel
+#### Ask Questions in the Channel
 
 During RA's courses you will inevitably have questions about the material. To ensure your question gets answered as soon as possible, and so that others can help and learn as well, please ask your questions in the batch-wide channel, e.g. \#swe101-batch-2. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
 
-### Provide Context for Questions
+#### Provide Context for Questions
 
 The ability to ask technical questions effectively is one of the biggest differences between junior and senior engineers. Junior engineers tend to ask questions like: "It doesn't work. Could you help?" Senior engineers tend to ask questions more like: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it tells me that this may be related to Y, but I don't see Y anywhere in the system."
 
@@ -245,7 +242,7 @@ In SWE101, we want to start acting like senior engineers. Your peers want to hel
 2. What is your hypothesis? Include relevant portions of your code, [formatted as code](required-hardware-and-software.md#format-code-in-slack) in Slack. For snippets of code longer than your computer screen height, please use Slack [code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet).
 3. What have you tried?
 
-### Format Code in Slack
+#### Format Code in Slack
 
 When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates a code block with monospaced text for easier reading.
 
