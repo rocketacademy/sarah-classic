@@ -2,40 +2,38 @@
 
 ![](../.gitbook/assets/images-bj.jpeg)
 
-In this first part of the Blackjack project you'll build the gameplay logic.
+In the Base section of Blackjack you'll build the gameplay logic. Begin by **forking** this repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
 
-Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
+## Base
 
-## Gameplay
+### Rules
 
-If you haven't played Blackjack before, refer to [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) to see what the rules of the game are.
+If you haven't played Blackjack before, refer to [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) to see what the rules of the game are. For the purposes of the project we will simplify the rules and the gameplay.
 
-For the purposes of the project we will simplify the rules and the gameplay.
+* There will be only two players. One human and one computer.
+* The computer will always be the dealer. The dealer has to hit if their hand is below 17.
+* The player who is closer to 21 wins the hand. Aces can be 1 or 11.
 
-There will be only two players. One human and one computer.
-
-The computer will always be the dealer. The dealer has to hit if their hand is below 17.
-
-The player who is closer to 21 wins the hand. Aces can be 1 or 11.
-
-## How to Start
-
-We know that the gameplay turns will be represented by the `main` function.
-
-**The sequence of actions would be:**
+We know that the gameplay turns will be represented by the `main` function. The sequence of actions would be:
 
 * Deck is shuffled.
 * User clicks submit button to deal cards.
-* The cards are analyzed for any game winning conditions. \(Blackjack\)
+* The cards are analysed for any game winning conditions. \(E.g. Blackjack\)
 * The cards are displayed to the user.
 * Then begins a new action, where the user has to decide whether to hit or stand, using the submit button to submit their choice. 
-* When the user makes a decision the cards are analyzed for any winning conditions. They are also analyzed for losing conditions, since it's possible for any player to lose now.
+* When the user makes a decision the cards are analysed for winning conditions. They are also analysed for losing conditions, since it's possible for any player to lose now.
 * The computer also decides to hit or stand automatically based on game rules.
 * Either the game ends or continues.
 
 _For the user choice to hit or stand, we know that when a new action of the user has different logic means that the game must have a mode to deal with this._
 
-### Prioritizing Work
+### General Tips
+
+* Creating helper functions can be a powerful way to refactor your code and keep it neat.
+* Don't be afraid to throw away code, especially if you already know how you would write it better.
+* Commit your code often- whenever you have a small working version. \(Each version listed above would be a commit\). Make legible and accurate commit messages so that you can refer to your old changes [through the GitHub website later.](../7-github/7.2-github-repo-browsing.md)
+
+### Prioritising Work
 
 Given the above is the \*final\* sequence of actions that the user must take in order to play a full game, how do we break these down into sub-features that we can work on one at a time? \(And also verify that they are working one at a time\).
 
@@ -70,12 +68,6 @@ The rules state that the dealer hits after the player is done. After the player 
 #### Fourth Version
 
 Add the part of the logic that deals with the Ace being 1 or 11.
-
-## Tips
-
-* Creating helper functions can be a powerful way to refactor your code and keep it neat.
-* Don't be afraid to throw away code, especially if you already know how you would write it better.
-* Commit your code often- whenever you have a small working version. \(Each version listed above would be a commit\). Make legible and accurate commit messages so that you can refer to your old changes [through the GitHub website later.](../7-github/7.2-github-repo-browsing.md)
 
 ## More Comfortable
 

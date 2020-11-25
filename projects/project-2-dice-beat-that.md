@@ -4,7 +4,7 @@ Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101
 
 Create a dice game based on these rules: [https://www.activityvillage.co.uk/beat-that](https://www.activityvillage.co.uk/beat-that)
 
-## Base Version
+## Base
 
 There will be 2 players. Have a mode for each player.
 
@@ -94,6 +94,20 @@ Add functionality where the game auto-selects the highest number from the dice t
 
 At the beginning of the game ask how many players would like to play.
 
+### Least
+
+Add a mode to the game so that the player with the least amount is the one who wins.
+
+### Leaderboard
+
+When outputting results in the grey box, add a leaderboard that lists the players and their scores in order. \(From most to least \*or\* least to most depending on the mode from above\).
+
+### Faceoff
+
+Make a mode where if the number of players is over 2, the game can match players against each other one at a time until there is one winner.
+
+**Example:** there are 4 players. The computer matches player 1 and 2. The winner is player 1. The computer matches the winner, \(player 1\) against player 3. The winner of that match plays player 4.
+
 ## Submit
 
 [Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit.
@@ -107,3 +121,4 @@ Note that there are many ways to implement the project and the reference solutio
 This reference solution does not include exercises in the More Comfortable section.
 
 [https://github.com/rocketacademy/swe101-dice-project/pull/10/files](https://github.com/rocketacademy/swe101-dice-project/pull/10/files)
+

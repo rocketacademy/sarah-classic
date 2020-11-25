@@ -58,7 +58,7 @@ VSCode is RA's software editor of choice. It is also the most popular code edito
 
 We will make a few small configurations to VSCode to make it easier to work with.
 
-{% embed url="https://youtu.be/gGzX8uUbuIo" %}
+{% embed url="https://youtu.be/gGzX8uUbuIo" caption="" %}
 
 #### Install the ESLint and Prettier Extensions for VSCode
 
@@ -107,12 +107,12 @@ Window snapping is built-in to Windows, and you can take advantage of it with in
 
 Window snapping is not built-in to MacOS, and we will need to download an external program to snap windows. We recommend any of the following.
 
-1. [Magnet](https://magnet.crowdcafe.com/) \(S\$5\) is an actively maintained window snapping app on the Mac App Store.
+1. [Magnet](https://magnet.crowdcafe.com/) \(S$5\) is an actively maintained window snapping app on the Mac App Store.
 2. [Spectacle](https://www.spectacleapp.com/) \(free\) is similar to Magnet, but is no longer actively maintained, which means that it may stop working when Apple makes changes to MacOS.
 
 ## Required Command Line Software
 
-Command line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. This is in a separate section so that students do not expect to run this software from their computer's Applications folder.
+Command line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. This is in a separate section so that students do not expect to run this software from their computer's Applications folder.
 
 1. Git
 2. Node.js
@@ -146,6 +146,7 @@ We will need to use the command line \(also known as a terminal, more on this in
 
 ![](../.gitbook/assets/v4hx4.png)
 
+<<<<<<< HEAD
 2. Open the command palette using `Ctrl+Shift+P`.
 
 3. Type and select "Select Default Shell".
@@ -153,10 +154,16 @@ We will need to use the command line \(also known as a terminal, more on this in
 4. Select Git Bash from the options.
 
 5. Restart VSCode and open terminal again. The terminal should now run with Bash.
+=======
+1. Open the command palette using Ctrl + Shift + P.
+2. Type and select "Select Default Shell".
+3. Select Git Bash from the options.
+4. Restart VSCode and open terminal again. The terminal should now run with Bash.
+>>>>>>> a9fead72135c40a1bb6967b83da3d8762136efee
 
 ![](../.gitbook/assets/5zlap.png)
 
-7. You can toggle between different terminal languages from the dropdown in terminal.
+1. You can toggle between different terminal languages from the dropdown in terminal.
 
 ![](../.gitbook/assets/1agtr.png)
 
@@ -164,7 +171,7 @@ We will need to use the command line \(also known as a terminal, more on this in
 
 In case it helps, here is a video demonstrating how to verify Git and Node installation on a Mac. The video uses the built-in Mac terminal, but we should be able to do the same within the VSCode terminal. We recommend Windows students use the VSCode terminal for SWE101.
 
-{% embed url="https://www.youtube.com/watch?v=YsRt9YJNFP4" %}
+{% embed url="https://www.youtube.com/watch?v=YsRt9YJNFP4" caption="" %}
 
 ## Required Software Accounts
 
@@ -210,7 +217,7 @@ When cloning the starter code, choose to [name the target folder](../4-getting-s
 This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
 {% endhint %}
 
-![What my `swe101` directory looks like in Finder on my Mac](../.gitbook/assets/jie-ping-20200924-16.57.21.png)
+![What my \`swe101\` directory looks like in Finder on my Mac](../.gitbook/assets/jie-ping-20200924-16.57.21.png)
 
 ## Open SWE101 Folder in VSCode
 
@@ -220,7 +227,7 @@ When working with code, it's often necessary to jump between different files in 
 For SWE101, we recommend storing all of your code in a folder called `swe101` as per the [recommended folder structure](required-hardware-and-software.md#folder-structure-for-swe101), and keeping that folder open in VSCode for the duration of the course.
 {% endhint %}
 
-![What my `swe101` directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200924-16.58.52.png)
+![What my \`swe101\` directory looks like when I open it in VSCode](../.gitbook/assets/jie-ping-20200924-16.58.52.png)
 
 ## Using Slack Effectively
 
@@ -247,3 +254,4 @@ For single-line code like variables or files/folders in regular text, we can use
 For multi-line blocks of code like functions, we can use triple backtick \(\`\`\`\) to format that code in Slack.
 
 For longer code blocks, please use [Slack code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) to format code so that the code is formatted nicely and takes up less space in Slack.
+
