@@ -18,7 +18,7 @@ VSCode shows us ESLint errors with red squiggly lines under the parts of our cod
 
 Sometimes we wish to enable or disable certain segments of our code for quick testing. The easiest way to do this is to "comment out" the code we want to disable by turning it into comments, making our JavaScript runtime ignore those lines of code.
 
-Rather than adding `//` to the start of each line manually, VSCode has a shortcut that allows us to comment out multiple lines simultaneously. To do this, select all lines we wish to comment out, then use the keyboard shortcut `Ctrl + /` on Windows, or `Cmd + /` on Mac.
+Rather than adding `//` to the start of each line manually, VSCode has a shortcut that allows us to comment out multiple lines simultaneously. To do this, select all lines we wish to comment out, then use the keyboard shortcut `Ctrl+/` on Windows, or `Cmd+/` on Mac.
 
 ### Editing a Variable Name in Multiple Places Concurrently
 
@@ -27,7 +27,7 @@ Sometimes we want to change the name of a variable in our code, a common practic
 #### Within a Single File
 
 1. Move your cursor to the first instance of the variable
-2. Press/hold Ctrl+D on Windows or Cmd+D on Mac until all instances of that variable are selected
+2. Press/hold `Ctrl+D` on Windows or `Cmd+D` on Mac until all instances of that variable are selected
 3. Use left or right arrow keys to enable cursors on each instance of that variable and edit them simultaneously
 
 #### Across Multiple Files

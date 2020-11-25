@@ -89,7 +89,7 @@ Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.
 }
 ```
 
-Open VSCode and open the command prompt with: **⌘ + Shift + P** \(Windows: **Ctrl + Shift + P**\).
+Open VSCode and open the command prompt with: `Cmd+Shift+P` \(Windows: `Ctrl+Shift+P`\).
 
 Type to get the settings file: `Preferences: Open Settings (JSON)` \(Start typing this to get the autocomplete\).
 
@@ -142,11 +142,11 @@ Node.js is the most popular JavaScript runtime. "Runtime" in a coding context re
 
 We will need to use the command line \(also known as a terminal, more on this in a later video\) during SWE101. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
 
-1. Open Visual Studio Code and press and hold Ctrl + \` to open the terminal.
+1. Open Visual Studio Code and press and hold `Ctrl+\`` to open the terminal.
 
 ![](../.gitbook/assets/v4hx4.png)
 
-2. Open the command palette using Ctrl + Shift + P.
+2. Open the command palette using `Ctrl+Shift+P`.
 
 3. Type and select "Select Default Shell".
 
