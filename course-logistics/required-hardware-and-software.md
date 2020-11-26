@@ -142,25 +142,17 @@ Node.js is the most popular JavaScript runtime. "Runtime" in a coding context re
 
 We will need to use the command line \(also known as a terminal, more on this in a later video\) during SWE101. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
 
-1. Open Visual Studio Code and press and hold \`Ctrl+\`\` to open the terminal.
-
 ![](../.gitbook/assets/v4hx4.png)
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD 2. Open the command palette using `Ctrl+Shift+P`.
-
-1. Type and select "Select Default Shell".
-2. Select Git Bash from the options.
-3. **Restart VSCode and open terminal again. The terminal should now run with Bash.**
-4. Open the command palette using Ctrl + Shift + P.
-5. Type and select "Select Default Shell".
-6. Select Git Bash from the options.
-7. Restart VSCode and open terminal again. The terminal should now run with Bash.
-
-   > > > > > > > a9fead72135c40a1bb6967b83da3d8762136efee
+1. Open Visual Studio Code and press and hold ``Ctrl+``` to open the terminal.
+2. Open the command palette using `Ctrl+Shift+P`.
+3. Type and select "Select Default Shell".
+4. Select Git Bash from the options.
+5. Restart VSCode and open terminal again. The terminal should now run with Bash.
 
 ![](../.gitbook/assets/5zlap.png)
 
-1. You can toggle between different terminal languages from the dropdown in terminal.
+You shouldn't need to, but if you need to, you can toggle between different terminal languages from the dropdown in terminal.
 
 ![](../.gitbook/assets/1agtr.png)
 
