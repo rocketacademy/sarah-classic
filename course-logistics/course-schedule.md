@@ -28,7 +28,6 @@ Each day's deliverables are due by the **start** of that day's class. \(You prep
 * Icebreaker
 * Learning goals
 * Learning format
-* Code of conduct
 * Deliverables for Day 1
 * Class photo
 
@@ -49,6 +48,7 @@ Total Video Watch Time: **~48 mins**
 
 #### In-Class Material
 
+* Intro to Social Rules
 * [Day 1: Basic File and Data Manipulation](../class-exercises/day-1-basic-file-and-data-manipulation.md)
 
 ### Day 2

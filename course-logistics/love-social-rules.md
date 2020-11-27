@@ -13,7 +13,7 @@ The social rules are:
 * No backseat driving
 * No subtle -isms
 
-**One thing that often confuses people about the social rules is that we expect people to break them from time to time. -This means they’re different and totally separate from our code of conduct.**
+**One thing that often confuses people about the social rules is that we expect people to break them from time to time. This means they’re different and totally separate from our code of conduct.**
 
 ## No well-actually’s
 
@@ -21,7 +21,7 @@ The social rules are:
 >
 > **Bob:** It’s actually called GNU/Linux.
 
-A well-actually is when you correct someone about something that’s not relevant to the conversation or tangential to what they’re trying to say.1 They’re bad because they aren’t helpful, break the flow of conversation, and focus attention on the person making the well actually.
+A well-actually is when you correct someone about something that’s not relevant to the conversation or tangential to what they’re trying to say. They’re bad because they aren’t helpful, break the flow of conversation, and focus attention on the person making the well actually.
 
 This rule can be a bit tricky because there isn’t a clear line between relevant to the conversation and not. Sometimes your correction might actually be necessary, and it could still come off as annoying when you make it. The best rule of thumb is, if you’re not sure whether something needs to be said right now, hold off and see what happens. You can always say it later if it turns out there’s no way for the conversation to move forward without your correction.
 
