@@ -48,7 +48,6 @@ Total Video Watch Time: **~48 mins**
 
 #### In-Class Material
 
-* Intro to Social Rules
 * [Day 1: Basic File and Data Manipulation](../class-exercises/day-1-basic-file-and-data-manipulation.md)
 
 ### Day 2
@@ -57,6 +56,7 @@ Total Video Watch Time: **~48 mins**
 
 Total Video Watch Time: **~25 mins**
 
+* Review[ Social Rules](love-social-rules.md)
 * [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md)
 * [5.2: Errors](../5-structuring-and-debugging-code/5.2-errors.md)
 
