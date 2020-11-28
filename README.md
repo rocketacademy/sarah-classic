@@ -14,9 +14,10 @@ In this course you will learn what code is and build some simple programs. Thoug
 
 Key Takeaways:
 
-1. Technical knowledge about how to use coding concepts such as functions, conditionals, loops, and data structures to build applications
-2. An understanding of what distinguishes "good" code from "not-so-good" code, with regard to naming, commenting, and decomposition
-3. Proficiency in professional developer tools such as the VSCode code editor, Git version control system, and GitHub code hosting platform.
+1. Computational Thinking - how to model the behaviour of a computer
+2. Technical knowledge about how to use coding concepts such as functions, conditionals, loops, and data structures to build applications
+3. An understanding of what distinguishes "good" code from "not-so-good" code, with regard to naming, commenting, and decomposition
+4. Proficiency in professional developer tools such as the VSCode code editor, Git version control system, and GitHub code hosting platform.
 
 ![SWE101 falls near the start of one&apos;s journey to become a software programmer.](.gitbook/assets/course-ped.png)
 
