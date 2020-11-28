@@ -25,11 +25,11 @@ Each day's deliverables are due by the **start** of that day's class. \(You prep
 #### Pre-Course Briefing
 
 * Instructor introductions
-* Icebreaker
 * Learning goals
 * Learning format
 * Deliverables for Day 1
 * Class photo
+* Icebreaker
 
 ### Day 1
 
