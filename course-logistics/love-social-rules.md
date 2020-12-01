@@ -87,3 +87,8 @@ The social rules aren’t for punishing people. They help make Rocket Academy a 
 
 The social rules don’t cover harassment or discrimination. For that, we have a separate code of conduct enforced by the faculty. All members of the community are expected to abide by our code of conduct.
 
+RA's Code of Conduct states:
+
+1. Be respectful of others.
+2. Only submit your own work.
+
