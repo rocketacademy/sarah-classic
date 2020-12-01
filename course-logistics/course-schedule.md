@@ -181,7 +181,7 @@ Total Video Watch Time: **~16 mins**
 
 Total Video Watch Time: **~60 mins**
 
-* [10.3: War Card Game Sample Implementation](../10-javascript-objects/10.3-card-game-example.md)
+* [10.3: War Card Game Sample Implementation](../10-javascript-objects/10.3-card-game-example-war.md)
 
 #### In-Class Material
 
