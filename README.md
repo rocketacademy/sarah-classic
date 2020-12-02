@@ -16,7 +16,7 @@ description: Introduction to Coding Basics in JavaScript
 
 1. Computational thinking skills to translate application requirements to code, using coding concepts such as functions, conditionals, loops, and data structures to build applications
 2. An understanding of what distinguishes "good" code from "not-so-good" code, with regard to naming, commenting, and decomposition
-3. Proficiency in professional developer tools such as the VSCode code editor, Git version control system, and GitHub code hosting platform.
+3. Proficiency in professional developer tools such as the [VSCode code editor](https://code.visualstudio.com/), [Git version control system](https://git-scm.com/), [GitHub code hosting platform](https://github.com/), and [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools).
 
 ## Important Links
 
