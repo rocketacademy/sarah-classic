@@ -65,7 +65,7 @@ You'll be paired up so that you can exchange the links for your repos via Slack.
 
 **If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo.
 
-Run a `git clone <repo-url> <new-folder-name>` to get a copy of your partner's code.
+Run a `git clone <REPO_URL> <NEW_FOLDER_NAME>` to get a copy of your partner's code.
 
 _Note: You need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone._
 
