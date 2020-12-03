@@ -4,17 +4,17 @@ description: What and when we will learn
 
 # 📅 Course Schedule
 
-## Course Overview
+## Overview
 
 | Week | Saturday \(1-3pm\) | Tuesday \(7-9pm\) |
 | :--- | :--- | :--- |
-| 1 | **Day 0 -** [Pre-Course Briefing](course-schedule.md#pre-course-briefing) | **Day 1 -** [Coding Tools](course-schedule.md#day-1) |
-| 2 | **Day 2 -** [Functions](course-schedule.md#day-2) | **Day 3** - [Logic 1](course-schedule.md#day-3) |
-| 3 | **Day 4** - [Logic 2, State 1](course-schedule.md#day-4) | **Day 5** - [State 2](course-schedule.md#day-5) |
-| 4 | **Day 6** - [Arrays, Loops 1](course-schedule.md#day-6) | **Day 7** - [Loops 2](course-schedule.md#day-7) |
-| 5 | **Day 8** - [Objects](course-schedule.md#day-8) | **Day 9** - [Card Logic](course-schedule.md#day-9) |
-| 6 | **Day 10** - [Card Game Example](course-schedule.md#day-10) | **Day 11** - [Debugger](course-schedule.md#day-11) |
-| 7 | **Day 12** - [Project Presentations](course-schedule.md#day-12) |  |
+| 1 | [Day 0: Pre-Course Briefing](course-schedule.md#day-0-pre-course-briefing) | [Day 1: Coding Tools](course-schedule.md#day-1-coding-tools) |
+| 2 | [Day 2: Functions](course-schedule.md#day-2-functions) | [Day 3: Logic 1](course-schedule.md#day-3-logic-1) |
+| 3 | [Day 4: Logic 2, State 1](course-schedule.md#day-4-logic-2-state-1) | [Day 5: State 2](course-schedule.md#day-5-state-2) |
+| 4 | [Day 6: Arrays, Loops 1](course-schedule.md#day-6-arrays-loops-1) | [Day 7: Loops 2](course-schedule.md#day-7-loops-2) |
+| 5 | [Day 8: Objects](course-schedule.md#day-8-objects) | [Day 9: Card Logic](course-schedule.md#day-9-card-logic) |
+| 6 | [Day 10: Coding Strategies](course-schedule.md#day-10-coding-strategies) | [Day 11: Debugger](course-schedule.md#day-11-debugger) |
+| 7 | [Day 12: Project Presentations](course-schedule.md#day-12-project-presentations) |  |
 
 Each day's deliverables are due by the **start** of that day's class. \(You prepare the linked day's content _**before**_ the start of class\). Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
 
@@ -173,7 +173,7 @@ Total Video Watch Time: **~16 mins**
 
 * [Day 9: Moar Cards](../class-exercises/day-9-moar-cards.md)
 
-### Day 10: Card Game Example
+### Day 10: Coding Strategies
 
 #### Pre-Class Material
 
@@ -185,7 +185,7 @@ Total Video Watch Time: **~60 mins**
 
 * [Day 10: Chat Bot](../class-exercises/day-10-chat-bot.md)
 
-### Day 11
+### Day 11: Debugger
 
 **Project Due**
 
@@ -206,7 +206,7 @@ Total Video Watch Time: **~18 mins**
 
 * [Project 3: Blackjack \(More Comfortable\)](../projects/project-3-blackjack.md#more-comfortable)
 
-### Day 12
+### Day 12: Project Presentations
 
 **Project Due**
 
@@ -221,7 +221,7 @@ Total Video Watch Time: **~18 mins**
 
 ## Further Reading
 
-The following is extra reading in case you would like to learn more and get more practice. SWE1 starts with DOM.
+The following is extra reading in case you would like to learn more. Rocket Academy's follow-on course [SWE1: Intro to Coding](https://rocketacademy.co/swe1) starts with DOM.
 
 ### Next Steps
 
