@@ -1,5 +1,12 @@
 # Day 1: Basic File and Data Manipulation
 
+## Introduction
+
+Today's in-class exercise has 2 sections.
+
+1. [File manipulation with command line and Git](day-1-basic-file-and-data-manipulation.md#file-manipulation-with-command-line-and-git)
+2. [Data manipulation with operations and variables](day-1-basic-file-and-data-manipulation.md#data-manipulation-with-operations-and-variables)
+
 ## File Manipulation with Command Line and Git
 
 If you need to, refer to the [command line cheatsheet](../2-organising-and-managing-code-files/2.1-command-line.md#cheat-sheet) and [git cheatsheet](../2-organising-and-managing-code-files/2.2-git.md#cheat-sheet).
