@@ -1,16 +1,12 @@
 # Day 2: Functions
 
-## Data Transformations with Functions
+## Introduction
 
-For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`.
-
-Reminder to `npm install` to activate ESLint!
+Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md). For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`. Remember to `npm install` to activate ESLint! For some apps you may need to google for information.
 
 {% hint style="warning" %}
 When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
-
-For some apps you may need to google things. Remember that as pairs, you are also googling together.
 
 **Please switch driver and navigator each app.**
 
