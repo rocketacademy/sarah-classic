@@ -8,30 +8,28 @@ description: What and when we will learn
 
 | Week | Saturday \(1-3pm\) | Tuesday \(7-9pm\) |
 | :--- | :--- | :--- |
-| 1 | **Day 0 -** [Pre-Course Briefing](course-schedule.md#pre-course-briefing) | **Day 1 -** [Setup](course-schedule.md#day-1) |
-| 2 | **Day 2 -** [Functions](course-schedule.md#day-2) | **Day 3** - [Logic](course-schedule.md#day-3) |
-| 3 | **Day 4** - [Logic 2, State](course-schedule.md#day-4) | **Day 5** - [State 2](course-schedule.md#day-5) |
-| 4 | **Day 6** - [Arrays, Loops](course-schedule.md#day-6) | **Day 7** - [Loops 2](course-schedule.md#day-7) |
-| 5 | **Day 8** - [Objects](course-schedule.md#day-8) | **Day 9** - [Card Deck Generation](course-schedule.md#day-9) |
-| 6 | **Day 10** - [Game Example](course-schedule.md#day-10) | **Day 11** - [Debugger](course-schedule.md#day-11) |
+| 1 | **Day 0 -** [Pre-Course Briefing](course-schedule.md#pre-course-briefing) | **Day 1 -** [Coding Tools](course-schedule.md#day-1) |
+| 2 | **Day 2 -** [Functions](course-schedule.md#day-2) | **Day 3** - [Logic 1](course-schedule.md#day-3) |
+| 3 | **Day 4** - [Logic 2, State 1](course-schedule.md#day-4) | **Day 5** - [State 2](course-schedule.md#day-5) |
+| 4 | **Day 6** - [Arrays, Loops 1](course-schedule.md#day-6) | **Day 7** - [Loops 2](course-schedule.md#day-7) |
+| 5 | **Day 8** - [Objects](course-schedule.md#day-8) | **Day 9** - [Card Logic](course-schedule.md#day-9) |
+| 6 | **Day 10** - [Card Game Example](course-schedule.md#day-10) | **Day 11** - [Debugger](course-schedule.md#day-11) |
 | 7 | **Day 12** - [Project Presentations](course-schedule.md#day-12) |  |
 
 Each day's deliverables are due by the **start** of that day's class. \(You prepare the linked day's content _**before**_ the start of class\). Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
 
 ## Daily Breakdown
 
-### Day 0
+### Day 0: Pre-Course Briefing
 
-#### Pre-Course Briefing
+1. Instructor introductions
+2. Learning goals
+3. Learning format
+4. Deliverables for Day 1
+5. Class photo
+6. Icebreaker
 
-* Instructor introductions
-* Learning goals
-* Learning format
-* Deliverables for Day 1
-* Class photo
-* Icebreaker
-
-### Day 1
+### Day 1: Coding Tools
 
 #### Pre-Class Material
 
@@ -50,7 +48,7 @@ Total Video Watch Time: **~48 mins**
 
 * [Day 1: Basic File and Data Manipulation](../class-exercises/day-1-basic-file-and-data-manipulation.md)
 
-### Day 2
+### Day 2: Functions
 
 #### Pre-Class Material
 
@@ -64,7 +62,7 @@ Total Video Watch Time: **~25 mins**
 
 * [Day 2: Functions](../class-exercises/day-2-functions.md)
 
-### **Day 3**
+### **Day 3: Logic 1**
 
 #### Pre-Class Material
 
@@ -77,13 +75,13 @@ Total Video Watch Time: **~22 mins**
 
 * [Day 3: If Statements, Boolean Or](../class-exercises/day-3-if-statements-boolean-or.md)
 
-### Day 4
+### Day 4: Logic 2, State 1
 
 #### Pre-Class Material
 
 Total Video Watch Time: **~40 mins**
 
-* [6.3: Boolean And and Not](../6-conditional-logic/6.3-boolean-and-and-not.md)
+* [6.3: Boolean And and Not](../6-conditional-logic/6.3-boolean-and-not.md)
 * [7.1: GitHub Fork and Pull Request](../7-github/7.1-github-fork-and-pull-request.md)
 * [7.2: GitHub Navigation](../7-github/7.2-github-repo-browsing.md)
 * [8.1: Program Lifecycle and Global State](../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
@@ -96,7 +94,7 @@ Total Video Watch Time: **~40 mins**
 
 * [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
 
-### Day 5
+### Day 5: State 2
 
 #### Project Due
 
@@ -117,7 +115,7 @@ Total Video Watch Time: **~36 mins**
 
 * [Project 2: Dice - Beat That!](../projects/project-2-dice-beat-that.md)
 
-### Day 6
+### Day 6: Arrays, Loops 1
 
 #### Pre-Class Material
 
@@ -131,7 +129,7 @@ Total Video Watch Time: **~41 mins**
 
 * [Day 6: Loops](../class-exercises/day-6-loops.md)
 
-### **Day 7**
+### **Day 7: Loops 2**
 
 #### Pre-Class Material
 
@@ -143,7 +141,7 @@ Total Video Watch Time: **~11 mins**
 
 * [Day 7: Loops and Arrays](../class-exercises/day-7-loops-and-arrays.md)
 
-### Day 8
+### Day 8: Objects
 
 #### Project Due
 
@@ -153,7 +151,7 @@ Total Video Watch Time: **~11 mins**
 
 Total Video Watch Time: **~15 mins**
 
-* [10.1: Objects](../10-javascript-objects/10.1-objects.md)
+* [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md)
 
 #### In-Class Material
 
@@ -163,7 +161,7 @@ Total Video Watch Time: **~15 mins**
 
 * [Project 3: Blackjack](../projects/project-3-blackjack.md)
 
-### Day 9
+### Day 9: Card Logic
 
 #### Pre-Class Material
 
@@ -175,7 +173,7 @@ Total Video Watch Time: **~16 mins**
 
 * [Day 9: Moar Cards](../class-exercises/day-9-moar-cards.md)
 
-### Day 10
+### Day 10: Card Game Example
 
 #### Pre-Class Material
 

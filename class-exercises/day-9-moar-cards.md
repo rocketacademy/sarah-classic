@@ -12,7 +12,7 @@ When the user clicks submit draw a single card from the deck and show it to them
 
 ## Low Card
 
-Implement the High Card game from [10.1: Objects](../10-javascript-objects/10.1-objects.md#high-card) with one difference. The winner is the person with the lowest card.
+Implement the High Card game from [10.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with one difference. The winner is the person with the lowest card.
 
 ## Low Card with Queen Winner
 
@@ -55,9 +55,7 @@ Allow the player to wager a number of points on each game. \(A new mode will be 
 
 Add another mode so that the game can be played by 2 players taking turns playing a card from their hand. The grey box will tell the players to switch so they don't see each other's cards.
 
-## More Comfortable
-
-### Pairs
+## Pairs \(More Comfortable\)
 
 If any player gets a pair in the cards they draw, they win.
 

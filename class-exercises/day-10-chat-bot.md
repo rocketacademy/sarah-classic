@@ -1,6 +1,6 @@
 # Day 10: Chat Bot
 
-## Day 10: Chat Bot
+## Introduction
 
 **Let's make a chat bot that can ask the user a single question when the submit button is clicked.**
 
@@ -35,7 +35,7 @@ You can access the data directly by using the user response as an attribute in t
 var answerText = answer[input]; // value of input is: 'yes'
 ```
 
-### Complex Chat Bot Data
+## Complex Chat Bot Data
 
 Extend the capabilities of the chat bot by putting the text of the question with the answer:
 
@@ -50,11 +50,11 @@ var chatBotData = {
 };
 ```
 
-### Chat Bot Answer Sets
+## Chat Bot Answer Sets
 
-Put the chatBotData object into an array of similar question and answer objects. The bot will pick which question to ask and answer next.
+Put the `chatBotData` object into an array of similar question and answer objects. The bot will pick which question to ask and answer next.
 
-### Chat Bot Asks For Your Name
+## Chat Bot Asks For Your Name
 
 ```text
 Bot: Hey! I'm Dennis. What's your name?
@@ -71,9 +71,7 @@ Use the user's name in the bot's output.
 Bot: You know Kai, I just read in the paper that scientists discovered that apples can cook.
 ```
 
-## &lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream
-
-### Chat Bot Asks Your Age
+## Chat Bot Asks Your Age
 
 ```text
 Bot: Hey! I'm Dennis. What's your name?
@@ -104,9 +102,7 @@ You are adding these 2 functionalities:
 **a\)** `{name} I bet {something about age} don't know that ...`  
 **b\)** `But for someone {age} I thought you might also want to know that nowadays`
 
-> > > > > > > Stashed changes
-
-### Chat Bot Response Setting
+## Chat Bot Response Setting
 
 Instead of an array, use an object to hold all the questions. And use another key to set the order the questions are asked in.
 
@@ -136,9 +132,9 @@ var chatBotData = {
 };
 ```
 
-### More Comfortable
+## More Comfortable
 
-#### Dynamic Chat Bot
+### Dynamic Chat Bot
 
 Change the next question based on the user response.
 
@@ -161,7 +157,7 @@ var chatBotData = {
 };
 ```
 
-#### Chat Bot Asks Your Age
+### Chat Bot Asks Your Age
 
 ```text
 Bot: Hey! I'm Dennis. What's your name?
@@ -204,13 +200,13 @@ var chatBotData = {
 };
 ```
 
-#### Barnum Questions
+### Barnum Questions
 
 Implement questions that the bot can ask and answer universally. Have the bot ask these questions randomly interspersed with the other questions.
 
 See: the Barnum Effect: [https://en.wikipedia.org/wiki/Barnum\_effect](https://en.wikipedia.org/wiki/Barnum_effect)
 
-### Daily Feedback
+## Daily Feedback
 
 Please [share feedback](https://forms.gle/8P4TURiYNPDmyAmH9) on today's material. Thank you for making SWE101 great!
 

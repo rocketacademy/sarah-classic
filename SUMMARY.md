@@ -63,7 +63,7 @@
 
 * [6.1: Intro to Logic](6-conditional-logic/6.1-intro-to-logic.md)
 * [6.2: Pseudo Code, Boolean Or](6-conditional-logic/6.2-pseudo-code-boolean-or.md)
-* [6.3: Boolean And & Not](6-conditional-logic/6.3-boolean-and-and-not.md)
+* [6.3: Boolean And, Not](6-conditional-logic/6.3-boolean-and-not.md)
 
 ## 7: GitHub
 
@@ -84,7 +84,7 @@
 
 ## 10: JavaScript Objects
 
-* [10.1: Objects](10-javascript-objects/10.1-objects.md)
+* [10.1: JavaScript Objects](10-javascript-objects/10.1-javascript-objects.md)
 * [10.2: Card Deck Generation with Loops](10-javascript-objects/10.2-card-deck-generation-with-loops.md)
 * [10.3: Card Game Example: War](10-javascript-objects/10.3-card-game-example-war.md)
 
