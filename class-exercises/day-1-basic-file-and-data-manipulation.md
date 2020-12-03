@@ -9,7 +9,7 @@ Today's in-class exercise has 2 sections.
 
 ## File Manipulation with Command Line and Git
 
-If you need to, refer to the [command line cheatsheet](../2-organising-and-managing-code-files/2.1-command-line.md#cheat-sheet) and [git cheatsheet](../2-organising-and-managing-code-files/2.2-git.md#cheat-sheet).
+You may wish to refer to the [command line cheatsheet](../2-organising-and-managing-code-files/2.1-command-line.md#cheat-sheet) and [Git cheatsheet](../2-organising-and-managing-code-files/2.2-git.md#cheat-sheet), and use [window snapping](../course-logistics/required-hardware-and-software.md#window-snapping-software) to position 3 windows on your screen simultaneously: VSCode, the relevant cheatsheet, and these instructions.
 
 ### Create a Haiku
 
