@@ -75,6 +75,12 @@ Total Video Watch Time: **~22 mins**
 
 * [Day 3: If Statements, Boolean Or](../class-exercises/day-3-if-statements-boolean-or.md)
 
+#### Begin Project
+
+Note: You will need the pre-class material from Day 4 for Project 1.
+
+* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
+
 ### Day 4: Logic 2, State 1
 
 #### Pre-Class Material
@@ -89,10 +95,6 @@ Total Video Watch Time: **~40 mins**
 #### In-Class Material
 
 * [Day 4: Boolean And, GitHub, Program State](../class-exercises/day-4-boolean-and-program-state.md)
-
-#### Begin Project
-
-* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
 
 ### Day 5: State 2
 
