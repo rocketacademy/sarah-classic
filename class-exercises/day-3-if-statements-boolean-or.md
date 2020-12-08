@@ -40,30 +40,23 @@ Create an easier version of 4D. This one picks 4 random numbers between 0 and 20
 
 ### Omakase
 
-The uncle has decided to create an omakase option.
+Uncle has decided to create an omakase option, and output a menu based on user input. 
 
-The user will say what kind of meal they want and the uncle will pick 2 options for them. The user can say "rice" or "noodle". "Roti prata" is neither rice or noodle, but the Uncle can randomly choose to include it as one of the two dishes if he feels like it.
+1. The user can input either "rice" or "noodle", and the uncle will choose either 2 random rice or 2 random noodle options for them.
+2. Roti prata is neither rice nor noodle, but the Uncle can randomly choose to include it as one of the two dishes if he feels like it.
+3. The uncle is charging more for his fancy menu, so when telling the user what they are getting, format the output in a nice way. To create a new line in the grey output box you can use the string `'<br>'`, which generates a new line in HTML. Feel free to create fancy descriptions for each dish.
+4. Say at the end if sambal is included. Not all dishes come with it, for example roti prata and bak kut teh don't come with sambal.
 
-The uncle is charging more for his fancy menu, so when telling the user what they are getting, format the output in a nice way. To create a new line in the grey box you can use the string `'<br>'`. Come up with your own fancier description of each dish.
+#### Example
 
-Say at the end if sambal is included. \(Not all dishes come with it- "roti prata" and "bak kut teh" don't come with sambal\).
-
-For example if the user puts in "rice":
-
-The app will choose two random rice options. In this example we will use "bak kut teh" and "nasi lemak".
-
-Output will be:
+If the user inputs "rice", the app will choose two random rice options. In this example we will use "bak kut teh" and "nasi lemak". The following is sample output. Feel free to customise the output however you would like.
 
 ```text
 Uncle has prepared a selection of dishes for you!
 
-To begin, Nasi Lemak, a fragrant cocount rice.
+To begin, Nasi Lemak, a fragrant coconut rice. Accompanied by Korean style fried chicken wing, organic ikan bilis and free range egg.
 
-Acompanied by Korean style fried chicken wing, organic ikan bilis and free range egg.
-
-This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork rib.
-
-Acompanied by braised peanuts, you tiao crullers and freshly blanched chai sim.
+This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork rib. Accompanied by braised peanuts, you tiao crullers and freshly blanched chai sim.
 
 Chile sambal will be included.
 
