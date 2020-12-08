@@ -49,7 +49,7 @@ Uncle has decided to create an omakase option, and output a menu based on user i
 
 #### Example
 
-If the user inputs "rice", the app will choose two random rice options. In this example we will use "bak kut teh" and "nasi lemak". The following is sample output. Feel free to customise the output however you would like.
+If the user inputs "rice", the app will choose 2 random rice options. The following sample output contains "bak kut teh" and "nasi lemak". Feel free to customise the output however you would like.
 
 ```text
 Uncle has prepared a selection of dishes for you!
