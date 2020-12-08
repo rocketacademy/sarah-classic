@@ -16,7 +16,7 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 The user will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the user's guess matches the winning number, let the user know that they have won!
 
-For the purposes of RA's 4D, we can ignore leading 0s, i.e. a guess of "0000" is the same as "0". To test your winning logic, consider using [input/output control from module 6.3](https://app.gitbook.com/@rocketacademy/s/swe101/6-conditional-logic/6-3-boolean-and-and-not#input-output-control).
+For the purposes of RA's 4D, we can ignore leading 0s, i.e. a guess of "0000" is the same as "0". To test your winning logic, consider using [input/output control from Module 6.3](https://app.gitbook.com/@rocketacademy/s/swe101/6-conditional-logic/6-3-boolean-and-and-not#input-output-control).
 
 ### Hawker Food Randomness
 
