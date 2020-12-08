@@ -1,16 +1,14 @@
 # Day 3: If Statements, Boolean Or
 
-For each app, make a copy of the starter code, as per the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`.
+## Introduction
 
-Reminder to `npm install` to activate ESLint!
+For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Remember to `npm install` to activate ESLint! For some exercises you may need to google for information. Please switch driver and navigator each exercise.
 
 {% hint style="warning" %}
-When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
-For some apps you may need to google things. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
-
-## If Statements
+## Base \(If Statements\)
 
 ### 4D
 
@@ -26,7 +24,7 @@ Hawker food is a convenient and affordable food option in Singapore. The uncle a
 
 Use random numbers to help Uncle decide which dish to cook. The customer gets a free meal if she can guess which dish Uncle is cooking today. The customer can only input dish names.
 
-## Boolean Or
+## Base \(Boolean Or\)
 
 ### Hawker Food Categorisation
 
