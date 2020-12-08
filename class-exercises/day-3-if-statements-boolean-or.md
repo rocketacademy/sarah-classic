@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Remember to `npm install` to activate ESLint! For some exercises you may need to google for information. Please switch driver and navigator each exercise.
+Today we will practise if statements and logical OR operators. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Remember to `npm install` to activate ESLint! For some exercises you may need to google for information. Please switch driver and navigator each exercise.
 
 {% hint style="warning" %}
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
