@@ -14,9 +14,9 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. We will simulate the odds of winning this game without money. Rocket Academy does not endorse gambling.
 
-The user will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the user's guess matches the winning number, let the user know that they have won!
+The user will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the user's guess matches the winning number, let the user know they have won!
 
-For the purposes of RA's 4D, we can ignore leading 0s, i.e. a guess of "0000" is the same as "0". To test your winning logic, consider using [input/output control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control).
+For the purposes of RA's 4D, we can ignore leading 0s, i.e. a guess of "0000" is the same as "0". To test your winning logic, consider using [code control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control).
 
 ### Hawker Food Randomness
 
@@ -28,13 +28,13 @@ Use random numbers to help Uncle decide which dish to cook. The customer gets a 
 
 ### Hawker Food Categorisation
 
-Uncle has learned programming and wants to programmatically tell his customers whether the dish they choose has a "rice", "noodle", or "other" base. Write a program that takes a dish name as input, and outputs whether they have a "rice", "noodle", or "other" base. Please use the `||` operator.
+Uncle has learned programming and wants to programmatically tell his customers whether the dish they choose has a "rice", "noodle", or "other" base. Write a program that takes a dish name as input, and outputs whether the dish has a "rice", "noodle", or "other" base. Please use the `||` operator.
 
 For example, if a user enters "laksa", the program should output "noodle". If a user enters "roti prata", the program could output "other".
 
-### 20D
+### Easier 4D
 
-Create an easier version of 4D. This one picks 4 random numbers between 0 and 20. If the user guesses any of these numbers they win. Make sure to output to the user all of the picked numbers so they can see the results.
+Create an easier version of 4D. The computer picks 4 random digits between 0 and 9. The user will input a single digit, and if that digit matches any of the randomly-generated digits, the user wins. Output all randomly-generated digits to the user so the user can see the results.
 
 ## More Comfortable
 
