@@ -38,14 +38,14 @@ Create an easier version of 4D. The computer picks 4 random digits between 0 and
 
 ## More Comfortable
 
-### Omakase
+### Hawker Food Omakase
 
 Uncle has decided to create an omakase option, and output a menu based on user input. 
 
-1. The user can input either "rice" or "noodle", and the uncle will choose either 2 random rice or 2 random noodle options for them.
+1. The user can input either "rice" or "noodle", and the uncle will choose either 2 random rice or 2 random noodle dishes for them.
 2. Roti prata is neither rice nor noodle, but the Uncle can randomly choose to include it as one of the two dishes if he feels like it.
 3. The uncle is charging more for his fancy menu, so when telling the user what they are getting, format the output in a nice way. To create a new line in the grey output box you can use the string `'<br>'`, which generates a new line in HTML. Feel free to create fancy descriptions for each dish.
-4. Say at the end if sambal is included. Not all dishes come with it, for example roti prata and bak kut teh don't come with sambal.
+4. Output at the end if sambal is included. Not all dishes come with it, for example roti prata and bak kut teh don't come with sambal.
 
 #### Example
 
@@ -59,8 +59,6 @@ To begin, Nasi Lemak, a fragrant coconut rice. Accompanied by Korean style fried
 This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork rib. Accompanied by braised peanuts, you tiao crullers and freshly blanched chai sim.
 
 Chile sambal will be included.
-
-Wine pairing with your meal is an extra charge.
 ```
 
 ### 4D Leading Zeros
