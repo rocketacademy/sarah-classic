@@ -75,7 +75,7 @@ Total Video Watch Time: **~22 mins**
 
 * [Day 3: If Statements, Boolean Or](../class-exercises/day-3-if-statements-boolean-or.md)
 
-#### Begin Project
+#### Post-Class: Begin Project
 
 Note: You will need the pre-class material from Day 4 for Project 1.
 
@@ -113,7 +113,7 @@ Total Video Watch Time: **~36 mins**
 
 * [Day 5: Scissors Paper Stone Redux](../class-exercises/day-5-scissors-paper-stone-redux.md)
 
-#### Begin Project
+#### Post-Class: Begin Project
 
 * [Project 2: Dice - Beat That!](../projects/project-2-dice-beat-that.md)
 
@@ -159,7 +159,7 @@ Total Video Watch Time: **~15 mins**
 
 * [Day 8: Card Games](../class-exercises/day-8-dice-game-redux.md)
 
-#### Begin Project
+#### Post-Class: Begin Project
 
 * [Project 3: Blackjack](../projects/project-3-blackjack.md)
 
@@ -204,7 +204,7 @@ Total Video Watch Time: **~18 mins**
 
 * [Day 11: Debugger and Blackjack Redux](../class-exercises/day-11-blackjack-redux-debugger.md)
 
-#### Begin Project
+#### Post-Class: Begin Project
 
 * [Project 3: Blackjack \(More Comfortable\)](../projects/project-3-blackjack.md#more-comfortable)
 
