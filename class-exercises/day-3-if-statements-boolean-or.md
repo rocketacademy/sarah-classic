@@ -8,7 +8,7 @@ Today we will practise if statements and logical OR operators. For each exercise
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
-## Base \(If Statements\)
+## Base
 
 ### 4D
 
@@ -17,28 +17,30 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 The player will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the player's guess matches the winning number, let the player know they have won!
 
 {% hint style="info" %}
-To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control), where we return a fixed number at the top of our random number generator.
+To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
 {% endhint %}
-
-### Hawker Food Randomness
-
-Hawker food is a convenient and affordable food option in Singapore. The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish every day. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa".
-
-Use random numbers to help Uncle decide which dish to cook. You may find nested if statements helpful \(i.e. if statements within if statements\), but they are not strictly necessary. The customer gets a free meal if she can guess which dish Uncle is cooking today. The customer can only input dish names.
-
-## Base \(Boolean Or\)
 
 ### Hawker Food Categorisation
 
-Uncle has learned programming and wants to programmatically tell his customers whether the dish they choose has a "rice", "noodle", or "other" base. Write a program that takes a dish name as input, and outputs whether the dish has a "rice", "noodle", or "other" base. Please use the `||` operator.
+Hawker food is a convenient and affordable food option in Singapore. To help educate non-Singaporeans about hawker food, create an app that takes a hawker dish name as input, and tells users whether the dish has a "rice", "noodle", or "other" base. Some sample dishes are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa". For example, if a user enters "laksa", the program should output "noodle". If a user enters "roti prata", the program could output "other". Please use the `||` operator.
 
-For example, if a customer enters "laksa", the program should output "noodle". If a customer enters "roti prata", the program could output "other".
+## Comfortable
 
 ### 4D with Single-Digit Comparison
 
 Create a version of 4D where the player wins if their guess matches any of the 4 digits. The player will input a single digit, and the computer generates 4 random digits between 0 and 9. If the player-inputted digit matches any of the randomly-generated digits, the player wins. In addition to the win/loss result, output the player guess and all randomly-generated digits so the player can see how close they were.
 
+### Hawker Food Randomness
+
+The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish every day. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa".
+
+Use random numbers to help Uncle decide which dish to cook. The customer gets a free meal if she can guess which dish Uncle is cooking today. The customer can only input dish names.
+
 ## More Comfortable
+
+### 4D with Winning Range
+
+Create a version of 4D where the player wins if they guess within 1000 \(above or below\) of the winning number. Consider using comparison operators such as less than \(`<`\) and greater than \(`>`\).
 
 ### Hawker Food Omakase
 
@@ -51,7 +53,7 @@ Uncle has decided to serve an omakase option, and output a menu based on custome
 
 #### Sample Output
 
-The user inputs "rice" and the app chooses 2 random rice dishes, nasi lemak and bak kut teh. Roti prata does not make an appearance. Sambal is included because nasi lemak typically comes with sambal.
+The customer inputs "rice" and the app chooses 2 random rice dishes, nasi lemak and bak kut teh. Roti prata is randomly not chosen. Sambal is included because nasi lemak typically comes with sambal.
 
 ```text
 Uncle has prepared a selection of dishes for you!
@@ -62,10 +64,6 @@ This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork 
 
 Chilli sambal will be included.
 ```
-
-### 4D with Winning Range
-
-Create a version of 4D where the player wins if they guess within 1000 \(above or below\) of the winning number. Consider experimenting with comparison operators such as less than \(`<`\) and greater than \(`>`\).
 
 ## Daily Feedback
 
