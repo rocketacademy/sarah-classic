@@ -65,12 +65,6 @@ Create a version of 4D where the player wins if they guess within 1000 \(above o
 
 _You can experiment with comparison operators such as less than \(`<`\) and greater than \(`>`\)._
 
-### 4D with Winning by Factors
-
-Create a version of 4D where if the player wins if their guess is a factor of the random number.
-
-_Consider using the `%` \(called "modulus" or "mod"\) operator, where `A % B` will return the remainder when A is divided by B._
-
 ### 4D with Multiple of 3
 
 Extend your game from earlier with new rules. A user wins twice as much if the number they guess is a multiple of 3. 0 is included as a multiple of 3.
