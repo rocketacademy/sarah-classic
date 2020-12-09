@@ -61,15 +61,15 @@ This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork 
 Chile sambal will be included.
 ```
 
-### 4D Leading Zeros
+### 4D with Leading Zeros
 
-Create a 4D game that includes numbers like 0102 and 0001.
+Create a version of 4D that accepts inputs like "0102" and "0001".
 
 ### Easy 4D
 
 Modify your 4D game to make it easier to win. The user wins if they guess within 1000 \(above or below\) of the winning number.
 
-_You can experiment with operators such as less than \(`<`\) and greater than \(`>`\)._
+_You can experiment with comparison operators such as less than \(`<`\) and greater than \(`>`\)._
 
 ### 4D Factors
 
