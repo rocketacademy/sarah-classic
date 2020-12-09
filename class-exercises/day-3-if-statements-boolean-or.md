@@ -14,7 +14,11 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. We will simulate the odds of winning this game without money. Rocket Academy does not endorse gambling.
 
-The player will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the player's guess matches the winning number, let the player know they have won! To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control).
+The player will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the player's guess matches the winning number, let the player know they have won!
+
+{% hint style="info" %}
+To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control), where we return a fixed number at the top of our random number generator.
+{% endhint %}
 
 ### Hawker Food Randomness
 
@@ -61,19 +65,7 @@ Chilli sambal will be included.
 
 ### 4D with Winning Range
 
-Create a version of 4D where the player wins if they guess within 1000 \(above or below\) of the winning number.
-
-_You can experiment with comparison operators such as less than \(`<`\) and greater than \(`>`\)._
-
-### 4D with Multiple of 3
-
-Extend your game from earlier with new rules. A user wins twice as much if the number they guess is a multiple of 3. 0 is included as a multiple of 3.
-
-_Hint: For this and following problems, you may want to consider nested if-statements, where "nested" means 1 or more statements within another._
-
-### 4D with 2nd/3rd Digit Multiple of 3
-
-Extend your 4D game even further. A user wins a bonus prize if the 2nd digit _or_ the 3rd digit of the number they guess is a multiple of 3.
+Create a version of 4D where the player wins if they guess within 1000 \(above or below\) of the winning number. Consider experimenting with comparison operators such as less than \(`<`\) and greater than \(`>`\).
 
 ## Daily Feedback
 
