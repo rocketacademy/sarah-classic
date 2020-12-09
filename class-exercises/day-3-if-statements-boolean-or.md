@@ -14,7 +14,7 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. We will simulate the odds of winning this game without money. Rocket Academy does not endorse gambling.
 
-The user will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the user's guess matches the winning number, let the user know they have won! To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control).
+The player will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the player's guess matches the winning number, let the player know they have won! To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control).
 
 ### Hawker Food Randomness
 
@@ -28,11 +28,11 @@ Use random numbers to help Uncle decide which dish to cook. You may find nested 
 
 Uncle has learned programming and wants to programmatically tell his customers whether the dish they choose has a "rice", "noodle", or "other" base. Write a program that takes a dish name as input, and outputs whether the dish has a "rice", "noodle", or "other" base. Please use the `||` operator.
 
-For example, if a user enters "laksa", the program should output "noodle". If a user enters "roti prata", the program could output "other".
+For example, if a customer enters "laksa", the program should output "noodle". If a customer enters "roti prata", the program could output "other".
 
-### Easier 4D
+### 4D with Single-Digit Comparison
 
-Create an easier version of 4D. The user will input a single digit, and the computer generates 4 random digits between 0 and 9. If the user-inputted digit matches any of the randomly-generated digits, the user wins. In addition to the win/loss result, output the user guess and all randomly-generated digits so the user can see how close they were.
+Create a version of 4D where the player wins if their guess matches any of the 4 digits. The player will input a single digit, and the computer generates 4 random digits between 0 and 9. If the player-inputted digit matches any of the randomly-generated digits, the player wins. In addition to the win/loss result, output the player guess and all randomly-generated digits so the player can see how close they were.
 
 ## More Comfortable
 
@@ -52,22 +52,22 @@ The user inputs "rice" and the app chooses 2 random rice dishes, nasi lemak and 
 ```text
 Uncle has prepared a selection of dishes for you!
 
-To begin, Nasi Lemak, a fragrant coconut rice. Accompanied by Korean style fried chicken wing, organic ikan bilis and free range egg.
+To begin, Nasi Lemak, a fragrant coconut rice. Accompanied by Korean-style fried chicken wing, organic ikan bilis and free-range egg.
 
-This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork rib. Accompanied by braised peanuts, you tiao crullers and freshly blanched chai sim.
+This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork rib. Accompanied by braised peanuts, you tiao crullers and freshly-blanched chai sim.
 
-Chile sambal will be included.
+Chilli sambal will be included.
 ```
 
-### Easy 4D
+### 4D with Winning Range
 
-Modify your 4D game to make it easier to win. The user wins if they guess within 1000 \(above or below\) of the winning number.
+Create a version of 4D where the player wins if they guess within 1000 \(above or below\) of the winning number.
 
 _You can experiment with comparison operators such as less than \(`<`\) and greater than \(`>`\)._
 
-### 4D Factors
+### 4D with Winning by Factors
 
-If the number the user guessed is a factor of the random number, they win.
+Create a version of 4D where if the player wins if their guess is a factor of the random number.
 
 _Consider using the `%` \(called "modulus" or "mod"\) operator, where `A % B` will return the remainder when A is divided by B._
 
