@@ -40,16 +40,16 @@ Create an easier version of 4D. The user will input a single digit, and the comp
 
 ### Hawker Food Omakase
 
-Uncle has decided to create an omakase option, and output a menu based on user input. 
+Uncle has decided to serve an omakase option, and output a menu based on customer input. 
 
-1. The user can input either "rice" or "noodle", and the uncle will choose either 2 random rice or 2 random noodle dishes for them.
-2. Roti prata is neither rice nor noodle, but the Uncle can randomly choose to include it as one of the two dishes if he feels like it.
-3. The uncle is charging more for his fancy menu, so when telling the user what they are getting, format the output in a nice way. To create a new line in the grey output box you can use the string `'<br>'`, which generates a new line in HTML. Feel free to create fancy descriptions for each dish.
-4. Output at the end if sambal is included. Not all dishes come with it, for example roti prata and bak kut teh don't come with sambal.
+1. Customers can input either "rice" or "noodle", and Uncle will choose either 2 random rice or 2 random noodle dishes for them.
+2. Roti prata is neither rice nor noodle, but Uncle can randomly choose to include it as one of the two dishes if he feels like it.
+3. Uncle charges more for omakase and uses premium descriptions for his dishes. Feel free to get creative. To create a new line in the output box you can use the string `'<br>'`, which generates a new line in HTML.
+4. Output at the end if sambal is included. Not all dishes come with sambal, for example roti prata and bak kut teh don't come with sambal.
 
-#### Example
+#### Sample Output
 
-If the user inputs "rice", the app will choose 2 random rice options. The following sample output contains "bak kut teh" and "nasi lemak". Feel free to customise the output however you would like.
+The user inputs "rice" and the app chooses 2 random rice dishes, nasi lemak and bak kut teh. Roti prata does not make an appearance. Sambal is included because nasi lemak typically comes with sambal.
 
 ```text
 Uncle has prepared a selection of dishes for you!
