@@ -16,13 +16,13 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 The user will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the user's guess matches the winning number, let the user know they have won!
 
-For the purposes of RA's 4D, we can ignore leading 0s, i.e. a guess of "0000" is the same as "0". To test your winning logic, consider using [code control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control).
+For the purposes of RA's 4D, we can ignore leading 0s, i.e. a guess of "0000" is the same as "0". To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control).
 
 ### Hawker Food Randomness
 
 Hawker food is a convenient and affordable food option in Singapore. The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish every day. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa".
 
-Use random numbers to help Uncle decide which dish to cook. The customer gets a free meal if she can guess which dish Uncle is cooking today. The customer can only input dish names.
+Use random numbers to help Uncle decide which dish to cook. You may find nested if statements helpful \(i.e. if statements within if statements\), but they are not strictly necessary. The customer gets a free meal if she can guess which dish Uncle is cooking today. The customer can only input dish names.
 
 ## Base \(Boolean Or\)
 
@@ -34,7 +34,7 @@ For example, if a user enters "laksa", the program should output "noodle". If a 
 
 ### Easier 4D
 
-Create an easier version of 4D. The computer picks 4 random digits between 0 and 9. The user will input a single digit, and if that digit matches any of the randomly-generated digits, the user wins. Output all randomly-generated digits to the user so the user can see the results.
+Create an easier version of 4D. The user will input a single digit, and the computer generates 4 random digits between 0 and 9. If the user-inputted digit matches any of the randomly-generated digits, the user wins. In addition to the win/loss result, output the user guess and all randomly-generated digits so the user can see how close they were.
 
 ## More Comfortable
 
