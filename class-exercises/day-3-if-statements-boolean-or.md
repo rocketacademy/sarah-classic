@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will practise if statements and logical OR operators. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Remember to `npm install` to activate ESLint! For some exercises you may need to google for information. Please switch driver and navigator each exercise.
+Today we will practise if statements and logical OR operators. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Remember to `npm install` to activate ESLint! Please switch driver and navigator each exercise.
 
 {% hint style="warning" %}
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
@@ -12,7 +12,7 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 ### 4D
 
-[4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. We will simulate the odds of winning this game without money. Rocket Academy does not endorse gambling.
+[4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. We will create a simplified version of 4D without money to simulate the odds of winning. Rocket Academy does not endorse gambling.
 
 The player will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the player's guess matches the winning number, let the player know they have won!
 
@@ -32,15 +32,15 @@ Create a version of 4D where the player wins if their guess matches any of the 4
 
 ### Hawker Food Randomness
 
-The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish every day. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa".
+The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish to each customer. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa". Customers that correctly guess Uncle's dish receive a free meal.
 
-Use random numbers to help Uncle decide which dish to cook. The customer gets a free meal if she can guess which dish Uncle is cooking today. The customer can only input dish names.
+Create an app that uses random numbers to help Uncle decide which dish to cook. The customer can only input dish names. If the customer correctly guesses Uncle's dish, let her know that she gets a free meal!
 
 ## More Comfortable
 
 ### 4D with Winning Range
 
-Create a version of 4D where the player wins if they guess within 1000 \(above or below\) of the winning number. Consider using comparison operators such as less than \(`<`\) and greater than \(`>`\).
+Create a version of 4D where the player wins if they guess within 1000 \(above or below\) of the winning 4-digit number. Consider using comparison operators such as less than \(`<`\) and greater than \(`>`\).
 
 ### Hawker Food Omakase
 
