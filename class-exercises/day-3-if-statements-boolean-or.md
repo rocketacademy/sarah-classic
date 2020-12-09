@@ -14,9 +14,7 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. We will simulate the odds of winning this game without money. Rocket Academy does not endorse gambling.
 
-The user will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the user's guess matches the winning number, let the user know they have won!
-
-For the purposes of RA's 4D, we can ignore leading 0s, i.e. a guess of "0000" is the same as "0". To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control).
+The user will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the user's guess matches the winning number, let the user know they have won! To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control).
 
 ### Hawker Food Randomness
 
@@ -60,10 +58,6 @@ This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork 
 
 Chile sambal will be included.
 ```
-
-### 4D with Leading Zeros
-
-Create a version of 4D that accepts inputs like "0102" and "0001".
 
 ### Easy 4D
 
