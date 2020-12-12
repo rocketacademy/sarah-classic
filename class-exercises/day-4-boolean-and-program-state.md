@@ -48,23 +48,17 @@ Update Secret Word such that the number of times the player needs to guess corre
 
 ### Dice Within
 
-Create a dice game that becomes easier or harder. The game selects a random number from 1 to 3 that the user can guess within.
+Create a new version of our SWE101 dice game \(where the player guesses the dice roll\) that randomly becomes easier or harder. At the beginning of the game and each time the player wins, the computer selects a random number from 1 to 3, which we call the "within number". If any of the player's guesses fall within the dice roll plus or minus the within number, the player wins.
 
-Example: the app randomly chooses 3. The user can guess within 3 to win the game. They guess 2 and the dice rolls 5. The guess is within 3 so they win the game.
+For example: the app randomly chooses 3 as the within number. The player can guess within 3 of the dice roll to win the game. The player guesses 2 and the dice roll is 5. The guess is within 3 of the dice roll so the player wins the game. At this point, the computer adjusts the difficulty of the game by choosing a new within number.
 
-Each time the user wins the difficulty of the game changes. \(The randomly selected "within" number changes\).
+### Dice Within with 2 Dice
 
-### Dice Within V2
-
-Add a second dice to the game.
+Update our dice game to include an additional dice. With each player guess, the computer rolls 2 dice. If the player guess is within either of the 2 dice rolls plus or minus the within number, the player wins.
 
 ### Dice 4D
 
-Create a game that creates a 4D number when the user has guessed correctly twice.
-
-Once they have guessed correctly four times, play a 4D lucky draw.
-
-Use input control / early return to make sure that your game logic actually works and you can win the 4D game.
+Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
 
 ## Daily Feedback
 
