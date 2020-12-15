@@ -55,7 +55,7 @@ The More Comfortable section is for students that wish to push their boundaries.
 
 ## Code Review
 
-On days where we have longer post-class exercises or projects due, we will review each others' code in groups of 2-3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
+On days when projects are due, we will review each others' code in groups of 2 or 3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
 
 ### Individual Review
 
