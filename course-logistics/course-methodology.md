@@ -96,7 +96,9 @@ You'll be pair programming on one person's project at a time. The goal is to get
 
 Once done with one person's code, send the code to your pair \(it's their project\) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
 
-_Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default._
+{% hint style="info" %}
+Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
+{% endhint %}
 
 If you both have working versions, implement a new feature in one of the projects together.
 
