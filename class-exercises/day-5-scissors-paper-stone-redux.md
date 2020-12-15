@@ -2,7 +2,7 @@
 
 ## Peer-Led Code Review
 
-Review your partner's code as per [Peer-Led Code Review instructions](../course-logistics/course-methodology.md#peer-led-code-review). Once both have a working game, work on [More Comfortable](day-5-scissors-paper-stone-redux.md#more-comfortable) on one person's code.
+Review your partner's code as per [Peer-Led Code Review instructions](../course-logistics/course-methodology.md#code-review). Once both have a working game, work on [More Comfortable](day-5-scissors-paper-stone-redux.md#more-comfortable) on one person's code.
 
 ## More Comfortable
 
