@@ -61,26 +61,24 @@ On days where we have longer post-class exercises or projects due, we will revie
 
 #### 1\) Clone Partner's Code
 
-You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's.
+You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's. If you have forked the repo but haven't pushed your latest code to GitHub, take a moment now to `git push`. Let your partner know you're updating the repo. Run a `git clone <REPO_URL> <NEW_FOLDER_NAME>` to get a copy of your partner's code.
 
-**If you have forked the repo, but you don't have the latest code on GitHub** take a moment now to do a `git push`. Let your partner know you're updating the repo.
-
-Run a `git clone <REPO_URL> <NEW_FOLDER_NAME>` to get a copy of your partner's code.
-
-_Note: You need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone._
+{% hint style="info" %}
+Note: You need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone.
+{% endhint %}
 
 #### 2\) Run Partner's Code
 
-Open the code in the browser and test it. What does it do? If you're not sure what it does look inside the `script.js` to see.
+Open the code in the browser and test it. What does it do? If you're not sure what it does look inside `script.js` to see.
 
 #### 3\) Read Partner's Code
 
-Read the code.
+Read the code and answer the following questions.
 
-* How does it work?
-* Does it have any obvious errors?
-* Does it implement something that you were trying to do?
-* Does it implement a feature that you haven't started yet? How does the code work?
+1. How does it work?
+2. Does it have any obvious errors?
+3. Does it implement something that you were trying to do?
+4. Does it implement a feature that you haven't started yet? How does the code work?
 
 #### 4\) Play with Partner's Code
 
