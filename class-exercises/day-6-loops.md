@@ -60,7 +60,7 @@ The program will run a loop that, for each iteration of the loop, represents a s
 
 Each dice roll will see if the user has won for that dice roll and the game will keep track of the overall win-loss record. The program will output the overall win-loss record.
 
-## Easier Multi-Dice Game
+## Easier \(For The Player\) Multi-Dice Game
 
 Create a dice game with a variable _n_ number of dice. The user will be able to roll that _n_ number of dice in 4 different rounds.
 
