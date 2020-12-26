@@ -76,7 +76,7 @@ Which means they want the number 7321.
 Use `input` and turn it into a series of positions.
 
 ```javascript
-var positions = input.split(''); // makes an array: [3,1,0,2];
+var positions = input.split(''); // makes an array: ['3', '1', '0', '2'];
 ```
 
 Loop over `positions` to construct the new number.
