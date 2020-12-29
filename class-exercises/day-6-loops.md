@@ -8,7 +8,9 @@ Today we will practise arrays and loops. For each exercise except Infinite Loop,
 When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
-## Simple Loop with Variations
+## Base
+
+### Simple Loop with Variations
 
 Create a simple loop in the `main` function. Make the loop run 6 times, adding `"hello"` to `myOutputValue` every time the loop runs.
 
@@ -18,7 +20,7 @@ What happens if, inside the loop, you alter the `counter` by adding a number oth
 
 What happens if you change the condition inside the loop from `counter < 6` to `counter <= 6`.
 
-## Loop within Loop
+### Loop within Loop
 
 Create a simple loop in the `main` function. Make the loop run 9 times. 3 times in one loop, 3 times in the inner loop. The inner loop will add `"hello"` to `myOutputValue`.
 
@@ -40,11 +42,11 @@ Use `input` to control how many times the loop runs.
 
 Change it so that the inner loop runs 2x times the outer loop.
 
-## Infiinite Loop
+### Infiinite Loop
 
 Make a loop that never stops running. Be prepared to stop / kill this chrome tab, because it will freeze. You should also be able to see this tab on the Activity Monitor / Task Manager.
 
-## Multi-Dice Game
+### Multi-Dice Game
 
 Create a dice game with a variable number of dice rolls.
 
@@ -58,7 +60,9 @@ The program will run a loop that, for each iteration of the loop, represents a s
 
 Each dice roll will see if the user has won for that dice roll and the game will keep track of the overall win-loss record. The program will output the overall win-loss record.
 
-## Easier \(For The Player\) Multi-Dice Game
+## More Comfortable
+
+### Easier \(For The Player\) Multi-Dice Game
 
 Create a dice game with a variable _n_ number of dice. The user will be able to roll that _n_ number of dice in 4 different rounds.
 
@@ -76,7 +80,7 @@ If the user guessed correctly for any of those _n_ dice, they win that round.
 
 The game will add to the output the record of that round, and the game will output the result for all rounds.
 
-## Two Player
+### Two Player
 
 Change the game so that 2 players can play.
 
@@ -86,7 +90,7 @@ The game play will proceed as in the dice game above. The user will receive a sc
 
 Then the game will switch to the other player's turn.
 
-## Multi Player
+### Multi Player
 
 Change the game so that it asks how many players are in the game at the beginning. Each player will take turns playing the game as above.
 
