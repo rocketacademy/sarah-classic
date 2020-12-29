@@ -41,6 +41,8 @@ Player 2 drew:
 Player 2 wins!
 ```
 
+## More Comfortable
+
 ### **Low Card with Wild Card**
 
 Update Low Card with the following twist. At the beginning of the game, pick \(but do not draw\) a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins.
@@ -52,8 +54,6 @@ Same rules as Low Card with Wild Card, except at the beginning of the game the p
 ### **Low Card with Bets**
 
 Allow the player to wager points on each round. Add a new mode for the beginning of each round where the player selects the number of points to wager. They win the wagered points if they win, and lose the points if they lose or draw. The player begins with 100 points.
-
-## More Comfortable
 
 ### Low Card 2-Player Mode
 
