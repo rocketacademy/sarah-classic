@@ -1,5 +1,15 @@
 # Day 7: Loops and Arrays
 
+## Introduction
+
+Today we will practise arrays with loops. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app.
+
+{% hint style="warning" %}
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+{% endhint %}
+
+## Base
+
 ### Mad Libs
 
 If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
@@ -16,6 +26,8 @@ Hard code the exclamation, adverb and noun, but leave 1 adjective blank. In the 
 At the beginning of the app, ask the user to input a series of adjectives. We can choose to have the user input 1 adjective per input or multiple. Store these in an array.
 
 When the user types "create" in the input, change the mode to complete your Mad Lib by randomly selecting an adjective from the array. Output the completed Mad Lib in the grey box.
+
+## More Comfortable
 
 ### Mad Libs V2
 
