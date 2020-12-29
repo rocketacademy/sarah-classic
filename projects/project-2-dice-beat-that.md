@@ -1,6 +1,6 @@
 # Project 2: Dice - Beat That!
 
-Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-dice-project](https://github.com/rocketacademy/swe101-dice-project)
+Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-beat-that](https://github.com/rocketacademy/swe101-beat-that)
 
 Create a dice game based on these rules: [https://www.activityvillage.co.uk/beat-that](https://www.activityvillage.co.uk/beat-that)
 
