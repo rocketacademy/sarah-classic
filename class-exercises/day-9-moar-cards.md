@@ -6,23 +6,25 @@
 
 Begin by cloning a new copy of the [SWE101 starter code.](https://github.com/rocketacademy/swe101-starter-code) Reminder to `npm install` to activate ESLint! Copy the card shuffling function from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) and the deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md).
 
-## Display a single card
+## Base
+
+### Display Single Card
 
 When the user clicks submit draw a single card from the deck and show it to them.
 
-## Low Card
+### Low Card
 
 Implement the High Card game from [10.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with one difference: the winner is the person with the lowest card.
 
-## Low Card with Queen Winner
+### Low Card with Queen Winner
 
 Alter the Low Card game such that if any player draws a Queen, they win.
 
-## Low Card Hands
+### Low Card Hands
 
 At the beginning of the game the player can say how many cards they want. The lowest of the player's cards is compared against the computer card.
 
-## Low Card Output
+### Low Card Output
 
 Implement a nice looking output for Low Card. Use a helper function to display each card nicely with emoji. \(♠️, etc.\).
 
@@ -39,25 +41,27 @@ Player 2 drew:
 Player 2 wins!
 ```
 
-## **Low Card with Wild Card**
+### **Low Card with Wild Card**
 
 Update Low Card with the following twist. At the beginning of the game, pick \(but do not draw\) a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins.
 
-## Low Card with Player-Chosen Wild Card
+### Low Card with Player-Chosen Wild Card
 
 Same rules as Low Card with Wild Card, except at the beginning of the game the player names a single card as input to be the Wild Card.
 
-## **Low Card with Bets**
+### **Low Card with Bets**
 
 Allow the player to wager points on each round. Add a new mode for the beginning of each round where the player selects the number of points to wager. They win the wagered points if they win, and lose the points if they lose or draw. The player begins with 100 points.
 
-## Two-Player
+## More Comfortable
 
-Add another mode so that the game can be played by 2 players taking turns playing a card from their hand. The grey box will tell the players to switch so they don't see each other's cards.
+### Low Card 2-Player Mode
 
-## Pairs \(More Comfortable\)
+2 human players play against each other. The computer draws 3 cards for each player at the start of the game. The players take turns playing 1 card from their hand at a time. For each card played per player, the lowest card wins. The player that wins the best of 3 wins overall. The grey box will tell the players to switch so they don't see each other's cards.
 
-If any player gets a pair in the cards they draw, they win.
+### Low Card 2-Player Mode with Pairs
+
+Update the previous game logic such that if any player gets a pair in their hand, they win.
 
 ## Daily Feedback
 
