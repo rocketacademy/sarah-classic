@@ -1,10 +1,10 @@
 # Day 9: Moar Cards
 
+## Introduction
+
 ![](../.gitbook/assets/images-ccad.jpeg)
 
-Begin by cloning a new copy of the [starter code.](https://github.com/rocketacademy/swe101-starter-code) Reminder to `npm install` to activate ESLint!
-
-Copy the deck array and the card shuffle function from the [objects page](https://swe101.rocketacademy.co/10-javascript-objects/10-1-objects).
+Begin by cloning a new copy of the [SWE101 starter code.](https://github.com/rocketacademy/swe101-starter-code) Reminder to `npm install` to activate ESLint! Copy the card shuffling function from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) and the deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md).
 
 ## Display a single card
 
