@@ -8,17 +8,11 @@ Today we will practise more complex code logic with nested objects and arrays. F
 When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
-## Base
+We will make a chat bot that asks questions when the submit button is clicked. The user can respond by typing and submitting input and the bot can respond further. Please read all exercises before beginning to see how the chat bot can become more complex.
 
-### Basic Chat Bot Data
+### Sample Chat Bot Conversation
 
-Make a chat bot that can ask the user a single question when the submit button is clicked.
-
-The user can respond to the question by typing in the input and the bot can respond.
-
-Read the entire set of exercises before you begin so you can see how the chat bot will become more complex.
-
-Use an object to encode the kinds of things the chat bot will respond with:
+The following is a sample conversation between Bot and User.
 
 ```text
 Bot: Hey, wow you look good today! Did you lose weight? (yes/no/maybe)
@@ -29,7 +23,9 @@ Bot: Wow! Me too!
 Bot: I've been trying this new raw meat diet. Works wonders.
 ```
 
-The answer to one question will be encoded in an object:
+### Store Chat Bot Responses in Object
+
+We will use JavaScript Objects to encode the chat bot's potential responses.
 
 ```javascript
 var answer = {
@@ -39,11 +35,16 @@ var answer = {
 };
 ```
 
-You can access the data directly by using the user response as an attribute in the object.
+### Retrieve Chat Bot Responses with User Input
+
+We can retrieve the relevant chat bot response by using user input to access the relevant response from the answers object.
 
 ```javascript
-var answerText = answer[input]; // value of input is: 'yes'
+// value of input is 'yes'
+var answerText = answer[input];
 ```
+
+## Base
 
 ### Complex Chat Bot Data
 
