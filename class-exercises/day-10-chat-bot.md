@@ -45,16 +45,18 @@ var answerText = answer[input];
 
 ## Base
 
-### Basic Chat Bot Data
+### Single Chat Bot Answer Set
 
 Implement the chat bot described above, that asks a yes/no/maybe question and can respond to a user's response of "yes", "no", or "maybe".
 
-### Complex Chat Bot Data
+### Multiple Chat Bot Answer Sets
 
-Extend the capabilities of the chat bot by storing the question text and answers in the same object.
+Extend the capabilities of the chat bot by storing question and answer text in the same object, like the following.
+
+#### Sample Answer Set
 
 ```javascript
-var chatBotData = {
+var chatBotAnswerSet = {
   question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
   answers: {
     yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
@@ -64,9 +66,23 @@ var chatBotData = {
 };
 ```
 
-### Chat Bot Answer Sets
+To have our chat bot support more than 1 question, put the above `chatBotAnswerSet` object into an array of chat bot answer sets. The bot will pick which question to ask and answer next. The following exercises will add new answer sets to our answer set array.
 
-Put the `chatBotData` object into an array of similar question and answer objects. The bot will pick which question to ask and answer next.
+#### Sample Array of Answer Sets
+
+```javascript
+var chatBotAnswerSets = [
+  {
+    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    answers: {
+      yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+      no: 'Oh ok, just normally happy ;)',
+      maybe: 'It seems thinking about coding also brings happiness!',
+    },
+  },
+  // More answer sets here
+];
+```
 
 ### Chat Bot Asks For Your Name
 
