@@ -84,9 +84,9 @@ var chatBotAnswerSets = [
 ];
 ```
 
-### Chat Bot Asks For Your Name
+### Chat Bot Asks For User's Name
 
-Add a new chat bot question that asks for the user's name and responds with the user's name.
+Add a new chat bot question that asks for the user's name and responds with a sentence containing the user's name. After greeting the user, the chat bot proceeds with the question from previous exercises.
 
 #### Sample Chat Bot Conversation
 
@@ -99,7 +99,7 @@ Bot: Hey Kai! What a cool name.
 (chat bot continues)
 ```
 
-Use the user's name in the bot's subsequent output. You may want to store the user name in a global variable.
+Use the user's name in the bot's subsequent output. You may want to store the user name in a global variable. 
 
 #### Sample Subsequent Bot Output
 
@@ -107,7 +107,16 @@ Use the user's name in the bot's subsequent output. You may want to store the us
 Bot: You know Kai, I just read in the paper that scientists discovered that apples can cook.
 ```
 
-### Chat Bot Asks Your Age
+### Chat Bot Asks For User's Age
+
+Update the chat bot to ask for the user's age after their name. Add the following 2 functionalities.
+
+1. When the user gives their age, set some behaviour that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
+2. The bot repeats itself with 2 different modes of response.
+   1. `{name} I bet {something about age} don't know that ...`
+   2. `But for someone {age} I thought you might also want to know that nowadays`
+
+#### Sample Chat Bot Conversation
 
 ```text
 Bot: Hey! I'm Dennis. What's your name?
@@ -128,15 +137,6 @@ Bot: Cool!
 Bot: But for someone so elderly I thought you might also want to know that nowadays, tables can climb.
 Bot: What do you think of that one!?
 ```
-
-You are adding these 2 functionalities:
-
-**1\)** When the user gives their age, set some behaviour that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
-
-**2\)** The bot repeats itself with 2 different modes of response. In this example it's:
-
-**a\)** `{name} I bet {something about age} don't know that ...`  
-**b\)** `But for someone {age} I thought you might also want to know that nowadays`
 
 ### Chat Bot Response Setting
 
