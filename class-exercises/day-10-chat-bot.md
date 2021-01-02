@@ -15,12 +15,11 @@ We will make a chat bot that asks questions when the submit button is clicked. T
 The following is a sample conversation between Bot and User.
 
 ```text
-Bot: Hey, wow you look good today! Did you lose weight? (yes/no/maybe)
+Bot: Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)
 ---
 User: Yes.
 ---
-Bot: Wow! Me too!
-Bot: I've been trying this new raw meat diet. Works wonders.
+Bot: Wow! Me too! I've been working on the Blackjack project. Makes my day!
 ```
 
 ### Store Chat Bot Responses in Object
@@ -29,9 +28,9 @@ We will use JavaScript Objects to encode the chat bot's potential responses.
 
 ```javascript
 var answer = {
-  yes: 'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
-  no: 'Oh ok, just normally good lookin ;)',
-  maybe: 'This zoom meeting makes you look thin.',
+  yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+  no: 'Oh ok, just normally happy ;)',
+  maybe: 'It seems thinking about coding also brings happiness!',
 };
 ```
 
@@ -46,17 +45,21 @@ var answerText = answer[input];
 
 ## Base
 
+### Basic Chat Bot Data
+
+Implement the chat bot described above, that asks a yes/no/maybe question and can respond to a user's response of "yes", "no", or "maybe".
+
 ### Complex Chat Bot Data
 
-Extend the capabilities of the chat bot by putting the text of the question with the answer:
+Extend the capabilities of the chat bot by storing the question text and answers in the same object.
 
 ```javascript
 var chatBotData = {
-  question: 'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
+  question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
   answers: {
-    yes: 'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
-    no: 'Oh ok, just normally good lookin ;)',
-    maybe: 'This zoom meeting makes you look thin.',
+    yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+    no: 'Oh ok, just normally happy ;)',
+    maybe: 'It seems thinking about coding also brings happiness!',
   },
 };
 ```
@@ -120,13 +123,11 @@ Instead of an array, use an object to hold all the questions. And use another ke
 ```javascript
 var chatBotData = {
   first: {
-    question:
-      'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
+    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
-      yes:
-        'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
-      no: 'Oh ok, just normally good lookin ;)',
-      maybe: 'This zoom meeting makes you look thin.',
+      yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+      no: 'Oh ok, just normally happy ;)',
+      maybe: 'It seems thinking about coding also brings happiness!',
     },
     nextQuestion: 'nice',
   },
@@ -152,10 +153,10 @@ Change the next question based on the user response.
 ```javascript
 var chatBotData = {
   first: {
-    question: 'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
+    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: {
-        yes: 'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
+        yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
         nextQuestion : 'nice'
       }
       // [...] other answers down here
