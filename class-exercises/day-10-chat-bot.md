@@ -133,25 +133,25 @@ Update our chat bot answer set array to be an object whose keys are answer set I
 
 ```javascript
 var chatBotData = {
-  first: {
+  hasBeenCoding: {
     question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
       no: 'Oh ok, just normally happy ;)',
       maybe: 'It seems thinking about coding also brings happiness!',
     },
-    nextQuestion: 'nice',
+    nextQuestion: 'timeOfDay',
   },
-  nice: {
-    question: 'Say by the way do you have $20 I could borrow? (yes/no/maybe)',
+  timeOfDay: {
+    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
     answers: {
-      yes: 'Ok thanks so much. Pay you back soon.',
-      no: 'Ah, never mind.',
-      maybe: "Yea, but it's actually for my mother. Shes not feeling great.",
+      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
+      night: 'Under the calm and gentle moon, I also find my focus.',
+      both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
     nextQuestion: 'weather',
   },
-  // [...] other questions down here
+  // ... other questions here
 };
 ```
 
@@ -165,20 +165,21 @@ Determine the next question based on the user response.
 
 ```javascript
 var chatBotData = {
-  first: {
+  hasBeenCoding: {
     question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: {
-        yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
-        nextQuestion : 'nice'
+        answer: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+        nextQuestion: 'timeOfDay'
       }
-      // [...] other answers down here
-
+      // ... other answers here
     }
   },
-  nice: {
-    question: 'Say by the way do you have $20 I could borrow? (yes/no/maybe)',
-  // [...] other questions down here
+  timeOfDay: {
+    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    // ... answers here
+  },
+  // ... other questions here
 };
 ```
 
