@@ -86,6 +86,10 @@ var chatBotAnswerSets = [
 
 ### Chat Bot Asks For Your Name
 
+Add a new chat bot question that asks for the user's name and responds with the user's name.
+
+#### Sample Chat Bot Conversation
+
 ```text
 Bot: Hey! I'm Dennis. What's your name?
 ---
@@ -95,7 +99,9 @@ Bot: Hey Kai! What a cool name.
 (chat bot continues)
 ```
 
-Use the user's name in the bot's output.
+Use the user's name in the bot's subsequent output. You may want to store the user name in a global variable.
+
+#### Sample Subsequent Bot Output
 
 ```text
 Bot: You know Kai, I just read in the paper that scientists discovered that apples can cook.
