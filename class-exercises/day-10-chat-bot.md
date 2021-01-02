@@ -2,6 +2,16 @@
 
 ## Introduction
 
+Today we will practise more complex code logic with nested objects and arrays. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app. 
+
+{% hint style="warning" %}
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+{% endhint %}
+
+## Base
+
+### Basic Chat Bot Data
+
 Make a chat bot that can ask the user a single question when the submit button is clicked.
 
 The user can respond to the question by typing in the input and the bot can respond.
@@ -35,7 +45,7 @@ You can access the data directly by using the user response as an attribute in t
 var answerText = answer[input]; // value of input is: 'yes'
 ```
 
-## Complex Chat Bot Data
+### Complex Chat Bot Data
 
 Extend the capabilities of the chat bot by putting the text of the question with the answer:
 
@@ -50,11 +60,11 @@ var chatBotData = {
 };
 ```
 
-## Chat Bot Answer Sets
+### Chat Bot Answer Sets
 
 Put the `chatBotData` object into an array of similar question and answer objects. The bot will pick which question to ask and answer next.
 
-## Chat Bot Asks For Your Name
+### Chat Bot Asks For Your Name
 
 ```text
 Bot: Hey! I'm Dennis. What's your name?
@@ -71,7 +81,7 @@ Use the user's name in the bot's output.
 Bot: You know Kai, I just read in the paper that scientists discovered that apples can cook.
 ```
 
-## Chat Bot Asks Your Age
+### Chat Bot Asks Your Age
 
 ```text
 Bot: Hey! I'm Dennis. What's your name?
@@ -102,7 +112,7 @@ You are adding these 2 functionalities:
 **a\)** `{name} I bet {something about age} don't know that ...`  
 **b\)** `But for someone {age} I thought you might also want to know that nowadays`
 
-## Chat Bot Response Setting
+### Chat Bot Response Setting
 
 Instead of an array, use an object to hold all the questions. And use another key to set the order the questions are asked in.
 
