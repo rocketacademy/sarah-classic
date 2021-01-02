@@ -109,12 +109,7 @@ Bot: You know Kai, I just read in the paper that scientists discovered that appl
 
 ### Chat Bot Asks For User's Age
 
-Update the chat bot to ask for the user's age after their name. Add the following 2 functionalities.
-
-1. When the user gives their age, set some behaviour that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
-2. The bot repeats itself with 2 different modes of response.
-   1. `{name} I bet {something about age} don't know that ...`
-   2. `But for someone {age} I thought you might also want to know that nowadays`
+Update the chat bot to ask for the user's age after their name. The chat bot's response will differ based on the user's age. For example, we can respond with different outputs if the user is under 20, between 20-60, and above 60.
 
 #### Sample Chat Bot Conversation
 
@@ -127,20 +122,14 @@ Bot: Hey Kai! What a cool name. How old are you?
 ---
 User: 63
 ---
-Bot: Wow that's old.
-Bot: Kai, I bet people at your advanced age don't know that pilots never know how to cook.
-Bot: What's the most important thing you've learned at your age?
----
-User: (answer)
----
-Bot: Cool!
-Bot: But for someone so elderly I thought you might also want to know that nowadays, tables can climb.
-Bot: What do you think of that one!?
+Bot: What a wise age. I've got some questions for you! Hit Submit and I'll ask.
 ```
 
 ### Chat Bot Response Setting
 
-Instead of an array, use an object to hold all the questions. And use another key to set the order the questions are asked in.
+Update our chat bot answer set array to be an object whose keys are answer set IDs and values are answer sets. Also add a `nextQuestion` key to each answer set object, whose value is always an answer set ID, enabling us to chain question sequences in a more logical manner.
+
+#### Sample Answer Set Collection
 
 ```javascript
 var chatBotData = {
@@ -170,7 +159,9 @@ var chatBotData = {
 
 ### Dynamic Chat Bot
 
-Change the next question based on the user response.
+Determine the next question based on the user response.
+
+#### Sample Answer Set Collection
 
 ```javascript
 var chatBotData = {
@@ -191,54 +182,11 @@ var chatBotData = {
 };
 ```
 
-### Chat Bot Asks Your Age
-
-```text
-Bot: Hey! I'm Dennis. What's your name?
----
-User: Kai.
----
-Bot: Hey Kai! What a cool name. How old are you?
----
-User: 63
----
-Bot: Wow! Me too! My back really hurts today too.
-Bot: Say did you eat breakfast today? (yes/no/maybe)
-```
-
-You are adding these 2 functionalities:
-
-**1\)** When the user gives their age, set some behaviour that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
-
-**2\)** The bot repeats itself with 2 different modes of response. In this example it's:
-
-**a\)** `{name} I bet {something about age} don't know that ...`  
-**b\)** `But for someone {age} I thought you might also want to know that nowadays`
-
-```javascript
-var chatBotData = {
-  first: {
-    question: 'How old are you?',
-    answers: [
-      {
-         range: [58,66],
-         answer: 'Wow! Me too! My back really hurts today too.',
-         nextQuestion: 'nice'
-      }
-      // [...] other answers down here
-    ]
-  },
-  nice: {
-    question: 'Say did you eat breakfast today? (yes/no/maybe)',
-  // [...] other questions down here
-};
-```
-
 ### Barnum Questions
 
 Implement questions that the bot can ask and answer universally. Have the bot ask these questions randomly interspersed with the other questions.
 
-See: the Barnum Effect: [https://en.wikipedia.org/wiki/Barnum\_effect](https://en.wikipedia.org/wiki/Barnum_effect)
+Read more on the Barnum Effect here: [https://en.wikipedia.org/wiki/Barnum\_effect](https://en.wikipedia.org/wiki/Barnum_effect)
 
 ## Daily Feedback
 
