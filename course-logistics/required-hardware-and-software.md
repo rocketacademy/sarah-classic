@@ -125,7 +125,7 @@ We will need to use the command line \(also known as a terminal, more on this in
 
 ![VSCode Terminal on Windows. PowerShell is the Default Terminal Language on Windows.](../.gitbook/assets/v4hx4.png)
 
-1. Open Visual Studio Code and press and hold ``Ctrl+``` to open the terminal. We should see something like the screenshot above.
+1. Open Visual Studio Code and use the keyboard shortcut ``Ctrl+``` \(hold `Ctrl` and press `````\) to open the terminal. We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
 2. Open the command palette using `Ctrl+Shift+P`.
 3. Type and select "Select Default Shell".
 4. Select "Git Bash" from the options.
