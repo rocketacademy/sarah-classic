@@ -95,7 +95,7 @@ Bot: Hey! I'm Dennis. What's your name?
 ---
 User: Kai.
 ---
-Bot: Hey Kai! What a cool name.
+Bot: Kai! What a cool name.
 (chat bot continues)
 ```
 
@@ -104,7 +104,7 @@ Use the user's name in the bot's subsequent output. You may want to store the us
 #### Sample Subsequent Bot Output
 
 ```text
-Bot: You know Kai, I just read in the paper that scientists discovered that apples can cook.
+Bot: Kai, I just read in the paper that scientists discovered that apples can cook.
 ```
 
 ### Chat Bot Asks For User's Age
@@ -118,12 +118,14 @@ Bot: Hey! I'm Dennis. What's your name?
 ---
 User: Kai.
 ---
-Bot: Hey Kai! What a cool name. How old are you?
+Bot: Kai! What a cool name. How old are you?
 ---
 User: 63
 ---
 Bot: What a wise age. I've got some questions for you! Hit Submit and I'll ask.
 ```
+
+## More Comfortable
 
 ### Chat Bot Response Setting
 
@@ -155,11 +157,9 @@ var chatBotData = {
 };
 ```
 
-## More Comfortable
-
 ### Dynamic Chat Bot
 
-Determine the next question based on the user response.
+Update our chat bot to choose a next question based on the answer that the user gives. This next question's ID can be stored in the object that corresponds to the user's answer. See the following sample answer set collection for inspiration.
 
 #### Sample Answer Set Collection
 
@@ -183,11 +183,11 @@ var chatBotData = {
 };
 ```
 
-### Barnum Questions
+### Fortune Telling
 
-Implement questions that the bot can ask and answer universally. Have the bot ask these questions randomly interspersed with the other questions.
+Add questions to our chat bot that are purportedly for fortune telling, but where the bot always provides standard responses that anyone might believe are individualised. For example, the bot might ask "if you have a birthmark, where is it on your body?" and respond with "You have a great need for other people to like and admire you."
 
-Read more on the Barnum Effect here: [https://en.wikipedia.org/wiki/Barnum\_effect](https://en.wikipedia.org/wiki/Barnum_effect)
+Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum_effect).
 
 ## Daily Feedback
 
