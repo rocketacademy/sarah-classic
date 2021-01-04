@@ -20,7 +20,7 @@ Each day's deliverables are due by the **start** of that day's class. \(You prep
 
 ## Daily Breakdown
 
-### Day 0: Pre-Course Briefing \(4pm\)
+### Day 0: Pre-Course Briefing \(4pm to 4:45pm\)
 
 {% hint style="warning" %}
 Day 0's pre-course briefing will run from **4pm to 4:45pm** instead of the usual 1-3pm. This is because the previous batch will be having their last class session from 1-3pm. Thank you for your understanding!
