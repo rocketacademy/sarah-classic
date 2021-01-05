@@ -206,7 +206,7 @@ Total Video Watch Time: **~18 mins**
 
 #### In-Class Material
 
-* [Day 11: Debugger and Blackjack Redux](../class-exercises/day-11-blackjack-redux-debugger.md)
+* [Day 11: Blackjack Redux and Debugger](../class-exercises/day-11-blackjack-redux-debugger.md)
 
 #### Post-Class: Begin Project
 
