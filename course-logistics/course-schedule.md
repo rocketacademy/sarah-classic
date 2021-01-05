@@ -218,6 +218,13 @@ Total Video Watch Time: **~18 mins**
 
 * [Project 3: Blackjack \(More Comfortable\)](../projects/project-3-blackjack.md#more-comfortable)
 
+#### Pre-Class Material
+
+Total Video Watch Time: **~22 mins**
+
+* [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
+* [12.2: HTML, CSS Review](../12-next-steps/12.2-html-css-review.md)
+
 #### In-Class Material
 
 * Course feedback
@@ -228,13 +235,6 @@ Total Video Watch Time: **~18 mins**
 ## Further Reading
 
 The following is extra reading in case you would like to learn more. Rocket Academy's follow-on course [SWE1: Intro to Coding](https://rocketacademy.co/swe1) starts with DOM.
-
-### Next Steps
-
-Total Video Watch Time: **~22 mins**
-
-* [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
-* [12.2: HTML, CSS Review](../12-next-steps/12.2-html-css-review.md)
 
 ### Past Projects
 
