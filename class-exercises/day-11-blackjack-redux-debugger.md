@@ -2,7 +2,7 @@
 
 ## Peer-Led Code Review \(with Debugger\)
 
-Review your partner's code as per [Peer-Led Code Review instructions](../course-logistics/course-methodology.md#peer-led-code-review). Complete the [Debugger section](day-11-blackjack-redux-debugger.md#debugger) below before implementing new features together. Once both have a working game, work on [More Comfortable](day-11-blackjack-redux-debugger.md#more-comfortable) on one person's code.
+Review your partner's code as per [Peer-Led Code Review instructions](../course-logistics/course-methodology.md#peer-review). Complete the [Debugger section](day-11-blackjack-redux-debugger.md#debugger) below before implementing new features together. Once both have a working game, work on [More Comfortable](day-11-blackjack-redux-debugger.md#more-comfortable) on one person's code.
 
 ## Debugger
 
