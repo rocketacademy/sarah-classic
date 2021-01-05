@@ -1,8 +1,12 @@
 # Project 2: Dice - Beat That!
 
-Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-beat-that](https://github.com/rocketacademy/swe101-beat-that)
+## Introduction
 
-Create a dice game based on these rules: [https://www.activityvillage.co.uk/beat-that](https://www.activityvillage.co.uk/beat-that)
+Replicate the Beat That dice game, where players create the largest number they can based on a number of random dice rolls. Read the rules for Beat That here: [https://www.activityvillage.co.uk/beat-that](https://www.activityvillage.co.uk/beat-that).
+
+## Setup
+
+Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-beat-that](https://github.com/rocketacademy/swe101-beat-that)
 
 ## Base
 
