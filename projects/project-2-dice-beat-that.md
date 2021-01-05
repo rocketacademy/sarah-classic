@@ -2,115 +2,93 @@
 
 ## Introduction
 
-Replicate the Beat That dice game, where players create the largest number they can based on a number of random dice rolls. Read the rules for Beat That here: [https://www.activityvillage.co.uk/beat-that](https://www.activityvillage.co.uk/beat-that).
+Create a version of the Beat That dice game, where players create the largest number they can by concatenating random dice roll digits. Read the rules for Beat That here: [https://www.activityvillage.co.uk/beat-that](https://www.activityvillage.co.uk/beat-that).
 
 ## Setup
 
-Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-beat-that](https://github.com/rocketacademy/swe101-beat-that)
+Begin the project by **forking** the project starter repo: [https://github.com/rocketacademy/swe101-beat-that](https://github.com/rocketacademy/swe101-beat-that). Once forked, clone your fork of the repo and work on that copy.
 
-## Base
+## Base: 2 Dice
 
-There will be 2 players. Have a mode for each player.
+### Requirements
 
-Players will take turns. When the player clicks the submit button, it rolls 2 dice.
+1. There are 2 players and players take turns.
+2. When a player clicks Submit, the game rolls 2 dice and shows the dice rolls, for example 3 and 6.
+3. The player picks the order of the dice they want. For example, if they wanted the number 63, they would specify that the 2nd dice goes first.
+4. After both players have rolled, the player with the higher combined number wins.
 
-The game goes into a new mode and shows the 2 dice the player rolled.
+### Example
 
-The player picks the order of the dice they want.
-
-Example:
-
-{% hint style="success" %}
-Player One rolls.
-
-They roll **Dice 1** as 3 and **Dice 2** as 6.
+Player 1 rolls 2 dice with dice rolls 3 for Dice 1 and 6 for Dice 2.
 
 ```text
 Welcome Player 1.
-You rolled Dice 1:3 and Dice 2:6.
+You rolled 3 for Dice 1 and 6 for Dice 2.
 Choose the order of the dice.
 ```
 
-They can pick **Dice 1** or **Dice 2** as the first numeral of the number.
+Player 1 can pick either Dice 1 or Dice 2 as the first numeral of the combined number.
 
 ```text
 Player 1, you chose Dice 2 first.
 Your number is 63.
-It is now player 2's turn.
+It is now Player 2's turn.
 ```
 
-Player One picks **Dice 2** as the first numeral, \(and **Dice 1** as the second\) so gets the number **63**.
-
-Player Two rolls two dice and must create a number that is greater.
-{% endhint %}
+Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating the combined number 63. Player 2 then rolls 2 dice and tries to generate a number greater than 63.
 
 ## More Comfortable
 
 ### Variable Number of Dice
 
-Create a new version of the game that deals with two or more dice.
+#### Requirements
 
-At the beginning of the game is a mode that asks the user how many dice they want to play with.
+1. Create a new version of Beat That that rolls two or more dice per player.
+2. At the beginning of the game, the game asks the user how many dice they want to play with.
+3. Each player's dice rolls can be stored in an array.
+4. When a player rolls dice, use a loop to place `n` dice roll values in that player's array, where `n` is the number of dice the user specifies at the beginning of the game. Output the dice roll values.
+5. To specify the order of the dice rolls to generate the combined number, the user will input the a sequence of digits that correspond to the indexes of the player's dice roll array. For example, if a player's dice roll array contains `[2, 3, 1, 6]` and the player inputs `3102` to generate the combined number, this means the 1st digit in the combined number is at index 3, the 2nd digit is at index 1, the 3rd digit is at index 0, and the 4th digit is at index 2. This would generate the combined number `6321`.
 
-Each player's set of dice should be stored in an array.
+#### Hints
 
-When the player rolls, use a loop to place _**n**_ new dice roll values in the array.
-
-Ask the user to input the _array element position_ of the digits:
-
-```text
-You rolled:
-----dice: 2 3 1 7
-position: 0 1 2 3
-
-Enter the order of the positions of the numbers you want.
-```
-
-The user might enter:
-
-```text
-3102
-```
-
-Which means they want the number 7321.
-
-{% hint style="warning" %}
-**Use arrays and loops to construct this number:**
-
-Use `input` and turn it into a series of positions.
+1. To convert the player's input into a combined number, we can convert the player's input into a series of indexes. JavaScript's [String `split` method](https://www.w3schools.com/jsref/jsref_split.asp) may be helpful. For example, `input.split('')` creates an array where each element is a character in `input`. If `input` were `"3102"`, then `input.split('')` would return `['3', '1', '0', '2']`. We could then use JavaScript's [Array `map` method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) to convert this array of strings into an array of numbers. For example, `['3', '1', '0', '2'].map(Number)` would return `[3, 1, 0, 2]`.
+2. Once we have the array of indexes, we could then loop over the array of indexes to construct the combined number. Consider the following code.
 
 ```javascript
-var positions = input.split(''); // makes an array: ['3', '1', '0', '2'];
+const indexesArray = input.split('').map(Number);
+const combinedNum = 0;
+for (var i = 0; i < indexesArray.length; i += 1) {
+  // Multiply combinedNum by 10 to shift all existing digits to the left by 1 digit.
+  // Then add the current digit from diceRollArray to combinedNum.
+  // Repeat this for however many digits there are in indexesArray.
+  // indexesArray and diceRollArray should be the same length.
+  combinedNum = combinedNum * 10 + diceRollArray[indexesArray[i]];
+} 
 ```
-
-Loop over `positions` to construct the new number.
-{% endhint %}
 
 ### Score
 
-Keep score for each player. The score is the running sum total of all numbers that player has constructed.
+Keep score for each player. The score is the running sum of all numbers that player has generated so far. This means there is no permanent winner, only a temporary leader.
 
 ### Auto-Choose
 
-Add functionality where the game auto-selects the highest number from the dice that are rolled. E.g. for dice rolls 2 3 1 6, the game auto-selects 6321.
+Update the game to auto-generate the highest combined number from dice rolls. For example, for dice rolls `[2, 3, 1, 6]`, the game would auto-generate the combined number `6321`.
 
 ### Variable Number of Players
 
-At the beginning of the game ask how many players would like to play.
+Allow more than 2 players to play Beat That in a single game. At the beginning of the game, ask how many players would like to play.
 
-### Least
+### Lowest Combined Number Mode
 
-Add a mode to the game so that the player with the least amount is the one who wins.
+Add a game mode such that the player with the lowest combined number is the winner.
 
 ### Leaderboard
 
-When outputting results in the grey box, add a leaderboard that lists the players and their scores in order. \(From most to least \*or\* least to most depending on the mode from above\).
+When outputting game results in the output box, also output a leaderboard that lists the players and their scores in decreasing rank order. This rank order may be highest to lowest scores, or lowest to highest scores depending on whether Lowest Combined Number game mode is activated.
 
-### Faceoff
+### Knockout Mode
 
-Make a mode where if the number of players is over 2, the game can match players against each other one at a time until there is one winner.
-
-**Example:** there are 4 players. The computer matches player 1 and 2. The winner is player 1. The computer matches the winner, \(player 1\) against player 3. The winner of that match plays player 4.
+Create a mode where if there are more than 2 players, the game can match players against each other 1 at a time until there is 1 final winner. For example, if there are 4 players, the game might first match players 1 and 2. If player 1 wins, the game might then match players 1 and 3. The winner of that match would then play player 4, and the winner of that final round would be the ultimate winner.
 
 ## Submit
 
