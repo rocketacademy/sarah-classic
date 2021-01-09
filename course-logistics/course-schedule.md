@@ -30,8 +30,11 @@ Day 0's pre-course briefing will run from **4pm to 4:45pm** instead of the usual
 2. Learning goals
 3. Learning format
 4. Deliverables for Day 1
-5. Class photo
-6. Icebreaker
+   1. Course Registration Form
+   2. Required Hardware and Software
+   3. Pre-Class Material
+5. Icebreaker
+6. Class photo
 
 ### Day 1: Coding Tools
 
