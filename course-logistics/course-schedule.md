@@ -217,10 +217,13 @@ Total Video Watch Time: **~18 mins**
 **Project Due**
 
 * [Project 3: Blackjack \(More Comfortable\)](../projects/project-3-blackjack.md#more-comfortable)
+* Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment](../12-next-steps/12.3-deployment.md)
 
 #### Pre-Class Material
 
 Total Video Watch Time: **~22 mins**
+
+Rocket Academy's follow-on course [SWE1: Intro to Coding](https://rocketacademy.co/swe1) starts with DOM. If you plan to join SWE1, please learn the following!
 
 * [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
 * [12.2: HTML, CSS Review](../12-next-steps/12.2-html-css-review.md)
@@ -233,8 +236,6 @@ Total Video Watch Time: **~22 mins**
 * LinkedIn certificate presentations
 
 ## Further Reading
-
-The following is extra reading in case you would like to learn more. Rocket Academy's follow-on course [SWE1: Intro to Coding](https://rocketacademy.co/swe1) starts with DOM.
 
 ### Past Projects
 
