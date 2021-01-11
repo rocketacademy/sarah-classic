@@ -96,11 +96,7 @@ Create a mode where if there are more than 2 players, the game can match players
 
 ## Reference Solution
 
-Please only refer to the reference solution after you have attempted the project. Thank you!
-
-Note that there are many ways to implement the project and the reference solution is only 1 way.
-
-This reference solution does not include exercises in the More Comfortable section.
+The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
 [https://github.com/rocketacademy/swe101-dice-project/pull/10/files](https://github.com/rocketacademy/swe101-dice-project/pull/10/files)
 

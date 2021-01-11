@@ -1,8 +1,8 @@
 # Project 3: Blackjack
 
-![](../.gitbook/assets/images-bj.jpeg)
+## Introduction
 
-In the Base section of Blackjack you'll build the gameplay logic. Begin by **forking** this repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
+Begin by **forking** this repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
 
 ## Base
 
@@ -10,94 +10,81 @@ In the Base section of Blackjack you'll build the gameplay logic. Begin by **for
 
 If you haven't played Blackjack before, refer to [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) to see what the rules of the game are. For the purposes of the project we will simplify the rules and the gameplay.
 
-* There will be only two players. One human and one computer.
-* The computer will always be the dealer. The dealer has to hit if their hand is below 17.
-* The player who is closer to 21 wins the hand. Aces can be 1 or 11.
+1. There will be only two players. One human and one computer.
+2. The computer will always be the dealer. The dealer has to hit if their hand is below 17.
+3. The player who is closer to 21 wins the hand. Aces can be 1 or 11.
 
-We know that the gameplay turns will be represented by the `main` function. The sequence of actions would be:
+We know that the gameplay turns will be represented by the `main` function. The sequence of actions would be the following.
 
-* Deck is shuffled.
-* User clicks submit button to deal cards.
-* The cards are analysed for any game winning conditions. \(E.g. Blackjack\)
-* The cards are displayed to the user.
-* Then begins a new action, where the user has to decide whether to hit or stand, using the submit button to submit their choice. 
-* When the user makes a decision the cards are analysed for winning conditions. They are also analysed for losing conditions, since it's possible for any player to lose now.
-* The computer also decides to hit or stand automatically based on game rules.
-* Either the game ends or continues.
+1. Deck is shuffled.
+2. User clicks Submit to deal cards.
+3. The cards are analysed for game winning conditions, e.g. Blackjack.
+4. The cards are displayed to the user.
+5. The user decides whether to hit or stand, using the submit button to submit their choice. 
+6. The user's cards are analysed for winning or losing conditions.
+7. The computer decides to hit or stand automatically based on game rules.
+8. The game either ends or continues.
 
-_For the user choice to hit or stand, we know that when a new action of the user has different logic means that the game must have a mode to deal with this._
+{% hint style="info" %}
+Note that for the `main` function to perform different logic on user input, for example when user decides to hit or stand, we may wish to consider using a new game mode.
+{% endhint %}
 
 ### General Tips
 
-* Creating helper functions can be a powerful way to refactor your code and keep it neat.
-* Don't be afraid to throw away code, especially if you already know how you would write it better.
-* Commit your code often- whenever you have a small working version. \(Each version listed above would be a commit\). Make legible and accurate commit messages so that you can refer to your old changes [through the GitHub website later.](../7-github/7.2-github-repo-browsing.md)
+1. Creating helper functions can be a powerful way to refactor your code and keep it neat.
+2. Don't be afraid to throw away code, especially if you already know how you would write it better.
+3. Commit your code often, whenever you have a small working version. For example, each action listed above would be a commit. Make concise and precise commit messages so that you can reference your old changes later.
 
-### Prioritising Work
+### How to Prioritise Work
 
-Given the above is the \*final\* sequence of actions that the user must take in order to play a full game, how do we break these down into sub-features that we can work on one at a time? \(And also verify that they are working one at a time\).
+Given the above \*final\* action sequence to play a full game, how do we break these down into sub-features that we can work on \(and verify they are working\) one at a time? We want to work on features in small parts, but not have to redo any work as we expand the capability of the game, so we want to plan ahead to make sure we can start small and scaffold in the later features at the same time.
 
-We want to work on things in small parts, but not have to redo any work as we expand the capability of the game, so we want to plan ahead a bit to make sure we can start small and scaffold in the later stages at the same time.
+If you already have an effective strategy for creating your game, you can skip ahead. If you're not sure how to approach the game, try applying the following strategies to get started. The following are strategies for breaking down larger projects into smaller tasks to keep up progress, momentum, and motivation on the project. Please read to the end before starting.
 
-If you already think you have an effective strategy for creating your game, you can skip ahead. If you're not sure how to approach the game, try to apply these strategies to get you started.
+#### First Version: Compare Initial Hands to Determine Winner
 
-Read all the way through before you start. These are just strategies for how to approach breaking down this larger project into smaller tasks and keep your progress and momentum on the project moving. \(Which is actually very important!\)
+1. Aim for a playable game. A minimal version of Blackjack could just compare the ranks of the player's and dealer's cards. For now, we can leave out features such as Aces being 1 or 11, and the player and dealer choosing to hit or stand. Write pseudocode to guide your logic.
+2. Compare the initially-drawn cards to determine a winner. Code with the understanding that your code will expand later to encompass other Blackjack functionality.
+3. Test your code.
 
-#### First Version
+#### Second Version: Add Player Hit or Stand
 
-We want to aim for a playable game. If we think about what the minimal version of a playable Blackjack-like game is, it would be to compare the rank of the cards of the player and dealer. 
+1. The player hitting or standing is different from the dealer hitting or standing. The rules state that the dealer hits or stands after all players are done, so let's work on the players hitting or standing first.
+2. The player hitting or standing is a new mode in the game that allows the player to enter their choice. Add the logic for when the player busts.
+3. Refactor your logic to wait until the player is done to evaluate the game-winning condition. 
+4. Test your code.
 
-What we can leave out is: the Ace being 1 or 11, the player or dealer being able to hit or stand.
+#### Third Version: Add Dealer Hit or Stand
 
-Create your winning game condition just comparing these sets of cards to determine a winner. Code with the idea in mind that it will expand later to encompass this other functionality.
+1. The rules state that the dealer hits after the player is done. After the player confirms they are done, add the logic for the dealer adding cards to their hand. This should happen before the winning  condition.
+2. Test your code.
 
-Test your code.
+#### Fourth Version: Add Variable Ace Values
 
-#### Second Version
-
-The player hitting or standing is different from the dealer hitting or standing. The rules state that the dealr hits or stands after all the players are done, so we can work on the players hitting or standing first.
-
-The player hitting or standing is a new mode in the game that allows the player to enter their choice. Add the logic for when the player busts.
-
-Refactor your logic to run wait until the player is done to run the winning condition. 
-
-#### Third Version
-
-The rules state that the dealer hits after the player is done. After the player confirms they are done, add the logic for the dealer adding cards to their hand. This should happen before the winning  condition obviously.
-
-#### Fourth Version
-
-Add the part of the logic that deals with the Ace being 1 or 11.
+1. Add logic to determine whether Aces should have value of 1 or 11 for a given hand.
+2. Test your code.
 
 ## More Comfortable
 
 ### Splits
 
-Add hand splitting functionality to the game. Splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
-
-If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards.
+Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split. 
 
 ### Add Betting
 
-Keep track of the user's points at the beginning of the game. They can bet on their hands.
+The player starts with 100 points. Each round the player wagers a number of points before their hand is dealt. Keep track of the player's points throughout the game.
 
 ### Better Output Formatting
 
-Make the output of the game look really cool.
-
-Can you represent the cards with some graphics?
-
-Ask the player their name?
+Make the game output look cool. Can you represent cards with graphics? Ask the player their name?
 
 ### Multi-Player
 
-Add multi-player so different people can take turns. The game hides and shows the hand according to the turn. 
+Enable multiple players to play against the dealer, where players can take turns. The game hides and shows relevant hand according to the turn.
 
 ## Reference Solution
 
-Please only refer to the reference solution after you have attempted the project. Thank you!
-
-Note that there are many ways to implement the project and the reference solution is only 1 way.
+The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
 [https://github.com/rocketacademy/swe101-blackjack/pull/3/files](https://github.com/rocketacademy/swe101-blackjack/pull/3/files)
 
