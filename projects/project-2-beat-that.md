@@ -6,7 +6,7 @@ Create a version of the Beat That dice game, where players create the largest nu
 
 ## Setup
 
-Begin the project by **forking** the project starter repo: [https://github.com/rocketacademy/swe101-beat-that](https://github.com/rocketacademy/swe101-beat-that). Once forked, clone your fork of the repo and work on that copy.
+Begin by forking the SWE101 Beat That repo: [https://github.com/rocketacademy/swe101-beat-that](https://github.com/rocketacademy/swe101-beat-that). Once forked, clone your fork of the repo and work on that copy.
 
 ## Base
 

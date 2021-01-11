@@ -8,9 +8,11 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 2. The computer will always be the dealer. The dealer has to hit if their hand is below 17.
 3. The player who is closer to 21 wins the hand. Aces can be 1 or 11.
 
-## Base
+## Setup
 
-Begin by forking the SWE101 Blackjack repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
+Begin by forking the SWE101 Blackjack repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack). Once forked, clone your fork of the repo and work on that copy.
+
+## Base
 
 ### Gameplay Description
 
