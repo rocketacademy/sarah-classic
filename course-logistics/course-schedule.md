@@ -144,7 +144,7 @@ Total Video Watch Time: **~41 mins**
 
 Total Video Watch Time: **~11 mins**
 
-* [9.3: Arrays and Loops](../9-arrays-and-iteration/9.3-arrays-and-loops.md)
+* [9.3: Loops with Arrays](../9-arrays-and-iteration/9.3-loops-with-arrays.md)
 
 #### In-Class Material
 

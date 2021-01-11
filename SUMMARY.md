@@ -80,7 +80,7 @@
 
 * [9.1: Arrays](9-arrays-and-iteration/9.1-arrays.md)
 * [9.2: Loops](9-arrays-and-iteration/9.2-loops.md)
-* [9.3: Arrays and Loops](9-arrays-and-iteration/9.3-arrays-and-loops.md)
+* [9.3: Loops with Arrays](9-arrays-and-iteration/9.3-loops-with-arrays.md)
 
 ## 10: JavaScript Objects
 
