@@ -37,6 +37,10 @@ Pair programming is commonly used for the following purposes:
 
 During SWE101, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming with designated pairings that will rotate each class.
 
+### Project Presentations
+
+Please follow [SWE1 project presentation format](https://swe1.rocketacademy.co/course-logistics/course-methodology#project-presentations) for project presentations. Thank you!
+
 ## Exercise, Project Strategy
 
 Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
