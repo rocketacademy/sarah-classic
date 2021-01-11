@@ -234,7 +234,7 @@ Total Video Watch Time: **~22 mins**
 #### In-Class Material
 
 * Wrap up Blackjack
-* Project presentations
+* [Project presentations](course-methodology.md#project-presentations)
 * LinkedIn certificate presentations
 * Course feedback and reviews
 
