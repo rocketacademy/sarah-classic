@@ -9,7 +9,7 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 3. The player who is closer to 21 wins the hand. Aces can be 1 or 11.
 
 {% hint style="danger" %}
-Rocket Academy does not endorse gambling. We chose Blackjack as a project because of its complex rules that help facilitate coding instruction. 
+**Rocket Academy does not endorse gambling.** We chose Blackjack as a project because of its complex rules that help facilitate coding instruction. 
 {% endhint %}
 
 ## Setup
