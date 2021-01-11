@@ -2,19 +2,19 @@
 
 ## Introduction
 
-Begin by forking the SWE101 Blackjack repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
-
-## Base
-
-### Rules
-
-If you haven't played Blackjack before, refer to [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) to see what the rules of the game are. For the purposes of the project we will simplify the rules and the gameplay.
+Implement a simplified version of Blackjack. If you're not familiar with Blackjack, refer to [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) for game rules. Our simplified rules are the following.
 
 1. There will be only two players. One human and one computer.
 2. The computer will always be the dealer. The dealer has to hit if their hand is below 17.
 3. The player who is closer to 21 wins the hand. Aces can be 1 or 11.
 
-We know that the gameplay turns will be represented by the `main` function. The sequence of actions would be the following.
+## Base
+
+Begin by forking the SWE101 Blackjack repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
+
+### Gameplay Description
+
+The `main` function runs on each player's turn. The sequence of actions in the game might be the following.
 
 1. Deck is shuffled.
 2. User clicks Submit to deal cards.
@@ -26,7 +26,7 @@ We know that the gameplay turns will be represented by the `main` function. The 
 8. The game either ends or continues.
 
 {% hint style="info" %}
-Note that for the `main` function to perform different logic on user input, for example when user decides to hit or stand, we may wish to consider using a new game mode.
+Note that for the `main` function to perform different logic on user input, for example when a player decides to hit or stand, we may wish to consider using a new game mode.
 {% endhint %}
 
 ### General Tips
