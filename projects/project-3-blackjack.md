@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Begin by **forking** this repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
+Begin by forking the SWE101 Blackjack repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack)
 
 ## Base
 
