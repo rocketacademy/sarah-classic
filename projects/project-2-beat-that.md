@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Create a version of the Beat That dice game, where players create the largest number they can by concatenating random dice roll digits. Read the rules for Beat That here: [https://www.activityvillage.co.uk/beat-that](https://www.activityvillage.co.uk/beat-that).
+Create a version of the Beat That dice game, where players create the largest number they can by concatenating random dice roll digits. Read the rules for Beat That [here](https://www.activityvillage.co.uk/beat-that).
 
 ## Setup
 
-Begin by forking the SWE101 Beat That repo: [https://github.com/rocketacademy/swe101-beat-that](https://github.com/rocketacademy/swe101-beat-that). Once forked, clone your fork of the repo and work on that copy.
+Begin by forking the [SWE101 Beat That repo](https://github.com/rocketacademy/swe101-beat-that). Once forked, clone your fork of the repo and work on that copy.
 
 ## Base
 

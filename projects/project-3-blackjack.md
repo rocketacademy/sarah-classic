@@ -10,7 +10,7 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 
 ## Setup
 
-Begin by forking the SWE101 Blackjack repo: [https://github.com/rocketacademy/swe101-blackjack](https://github.com/rocketacademy/swe101-blackjack). Once forked, clone your fork of the repo and work on that copy.
+Begin by forking the [SWE101 Blackjack repo](https://github.com/rocketacademy/swe101-blackjack). Once forked, clone your fork of the repo and work on that copy.
 
 ## Base
 
