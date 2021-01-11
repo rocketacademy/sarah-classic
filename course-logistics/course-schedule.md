@@ -122,7 +122,7 @@ Total Video Watch Time: **~36 mins**
 
 #### Post-Class: Begin Project
 
-* [Project 2: Dice - Beat That!](../projects/project-2-dice-beat-that.md)
+* [Project 2: Dice - Beat That!](../projects/project-2-beat-that.md)
 
 ### Day 6: Arrays, Loops 1
 
@@ -154,7 +154,7 @@ Total Video Watch Time: **~11 mins**
 
 #### Project Due
 
-* [Project 2: Dice - Beat That!](../projects/project-2-dice-beat-that.md)
+* [Project 2: Dice - Beat That!](../projects/project-2-beat-that.md)
 
 #### Pre-Class Material
 

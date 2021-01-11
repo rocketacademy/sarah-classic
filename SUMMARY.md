@@ -16,7 +16,7 @@
 ## Projects
 
 * [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone.md)
-* [Project 2: Dice - Beat That!](projects/project-2-dice-beat-that.md)
+* [Project 2: Beat That!](projects/project-2-beat-that.md)
 * [Project 3: Blackjack](projects/project-3-blackjack.md)
 
 ## Class Exercises
