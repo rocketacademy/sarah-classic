@@ -2,7 +2,7 @@
 
 ## Peer-Led Code Review \(with Debugger\)
 
-Review your partner's code as per [Peer-Led Code Review instructions](../course-logistics/course-methodology.md#peer-led-code-review). Complete the [Debugger section](day-11-blackjack-redux-debugger.md#debugger) below before implementing features. Once both have a working game, work on [More Comfortable](day-11-blackjack-redux-debugger.md#more-comfortable) on one person's code.
+Review your partner's code as per [Peer-Led Code Review instructions](../course-logistics/course-methodology.md#peer-review). Complete the [Debugger section](day-11-blackjack-redux-debugger.md#debugger) below before implementing new features together. Once both have a working game, work on [More Comfortable](day-11-blackjack-redux-debugger.md#more-comfortable) on one person's code.
 
 ## Debugger
 
@@ -28,5 +28,5 @@ Implement [More Comfortable exercises](../projects/project-3-blackjack.md#more-c
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/8P4TURiYNPDmyAmH9) on today's material. Thank you for making SWE101 great!
 

@@ -1,8 +1,22 @@
 # ❤️ Social Rules
 
-You will be spending a significant portion of your time in close intellectual contact with your peers. We want the experience of pair-programming and the like to be an enjoyable and productive one.
+Programming, more so than other technical domains is a culture. Each language, framework and coding style has it's own traditions and style of conducting itself. The culture of Lisp programmers is quite different from the culture of Java programmers. Rails programmers have a different culture than Wordpress programmers. In this sense, this page describes some of the human elements of this course and of Rocket Academy that we want to emphasize.
 
-These rules help create a friendly, intellectual environment where you can spend as much of your energy as possible on programming.
+### Community Building
+
+In Rocket Academy, even though we don't meet physically in person, a significant portion of the experience is about interacting with your peers. With this course we are trying to build a community of like-minded learners.
+
+You will be asked to complete exercises collaboratively with another person who might know more than you or who might know less than you about the task at hand. This is by design, since we think that a great learning environment is one in which the clear communication of your own understanding of a concept is a great way to cement your knowledge. This doesn't just refer to teaching someone who knows less, but also to summarize and clarify your thinking to someone who understands more.
+
+We hope to create a culture of intellectual honesty and curiosity where people are not afraid to ask "stupid" questions and posit theories based on their own current level of understanding without feeling afraid. We feel that most people understand how vulnerable and scary this can feel, and therefore want to make people in RA as comfortable as possible to express themselves and what their thought process is. 
+
+Our goal for every student is empathetic communication that makes everyone feel safe to ask anything they need to in order to maximize their learning.
+
+### Social Rules
+
+In a technical environment it can be easy to feel that you "don't know anything", or that you "don't know what you're doing". Sometimes this can be influenced by a technical culture in which being "correct" is more important than communicating with empathy.
+
+These social rules are guidelines to encourage learning rather than "correctness" for correctness sake. In the following rules we outline some common technical discussion styles that we feel can inhibit a free and open communication culture by making people feel less comfortable to raise questions and participate in discussions, while not positively adding to the technical aspects of that discussion.
 
 They are unabashedly taken from [Recurse Center.](https://www.recurse.com/social-rules)
 
@@ -72,4 +86,9 @@ The social rules aren’t for punishing people. They help make Rocket Academy a 
 ## Code of conduct
 
 The social rules don’t cover harassment or discrimination. For that, we have a separate code of conduct enforced by the faculty. All members of the community are expected to abide by our code of conduct.
+
+RA's Code of Conduct states:
+
+1. Be respectful of others.
+2. Only submit your own work.
 

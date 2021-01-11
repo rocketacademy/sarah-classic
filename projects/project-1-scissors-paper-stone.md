@@ -4,6 +4,8 @@ description: "✂️\U0001F4C3\U0001F48E\U0001F61C"
 
 # Project 1: Scissors Paper Stone
 
+## Introduction
+
 For our first project, we are going to make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game.
 
 ## Setup
@@ -77,7 +79,7 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 
 ## Reference Solution
 
-Please only refer to the reference solution after you have attempted the project. There are many ways to implement the project and the reference solution is only 1 way. This reference solution does not include exercises in the More Comfortable section.
+The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
 [https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files)
 

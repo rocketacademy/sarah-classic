@@ -1,216 +1,195 @@
 # Day 10: Chat Bot
 
-## Day 10: Chat Bot
+## Introduction
 
-**Let's make a chat bot that can ask the user a single question when the submit button is clicked.**
+Today we will practise more complex code logic with nested objects and arrays. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app. 
 
-The user can respond to the question by typing in the input and the bot can respond.
+{% hint style="warning" %}
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+{% endhint %}
 
-Read the entire set of exercises before you begin so you can see how the chat bot will become more complex.
+We will make a chat bot that asks questions when the submit button is clicked. The user can respond by typing and submitting input and the bot can respond further. Please read all exercises before beginning to see how the chat bot can become more complex.
 
-Use an object to encode the kinds of things the chat bot will respond with:
+### Sample Chat Bot Conversation
+
+The following is a sample conversation between Bot and User.
 
 ```text
-Bot: Hey, wow you look good today! Did you lose weight? (yes/no/maybe)
+Bot: Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)
 ---
 User: Yes.
 ---
-Bot: Wow! Me too!
-Bot: I've been trying this new raw meat diet. Works wonders.
+Bot: Wow! Me too! I've been working on the Blackjack project. Makes my day!
 ```
 
-The answer to one question will be encoded in an object:
+### Store Chat Bot Responses in Object
+
+We will use JavaScript Objects to encode the chat bot's potential responses.
 
 ```javascript
 var answer = {
-  yes: 'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
-  no: 'Oh ok, just normally good lookin ;)',
-  maybe: 'This zoom meeting makes you look thin.',
+  yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+  no: 'Oh ok, just normally happy ;)',
+  maybe: 'It seems thinking about coding also brings happiness!',
 };
 ```
 
-You can access the data directly by using the user response as an attribute in the object.
+### Retrieve Chat Bot Responses with User Input
+
+We can retrieve the relevant chat bot response by using user input to access the relevant response from the answers object.
 
 ```javascript
-var answerText = answer[input]; // value of input is: 'yes'
+// value of input is 'yes'
+var answerText = answer[input];
 ```
 
-### Complex Chat Bot Data
+## Base
 
-Extend the capabilities of the chat bot by putting the text of the question with the answer:
+### Single Chat Bot Answer Set
+
+Implement the chat bot described above, that asks a yes/no/maybe question and can respond to a user's response of "yes", "no", or "maybe".
+
+### Multiple Chat Bot Answer Sets
+
+Extend the capabilities of the chat bot by storing question and answer text in the same object, like the following.
+
+#### Sample Answer Set
 
 ```javascript
-var chatBotData = {
-  question: 'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
+var chatBotAnswerSet = {
+  question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
   answers: {
-    yes: 'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
-    no: 'Oh ok, just normally good lookin ;)',
-    maybe: 'This zoom meeting makes you look thin.',
+    yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+    no: 'Oh ok, just normally happy ;)',
+    maybe: 'It seems thinking about coding also brings happiness!',
   },
 };
 ```
 
-### Chat Bot Answer Sets
+To have our chat bot support more than 1 question, put the above `chatBotAnswerSet` object into an array of chat bot answer sets. The bot will pick which question to ask and answer next. The following exercises will add new answer sets to our answer set array.
 
-Put the chatBotData object into an array of similar question and answer objects. The bot will pick which question to ask and answer next.
+#### Sample Array of Answer Sets
 
-### Chat Bot Asks For Your Name
+```javascript
+var chatBotAnswerSets = [
+  {
+    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    answers: {
+      yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+      no: 'Oh ok, just normally happy ;)',
+      maybe: 'It seems thinking about coding also brings happiness!',
+    },
+  },
+  // More answer sets here
+];
+```
+
+### Chat Bot Asks For User's Name
+
+Add a new chat bot question that asks for the user's name and responds with a sentence containing the user's name. After greeting the user, the chat bot proceeds with the question from previous exercises.
+
+#### Sample Chat Bot Conversation
 
 ```text
 Bot: Hey! I'm Dennis. What's your name?
 ---
 User: Kai.
 ---
-Bot: Hey Kai! What a cool name.
+Bot: Kai! What a cool name.
 (chat bot continues)
 ```
 
-Use the user's name in the bot's output.
+Use the user's name in the bot's subsequent output. You may want to store the user name in a global variable. 
+
+#### Sample Subsequent Bot Output
 
 ```text
-Bot: You know Kai, I just read in the paper that scientists discovered that apples can cook.
+Bot: Kai, I just read in the paper that scientists discovered that apples can cook.
 ```
 
-## &lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream
+### Chat Bot Asks For User's Age
 
-### Chat Bot Asks Your Age
+Update the chat bot to ask for the user's age after their name. The chat bot's response will differ based on the user's age. For example, we can respond with different outputs if the user is under 20, between 20-60, and above 60.
+
+#### Sample Chat Bot Conversation
 
 ```text
 Bot: Hey! I'm Dennis. What's your name?
 ---
 User: Kai.
 ---
-Bot: Hey Kai! What a cool name. How old are you?
+Bot: Kai! What a cool name. How old are you?
 ---
 User: 63
 ---
-Bot: Wow that's old.
-Bot: Kai, I bet people at your advanced age don't know that pilots never know how to cook.
-Bot: What's the most important thing you've learned at your age?
----
-User: (answer)
----
-Bot: Cool!
-Bot: But for someone so elderly I thought you might also want to know that nowadays, tables can climb.
-Bot: What do you think of that one!?
+Bot: What a wise age. I've got some questions for you! Hit Submit and I'll ask.
 ```
 
-You are adding these 2 functionalities:
-
-**1\)** When the user gives their age, set some behaviour that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
-
-**2\)** The bot repeats itself with 2 different modes of response. In this example it's:
-
-**a\)** `{name} I bet {something about age} don't know that ...`  
-**b\)** `But for someone {age} I thought you might also want to know that nowadays`
-
-> > > > > > > Stashed changes
+## More Comfortable
 
 ### Chat Bot Response Setting
 
-Instead of an array, use an object to hold all the questions. And use another key to set the order the questions are asked in.
+Update our chat bot answer set array to be an object whose keys are answer set IDs and values are answer sets. Also add a `nextQuestion` key to each answer set object, whose value is always an answer set ID, enabling us to chain question sequences in a more logical manner.
+
+#### Sample Answer Set Collection
 
 ```javascript
 var chatBotData = {
-  first: {
-    question:
-      'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
+  hasBeenCoding: {
+    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
-      yes:
-        'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
-      no: 'Oh ok, just normally good lookin ;)',
-      maybe: 'This zoom meeting makes you look thin.',
+      yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+      no: 'Oh ok, just normally happy ;)',
+      maybe: 'It seems thinking about coding also brings happiness!',
     },
-    nextQuestion: 'nice',
+    nextQuestion: 'timeOfDay',
   },
-  nice: {
-    question: 'Say by the way do you have $20 I could borrow? (yes/no/maybe)',
+  timeOfDay: {
+    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
     answers: {
-      yes: 'Ok thanks so much. Pay you back soon.',
-      no: 'Ah, never mind.',
-      maybe: "Yea, but it's actually for my mother. Shes not feeling great.",
+      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
+      night: 'Under the calm and gentle moon, I also find my focus.',
+      both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
     nextQuestion: 'weather',
   },
-  // [...] other questions down here
+  // ... other questions here
 };
 ```
 
-### More Comfortable
+### Dynamic Chat Bot
 
-#### Dynamic Chat Bot
+Update our chat bot to choose a next question based on the answer that the user gives. This next question's ID can be stored in the object that corresponds to the user's answer. See the following sample answer set collection for inspiration.
 
-Change the next question based on the user response.
+#### Sample Answer Set Collection
 
 ```javascript
 var chatBotData = {
-  first: {
-    question: 'Hey, wow you look good today! Did you lose weight? (yes/no/maybe)',
+  hasBeenCoding: {
+    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: {
-        yes: 'Wow! Me too! Ive been trying this new raw meat diet. Works wonders.',
-        nextQuestion : 'nice'
+        answer: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+        nextQuestion: 'timeOfDay'
       }
-      // [...] other answers down here
-
+      // ... other answers here
     }
   },
-  nice: {
-    question: 'Say by the way do you have $20 I could borrow? (yes/no/maybe)',
-  // [...] other questions down here
-};
-```
-
-#### Chat Bot Asks Your Age
-
-```text
-Bot: Hey! I'm Dennis. What's your name?
----
-User: Kai.
----
-Bot: Hey Kai! What a cool name. How old are you?
----
-User: 63
----
-Bot: Wow! Me too! My back really hurts today too.
-Bot: Say did you eat breakfast today? (yes/no/maybe)
-```
-
-You are adding these 2 functionalities:
-
-**1\)** When the user gives their age, set some behaviour that is dependent on the number of years they give. \(over 60 is old, under 20 is young, etc.\)
-
-**2\)** The bot repeats itself with 2 different modes of response. In this example it's:
-
-**a\)** `{name} I bet {something about age} don't know that ...`  
-**b\)** `But for someone {age} I thought you might also want to know that nowadays`
-
-```javascript
-var chatBotData = {
-  first: {
-    question: 'How old are you?',
-    answers: [
-      {
-         range: [58,66],
-         answer: 'Wow! Me too! My back really hurts today too.',
-         nextQuestion: 'nice'
-      }
-      // [...] other answers down here
-    ]
+  timeOfDay: {
+    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    // ... answers here
   },
-  nice: {
-    question: 'Say did you eat breakfast today? (yes/no/maybe)',
-  // [...] other questions down here
+  // ... other questions here
 };
 ```
 
-#### Barnum Questions
+### Fortune Telling
 
-Implement questions that the bot can ask and answer universally. Have the bot ask these questions randomly interspersed with the other questions.
+Add questions to our chat bot that are purportedly for fortune telling, but where the bot always provides standard responses that anyone might believe are individualised. For example, the bot might ask "if you have a birthmark, where is it on your body?" and respond with "You have a great need for other people to like and admire you."
 
-See: the Barnum Effect: [https://en.wikipedia.org/wiki/Barnum\_effect](https://en.wikipedia.org/wiki/Barnum_effect)
+Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum_effect).
 
-### Daily Feedback
+## Daily Feedback
 
-Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/8P4TURiYNPDmyAmH9) on today's material. Thank you for making SWE101 great!
 

@@ -5,7 +5,7 @@
 ## Course Logistics
 
 * [📅 Course Schedule](course-logistics/course-schedule.md)
-* [🪑 Section and Pairing Assignments](course-logistics/section-and-pairing-assignments.md)
+* [🪑 Pairing Assignments](course-logistics/section-and-pairing-assignments.md)
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [✍🏽 Course Methodology](course-logistics/course-methodology.md)
 * [❤️ Social Rules](course-logistics/love-social-rules.md)
@@ -16,7 +16,7 @@
 ## Projects
 
 * [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone.md)
-* [Project 2: Dice - Beat That!](projects/project-2-dice-beat-that.md)
+* [Project 2: Beat That!](projects/project-2-beat-that.md)
 * [Project 3: Blackjack](projects/project-3-blackjack.md)
 
 ## Class Exercises
@@ -62,13 +62,13 @@
 ## 6: Conditional Logic
 
 * [6.1: Intro to Logic](6-conditional-logic/6.1-intro-to-logic.md)
-* [6.2: Pseudo Code, Boolean Or](6-conditional-logic/6.2-pseudo-code-boolean-or.md)
-* [6.3: Boolean And & Not](6-conditional-logic/6.3-boolean-and-and-not.md)
+* [6.2: Pseudo-Code, Boolean Or](6-conditional-logic/6.2-pseudo-code-boolean-or.md)
+* [6.3: Boolean And, Not](6-conditional-logic/6.3-boolean-and-not.md)
 
 ## 7: GitHub
 
 * [7.1: GitHub Fork and Pull Request](7-github/7.1-github-fork-and-pull-request.md)
-* [7.2: Github Repo Browsing](7-github/7.2-github-repo-browsing.md)
+* [7.2: GitHub Repo Browsing](7-github/7.2-github-repo-browsing.md)
 
 ## 8: Managing State and Input Validation
 
@@ -80,11 +80,11 @@
 
 * [9.1: Arrays](9-arrays-and-iteration/9.1-arrays.md)
 * [9.2: Loops](9-arrays-and-iteration/9.2-loops.md)
-* [9.3: Arrays and Loops](9-arrays-and-iteration/9.3-arrays-and-loops.md)
+* [9.3: Loops with Arrays](9-arrays-and-iteration/9.3-loops-with-arrays.md)
 
 ## 10: JavaScript Objects
 
-* [10.1: Objects](10-javascript-objects/10.1-objects.md)
+* [10.1: JavaScript Objects](10-javascript-objects/10.1-javascript-objects.md)
 * [10.2: Card Deck Generation with Loops](10-javascript-objects/10.2-card-deck-generation-with-loops.md)
 * [10.3: Card Game Example: War](10-javascript-objects/10.3-card-game-example-war.md)
 

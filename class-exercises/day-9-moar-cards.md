@@ -1,30 +1,36 @@
 # Day 9: Moar Cards
 
-![](../.gitbook/assets/images-ccad.jpeg)
+## Introduction
 
-Begin by cloning a new copy of the [starter code.](https://github.com/rocketacademy/swe101-starter-code) Reminder to `npm install` to activate ESLint!
+Today we will practise objects. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app. 
 
-Copy the deck array and the card shuffle function from the [objects page](https://swe101.rocketacademy.co/10-javascript-objects/10-1-objects).
+{% hint style="warning" %}
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+{% endhint %}
 
-## Display a single card
+Feel free to copy the card shuffling function from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) and the deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md). 
+
+## Base
+
+### Display Single Card
 
 When the user clicks submit draw a single card from the deck and show it to them.
 
-## Low Card
+### Low Card
 
-Implement the High Card game from [10.1: Objects](../10-javascript-objects/10.1-objects.md#high-card) with one difference. The winner is the person with the lowest card.
+Implement the High Card game from [10.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with one difference: the winner is the person with the lowest card.
 
-## Low Card with Queen Winner
+### Low Card with Queen Winner
 
-Alter the Low Card game. If any of the players draw a Queen, they win.
+Alter the Low Card game such that if any player draws a Queen, they win.
 
-## Hands
+### Low Card Hands
 
-At the beginning of the game the player can say how many cards they want. The highest card the player has is what's compared against the computer card.
+At the beginning of the game the player can say how many cards they want. The lowest of the player's cards is compared against the computer card.
 
-## Output
+### Low Card Output
 
-Implement a nice looking output for the card game. Use a helper function to display each card nicely with emoji. \(♠️, etc.\).
+Implement a nice looking output for Low Card. Use a helper function to display each card nicely with emoji. \(♠️, etc.\).
 
 Example:
 
@@ -39,29 +45,29 @@ Player 2 drew:
 Player 2 wins!
 ```
 
-## **Wild**
-
-Same rules as Low Card, with the following twist. At the beginning of the game, pick a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins the game.
-
-## Wild - Player's Choice
-
-Same rules as Wild, except at the beginning of the game the player names a single card as input to be the Wild Card.
-
-## **Bets**
-
-Allow the player to wager a number of points on each game. \(A new mode will be needed for the beginning of the game where the player selects the number of points to wager\). They lose the points if they lose or a draw, and double them if they win. The player begins with 100 points.
-
-## Two-Player
-
-Add another mode so that the game can be played by 2 players taking turns playing a card from their hand. The grey box will tell the players to switch so they don't see each other's cards.
-
 ## More Comfortable
 
-### Pairs
+### **Low Card with Wild Card**
 
-If any player gets a pair in the cards they draw, they win.
+Update Low Card with the following twist. At the beginning of the game, pick \(but do not draw\) a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins.
+
+### Low Card with Player-Chosen Wild Card
+
+Same rules as Low Card with Wild Card, except at the beginning of the game the player names a single card as input to be the Wild Card.
+
+### **Low Card with Bets**
+
+Allow the player to wager points on each round. Add a new mode for the beginning of each round where the player selects the number of points to wager. They win the wagered points if they win, and lose the points if they lose or draw. The player begins with 100 points.
+
+### Low Card 2-Player Mode
+
+2 human players play against each other. The computer draws 3 cards for each player at the start of the game. The players take turns playing 1 card from their hand at a time. For each card played per player, the lowest card wins. The player that wins the best of 3 wins overall. The grey box will tell the players to switch so they don't see each other's cards.
+
+### Low Card 2-Player Mode with Pairs
+
+Update the previous game logic such that if any player gets a pair in their hand, they win.
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/8P4TURiYNPDmyAmH9) on today's material. Thank you for making SWE101 great!
 

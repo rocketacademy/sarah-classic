@@ -6,9 +6,9 @@ Review your partner's code as per [Peer-Led Code Review instructions](../course-
 
 ## More Comfortable
 
-Implement [More Comfortable exercises](../projects/project-2-dice-beat-that.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
+Implement [More Comfortable exercises](../projects/project-2-beat-that.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/NK3mez8er7pPo7tu5) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/8P4TURiYNPDmyAmH9) on today's material. Thank you for making SWE101 great!
 

@@ -4,34 +4,39 @@ description: What and when we will learn
 
 # 📅 Course Schedule
 
-## Course Overview
+## Overview
 
 | Week | Saturday \(1-3pm\) | Tuesday \(7-9pm\) |
 | :--- | :--- | :--- |
-| 1 | **Day 0 -** [Pre-Course Briefing](course-schedule.md#pre-course-briefing) | **Day 1 -** [Setup](course-schedule.md#day-1) |
-| 2 | **Day 2 -** [Functions](course-schedule.md#day-2) | **Day 3** - [Logic](course-schedule.md#day-3) |
-| 3 | **Day 4** - [Logic 2, State](course-schedule.md#day-4) | **Day 5** - [State 2](course-schedule.md#day-5) |
-| 4 | **Day 6** - [Arrays, Loops](course-schedule.md#day-6) | **Day 7** - [Loops 2](course-schedule.md#day-7) |
-| 5 | **Day 8** - [Objects](course-schedule.md#day-8) | **Day 9** - [Card Deck Generation](course-schedule.md#day-9) |
-| 6 | **Day 10** - [Game Example](course-schedule.md#day-10) | **Day 11** - [Debugger](course-schedule.md#day-11) |
-| 7 | **Day 12** - [Project Presentations](course-schedule.md#day-12) |  |
+| 1 | [Day 0: Pre-Course Briefing](course-schedule.md#day-0-pre-course-briefing) | [Day 1: Coding Tools](course-schedule.md#day-1-coding-tools) |
+| 2 | [Day 2: Functions](course-schedule.md#day-2-functions) | [Day 3: Logic 1](course-schedule.md#day-3-logic-1) |
+| 3 | [Day 4: Logic 2, State 1](course-schedule.md#day-4-logic-2-state-1) | [Day 5: State 2](course-schedule.md#day-5-state-2) |
+| 4 | [Day 6: Arrays, Loops 1](course-schedule.md#day-6-arrays-loops-1) | [Day 7: Loops 2](course-schedule.md#day-7-loops-2) |
+| 5 | [Day 8: Objects](course-schedule.md#day-8-objects) | [Day 9: Card Logic](course-schedule.md#day-9-card-logic) |
+| 6 | [Day 10: Coding Strategies](course-schedule.md#day-10-coding-strategies) | [Day 11: Debugger](course-schedule.md#day-11-debugger) |
+| 7 | [Day 12: Project Presentations](course-schedule.md#day-12-project-presentations) |  |
 
 Each day's deliverables are due by the **start** of that day's class. \(You prepare the linked day's content _**before**_ the start of class\). Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
 
 ## Daily Breakdown
 
-### Day 0
+### Day 0: Pre-Course Briefing \(4pm to 4:45pm\)
 
-#### Pre-Course Briefing
+{% hint style="warning" %}
+Day 0's pre-course briefing will run from **4pm to 4:45pm** instead of the usual 1-3pm. This is because the previous batch will be having their last class session from 1-3pm. Thank you for your understanding!
+{% endhint %}
 
-* Instructor introductions
-* Learning goals
-* Learning format
-* Deliverables for Day 1
-* Class photo
-* Icebreaker
+1. Instructor introductions
+2. Learning goals
+3. Learning format
+4. Deliverables for Day 1
+   1. Course Registration Form
+   2. Required Hardware and Software
+   3. Pre-Class Material
+5. Icebreaker
+6. Class photo
 
-### Day 1
+### Day 1: Coding Tools
 
 #### Pre-Class Material
 
@@ -50,7 +55,7 @@ Total Video Watch Time: **~48 mins**
 
 * [Day 1: Basic File and Data Manipulation](../class-exercises/day-1-basic-file-and-data-manipulation.md)
 
-### Day 2
+### Day 2: Functions
 
 #### Pre-Class Material
 
@@ -64,7 +69,7 @@ Total Video Watch Time: **~25 mins**
 
 * [Day 2: Functions](../class-exercises/day-2-functions.md)
 
-### **Day 3**
+### **Day 3: Logic 1**
 
 #### Pre-Class Material
 
@@ -77,13 +82,19 @@ Total Video Watch Time: **~22 mins**
 
 * [Day 3: If Statements, Boolean Or](../class-exercises/day-3-if-statements-boolean-or.md)
 
-### Day 4
+#### Post-Class: Begin Project
+
+Note: You will need the pre-class material from Day 4 for Project 1.
+
+* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
+
+### Day 4: Logic 2, State 1
 
 #### Pre-Class Material
 
 Total Video Watch Time: **~40 mins**
 
-* [6.3: Boolean And and Not](../6-conditional-logic/6.3-boolean-and-and-not.md)
+* [6.3: Boolean And and Not](../6-conditional-logic/6.3-boolean-and-not.md)
 * [7.1: GitHub Fork and Pull Request](../7-github/7.1-github-fork-and-pull-request.md)
 * [7.2: GitHub Navigation](../7-github/7.2-github-repo-browsing.md)
 * [8.1: Program Lifecycle and Global State](../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
@@ -92,11 +103,7 @@ Total Video Watch Time: **~40 mins**
 
 * [Day 4: Boolean And, GitHub, Program State](../class-exercises/day-4-boolean-and-program-state.md)
 
-#### Begin Project
-
-* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
-
-### Day 5
+### Day 5: State 2
 
 #### Project Due
 
@@ -113,11 +120,11 @@ Total Video Watch Time: **~36 mins**
 
 * [Day 5: Scissors Paper Stone Redux](../class-exercises/day-5-scissors-paper-stone-redux.md)
 
-#### Begin Project
+#### Post-Class: Begin Project
 
-* [Project 2: Dice - Beat That!](../projects/project-2-dice-beat-that.md)
+* [Project 2: Beat That!](../projects/project-2-beat-that.md)
 
-### Day 6
+### Day 6: Arrays, Loops 1
 
 #### Pre-Class Material
 
@@ -131,39 +138,39 @@ Total Video Watch Time: **~41 mins**
 
 * [Day 6: Loops](../class-exercises/day-6-loops.md)
 
-### **Day 7**
+### **Day 7: Loops 2**
 
 #### Pre-Class Material
 
 Total Video Watch Time: **~11 mins**
 
-* [9.3: Arrays and Loops](../9-arrays-and-iteration/9.3-arrays-and-loops.md)
+* [9.3: Loops with Arrays](../9-arrays-and-iteration/9.3-loops-with-arrays.md)
 
 #### In-Class Material
 
 * [Day 7: Loops and Arrays](../class-exercises/day-7-loops-and-arrays.md)
 
-### Day 8
+### Day 8: Objects
 
 #### Project Due
 
-* [Project 2: Dice - Beat That!](../projects/project-2-dice-beat-that.md)
+* [Project 2: Beat That!](../projects/project-2-beat-that.md)
 
 #### Pre-Class Material
 
 Total Video Watch Time: **~15 mins**
 
-* [10.1: Objects](../10-javascript-objects/10.1-objects.md)
+* [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md)
 
 #### In-Class Material
 
-* [Day 8: Card Games](../class-exercises/day-8-dice-game-redux.md)
+* [Day 8: Dice Game Redux](../class-exercises/day-8-dice-game-redux.md)
 
-#### Begin Project
+#### Post-Class: Begin Project
 
 * [Project 3: Blackjack](../projects/project-3-blackjack.md)
 
-### Day 9
+### Day 9: Card Logic
 
 #### Pre-Class Material
 
@@ -175,7 +182,7 @@ Total Video Watch Time: **~16 mins**
 
 * [Day 9: Moar Cards](../class-exercises/day-9-moar-cards.md)
 
-### Day 10
+### Day 10: Coding Strategies
 
 #### Pre-Class Material
 
@@ -187,7 +194,7 @@ Total Video Watch Time: **~60 mins**
 
 * [Day 10: Chat Bot](../class-exercises/day-10-chat-bot.md)
 
-### Day 11
+### Day 11: Debugger
 
 **Project Due**
 
@@ -202,35 +209,36 @@ Total Video Watch Time: **~18 mins**
 
 #### In-Class Material
 
-* [Day 11: Debugger and Blackjack Redux](../class-exercises/day-11-blackjack-redux-debugger.md)
+* [Day 11: Blackjack Redux and Debugger](../class-exercises/day-11-blackjack-redux-debugger.md)
 
-#### Begin Project
+#### Post-Class: Begin Project
 
 * [Project 3: Blackjack \(More Comfortable\)](../projects/project-3-blackjack.md#more-comfortable)
 
-### Day 12
+### Day 12: Project Presentations
 
 **Project Due**
 
 * [Project 3: Blackjack \(More Comfortable\)](../projects/project-3-blackjack.md#more-comfortable)
+* Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment](../12-next-steps/12.3-deployment.md)
 
-#### In-Class Material
+#### Pre-Class Material
 
-* Course feedback
-* Wrap up Blackjack
-* Project presentations
-* LinkedIn certificate presentations
-
-## Further Reading
-
-The following is extra reading in case you would like to learn more and get more practice. SWE1 starts with DOM.
-
-### Next Steps
+Rocket Academy's follow-on course [SWE1: Intro to Coding](https://rocketacademy.co/swe1) starts with front-end concepts and DOM manipulation. If you plan to join SWE1 and/or if you're curious, please learn the following!
 
 Total Video Watch Time: **~22 mins**
 
 * [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
 * [12.2: HTML, CSS Review](../12-next-steps/12.2-html-css-review.md)
+
+#### In-Class Material
+
+* Wrap up Blackjack
+* [Project presentations](course-methodology.md#project-presentations)
+* LinkedIn certificate presentations
+* Course feedback and reviews
+
+## Further Reading
 
 ### Past Projects
 
