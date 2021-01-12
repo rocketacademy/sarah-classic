@@ -119,6 +119,10 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 2. \[Windows Only\] Follow [command line setup instructions below](required-hardware-and-software.md#command-line-setup-for-windows) to set Bash as the terminal language.
 3. Verify Git is installed by typing `git --version` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `git version 2.28.0`.
 
+{% hint style="warning" %}
+Git needs to be installed on the same drive as VSCode. If you happen to have 2 drives on your computer, e.g. C and D drives, make sure both VSCode and Git are installed on the same drive.
+{% endhint %}
+
 ### Windows Command Line Setup
 
 We will need to use the command line \(also known as a terminal, more on this in a later module\) during SWE101. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
