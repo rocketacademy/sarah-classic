@@ -24,7 +24,7 @@ We will create poetry, save and edit it using the command line and Git.
 7. Title your poem about trees. Add the title to the text in the file, and change the filename to reflect the title. Commit these changes.
 8. Delete your poem about winter from the repo. \(Delete the file and commit the changes\).
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Hint:** At any time you can type the `tab` key and the command line will try to auto complete for you. This works for the names of commands and also long file or folder names.
 {% endhint %}
 
