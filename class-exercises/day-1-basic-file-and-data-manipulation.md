@@ -34,7 +34,7 @@ For each app, make a copy of the starter code, as in the [setup](https://swe101.
 
 ### **Minutes in a week**
 
-The user will enter a number of weeks. Output the number of minutes in those weeks in the grey box. Format the output nicely. Like: `In 3 weeks there are 4320 minutes! Wow!`
+The user will enter a number of weeks. Output the number of minutes in those weeks in the grey box. Format the output nicely. Like: `In 3 weeks there are 30240 minutes! Wow!`
 
 ### **Temperatures 1**
 
