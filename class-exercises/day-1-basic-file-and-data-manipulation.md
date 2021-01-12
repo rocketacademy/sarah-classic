@@ -34,9 +34,7 @@ For each app, make a copy of the starter code, as in the [setup](https://swe101.
 
 ### **Minutes in a week**
 
-The user will enter a number of weeks. Output the number of minutes in those weeks in the grey box.
-
-Format the output nicely. Like: `In 3 weeks there are 4320 minutes! Wow!`
+The user will enter a number of weeks. Output the number of minutes in those weeks in the grey box. Format the output nicely. Like: `In 3 weeks there are 4320 minutes! Wow!`
 
 ### **Temperatures 1**
 
@@ -44,9 +42,7 @@ The user enters a temperature in Fahrenheit. Output the conversion to Celsius in
 
 ### **Buffet**
 
-There's all you can eat ice cream at the buffet. The buffet receives the ice cream in 400ml containers.
-
-To try to save money the buffet has restricted you to putting your ice cream in a tiny 70ml cup.
+There's all you can eat ice cream at the buffet. The buffet receives the ice cream in 400ml containers. To try to save money the buffet has restricted you to putting your ice cream in a tiny 70ml cup.
 
 The user will enter a number of trips to the ice cream station \(picking up **1 cup** per trip\) and the app will calculate how many **containers** of ice cream you would consume. Showing this number of containers in decimal format is ok.
 
