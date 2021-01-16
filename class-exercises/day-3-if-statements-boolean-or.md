@@ -69,6 +69,10 @@ This will be followed by Bak Kut Teh, a simmered pork rib broth with fatty pork 
 Chilli sambal will be included.
 ```
 
+## Reference Solution
+
+[Here](https://github.com/rocketacademy/swe101-starter-code/blob/day3/script.js) is a reference solution for Day 3 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/EphjPbsUTNXGqN946) on today's material. Thank you for making SWE101 great!
