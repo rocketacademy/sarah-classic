@@ -24,45 +24,41 @@ We will create poetry, save and edit it using the command line and Git.
 7. Title your poem about trees. Add the title to the text in the file, and change the filename to reflect the title. Commit these changes.
 8. Delete your poem about winter from the repo. \(Delete the file and commit the changes\).
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Hint:** At any time you can type the `tab` key and the command line will try to auto complete for you. This works for the names of commands and also long file or folder names.
 {% endhint %}
 
 ## Data Manipulation with Operations and Variables
 
-For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`.
+For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`. Reminder to `npm install` to activate ESLint! For some apps you may need to google for information. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
 
-Reminder to `npm install` to activate ESLint!
+### **Minutes in Weeks**
 
-For some apps you may need to google things. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
+The user will enter a number of weeks. Output the number of minutes in those weeks in the output box. Format the output nicely. Like: `In 3 weeks there are 30240 minutes! Wow!`
 
-### **Minutes in a week**
+### **Fahrenheit to Celsius**
 
-The user will enter a number of weeks. Output the number of minutes in those weeks in the grey box.
+The user enters a temperature in Fahrenheit. Output the conversion to Celsius in the output box. Format the output nicely.
 
-Format the output nicely. Like: `In 3 weeks there are 4320 minutes! Wow!`
-
-### **Temperatures 1**
-
-The user enters a temperature in Fahrenheit. Output the conversion to Celsius in the grey box. Format the output nicely.
-
-### **Buffet**
-
-There's all you can eat ice cream at the buffet. The buffet receives the ice cream in 400ml containers.
-
-To try to save money the buffet has restricted you to putting your ice cream in a tiny 70ml cup.
-
-The user will enter a number of trips to the ice cream station \(picking up **1 cup** per trip\) and the app will calculate how many **containers** of ice cream you would consume. Showing this number of containers in decimal format is ok.
-
-### **km/L**
+### **Road Trip Cost**
 
 A new Ferrari consumes 9km/litre. Petrol costs $2.20/litre. The user will enter a trip length in kilometres and the app will give a cost estimate.
 
-### **Sonnets**
+### **Ice Cream Buffet**
 
-The user will enter their Words Per Minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours.
+There's all-you-can-eat ice cream at the buffet. The buffet receives ice cream in 400ml containers. To save money the buffet only provides 70ml cups for customers to get ice cream.
+
+The user will enter a number of trips to the ice cream station \(picking up **1 cup per trip**\) and the app will calculate how many **containers** of ice cream you would consume. It is ok to show the number of containers in decimal format.
+
+### **Time to Type Sonnets**
+
+The user will enter their words-per-minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours. For simplicity, assume 17,677 words in all of Shakespeare's sonnets.
+
+## Reference Solution
+
+[Here](https://github.com/rocketacademy/swe101-starter-code/blob/day1/script.js) is a reference solution to the Data Manipulation exercises above. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/8P4TURiYNPDmyAmH9) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/EphjPbsUTNXGqN946) on today's material. Thank you for making SWE101 great!
 

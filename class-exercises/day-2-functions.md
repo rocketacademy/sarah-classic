@@ -8,35 +8,39 @@ Today we will write functions to perform data transformations, similar to exampl
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
-## Air Conditioner
+## Base
 
-Your aircon uses 2 KW/h. Electricity is $0.20 a KW/h. The user can enter the number of hours they'll use their aircon for, and the app will tell them the cost.
+### Cost of Air Con
 
-## Screen Time
+Create an app where the user enters a number of hours they use aircon, and the app tells them the cost. An aircon machine uses 2 kilowatts of electricity. Electricity costs $0.20 per kilowatt-hour. 
+
+### Screen Time
+
+Create an app that takes a number of hours per day spent on your favourite app, and renders how many days you will spend in your lifetime on this app. Assume an average life expectancy of 82 years. 
 
 On [Android 10](https://wellbeing.google/tools/), [iOS 12](https://support.apple.com/en-us/HT208982), and later versions, we can see how many hours per day we spend on each app. Find the number of hours you spend per day on the app you use most. If you're not able to find this, you can google for common statistics.
 
-Given the number of hours per day spent on your favourite app and the average life expectancy of 82 years in Singapore, create an app that renders how many days you will spend in your lifetime on this app. 
-
 For example, if I spend 2 hours per day on WhatsApp and I live an average lifetime, how many days will I spend in my lifetime on WhatsApp?
 
-## Singtel
+### Cost of Cellular Data
 
-You are creating an app for the $19.99 50GB post-paid plan. The user wants to know more about the cost of their plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB.
+Create an app for the $19.99 50GB post-paid plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB. Assume that if the user exceeds 50GB, they need to purchase an additional 50GB plan. You may find the built-in function `Math.ceil` helpful for this \(can google how to use it\).
 
-For example if the user only used 1GB this month, the app would calculate $19.99 per GB. If the user used 2GB this month the app would calculate $9.98 per GB.
+For example if the user only used 1GB this month, the app would calculate $19.99 per GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month, the app would calculate $0.78 per GB.
 
-## Ice Machine
+### Ice Machine
 
-The ice machine at your hotel can produce 120 pounds of ice a day. An average cube weighs 1.5 grams. The user will enter the number of guests at a hotel event. The app will calculate how long the hotel needs to run the machine to produce 2 drinks per guest, 4 cubes per drink.
+Create an app that calculates how many hours a hotel needs to run their ice machine to make enough ice for a given event. The user will input the number of guests for the event. Each guest needs 2 drinks. Each drink has 4 ice cubes. Each cube weights 1.5 grams. There are 454 grams per pound. The hotel's ice machine produces 5 pounds of ice per hour.
 
-## Beer Order
+### Beer Order
 
-Create an app for a bar. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter. Assume an average customer drinks two pints per visit.
+Create an app for a bar to calculate how many kegs they need. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter. Assume an average customer drinks 2 pints per visit and visits 2 times a quarter. There are 124 pints of beer in a half-barrel keg.
 
-## Mortgage Calculator
+## More Comfortable
 
-Create a mortgage calculator for a bank. This bank is just starting so their loan terms are simple and the same for everyone. The amount is always the same: $100,000. The interest is 3% APR. The term is 10 years.
+### Mortgage Calculator
+
+Create a mortgage calculator for a bank. This bank is just starting so their loan terms are simple and the same for everyone. The user will enter the loan amount. The interest is 3% APR. The loan duration is 10 years.
 
 Output several values including:
 
@@ -46,5 +50,5 @@ Output several values including:
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/8P4TURiYNPDmyAmH9) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/EphjPbsUTNXGqN946) on today's material. Thank you for making SWE101 great!
 

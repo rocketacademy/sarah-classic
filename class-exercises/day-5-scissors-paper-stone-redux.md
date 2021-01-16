@@ -10,5 +10,5 @@ Implement [More Comfortable exercises](../projects/project-1-scissors-paper-ston
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/8P4TURiYNPDmyAmH9) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/EphjPbsUTNXGqN946) on today's material. Thank you for making SWE101 great!
 

@@ -2,9 +2,10 @@
 
 ## Deployment
 
-Make a fork of[ this starter code](https://github.com/rocketacademy/swe101-deployment) and git clone it onto your computer. Customize it to your name and add whatever content you want.
-
-Follow the [deployment instructions](../12-next-steps/12.3-deployment.md) to put it onto the internet. Send the link to your pair.
+1. Make a fork of[ this starter code](https://github.com/rocketacademy/swe101-deployment) and `git clone` it onto your computer.
+2. Customise the code with your name and add any other content you would like.
+3. Follow the [deployment instructions](../12-next-steps/12.3-deployment.md) to deploy it to the internet.
+4. Send the deployed link to your pair.
 
 ## DOM
 
@@ -109,7 +110,7 @@ button.innerText = 'make card';
 button.addEventListener('click', makeCard);
 ```
 
-## Further
+## Further Exercises
 
 ### Multi Card Button
 
@@ -127,11 +128,9 @@ Change the makeCard function so that when you click, you get a single card with 
 
 ### Random x Images
 
-Add an input to makeBox.
-
-The user can fill out a number, _x_ in the input. When they click the button, _x_ images are made inside the card.
+Add an input to makeBox. The user can fill out a number, _x,_ in the input. When they click the button, _x_ images are made inside the card.
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/8P4TURiYNPDmyAmH9) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/EphjPbsUTNXGqN946) on today's material. Thank you for making SWE101 great!
 
