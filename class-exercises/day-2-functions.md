@@ -12,17 +12,17 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 ### Air Conditioner
 
-An aircon machine uses 2 kilowatts of electricity. Electricity costs $0.20 per kilowatt-hour. Create an app where the user enters a number of hours they use aircon, and the app tells them the cost.
+Create an app where the user enters a number of hours they use aircon, and the app tells them the cost. An aircon machine uses 2 kilowatts of electricity. Electricity costs $0.20 per kilowatt-hour. 
 
 ### Screen Time
 
-On [Android 10](https://wellbeing.google/tools/), [iOS 12](https://support.apple.com/en-us/HT208982), and later versions, we can see how many hours per day we spend on each app. Find the number of hours you spend per day on the app you use most. If you're not able to find this, you can google for common statistics.
-
 Create an app that takes a number of hours per day spent on your favourite app, and renders how many days you will spend in your lifetime on this app. Assume an average life expectancy of 82 years. 
+
+On [Android 10](https://wellbeing.google/tools/), [iOS 12](https://support.apple.com/en-us/HT208982), and later versions, we can see how many hours per day we spend on each app. Find the number of hours you spend per day on the app you use most. If you're not able to find this, you can google for common statistics.
 
 For example, if I spend 2 hours per day on WhatsApp and I live an average lifetime, how many days will I spend in my lifetime on WhatsApp?
 
-### Singtel
+### Cost of Cellular Data
 
 Create an app for the $19.99 50GB post-paid plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB.
 
