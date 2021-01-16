@@ -40,7 +40,7 @@ Create an app for a bar to calculate how many kegs they need. The user will ente
 
 ### Mortgage Calculator
 
-Create a mortgage calculator for a bank. This bank is just starting so their loan terms are simple and the same for everyone. The user will enter the loan amount. The interest is 3% APR. The term is 10 years.
+Create a mortgage calculator for a bank. This bank is just starting so their loan terms are simple and the same for everyone. The user will enter the loan amount. The interest is 3% APR. The loan duration is 10 years.
 
 Output several values including:
 
