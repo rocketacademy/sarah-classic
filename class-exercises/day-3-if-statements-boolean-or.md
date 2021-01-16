@@ -44,6 +44,10 @@ Create a version of 4D where the player wins if they guess within 1000 \(above o
 
 ### Hawker Food Omakase
 
+{% hint style="danger" %}
+Hawker Food Omakase is hard! It took Kai about 45 minutes to create the reference solution.
+{% endhint %}
+
 Uncle has decided to serve an omakase option, and output a menu based on customer input.
 
 1. Customers can input either "rice" or "noodle", and Uncle will choose either 2 random rice or 2 random noodle dishes for them. Assume Uncle's rice dishes are "chicken rice", "nasi lemak", and "bak kut teh", and Uncle's noodle dishes are "hokkien mee", "laksa", and "beef hor fun".
