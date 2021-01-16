@@ -10,7 +10,7 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 ## Base
 
-### Air Conditioner
+### Cost of Air Con
 
 Create an app where the user enters a number of hours they use aircon, and the app tells them the cost. An aircon machine uses 2 kilowatts of electricity. Electricity costs $0.20 per kilowatt-hour. 
 
