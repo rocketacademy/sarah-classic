@@ -52,7 +52,11 @@ The user will enter a number of trips to the ice cream station \(picking up **1 
 
 ### **Time to Type Sonnets**
 
-The user will enter their Words Per Minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours.
+The user will enter their words-per-minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours. For simplicity, assume 17,677 words in all of Shakespeare's sonnets.
+
+## Reference Solution
+
+[Here](https://github.com/rocketacademy/swe101-starter-code/blob/day1/script.js) is a reference solution to the Data Manipulation exercises above. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
 ## Daily Feedback
 
