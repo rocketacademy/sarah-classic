@@ -40,7 +40,7 @@ The user will enter a number of weeks. Output the number of minutes in those wee
 
 The user enters a temperature in Fahrenheit. Output the conversion to Celsius in the output box. Format the output nicely.
 
-### **km/L**
+### **Km/L**
 
 A new Ferrari consumes 9km/litre. Petrol costs $2.20/litre. The user will enter a trip length in kilometres and the app will give a cost estimate.
 
