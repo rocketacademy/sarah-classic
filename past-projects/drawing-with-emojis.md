@@ -16,7 +16,7 @@ For example, if the user enters 4 they will see this:
 
 The user will enter the dimensions of a square to display on the screen.
 
-Use a loop within a loop and the `<br>` tag in your output to create the square.
+Use a loop within a loop and the `\n` newline character in your output to create the square.
 
 For example, if the user enters 4 they will see this:
 
@@ -26,7 +26,7 @@ For example, if the user enters 4 they will see this:
 
 The user will enter the dimensions of a triangle to display on the screen.‌
 
-Use a loop within a loop, a conditional and the `<br>` tag in your output to create the triangle.
+Use a loop within a loop, a conditional and the `\n` newline character in your output to create the triangle.
 
 For example, if the user enters 4 they will see this:
 
@@ -73,4 +73,3 @@ The user will enter the dimensions of a square to display on the screen. The cha
 ## Reference Solution
 
 Please find a reference solution [here](https://github.com/rocketacademy/swe101-drawing/pull/9/files). Note that there are many ways to code solutions to these problems and the reference solution is only 1 way.
-

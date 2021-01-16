@@ -36,7 +36,7 @@ Sometimes the user types bad and types something other than "scissors", "paper",
 
 ### Formatting
 
-Make the output of your game look nice. You can use string `'<br>'` to create new lines in the output. Your output might look something like this:
+Make the output of your game look nice. You can use string `'\n'` to create new lines in the output. Your output might look something like this:
 
 ```text
 The computer chose scissors ✂️.
@@ -71,7 +71,7 @@ Add a mode that lets the computer choose for you on each turn.
 
 ### Further Variations
 
-Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock\_paper\_scissors\#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
+Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock_paper_scissors\#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
 
 ## Submit
 
@@ -82,4 +82,3 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
 [https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files)
-
