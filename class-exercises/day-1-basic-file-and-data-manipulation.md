@@ -32,11 +32,11 @@ We will create poetry, save and edit it using the command line and Git.
 
 For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`. Reminder to `npm install` to activate ESLint! For some apps you may need to google for information. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
 
-### **Minutes in a week**
+### **Minutes in a Week**
 
 The user will enter a number of weeks. Output the number of minutes in those weeks in the output box. Format the output nicely. Like: `In 3 weeks there are 30240 minutes! Wow!`
 
-### **Temperatures 1**
+### **Temperatures**
 
 The user enters a temperature in Fahrenheit. Output the conversion to Celsius in the output box. Format the output nicely.
 
