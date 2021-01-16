@@ -32,25 +32,25 @@ We will create poetry, save and edit it using the command line and Git.
 
 For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`. Reminder to `npm install` to activate ESLint! For some apps you may need to google for information. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
 
-### **Minutes in a Week**
+### **Minutes in Weeks**
 
 The user will enter a number of weeks. Output the number of minutes in those weeks in the output box. Format the output nicely. Like: `In 3 weeks there are 30240 minutes! Wow!`
 
-### **Temperatures**
+### **Fahrenheit to Celsius**
 
 The user enters a temperature in Fahrenheit. Output the conversion to Celsius in the output box. Format the output nicely.
 
-### **Km/L**
+### **Road Trip Cost**
 
 A new Ferrari consumes 9km/litre. Petrol costs $2.20/litre. The user will enter a trip length in kilometres and the app will give a cost estimate.
 
-### **Buffet**
+### **Ice Cream Buffet**
 
 There's all-you-can-eat ice cream at the buffet. The buffet receives ice cream in 400ml containers. To save money the buffet only provides 70ml cups for customers to get ice cream.
 
 The user will enter a number of trips to the ice cream station \(picking up **1 cup per trip**\) and the app will calculate how many **containers** of ice cream you would consume. It is ok to show the number of containers in decimal format.
 
-### **Sonnets**
+### **Time to Type Sonnets**
 
 The user will enter their Words Per Minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours.
 
