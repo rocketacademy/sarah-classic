@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚀 Welcome to SWE101!](README.md)
+* [Welcome to SWE101!](README.md)
 
 ## Course Logistics
 

@@ -2,7 +2,7 @@
 description: Introduction to Coding Basics in JavaScript
 ---
 
-# 🚀 Welcome to SWE101!
+# Welcome to SWE101!
 
 ## Introduction
 
