@@ -48,6 +48,10 @@ Output several values including:
 2. How much the customer will pay just in interest.
 3. How much the customer's monthly payment will be.
 
+## Reference Solution
+
+[Here](https://github.com/rocketacademy/swe101-starter-code/blob/day2/script.js) is a reference solution for Day 2 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/EphjPbsUTNXGqN946) on today's material. Thank you for making SWE101 great!

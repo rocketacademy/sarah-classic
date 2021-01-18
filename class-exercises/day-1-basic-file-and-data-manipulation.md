@@ -56,7 +56,7 @@ The user will enter their words-per-minute typing speed. The app will calculate 
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/swe101-starter-code/blob/day1/script.js) is a reference solution to the Data Manipulation exercises above. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/swe101-starter-code/blob/day1/script.js) is a reference solution for the Data Manipulation exercises above. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
 ## Daily Feedback
 

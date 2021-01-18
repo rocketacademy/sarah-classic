@@ -1,10 +1,10 @@
 ---
-description: Introduction to Coding Basics in JavaScript
+description: 'SWE101: Introduction to Coding Basics in JavaScript'
 ---
 
-# 🚀 Welcome to SWE101!
+# Overview
 
-## Introduction
+## Welcome to SWE101! 
 
 {% embed url="https://youtu.be/7Bx4LTD9guo" %}
 

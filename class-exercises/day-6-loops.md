@@ -12,85 +12,59 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 
 ### Simple Loop with Variations
 
-Create a simple loop in the `main` function. Make the loop run 6 times, adding `"hello"` to `myOutputValue` every time the loop runs.
-
-What happens if `counter` starts as a number other than zero?
-
-What happens if, inside the loop, you alter the `counter` by adding a number other than one?
-
-What happens if you change the condition inside the loop from `counter < 6` to `counter <= 6`.
+1. Create a loop in the `main` function. Make the loop run 6 times, adding `"hello"` to `myOutputValue` with each loop iteration.
+2. What happens if `counter` starts as a number other than zero?
+3. What happens if, inside the loop, you alter the `counter` by adding a number other than one?
+4. What happens if you change the condition inside the loop from `counter < 6` to `counter <= 6`?
 
 ### Loop within Loop
 
-Create a simple loop in the `main` function. Make the loop run 9 times. 3 times in one loop, 3 times in the inner loop. The inner loop will add `"hello"` to `myOutputValue`.
+1. Create nested loops in the `main` function, where the outer loop runs 3 times and the inner loop runs 3 times. Concatenate `"hello"` to `myOutputValue` in the inner loop. How many times do we see `"hello"`?
+2. Add `<br>` to the outer loop so that the program makes a new line for each outer loop.
+3. What happens if `outerCounter` starts as a number other than zero?
+4. What happens if `innerCounter` starts as a number other than zero?
+5. What happens if, inside the loop, you alter `outerCounter` by adding a number other than one?
+6. What happens if, inside the loop, you alter `innerCounter` by adding a number other than one?
+7. What happens if you change the outer loop condition from `outerCounter < 3` to `outerCounter <= 3`?
+8. What happens if you change the inner loop condition from `innerCounter < 3` to `innerCounter <= 3`?
+9. Update loop conditions to use `input` to control how many times the loops run.
+10. Update our code such that the inner loop runs twice the number of times as the outer loop. How many more times do we see `"hello"`?
 
-Add `<br>` to the outer loop so that the program makes a new line for each outer loop.
+### Infinite Loop
 
-What happens if `counter` starts as a number other than zero?
-
-What happens if `innerCounter` starts as a number other than zero?
-
-What happens if, inside the loop, you alter the `counter` by adding a number other than one?
-
-What happens if, inside the loop, you alter the `innerCounter` by adding a number other than one?
-
-What happens if you change the condition inside the loop from `counter < 3` to `counter <= 3`.
-
-What happens if you change the condition inside the loop from `innerCounter < 3` to `innerCounter <= 3`?
-
-Use `input` to control how many times the loop runs.
-
-Change it so that the inner loop runs 2x times the outer loop.
-
-### Infiinite Loop
-
-Make a loop that never stops running. Be prepared to stop / kill this chrome tab, because it will freeze. You should also be able to see this tab on the Activity Monitor / Task Manager.
+Make a loop that never stops running. Be prepared to stop / kill this Chrome tab, because it will freeze. We should be able to observe this tab's performance in Windows Task Manager or MacOS Activity Monitor.
 
 ### Multi-Dice Game
 
-Create a dice game with a variable number of dice rolls.
-
-The game will have 2 modes.
-
-In the first mode, the user will enter the number of times they wish to roll 1 dice.
-
-In the second mode, the user will enter a guess that will apply to all dice rolls.
-
-The program will run a loop that, for each iteration of the loop, represents a single dice roll.
-
-Each dice roll will see if the user has won for that dice roll and the game will keep track of the overall win-loss record. The program will output the overall win-loss record.
+1. Create a dice-guessing game with a variable number of dice rolls determined by the user.
+2. The game will have 2 modes.
+3. In the 1st mode, the user will enter the number of dice they wish to roll.
+4. In the 2nd mode, the user will enter a guess that will apply to all dice rolls. For example, if the user has chosen to roll 2 dice in Mode 1 and guesses 4 in Mode 2, that guess of 4 will apply to both Dice 1 and Dice 2.
+5. After the user guesses, the program will run a loop where the number of iterations is the number of dice rolls from Mode 1. Each loop iteration will roll a dice and verify if the user has won.
+6. If the user guesses correctly for any of the dice rolls, the user wins.
+7. The game keeps track of and outputs the overall win-loss record.
 
 ## More Comfortable
 
 ### Easier \(For The Player\) Multi-Dice Game
 
-Create a dice game with a variable _n_ number of dice. The user will be able to roll that _n_ number of dice in 4 different rounds.
-
-The game will have 2 modes.
-
-In the first mode, the user will enter the number of dice they want to roll.
-
-In the second mode, the user will enter a guess.
-
-The program will run a loop that will run 4 rounds.
-
-_**Within**_ each round the game will run an inner loop that will roll the set of _n_ dice the user specified.
-
-If the user guessed correctly for any of those _n_ dice, they win that round.
-
-The game will add to the output the record of that round, and the game will output the result for all rounds.
+1. Create a dice game with a variable _n_ number of dice. The user will be able to roll that _n_ number of dice in 4 different rounds.
+2. The game will have 2 modes.
+3. In the first mode, the user will enter the number of dice they want to roll.
+4. In the second mode, the user will enter a guess.
+5. The program will run a loop that will run 4 rounds.
+6. _**Within**_ each round the game will run an inner loop that will roll the set of _n_ dice the user specified.
+7. If the user guessed correctly for any of those _n_ dice, they win that round.
+8. The game will add to the output the record of that round, and the game will output the result for all rounds.
 
 ### Two Player
 
-Change the game so that 2 players can play.
+1. Change the game so that 2 players can play.
+2. The game will begin with Player One's turn.
+3. The game play will proceed as in the dice game above. The user will receive a score from 0 to 4, the total of all rounds played. \(4 rounds per turn\).
+4. Then the game will switch to the other player's turn.
 
-The game will begin with Player One's turn.
-
-The game play will proceed as in the dice game above. The user will receive a score of 0-4, the total of all rounds played. \(4 rounds per turn\).
-
-Then the game will switch to the other player's turn.
-
-### Multi Player
+### Multi-Player
 
 Change the game so that it asks how many players are in the game at the beginning. Each player will take turns playing the game as above.
 
