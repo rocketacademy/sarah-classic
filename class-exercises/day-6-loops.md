@@ -24,7 +24,7 @@ What happens if you change the condition inside the loop from `counter < 6` to `
 
 Create a simple loop in the `main` function. Make the loop run 9 times. 3 times in one loop, 3 times in the inner loop. The inner loop will add `"hello"` to `myOutputValue`.
 
-Add `\n` to the outer loop so that the program makes a new line for each outer loop.
+Add `<br>` to the outer loop so that the program makes a new line for each outer loop.
 
 What happens if `counter` starts as a number other than zero?
 

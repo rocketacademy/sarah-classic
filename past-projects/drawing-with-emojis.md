@@ -16,7 +16,7 @@ For example, if the user enters 4 they will see this:
 
 The user will enter the dimensions of a square to display on the screen.
 
-Use a loop within a loop and the `\n` newline character in your output to create the square.
+Use a loop within a loop and the `<br>` newline HTML tag in your output to create the square.
 
 For example, if the user enters 4 they will see this:
 
@@ -26,7 +26,7 @@ For example, if the user enters 4 they will see this:
 
 The user will enter the dimensions of a triangle to display on the screen.‌
 
-Use a loop within a loop, a conditional and the `\n` newline character in your output to create the triangle.
+Use a loop within a loop, a conditional and the `<br>` newline HTML tag in your output to create the triangle.
 
 For example, if the user enters 4 they will see this:
 

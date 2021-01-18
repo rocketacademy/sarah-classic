@@ -36,7 +36,7 @@ Sometimes the user types bad and types something other than "scissors", "paper",
 
 ### Formatting
 
-Make the output of your game look nice. You can use string `'\n'` to create new lines in the output. Your output might look something like this:
+Make the output of your game look nice. You can use string `'<br>'` to create new lines in the output. Your output might look something like this:
 
 ```text
 The computer chose scissors ✂️.
