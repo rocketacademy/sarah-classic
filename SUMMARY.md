@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to SWE101!](README.md)
+* [SWE101: Intro to Coding](README.md)
 
 ## Course Logistics
 

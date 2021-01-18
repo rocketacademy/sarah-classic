@@ -2,9 +2,9 @@
 description: Introduction to Coding Basics in JavaScript
 ---
 
-# Welcome to SWE101!
+# SWE101: Intro to Coding
 
-## Introduction
+## Welcome to SWE101! 
 
 {% embed url="https://youtu.be/7Bx4LTD9guo" %}
 
