@@ -25,7 +25,7 @@ Follow the ["fork and pull request" workflow](../7-github/7.1-github-fork-and-pu
 
 ### Secret Word
 
-Create a game where a player must correctly guess secret words to win. There is 1 secret word for each guess, and the computer randomly chooses that secret word from a set of 3 words: "banana", "chisel" and "faucet". To win the game the player must guess correctly twice in total, e.g. the player still wins if she guesses wrongly 1 or more times between her 2 correct guesses. For each guess, output all information such as the guessed word, whether the word was the secret word, and how many correct guesses the player still needs until she wins.
+Create a game where a player must correctly guess secret words to win. There is 1 secret word for each guess, and the computer randomly chooses that secret word from a set of 3 words: "banana", "chisel" and "faucet". To win the game the player must guess correctly twice in total, e.g. the player still wins if she guesses wrongly 1 or more times between her 2 correct guesses. For each guess, output all information such as the guessed word, the secret word, and how many correct guesses the player still needs until she wins.
 
 {% hint style="info" %}
 Please complete the Github Fork and Pull Request exercise before updating Secret Word in the Comfortable section below.
