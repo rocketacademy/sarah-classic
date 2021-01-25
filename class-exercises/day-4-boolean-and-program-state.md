@@ -12,7 +12,7 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 ### Lucky 11
 
-Create a dice game where in order to win, dice 1 must be 5 and dice 2 must be 6.
+Create a dice game that rolls 2 dice when a user clicks Submit. The user wins if dice 1 is 5 and dice 2 is 6.
 
 ### GitHub Fork and Pull Request
 
