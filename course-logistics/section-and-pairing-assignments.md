@@ -1,12 +1,11 @@
 # 🪑 Pairing Assignments
 
-| Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Chern Haw Chuan Xin | Chern Haw Marsha | Chern Haw Bryan | Chern Haw Sam | Chern Haw Zul | Chern Haw Aidil | Chern Haw Hajar | Chern Haw Jerrold | Chuan Xin Marsha |
-| Marsha Bryan | Chuan Xin Bryan | Chuan Xin Sam | Chuan Xin Aidil | Chuan Xin Jerrold | Chuan Xin Zul | Marsha Zul | Chuan Xin Hajar | Bryan Zul |
-| Sam Zul | Sam Aidil | Marsha Jerrold | Marsha Hajar | Marsha Aidil | Marsha Sam | Bryan Aidil | Bryan Sam | Sam Hajar |
-| Aidil Hajar  | Zul Jerrold | Zul Hajar | Bryan Jerrold | Bryan Hajar | Hajar Jerrold | Sam Jerrold | Zul Aidil | Aidil Jerrold |
-| Jerrold | Hajar | Aidil | Zul | Sam | Bryan | Chuan Xin | Marsha | Chern Haw |
+| Days 1, 8 | Days 2, 9 | Days 3, 10 | Day 4, 11 | Day 5, 12 | Day 6 | Day 7 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Chern Haw Chuan Xin | Chern Haw Marsha | Chern Haw Bryan | Chern Haw Sam | Chern Haw Zul | Chern Haw Aidil | Chern Haw Jerrold |
+| Marsha Bryan | Chuan Xin Bryan | Chuan Xin Marsha | Chuan Xin Zul | Chuan Xin Sam | Chuan Xin Jerrold | Chuan Xin Aidil |
+| Sam Zul | Sam Aidil | Sam Jerrold | Marsha Aidil | Marsha Jerrold | Marsha Sam | Marsha Zul |
+| Aidil Jerrold | Zul Jerrold | Zul Aidil | Bryan Jerrold | Bryan Aidil | Bryan Zul | Bryan Sam |
 
 
 
