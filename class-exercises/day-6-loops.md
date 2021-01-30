@@ -20,7 +20,7 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 ### Loop within Loop
 
 1. Create nested loops in the `main` function, where the outer loop runs 3 times and the inner loop runs 3 times. Concatenate `"hello"` to `myOutputValue` in the inner loop. How many times do we see `"hello"`?
-2. Add `<br>` to the outer loop so that the program makes a new line for each outer loop.
+2. Add `"<br>"` to `myOutputValue` in the outer loop so that the program makes a new line for each outer loop.
 3. What happens if `outerCounter` starts as a number other than zero?
 4. What happens if `innerCounter` starts as a number other than zero?
 5. What happens if, inside the loop, you alter `outerCounter` by adding a number other than one?
