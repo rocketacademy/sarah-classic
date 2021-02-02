@@ -10,7 +10,7 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 
 ## Base
 
-### Mad Libs
+### Mad Libs Adjectives
 
 If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
 
@@ -29,7 +29,7 @@ When the user types "create" in the input, change the mode to complete your Mad 
 
 ## More Comfortable
 
-### Mad Libs V2
+### Mad Libs All Word Types
 
 Create a mode\(s\) to input words from each type, e.g. exclamation, adverb, noun, and adjective. For each type, prompt the user what type of word they should be entering.
 
