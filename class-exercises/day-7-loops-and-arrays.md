@@ -29,9 +29,9 @@ When the user types "create" in the input, change the mode to complete your Mad 
 
 ## More Comfortable
 
-### Mad Libs All Word Types
+### Mad Libs Multiple Word Types
 
-Create a mode\(s\) to input words from each type, e.g. exclamation, adverb, noun, and adjective. For each type, prompt the user what type of word they should be entering.
+Create a mode\(s\) to input words from multiple types, e.g. exclamation, adverb, noun, and adjective. For each type, prompt the user what type of word they should be entering. If it's too tedious to support 4 word types, feel free to just implement 2 word types.
 
 ### Popular Mad Libs
 
