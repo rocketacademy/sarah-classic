@@ -115,7 +115,7 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 
 #### **Installation**
 
-1. Download and install Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+1. Download and install Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). **When copying commands from the Git website, do not copy the dollar sign \($\) in front of the command.** The dollar signs in their commands denote the start of command lines, and are not part of the commands.
 2. \[Windows Only\] Follow [command line setup instructions below](required-hardware-and-software.md#command-line-setup-for-windows) to set Bash as the terminal language.
 3. Verify Git is installed by typing `git --version` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `git version 2.28.0`.
 
