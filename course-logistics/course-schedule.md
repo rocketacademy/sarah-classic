@@ -224,8 +224,6 @@ Total Video Watch Time: **~18 mins**
 
 #### Pre-Class Material
 
-Rocket Academy's follow-on course [SWE1: Intro to Coding](https://rocketacademy.co/swe1) starts with front-end concepts and DOM manipulation. If you plan to join SWE1 and/or if you're curious, please learn the following!
-
 Total Video Watch Time: **~22 mins**
 
 * [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
@@ -233,7 +231,6 @@ Total Video Watch Time: **~22 mins**
 
 #### In-Class Material
 
-* Wrap up Blackjack
 * [Project presentations](course-methodology.md#project-presentations)
 * LinkedIn certificate presentations
 * Course feedback and reviews
