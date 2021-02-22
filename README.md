@@ -18,12 +18,3 @@ description: 'SWE101: Introduction to Coding Basics in JavaScript'
 2. An understanding of what distinguishes "good" code from "not-so-good" code, with regard to naming, commenting, and decomposition
 3. Proficiency in professional developer tools such as the [VSCode code editor](https://code.visualstudio.com/), [Git version control system](https://git-scm.com/), [GitHub code hosting platform](https://github.com/), and [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools).
 
-## Important Links
-
-1. SWE101 Course Page: [swe101.rocketacademy.co](https://swe101.rocketacademy.co)
-   1. All course material will be linked from this page.
-2. RA Slack: [rocketacademy.slack.com](https://github.com/rocketacademy/swe101/tree/6b08702a2474a3fb5a286b7f690032985ad8ad30/rocketacademy.slack.com)
-   1. School and course-wide communication happens over Slack. We recommend you download the Slack mobile and desktop apps to keep in touch with peers and instructors.
-3. Starter Code: [https://github.com/rocketacademy/swe101-starter-code](https://github.com/rocketacademy/swe101-starter-code)
-   1. We will build most projects in SWE101 from this starter code. We will go through how to fork and start a new project in a later page.
-
