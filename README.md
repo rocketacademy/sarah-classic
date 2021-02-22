@@ -12,9 +12,15 @@ description: 'SWE101: Introduction to Coding Basics in JavaScript'
 
 ![SWE101 falls near the start of one&apos;s journey to become a software programmer.](.gitbook/assets/course-ped.png)
 
-## Key Takeaways from SWE101
+## Criteria to Join SWE1 Bootcamp
 
-1. Computational thinking skills to translate application requirements to code, using coding concepts such as functions, conditionals, loops, and data structures to build applications
-2. An understanding of what distinguishes "good" code from "not-so-good" code, with regard to naming, commenting, and decomposition
-3. Proficiency in professional developer tools such as the [VSCode code editor](https://code.visualstudio.com/), [Git version control system](https://git-scm.com/), [GitHub code hosting platform](https://github.com/), and [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools).
+Students that perform well during SWE101 will qualify to join RA's coding bootcamp SWE1. The following are key takeaways from SWE101 and how RA evaluates students for SWE1.
+
+1. Proficiency with technical syntax \(variables, functions, conditionals, loops, data structures\) and tools \(VSCode, Git, GitHub, Chrome DevTools\)
+2. Computational thinking to translate application requirements to code
+   1. Decomposition: Each function performs 1 conceptual operation
+   2. Data Representation: Use relevant data structure for each problem
+   3. Abstraction: Re-use helper functions with varying parameter values when possible
+   4. Algorithms: Construct stepwise logic to accomplish tasks
+3. Code quality \(naming, code comments\)
 
