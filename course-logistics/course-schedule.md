@@ -231,9 +231,10 @@ Total Video Watch Time: **~22 mins**
 
 #### In-Class Material
 
+* Course feedback and reviews
 * [Project presentations](course-methodology.md#project-presentations)
 * LinkedIn certificate presentations
-* Course feedback and reviews
+* Class photo 🥳
 
 ## Further Reading
 
