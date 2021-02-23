@@ -188,7 +188,7 @@ You should see your username and email in the output, and possibly some other se
 In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep our code organised, we recommend the following folder structure.
 
 {% hint style="info" %}
-All code-related files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them.
+All code-related files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them, because spaces need to be escaped with backslash \(`\`\) on the command line.
 {% endhint %}
 
 1. Host all SWE101 code in a folder called `swe101`. Keep this in your `Documents` folder.
