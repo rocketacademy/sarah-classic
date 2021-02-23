@@ -28,5 +28,5 @@ Implement [More Comfortable exercises](../projects/project-3-blackjack.md#more-c
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/EphjPbsUTNXGqN946) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making SWE101 great!
 
