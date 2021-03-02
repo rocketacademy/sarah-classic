@@ -8,7 +8,7 @@ description: Tips for using programming tools
 
 ### View and Fix ESLint Errors
 
-When we run `npm install` each time we clone a repo in SWE101, we are installing a package ESLint that helps us see errors before we run our code. Some of these errors are functional, i.e. the program will not run unless we fix them, and some are stylistic, i.e. ESLint points out these errors so that our code is consistent. Please try to fix all ESLint errors in your code.
+When we run `npm install` each time we clone a repo in Coding Basics, we are installing a package ESLint that helps us see errors before we run our code. Some of these errors are functional, i.e. the program will not run unless we fix them, and some are stylistic, i.e. ESLint points out these errors so that our code is consistent. Please try to fix all ESLint errors in your code.
 
 VSCode shows us ESLint errors with red squiggly lines under the parts of our code with errors. To see what the error is, hover over the red squiggly line in VSCode.
 
@@ -36,9 +36,8 @@ VSCode has a [search and replace feature](https://code.visualstudio.com/docs/edi
 
 ### Hide Minimap
 
-The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in SWE101 and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View &gt; Show Minimap in the menu bar.
+The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in Coding Basics and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View &gt; Show Minimap in the menu bar.
 
 ## Watching YouTube Videos at Different Speeds
 
 If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop&hl=en).
-

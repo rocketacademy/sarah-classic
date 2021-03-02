@@ -1,5 +1,5 @@
 ---
-description: 'To partake in RA''s courses, we will need the following hardware and software.'
+description: "To partake in RA's courses, we will need the following hardware and software."
 ---
 
 # 💻 Required Hardware and Software
@@ -129,7 +129,7 @@ We will need to use the command line \(also known as a terminal, more on this in
 
 ![VSCode Terminal on Windows. PowerShell is the Default Terminal Language on Windows.](../.gitbook/assets/v4hx4.png)
 
-1. Open Visual Studio Code and use the keyboard shortcut ``Ctrl+``` \(hold `Ctrl` and press `````\) to open the terminal. We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
+1. Open Visual Studio Code and use the keyboard shortcut `` Ctrl+``` \(hold  `Ctrl` and press `````\) to open the terminal. We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
 2. Open the command palette using `Ctrl+Shift+P`.
 3. Type and select "Select Default Shell".
 4. Select "Git Bash" from the options.
@@ -207,7 +207,7 @@ When cloning the starter code, choose to [name the target folder](../4-getting-s
 When working with code, it's often necessary to jump between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to quickly jump between files in that folder without having to File &gt; Open every time.
 
 {% hint style="info" %}
-For Coding Basics, we recommend storing all of your code in a folder called `basics` as per the [recommended folder structure](required-hardware-and-software.md#folder-structure-for-swe101), and keeping that folder open in VSCode for the duration of the course.
+For Coding Basics, we recommend storing all of your code in a folder called `basics` as per the [recommended folder structure](required-hardware-and-software.md#folder-structure-for-coding-basics), and keeping that folder open in VSCode for the duration of the course.
 {% endhint %}
 
 ![Sample basics folder in VSCode](../.gitbook/assets/jie-ping-20210302-15.52.14.png)
@@ -231,4 +231,3 @@ Try to answer the following when asking questions.
 ### Format Code in Slack
 
 When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates code blocks with monospaced text for easier reading. For single-line code like variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the code to format it. For multi-line blocks of code like functions, we recommend using [Slack code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) which include syntax highlighting and take up less space in the Slack window.
-

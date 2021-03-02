@@ -2,14 +2,14 @@
 
 ## Deployment
 
-1. Make a fork of[ this starter code](https://github.com/rocketacademy/swe101-deployment) and `git clone` it onto your computer.
+1. Make a fork of[ this starter code](https://github.com/rocketacademy/basics-deployment) and `git clone` it onto your computer.
 2. Customise the code with your name and add any other content you would like.
 3. Follow the [deployment instructions](../12-next-steps/12.3-deployment.md) to deploy it to the internet.
 4. Send the deployed link to your pair.
 
 ## DOM
 
-Begin by cloning a new copy of the [DOM starter code.](https://github.com/rocketacademy/swe101-next-steps-dom) Reminder to `npm install` to activate ESLint!‌
+Begin by cloning a new copy of the [DOM starter code.](https://github.com/rocketacademy/basics-next-steps-dom) Reminder to `npm install` to activate ESLint!‌
 
 ## Creating Elements
 
@@ -132,5 +132,4 @@ Add an input to makeBox. The user can fill out a number, _x,_ in the input. When
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making SWE101 great!
-
+Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!

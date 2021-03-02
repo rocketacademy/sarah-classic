@@ -1,21 +1,21 @@
 {
-  "name": "swe101",
+  "name": "basics",
   "version": "1.0.0",
-  "description": "SWE101 Course Documentation",
+  "description": "Coding Basics Course Documentation",
   "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rocketacademy/swe101-docs.git"
+    "url": "git+https://github.com/rocketacademy/basics-docs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rocketacademy/swe101-docs/issues"
+    "url": "https://github.com/rocketacademy/basics-docs/issues"
   },
-  "homepage": "https://github.com/rocketacademy/swe101-docs#readme",
+  "homepage": "https://github.com/rocketacademy/basics-docs#readme",
   "devDependencies": {
     "eslint": "^7.11.0",
     "eslint-config-airbnb-base": "^14.2.0",

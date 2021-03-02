@@ -2,17 +2,17 @@
 
 ## Introduction
 
-Today we will practise arrays with loops. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app.
+Today we will practise arrays with loops. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app.
 
 {% hint style="warning" %}
-When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
 ## Base
 
 ### Mad Libs Adjectives
 
-If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
+If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
 
 Come up with your Mad Lib. If you don't want to create anything, you can use the default one from the Wikipedia page:
 
@@ -55,5 +55,4 @@ For more inspiration you can look here: [https://www.google.com/search?q=mad+lib
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making SWE101 great!
-
+Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!

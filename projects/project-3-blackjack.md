@@ -9,12 +9,12 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 3. The player who is closer to 21 wins the hand. Aces can be 1 or 11.
 
 {% hint style="danger" %}
-**Rocket Academy does not endorse gambling.** We chose Blackjack as a project because of its complex rules that help facilitate coding instruction. 
+**Rocket Academy does not endorse gambling.** We chose Blackjack as a project because of its complex rules that help facilitate coding instruction.
 {% endhint %}
 
 ## Setup
 
-Begin by forking the [Coding Basics Blackjack repo](https://github.com/rocketacademy/swe101-blackjack). Once forked, clone your fork of the repo and work on that copy.
+Begin by forking the [Coding Basics Blackjack repo](https://github.com/rocketacademy/basics-blackjack). Once forked, clone your fork of the repo and work on that copy.
 
 ## Base
 
@@ -26,7 +26,7 @@ The `main` function runs on each player's turn. The sequence of actions in the g
 2. User clicks Submit to deal cards.
 3. The cards are analysed for game winning conditions, e.g. Blackjack.
 4. The cards are displayed to the user.
-5. The user decides whether to hit or stand, using the submit button to submit their choice. 
+5. The user decides whether to hit or stand, using the submit button to submit their choice.
 6. The user's cards are analysed for winning or losing conditions.
 7. The computer decides to hit or stand automatically based on game rules.
 8. The game either ends or continues.
@@ -57,12 +57,12 @@ If you already have an effective strategy for creating your game, you can skip a
 
 1. The player hitting or standing is different from the dealer hitting or standing. The rules state that the dealer hits or stands after all players are done, so let's work on the players hitting or standing first.
 2. The player hitting or standing is a new mode in the game that allows the player to enter their choice. Add the logic for when the player busts.
-3. Refactor your logic to wait until the player is done to evaluate the game-winning condition. 
+3. Refactor your logic to wait until the player is done to evaluate the game-winning condition.
 4. Test your code.
 
 #### Third Version: Add Dealer Hit or Stand
 
-1. The rules state that the dealer hits after the player is done. After the player confirms they are done, add the logic for the dealer adding cards to their hand. This should happen before the winning  condition.
+1. The rules state that the dealer hits after the player is done. After the player confirms they are done, add the logic for the dealer adding cards to their hand. This should happen before the winning condition.
 2. Test your code.
 
 #### Fourth Version: Add Variable Ace Values
@@ -74,7 +74,7 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ### Splits
 
-Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split. 
+Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
 
 ### Add Betting
 
@@ -93,4 +93,3 @@ Enable multiple players to play against the dealer, where players can take turns
 The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
 [https://github.com/rocketacademy/basics-blackjack/pull/3/files](https://github.com/rocketacademy/basics-blackjack/pull/3/files)
-

@@ -2,7 +2,7 @@
 
 Use loops to create an app that draws emojis into the grey box.
 
-Begin the app by **forking** this repo: [https://github.com/rocketacademy/swe101-drawing](https://github.com/rocketacademy/swe101-drawing)
+Begin the app by **forking** this repo: [https://github.com/rocketacademy/basics-drawing](https://github.com/rocketacademy/basics-drawing)
 
 ## Number of Characters
 
@@ -72,5 +72,4 @@ The user will enter the dimensions of a square to display on the screen. The cha
 
 ## Reference Solution
 
-Please find a reference solution [here](https://github.com/rocketacademy/swe101-drawing/pull/9/files). Note that there are many ways to code solutions to these problems and the reference solution is only 1 way.
-
+Please find a reference solution [here](https://github.com/rocketacademy/basics-drawing/pull/9/files). Note that there are many ways to code solutions to these problems and the reference solution is only 1 way.

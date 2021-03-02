@@ -2,10 +2,10 @@
 
 ## Introduction
 
-Today we will practise more complex code logic with nested objects and arrays. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app. 
+Today we will practise more complex code logic with nested objects and arrays. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app.
 
 {% hint style="warning" %}
-When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
 We will make a chat bot that asks questions when the submit button is clicked. The user can respond by typing and submitting input and the bot can respond further. Please read all exercises before beginning to see how the chat bot can become more complex.
@@ -57,7 +57,8 @@ Extend the capabilities of the chat bot by storing question and answer text in t
 
 ```javascript
 var chatBotAnswerSet = {
-  question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+  question:
+    'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
   answers: {
     yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
     no: 'Oh ok, just normally happy ;)',
@@ -73,7 +74,8 @@ To have our chat bot support more than 1 question, put the above `chatBotAnswerS
 ```javascript
 var chatBotAnswerSets = [
   {
-    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    question:
+      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
       no: 'Oh ok, just normally happy ;)',
@@ -99,7 +101,7 @@ Bot: Kai! What a cool name.
 (chat bot continues)
 ```
 
-Use the user's name in the bot's subsequent output. You may want to store the user name in a global variable. 
+Use the user's name in the bot's subsequent output. You may want to store the user name in a global variable.
 
 #### Sample Subsequent Bot Output
 
@@ -136,7 +138,8 @@ Update our chat bot answer set array to be an object whose keys are answer set I
 ```javascript
 var chatBotData = {
   hasBeenCoding: {
-    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    question:
+      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
       no: 'Oh ok, just normally happy ;)',
@@ -145,9 +148,11 @@ var chatBotData = {
     nextQuestion: 'timeOfDay',
   },
   timeOfDay: {
-    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    question:
+      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
     answers: {
-      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
+      day:
+        'Ah yes, when the sun is high in the sky, I can feel its energy too.',
       night: 'Under the calm and gentle moon, I also find my focus.',
       both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
@@ -166,17 +171,19 @@ Update our chat bot to choose a next question based on the answer that the user 
 ```javascript
 var chatBotData = {
   hasBeenCoding: {
-    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    question:
+      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: {
         answer: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
-        nextQuestion: 'timeOfDay'
-      }
+        nextQuestion: 'timeOfDay',
+      },
       // ... other answers here
-    }
+    },
   },
   timeOfDay: {
-    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    question:
+      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
     // ... answers here
   },
   // ... other questions here
@@ -191,5 +198,4 @@ Such statements that people might feel are individualised but can apply to every
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making SWE101 great!
-
+Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!

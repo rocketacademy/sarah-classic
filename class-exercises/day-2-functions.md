@@ -2,21 +2,21 @@
 
 ## Introduction
 
-Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md#exercises). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Remember to `npm install` to activate ESLint! For some exercises you may need to google for information. Please switch driver and navigator each exercise.
+Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md#exercises). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Remember to `npm install` to activate ESLint! For some exercises you may need to google for information. Please switch driver and navigator each exercise.
 
 {% hint style="warning" %}
-When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
 ## Base
 
 ### Cost of Air Con
 
-Create an app where the user enters a number of hours they use aircon, and the app tells them the cost. An aircon machine uses 2 kilowatts of electricity. Electricity costs $0.20 per kilowatt-hour. 
+Create an app where the user enters a number of hours they use aircon, and the app tells them the cost. An aircon machine uses 2 kilowatts of electricity. Electricity costs $0.20 per kilowatt-hour.
 
 ### Screen Time
 
-Create an app that takes a number of hours per day spent on your favourite app, and renders how many days you will spend in your lifetime on this app. Assume an average life expectancy of 82 years. 
+Create an app that takes a number of hours per day spent on your favourite app, and renders how many days you will spend in your lifetime on this app. Assume an average life expectancy of 82 years.
 
 On [Android 10](https://wellbeing.google/tools/), [iOS 12](https://support.apple.com/en-us/HT208982), and later versions, we can see how many hours per day we spend on each app. Find the number of hours you spend per day on the app you use most. If you're not able to find this, you can google for common statistics.
 
@@ -50,9 +50,8 @@ Output several values including:
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/swe101-starter-code/blob/day2/script.js) is a reference solution for Day 2 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/basics-starter-code/blob/day2/script.js) is a reference solution for Day 2 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making SWE101 great!
-
+Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!

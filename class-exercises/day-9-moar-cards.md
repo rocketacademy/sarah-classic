@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Today we will practise objects. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/swe101-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app. 
+Today we will practise objects. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app.
 
 {% hint style="warning" %}
-When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-swe101). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
-Feel free to copy the card shuffling function from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) and the deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md). 
+Feel free to copy the card shuffling function from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) and the deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md).
 
 ## Base
 
@@ -69,5 +69,4 @@ Update the previous game logic such that if any player gets a pair in their hand
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making SWE101 great!
-
+Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!

@@ -30,7 +30,7 @@ We will create poetry, save and edit it using the command line and Git.
 
 ## Data Manipulation with Operations and Variables
 
-For each app, make a copy of the starter code, as in the [setup](https://swe101.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`. Reminder to `npm install` to activate ESLint! For some apps you may need to google for information. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
+For each app, make a copy of the starter code, as in the [setup](https://basics.rocketacademy.co/4-getting-started-with-code/4-2-our-first-program#setup) with `git clone`. Reminder to `npm install` to activate ESLint! For some apps you may need to google for information. Remember that as pairs, you are also googling together. Please switch driver and navigator each app.
 
 ### **Minutes in Weeks**
 
@@ -56,9 +56,8 @@ The user will enter their words-per-minute typing speed. The app will calculate 
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/swe101-starter-code/blob/day1/script.js) is a reference solution for the Data Manipulation exercises above. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/basics-starter-code/blob/day1/script.js) is a reference solution for the Data Manipulation exercises above. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-
