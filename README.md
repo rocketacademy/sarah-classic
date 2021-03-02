@@ -12,7 +12,7 @@ description: Coding Basics in JavaScript
 
 ![Basics falls near the start of one&apos;s journey to become a software programmer.](.gitbook/assets/course-ped.png)
 
-## Criteria to Join Coding Bootcamp
+## Coding Bootcamp Acceptance Criteria
 
 For students that wish to join RA's Coding Bootcamp, at the end of Coding Basics, RA will evaluate whether each student qualifies to join Bootcamp. To qualify for Bootcamp, students must complete all projects and demonstrate the following qualities up to RA's standards.
 
