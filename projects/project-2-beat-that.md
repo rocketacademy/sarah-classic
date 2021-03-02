@@ -6,7 +6,7 @@ Create a version of the Beat That dice game, where players create the largest nu
 
 ## Setup
 
-Begin by forking the [SWE101 Beat That repo](https://github.com/rocketacademy/swe101-beat-that). Once forked, clone your fork of the repo and work on that copy.
+Begin by forking the [Coding Basics Beat That repo](https://github.com/rocketacademy/basics-beat-that). Once forked, clone your fork of the repo and work on that copy.
 
 ## Base
 
@@ -98,5 +98,5 @@ Create a mode where if there are more than 2 players, the game can match players
 
 The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
-[https://github.com/rocketacademy/swe101-dice-project/pull/10/files](https://github.com/rocketacademy/swe101-dice-project/pull/10/files)
+[https://github.com/rocketacademy/basics-beat-that/pull/10/files](https://github.com/rocketacademy/basics-beat-that/pull/10/files)
 

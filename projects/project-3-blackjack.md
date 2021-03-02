@@ -14,7 +14,7 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 
 ## Setup
 
-Begin by forking the [SWE101 Blackjack repo](https://github.com/rocketacademy/swe101-blackjack). Once forked, clone your fork of the repo and work on that copy.
+Begin by forking the [Coding Basics Blackjack repo](https://github.com/rocketacademy/swe101-blackjack). Once forked, clone your fork of the repo and work on that copy.
 
 ## Base
 
@@ -92,5 +92,5 @@ Enable multiple players to play against the dealer, where players can take turns
 
 The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
-[https://github.com/rocketacademy/swe101-blackjack/pull/3/files](https://github.com/rocketacademy/swe101-blackjack/pull/3/files)
+[https://github.com/rocketacademy/basics-blackjack/pull/3/files](https://github.com/rocketacademy/basics-blackjack/pull/3/files)
 
