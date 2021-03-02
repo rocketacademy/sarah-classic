@@ -18,8 +18,8 @@ Create a dice game that rolls 2 dice when a user clicks Submit. The user wins if
 
 Follow the ["fork and pull request" workflow](../7-github/7.1-github-fork-and-pull-request.md#cheatsheet) for the following Secret Word app. This is to practise this workflow for the current Scissors Paper Stone project, so everyone knows how to set up and submit their assignment. This is the same workflow that developers use when submitting changes to open source \(publicly-developed\) projects.
 
-1. Fork the [`swe101-github-practice` repo](https://github.com/rocketacademy/swe101-github-practice) into your own GitHub account
-2. Clone the `swe101-github-practice` repo from your own account
+1. Fork the [`basics-github-practice` repo](https://github.com/rocketacademy/basics-github-practice) into your own GitHub account
+2. Clone the `basics-github-practice` repo from your own account
 3. Complete the following Secret Word app
 4. Once done, submit the app by committing your code, pushing changes to your repo, and submitting a pull request.
 
@@ -48,7 +48,7 @@ Update Secret Word such that the number of times the player needs to guess corre
 
 ### Dice Within
 
-Create a new version of our SWE101 dice game \(where the player guesses the dice roll\) that randomly becomes easier or harder. At the beginning of the game and each time the player wins, the computer selects a random number from 1 to 3, which we call the "within number". If any of the player's guesses fall within the dice roll plus or minus the within number, the player wins.
+Create a new version of our Coding Basics dice game \(where the player guesses the dice roll\) that randomly becomes easier or harder. At the beginning of the game and each time the player wins, the computer selects a random number from 1 to 3, which we call the "within number". If any of the player's guesses fall within the dice roll plus or minus the within number, the player wins.
 
 For example: the app randomly chooses 3 as the within number. The player can guess within 3 of the dice roll to win the game. The player guesses 2 and the dice roll is 5. The guess is within 3 of the dice roll so the player wins the game. At this point, the computer adjusts the difficulty of the game by choosing a new within number.
 
@@ -66,5 +66,5 @@ Update our dice game to allow the player to play a round of 4D every 2 times the
 
 ## Daily Feedback
 
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making SWE101 great!
+Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
 
