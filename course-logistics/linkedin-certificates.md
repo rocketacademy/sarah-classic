@@ -4,7 +4,7 @@ description: "\U0001F469‍\U0001F393\U0001F468‍\U0001F393"
 
 # 🎓 LinkedIn Certificates
 
-At the end of SWE101, you will receive a link to a personalised Certificate of Completion for SWE101. Here are instructions on how to add that certificate to your LinkedIn profile.
+At the end of Coding Basics, you will be eligible to add the course as a certification in LinkedIn. Here are instructions on how to add that certificate to your LinkedIn profile.
 
 ## 1. Go to your LinkedIn profile page and click "**Add profile section"**
 
@@ -22,7 +22,7 @@ At the end of SWE101, you will receive a link to a personalised Certificate of C
    1. Rocket Academy
 3. Check "This credential does not expire"
 4. Issue Date
-   1. Your SWE101 graduation month, e.g. February 2021
+   1. Your Coding Basics graduation month, e.g. February 2021
 
 ![](../.gitbook/assets/jie-ping-20210222-18.14.43.png)
 
