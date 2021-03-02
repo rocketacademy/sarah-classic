@@ -1,5 +1,5 @@
 ---
-description: 'To partake in SWE101, we will need the following hardware and software.'
+description: 'To partake in RA''s courses, we will need the following hardware and software.'
 ---
 
 # 💻 Required Hardware and Software
@@ -42,12 +42,12 @@ Chrome is the most popular web browser for software engineers because of its mat
 
 ### VSCode
 
-VSCode is the most popular code editor in the world. We will write all code for SWE101 inside of VSCode.
+VSCode is the most popular code editor in the world. We will write all code for Coding Basics inside of VSCode.
 
 #### **Installation**
 
 1. Download VSCode for your OS [here](https://code.visualstudio.com/download).
-2. Follow instructions in the following [VSCode Formatter and Settings section](required-hardware-and-software.md#vscode-formatter-and-settings) to install a linter and linter settings for SWE101.
+2. Follow instructions in the following [VSCode Formatter and Settings section](required-hardware-and-software.md#vscode-formatter-and-settings) to install a linter and linter settings for Coding Basics.
 
 #### VSCode Formatter and Settings
 
@@ -65,7 +65,7 @@ Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.
 "ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
 {% endhint %}
 
-#### **Apply the SWE101 VSCode and ESLint Settings**
+#### **Apply the Coding Basics VSCode and ESLint Settings**
 
 1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
 2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
@@ -109,7 +109,7 @@ Command-line software is software primarily operated from the command line \(we 
 
 ### Git
 
-Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during SWE101 to download and upload copies of projects.
+Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects.
 
 On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way across Windows and Mac. A version of Bash called Zsh \(pronounced "zoosh"\) is installed by default on MacOS.
 
@@ -125,7 +125,7 @@ Git needs to be installed on the same drive as VSCode. If you happen to have 2 d
 
 ### Windows Command Line Setup
 
-We will need to use the command line \(also known as a terminal, more on this in a later module\) during SWE101. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
+We will need to use the command line \(also known as a terminal, more on this in a later module\) during Coding Basics. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
 
 ![VSCode Terminal on Windows. PowerShell is the Default Terminal Language on Windows.](../.gitbook/assets/v4hx4.png)
 
@@ -152,7 +152,7 @@ Node.js is the most popular JavaScript runtime. "Runtime" in a coding context re
 
 ### Verify Git and Node Installation
 
-In case it helps, here is a video demonstrating how to verify Git and Node installation on Mac. The video uses the built-in Mac terminal, but we should be able to do the same within the VSCode terminal. We recommend students use the VSCode terminal for SWE101.
+In case it helps, here is a video demonstrating how to verify Git and Node installation on Mac. The video uses the built-in Mac terminal, but we should be able to do the same within the VSCode terminal. We recommend students use the VSCode terminal for Coding Basics.
 
 {% embed url="https://www.youtube.com/watch?v=YsRt9YJNFP4" caption="" %}
 
@@ -160,7 +160,7 @@ In case it helps, here is a video demonstrating how to verify Git and Node insta
 
 ### GitHub
 
-GitHub is the most popular code-hosting platform. Developers around the world use GitHub to share code and collaborate on projects. Rocket Academy's starter code and project templates are hosted on GitHub, and we will use GitHub in SWE101 to download, host, and submit assignments. Each student will need a GitHub account to host and submit assignment code.
+GitHub is the most popular code-hosting platform. Developers around the world use GitHub to share code and collaborate on projects. Rocket Academy's starter code and project templates are hosted on GitHub, and we will use GitHub in Coding Basics to download, host, and submit assignments. Each student will need a GitHub account to host and submit assignment code.
 
 #### **Sign Up**
 
@@ -183,44 +183,44 @@ git config -l
 
 You should see your username and email in the output, and possibly some other settings.
 
-## Folder Structure for SWE101
+## Folder Structure for Coding Basics
 
-In SWE101 we will be creating many folders and cloning the starter code multiple times. To keep our code organised, we recommend the following folder structure.
+In Coding Basics we will be creating many folders and cloning the starter code multiple times. To keep our code organised, we recommend the following folder structure.
 
 {% hint style="info" %}
 All code-related files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them, because spaces need to be escaped with backslash \(`\`\) on the command line.
 {% endhint %}
 
-1. Host all SWE101 code in a folder called `swe101`. Keep this in your `Documents` folder.
-2. Within the `swe101` folder, for each class session \(there are 12 total\) in SWE101, create a new folder for that day. This means you will have 12 day-specific folders, such as `day1`, `day2`, ..., `day12`.
+1. Host all Coding Basics code in a folder called `basics`. Keep this in your `Documents` folder.
+2. Within the `basics` folder, for each class session \(there are 12 total\) in Basics, create a new folder for that day. This means you will have 12 day-specific folders, such as `day1`, `day2`, ..., `day12`.
 3. Within each `dayX` folder, create 1 folder for pre-class exercises and another folder for in-class exercises. These can look like `pre-class` and `in-class`, or any other naming scheme that works for you.
-4. Within `pre-class` and `in-class` folders, keep a separate folder for every exercise you do that requires you to create a new Git repository or clone a new copy of the SWE101 starter code.
+4. Within `pre-class` and `in-class` folders, keep a separate folder for every exercise you do that requires you to create a new Git repository or clone a new copy of the Basics starter code.
 
 {% hint style="warning" %}
 When cloning the starter code, choose to [name the target folder](../4-getting-started-with-code/4.1-intro-to-github.md#git-clone) to the relevant exercise name. This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
 {% endhint %}
 
-![Sample swe101 folder in Finder on Mac](../.gitbook/assets/jie-ping-20201126-23.24.11.png)
+![Sample basics folder in Finder on MacOS](../.gitbook/assets/jie-ping-20210302-15.50.36.png)
 
-### Open SWE101 Folder in VSCode
+### Open Basics Folder in VSCode
 
 When working with code, it's often necessary to jump between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to quickly jump between files in that folder without having to File &gt; Open every time.
 
 {% hint style="info" %}
-For SWE101, we recommend storing all of your code in a folder called `swe101` as per the [recommended folder structure](required-hardware-and-software.md#folder-structure-for-swe101), and keeping that folder open in VSCode for the duration of the course.
+For Coding Basics, we recommend storing all of your code in a folder called `basics` as per the [recommended folder structure](required-hardware-and-software.md#folder-structure-for-swe101), and keeping that folder open in VSCode for the duration of the course.
 {% endhint %}
 
-![Sample swe101 Folder in VSCode](../.gitbook/assets/image.png)
+![Sample basics folder in VSCode](../.gitbook/assets/jie-ping-20210302-15.52.14.png)
 
 ## Slack House Rules
 
 ### Ask Questions in the Channel
 
-During RA's courses you will have questions about the material. To ensure your questions get answered soonest, and so that others can help and learn, please ask questions in the batch-wide channel, e.g. \#swe101-batch-2. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
+During RA's courses you will have questions about the material. To ensure your questions get answered soonest, and so that others can help and learn, please ask questions in the batch-wide channel, e.g. \#basics-batch-2. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
 
 ### Provide Context for Questions
 
-To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions. Junior engineers tend to ask questions without context: "It doesn't work. Could you help?" Senior engineers tend to ask questions with relevant context: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system." In SWE101, we want to be like senior engineers.
+To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions. Junior engineers tend to ask questions without context: "It doesn't work. Could you help?" Senior engineers tend to ask questions with relevant context: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system." At Rocket Academy, we want to be like senior engineers.
 
 Try to answer the following when asking questions.
 
