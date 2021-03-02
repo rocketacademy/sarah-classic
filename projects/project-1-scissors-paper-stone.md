@@ -10,8 +10,8 @@ For our first project, we are going to make our own version of the classic [Scis
 
 ## Setup
 
-1. Create a `project` directory in your SWE101 code folder to host your projects if you haven't already.
-2. [Fork](../7-github/7.1-github-fork-and-pull-request.md) the [SWE101 Scissors Paper Stone repository](https://github.com/rocketacademy/swe101-scissors-paper-stone) into your own GitHub account.
+1. Create a `project` directory in your `basics` code folder to host your projects if you haven't already.
+2. [Fork](../7-github/7.1-github-fork-and-pull-request.md) the [Coding Basics Scissors Paper Stone repository](https://github.com/rocketacademy/basics-scissors-paper-stone) into your own GitHub account.
 3. Clone the newly-forked SPS repo from your own GitHub account into a new folder in your `project` directory. You will notice that the SPS repository should look similar to the starter code repository. We made separate repositories for each project so that student Pull Request submissions can be better organised by project.
 
 ## Base
@@ -81,5 +81,5 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 
 The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
-[https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/swe101-scissors-paper-stone/pull/24/files)
+[https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files)
 
