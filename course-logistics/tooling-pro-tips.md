@@ -6,6 +6,17 @@ description: Tips for using programming tools
 
 ## Using VSCode Effectively
 
+### ESLint Not Running After First Install
+
+![ESLint unable to run, icon in bottom right corner of VSCode](../.gitbook/assets/jie-ping-20210302-20.15.45.png)
+
+If we see the above red ESLint status icon in the bottom right of VSCode, it usually means we haven't enabled ESLint in VSCode yet. To enable ESLint in VSCode, follow the instructions [here](https://carldesouza.com/fixing-eslint-execution-is-not-approved-or-denied-in-visual-studio-code/). In summary:
+
+1. Click on the red icon in the bottom right corner
+2. Click Allow Everywhere in the resulting popup menu
+
+Please also remember to run `npm i` in the current starter code folder to enable ESLint in that folder.
+
 ### View and Fix ESLint Errors
 
 When we run `npm install` each time we clone a repo in Coding Basics, we are installing a package ESLint that helps us see errors before we run our code. Some of these errors are functional, i.e. the program will not run unless we fix them, and some are stylistic, i.e. ESLint points out these errors so that our code is consistent. Please try to fix all ESLint errors in your code.
@@ -41,3 +52,4 @@ The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface
 ## Watching YouTube Videos at Different Speeds
 
 If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop&hl=en).
+

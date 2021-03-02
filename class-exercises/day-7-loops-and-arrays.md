@@ -12,7 +12,7 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 
 ### Mad Libs Adjectives
 
-If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
+If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
 
 Come up with your Mad Lib. If you don't want to create anything, you can use the default one from the Wikipedia page:
 
@@ -56,3 +56,4 @@ For more inspiration you can look here: [https://www.google.com/search?q=mad+lib
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
+
