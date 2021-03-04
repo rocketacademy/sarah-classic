@@ -55,6 +55,105 @@ We will make a few small configurations to VSCode to make it easier to work with
 
 {% embed url="https://youtu.be/gGzX8uUbuIo" caption="" %}
 
+**Install the ESLint and Prettier Extensions for VSCode**
+
+This will auto-format your code and give you warnings about common coding errors.
+
+Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), and the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
+
+{% hint style="info" %}
+"ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
+{% endhint %}
+
+**Apply the Coding Basics VSCode and ESLint Settings**
+
+1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
+2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
+3. Replace the contents of the file with the following settings code. Save the file and restart VSCode.
+
+```text
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.migration.2_x": "off"
+}
+```
+
+### Window-Snapping Software
+
+On both Windows and Mac there are features to snap windows to standard sizes and places on our screen using keyboard shortcuts. This is especially helpful when coding and we want to view code on one side and documentation on another. The alternative is to manually drag windows and resize them.
+
+**Windows Installation**
+
+Window snapping is built-in to Windows, and you can take advantage of it with instructions [here](https://support.microsoft.com/en-sg/help/4027324/windows-10-snap-your-windows).
+
+**Mac Installation**
+
+Window snapping is not built-in to MacOS, and we will need to download an external program to snap windows. We recommend any of the following.
+
+1. [Rectangle](https://rectangleapp.com/) \(free\) is an actively-maintained open-source window snapping app. We recommend this to start.
+2. [Magnet](https://magnet.crowdcafe.com/) \(S$10.98\) is an actively-maintained window snapping app on the Mac App Store. It mostly has the same features as Rectangle, and might be more user-friendly because it's managed through the App Store. From what we can tell, it serves the same function as Rectangle.
+
+## Required Command-Line Software
+
+Command-line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is in a separate section so that students do not expect to run this software from their computer's Applications folder.
+
+### Git
+
+Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects.
+
+On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way across Windows and Mac. A version of Bash called Zsh \(pronounced "zoosh"\) is installed by default on MacOS.
+
+**Installation**
+
+1. Download and install Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). **When copying commands from the Git website, do not copy the dollar sign \($\) in front of the command.** The dollar signs in their commands denote the start of command lines, and are not part of the commands.
+2. \[Windows Only\] Follow [command line setup instructions below](required-hardware-and-software.md#command-line-setup-for-windows) to set Bash as the terminal language.
+3. Verify Git is installed by typing `git --version` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `git version 2.28.0`.
+
+{% hint style="warning" %}
+Git needs to be installed on the same drive as VSCode. If you happen to have 2 drives on your computer, e.g. C and D drives, make sure both VSCode and Git are installed on the same drive.
+{% endhint %}
+
+### Windows Command Line Setup
+
+We will need to use the command line \(also known as a terminal, more on this in a later module\) during Coding Basics. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
+
+![VSCode Terminal on Windows. PowerShell is the Default Terminal Language on Windows.](../.gitbook/assets/v4hx4.png)
+
+1. Open Visual Studio Code and use the keyboard shortcut ````` Ctrl+``` \(hold````Ctrl\` and press \`\`\`\`\`\) to open the terminal. We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
+2. Open the command palette using `Ctrl+Shift+P`.
+3. Type and select "Select Default Shell".
+4. Select "Git Bash" from the options.
+5. Restart VSCode and open terminal again. The terminal should now run with Bash.
+
+![VSCode Terminal on Windows Running the Bash Terminal Language](../.gitbook/assets/5zlap.png)
+
+We shouldn't need to, but if we need to, we can toggle between different terminal languages from the dropdown in our VSCode terminal.
+
+![Toggle between Bash, PowerShell, and Any Other Terminal Languages in VSCode Terminal](../.gitbook/assets/1agtr.png)
+
+### **Node.js**
+
+Node.js is the most popular JavaScript runtime. "Runtime" in a coding context refers to the environment in which code runs. ".js" is the file extension for JavaScript files, and a common suffix for JavaScript packages. We will use Node.js to lint and run our JavaScript code in non-browser contexts.
+
+**Installation**
+
+1. Download and install Node.js for your OS [here](https://nodejs.org/en/download/). It will come with NPM, which stands for Node.js Package Manager. Package managers are used to download and manage 3rd-party packages that our programs rely on, such as ESLint.
+2. Verify Node.js is installed by typing `node -v` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `v12.18.3`.
+
+### **Verify Git and Node Installation**
+
+In case it helps, here is a video demonstrating how to verify Git and Node installation on Mac. The video uses the built-in Mac terminal, but we should be able to do the same within the VSCode terminal. We recommend students use the VSCode terminal for Coding Basics.
+
 {% embed url="https://www.youtube.com/watch?v=YsRt9YJNFP4" caption="" %}
 
 ## Required Software Accounts
