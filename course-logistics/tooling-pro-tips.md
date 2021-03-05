@@ -4,7 +4,9 @@ description: Tips for using programming tools
 
 # 💡 Tooling Pro Tips
 
-## ESLint Bugs
+## Using ESLint Effectively
+
+### ESLint Not Working
 
 ESLint and VSCode both get updated regularly and sometimes don't play nice. If ESLint isn't formatting your code on save, try the following checklist of common solutions.
 
