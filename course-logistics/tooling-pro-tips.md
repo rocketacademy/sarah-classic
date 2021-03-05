@@ -4,7 +4,16 @@ description: Tips for using programming tools
 
 # 💡 Tooling Pro Tips
 
-## Using VSCode Effectively
+## ESLint Bugs
+
+ESLint and VSCode both get updated regularly and sometimes don't play nice. If ESLint isn't formatting your code on save, try the following checklist of common solutions.
+
+1. Have you installed the ESLint extension in VSCode as per [Required Hardware and Software](required-hardware-and-software.md#vscode-formatter-and-settings)?
+2. Have you set ESLint to format JavaScript in VSCode settings as per [Required Hardware and Software](required-hardware-and-software.md#vscode-formatter-and-settings)?
+3. Have you [run `npm install`](../4-getting-started-with-code/4.2-our-first-program.md#setup) in terminal from the folder of your current code repository? For example, if you are working on Day 2's Ice Machine exercise in the basics/day2/ice-machine folder, did you run `npm install` from basics/day2/ice-machine in your terminal?
+4. Have you enabled ESLint to run in VSCode? See the [ESLint Not Running After First Install](tooling-pro-tips.md#eslint-not-running-after-first-install) section below to see if you need to enable this one-off setting.
+
+If you've done the above and ESLint still isn't formatting your code, let us know and we'll help you fix it!
 
 ### ESLint Not Running After First Install
 
@@ -24,6 +33,8 @@ When we run `npm install` each time we clone a repo in Coding Basics, we are ins
 VSCode shows us ESLint errors with red squiggly lines under the parts of our code with errors. To see what the error is, hover over the red squiggly line in VSCode.
 
 ![ESLint shows errors with red squiggly lines. View error messages by hovering over red lines.](../.gitbook/assets/jie-ping-20200924-18.55.18.png)
+
+## Using VSCode Effectively
 
 ### Comment Out Multiple Lines at Once
 
