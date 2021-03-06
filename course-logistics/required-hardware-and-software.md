@@ -183,6 +183,10 @@ git config -l
 
 You should see your username and email in the output, and possibly some other settings.
 
+#### Personal Access Token
+
+In addition to setting a password for your GitHub account, you will need to generate a Personal Access Token to use GitHub on the command line. Follow GitHub's instructions [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) for how to set up and use Personal Access Tokens.
+
 ## Folder Structure for Coding Basics
 
 In Coding Basics we will be creating many folders and cloning the starter code multiple times. To keep our code organised, we recommend the following folder structure.
