@@ -46,21 +46,18 @@ Make a loop that never stops running. Be prepared to stop / kill this Chrome tab
 
 ## More Comfortable
 
-### Easier \(For The Player\) Multi-Dice Game
+### Multi-Round Multi-Dice Game
 
-1. Create a dice game with a variable _n_ number of dice. The user will be able to roll that _n_ number of dice in 4 different rounds.
-2. The game will have 2 modes.
-3. In the first mode, the user will enter the number of dice they want to roll.
-4. In the second mode, the user will enter a guess.
-5. The program will run a loop that will run 4 rounds.
-6. _**Within**_ each round the game will run an inner loop that will roll the set of _n_ dice the user specified.
-7. If the user guessed correctly for any of those _n_ dice, they win that round.
-8. The game will add to the output the record of that round, and the game will output the result for all rounds.
+1. Alter the previous multi-dice game such that the user plays 4 rounds in the 2nd mode. 
+2. After the user enters their guess in Mode 2, the program enters a loop that runs 4 rounds.
+3. Within each round the game will roll the number of dice the user specified and compare them with the single user guess.
+4. If the user guessed correctly for any dice rolls in a round, they win that round.
+5. The game will continue to output overall win-loss record, where each of the 4 rounds count as wins or losses.
 
 ### Two Player
 
 1. Change the game so that 2 players can play.
-2. The game will begin with Player One's turn.
+2. The game will begin with Player 1's turn.
 3. The game play will proceed as in the dice game above. The user will receive a score from 0 to 4, the total of all rounds played. \(4 rounds per turn\).
 4. Then the game will switch to the other player's turn.
 
