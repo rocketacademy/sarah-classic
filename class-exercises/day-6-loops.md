@@ -56,14 +56,13 @@ Make a loop that never stops running. Be prepared to stop / kill this Chrome tab
 
 ### Two Player
 
-1. Change the game so that 2 players can play.
-2. The game will begin with Player 1's turn.
-3. The game play will proceed as in the dice game above. The user will receive a score from 0 to 4, the total of all rounds played. \(4 rounds per turn\).
-4. Then the game will switch to the other player's turn.
+1. Change the game to support 2 players, starting with Player 1.
+2. The gameplay follows the multi-round multi-dice game above. After each turn, the user will receive a score from 0 to 4, because each user plays 4 rounds per turn.
+3. The game alternates between players indefinitely and outputs win-loss record for each player.
 
 ### Multi-Player
 
-Change the game so that it asks how many players are in the game at the beginning. Each player will take turns playing the game as above.
+Change the game to ask how many players are playing the game. Players will take turns playing the game as above.
 
 ## Reference Solution
 
