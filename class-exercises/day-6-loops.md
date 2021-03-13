@@ -54,13 +54,13 @@ Make a loop that never stops running. Be prepared to stop / kill this Chrome tab
 4. If the user guessed correctly for any dice rolls in a round, they win that round.
 5. The game will continue to output overall win-loss record, where each of the 4 rounds count as wins or losses.
 
-### Two Player Multi-Dice Game
+### Two Player Multi-Round Multi-Dice Game
 
 1. Change the game to support 2 players, starting with Player 1.
 2. The gameplay follows the multi-round multi-dice game above. After each player's turn, that player will have won between 0 and 4 rounds, because each player plays 4 rounds per turn.
 3. The game alternates between players indefinitely and outputs win-loss record for each player.
 
-### Multi-Player Multi-Dice Game
+### Multi-Player Multi-Round Multi-Dice Game
 
 Change the game to ask how many players are playing the game. Players will take turns playing the game as above.
 
