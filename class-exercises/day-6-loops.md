@@ -57,7 +57,7 @@ Make a loop that never stops running. Be prepared to stop / kill this Chrome tab
 ### Two Player Multi-Dice Game
 
 1. Change the game to support 2 players, starting with Player 1.
-2. The gameplay follows the multi-round multi-dice game above. After each turn, the user will receive a score from 0 to 4, because each user plays 4 rounds per turn.
+2. The gameplay follows the multi-round multi-dice game above. After each player's turn, that player will have won between 0 and 4 rounds, because each player plays 4 rounds per turn.
 3. The game alternates between players indefinitely and outputs win-loss record for each player.
 
 ### Multi-Player Multi-Dice Game
