@@ -10,6 +10,10 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 
 ## Base
 
+{% hint style="info" %}
+You may not need to use loops for every exercise :\)
+{% endhint %}
+
 ### Mad Libs Adjectives
 
 If you're unfamiliar with the game Mad Libs, take a look here: [https://en.wikipedia.org/wiki/Mad\_Libs](https://en.wikipedia.org/wiki/Mad_Libs)
