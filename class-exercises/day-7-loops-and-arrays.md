@@ -27,7 +27,11 @@ Come up with your Mad Lib. If you don't want to create anything, you can use the
 
 Hard code the exclamation, adverb and noun, but leave 1 adjective blank. In the Wikipedia sentence, the adjective is at the end of the sentence.
 
-At the beginning of the app, ask the user to input a series of adjectives. We can choose to have the user input 1 adjective per input or multiple. Store these in an array.
+At the beginning of the app, ask the user to input a series of adjectives. We can choose to have the user input 1 adjective per input or multiple. Store the user's adjectives in an array.
+
+{% hint style="info" %}
+If you would like the user to input multiple words at once, consider using JavaScript's string [`split`](https://www.w3schools.com/jsref/jsref_split.asp) method to convert a string of words into an array. 
+{% endhint %}
 
 When the user types "create" in the input, change the mode to complete your Mad Lib by randomly selecting an adjective from the array. Output the completed Mad Lib in the grey box.
 
