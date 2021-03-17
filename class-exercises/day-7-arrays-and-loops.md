@@ -1,4 +1,4 @@
-# Day 7: Loops and Arrays
+# Day 7: Arrays and Loops
 
 ## Introduction
 
@@ -11,7 +11,7 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 ## Base
 
 {% hint style="info" %}
-You may not need to use loops for every exercise :\)
+Hint: You may not need to use loops for every exercise.
 {% endhint %}
 
 ### Mad Libs Adjectives
