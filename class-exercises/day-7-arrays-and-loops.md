@@ -49,10 +49,6 @@ Create modes to input words from different word types, e.g. exclamation, adverb,
 
 Keep track of which words are selected. Create and allow the user to switch to a new game mode that always shows a completed Mad Lib on Submit using the set of words \(verb, adjective, etc.\) that the app has \(randomly\) selected most often so far.
 
-### Unpopular Mad Libs
-
-Create and allow the user to switch to a new game mode that always shows a completed Mad Lib on Submit with the set of words that the app has selected LEAST often so far.
-
 ### Sets of Mad Libs
 
 Store an array of Mad Lib sentences in your app. For example, Mad Lib 1 might be:
