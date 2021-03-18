@@ -28,7 +28,7 @@ The following is the above example Mad Lib written in code, where the exclamatio
 Note the below string uses optional JavaScript string literal syntax. More info on string literals in Module 4.2: Our First Program [here](https://basics.rocketacademy.co/4-getting-started-with-code/4.2-our-first-program#output-formatting).
 
 ```javascript
-var madLib = `"Yabadabadoo!" he said joyfully as he jumped into his convertible Tree Car and drove off with his ${randomAdj} wife.`
+var madLib = `"Yabadabadoo!" he said gleefully as he jumped into his convertible Tree Car and drove off with his ${randomAdj} wife.`
 ```
 
 #### Instructions
