@@ -73,10 +73,11 @@ Total Video Watch Time: **~25 mins**
 
 #### Pre-Class Material
 
-Total Video Watch Time: **~22 mins**
+Total Video Watch Time: **~40 mins**
 
 * [6.1: Intro to Logic](../6-conditional-logic/6.1-intro-to-logic.md)
 * [6.2: Pseudo Code, Boolean Or](../6-conditional-logic/6.2-pseudo-code-boolean-or.md)
+* [6.3: Boolean And and Not](../6-conditional-logic/6.3-boolean-and-not.md)
 
 #### In-Class Material
 
@@ -84,7 +85,7 @@ Total Video Watch Time: **~22 mins**
 
 #### Post-Class: Begin Project
 
-Note: You will need the pre-class material from Day 4 for Project 1.
+Note: You will need the pre-class material from Day 4 to complete Project 1.
 
 * [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
 
@@ -92,12 +93,12 @@ Note: You will need the pre-class material from Day 4 for Project 1.
 
 #### Pre-Class Material
 
-Total Video Watch Time: **~40 mins**
+Total Video Watch Time: **~41 mins**
 
-* [6.3: Boolean And and Not](../6-conditional-logic/6.3-boolean-and-not.md)
 * [7.1: GitHub Fork and Pull Request](../7-github/7.1-github-fork-and-pull-request.md)
 * [7.2: GitHub Navigation](../7-github/7.2-github-repo-browsing.md)
 * [8.1: Program Lifecycle and Global State](../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
+* [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
 
 #### In-Class Material
 
@@ -111,9 +112,8 @@ Total Video Watch Time: **~40 mins**
 
 #### Pre-Class Material
 
-Total Video Watch Time: **~36 mins**
+Total Video Watch Time: **~17 mins**
 
-* [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
 * [8.3: Input Validation](../8-managing-state-and-input-validation/8.3-input-validation.md)
 
 #### In-Class Material
