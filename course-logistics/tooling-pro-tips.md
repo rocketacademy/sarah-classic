@@ -14,6 +14,8 @@ ESLint and VSCode both get updated regularly and sometimes don't play nice. If E
 2. Have you set ESLint to format JavaScript in VSCode settings as per [Required Hardware and Software](required-hardware-and-software.md#vscode-formatter-and-settings)?
 3. Have you [run `npm install`](../4-getting-started-with-code/4.2-our-first-program.md#setup) in terminal from the folder of your current code repository? For example, if you are working on Day 2's Ice Machine exercise in the basics/day2/ice-machine folder, did you run `npm install` from basics/day2/ice-machine in your terminal?
 4. Have you enabled ESLint to run in VSCode? See the [ESLint Not Running After First Install](tooling-pro-tips.md#eslint-not-running-after-first-install) section below to see if you need to enable this one-off setting.
+5. If 1-4 haven't fixed it, try restarting VSCode and opening your `basics` folder in VSCode as per [Required Hardware and Software](required-hardware-and-software.md#open-basics-folder-in-vscode).
+6. If all else false, let an instructor know and we will help you resolve this.
 
 If you've done the above and ESLint still isn't formatting your code, let us know and we'll help you fix it!
 
