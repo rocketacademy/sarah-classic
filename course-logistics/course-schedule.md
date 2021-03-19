@@ -98,7 +98,6 @@ Total Video Watch Time: **~41 mins**
 * [7.1: GitHub Fork and Pull Request](../7-github/7.1-github-fork-and-pull-request.md)
 * [7.2: GitHub Navigation](../7-github/7.2-github-repo-browsing.md)
 * [8.1: Program Lifecycle and Global State](../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
-* [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
 
 #### In-Class Material
 
@@ -115,6 +114,7 @@ Total Video Watch Time: **~41 mins**
 Total Video Watch Time: **~17 mins**
 
 * [8.3: Input Validation](../8-managing-state-and-input-validation/8.3-input-validation.md)
+* [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
 
 #### In-Class Material
 
