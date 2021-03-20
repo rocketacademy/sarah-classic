@@ -14,8 +14,8 @@ Begin by forking the [Coding Basics Beat That repo](https://github.com/rocketaca
 
 1. There are 2 players and players take turns.
 2. When a player clicks Submit, the game rolls 2 dice and shows the dice rolls, for example 3 and 6.
-3. The player picks the order of the dice they want. For example, if they wanted the number 63, they would specify that the 2nd dice goes first.
-4. After both players have rolled, the player with the higher combined number wins.
+3. The player picks the order of the dice they want. For example, if they wanted the number 63, they would specify that the 2nd dice goes first. You can choose how the player specifies dice order.
+4. After both players have rolled and chosen dice order, the player with the higher combined number wins.
 
 ### Example
 
