@@ -28,7 +28,7 @@
 * [Day 5: Scissors Paper Stone Redux](class-exercises/day-5-scissors-paper-stone-redux.md)
 * [Day 6: Loops](class-exercises/day-6-loops.md)
 * [Day 7: Arrays and Loops](class-exercises/day-7-arrays-and-loops.md)
-* [Day 8: Dice Game Redux](class-exercises/day-8-dice-game-redux.md)
+* [Day 8: Beat That Redux](class-exercises/day-8-beat-that-redux.md)
 * [Day 9: Moar Cards](class-exercises/day-9-moar-cards.md)
 * [Day 10: Chat Bot](class-exercises/day-10-chat-bot.md)
 * [Day 11: Blackjack Redux, Debugger](class-exercises/day-11-blackjack-redux-debugger.md)

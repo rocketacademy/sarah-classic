@@ -164,7 +164,7 @@ Total Video Watch Time: **~15 mins**
 
 #### In-Class Material
 
-* [Day 8: Dice Game Redux](../class-exercises/day-8-dice-game-redux.md)
+* [Day 8: Dice Game Redux](../class-exercises/day-8-beat-that-redux.md)
 
 #### Post-Class: Begin Project
 
