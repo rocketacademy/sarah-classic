@@ -39,6 +39,26 @@ Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating
 
 ## More Comfortable
 
+### Score
+
+Keep score for each player. The score is the running sum of all numbers that player has generated so far. This means there is no permanent winner, only a temporary leader.
+
+### Auto-Choose
+
+Update the game to auto-generate the highest combined number from dice rolls. For example, for dice rolls `[2, 3, 1, 6]`, the game would auto-generate the combined number `6321`.
+
+### Variable Number of Players
+
+Allow more than 2 players to play Beat That in a single game. At the beginning of the game, ask how many players would like to play.
+
+### Lowest Combined Number Mode
+
+Add a game mode such that the player with the lowest combined number is the winner.
+
+### Leaderboard
+
+When outputting game results in the output box, also output a leaderboard that lists the players and their scores in decreasing rank order. This rank order may be highest to lowest scores, or lowest to highest scores depending on whether Lowest Combined Number game mode is activated.
+
 ### Variable Number of Dice
 
 #### Requirements
@@ -65,26 +85,6 @@ for (var i = 0; i < indexesArray.length; i += 1) {
   combinedNum = combinedNum * 10 + diceRollArray[indexesArray[i]];
 } 
 ```
-
-### Score
-
-Keep score for each player. The score is the running sum of all numbers that player has generated so far. This means there is no permanent winner, only a temporary leader.
-
-### Auto-Choose
-
-Update the game to auto-generate the highest combined number from dice rolls. For example, for dice rolls `[2, 3, 1, 6]`, the game would auto-generate the combined number `6321`.
-
-### Variable Number of Players
-
-Allow more than 2 players to play Beat That in a single game. At the beginning of the game, ask how many players would like to play.
-
-### Lowest Combined Number Mode
-
-Add a game mode such that the player with the lowest combined number is the winner.
-
-### Leaderboard
-
-When outputting game results in the output box, also output a leaderboard that lists the players and their scores in decreasing rank order. This rank order may be highest to lowest scores, or lowest to highest scores depending on whether Lowest Combined Number game mode is activated.
 
 ### Knockout Mode
 
