@@ -8,13 +8,13 @@ Today we will practise JavaScript Objects. For each exercise, make a copy of the
 When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
-Feel free to copy the card shuffling function from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) and the deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md).
-
 ## Base
+
+Feel free to copy the card deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling function from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) into your `script.js` file.
 
 ### Display Single Card
 
-When the user clicks submit draw a single card from the deck and show it to them.
+Build an app using the Basics Starter Code such that when the user clicks Submit, draw a single card from the deck and show it to them.
 
 ### Low Card
 
