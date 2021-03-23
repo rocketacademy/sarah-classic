@@ -28,9 +28,9 @@ Alter the Low Card game such that if any player draws a Queen, they win.
 
 The player can input how many cards they want. The lowest of the player's cards is compared against the computer card. Show the player all the cards that she drew. Rules from above exercises continue to apply.
 
-### Low Card Output
+### Low Card Suit Output
 
-Implement a nice looking output for Low Card. Use a helper function to display each card nicely with emoji. \(♠️, etc.\).
+Implement a nice-looking output for Low Card. Use a helper function to display each card nicely with emoji \(♠️, ♥️, etc.\). Try to avoid repeating code if possible.
 
 Example:
 
