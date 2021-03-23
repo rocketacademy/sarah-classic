@@ -10,15 +10,15 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 
 ## Base
 
-Feel free to copy the card deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling function from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) into your `script.js` file.
+Feel free to copy the card deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling functions from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) into your `script.js` file.
 
 ### Display Single Card
 
-Build an app using the Basics Starter Code such that when the user clicks Submit, draw a single card from the deck and show it to them.
+Build an app using the Basics Starter Code and the deck functions from Modules 10.1 and 10.2 such that when the user clicks Submit, draw a single card from a shuffled deck and show it to them.
 
 ### Low Card
 
-Implement the High Card game from [10.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with one difference: the winner is the person with the lowest card.
+Implement the High Card game from [10.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with 1 difference: the winner is the person with the lowest card. Feel free to start with the code from Module 10.1 and modify it if that's easier.
 
 ### Low Card with Queen Winner
 
@@ -26,7 +26,7 @@ Alter the Low Card game such that if any player draws a Queen, they win.
 
 ### Low Card Hands
 
-At the beginning of the game the player can say how many cards they want. The lowest of the player's cards is compared against the computer card.
+The player can input how many cards they want. The lowest of the player's cards is compared against the computer card. Show the player all the cards that she drew. Rules from above exercises continue to apply.
 
 ### Low Card Output
 
@@ -66,6 +66,10 @@ Allow the player to wager points on each round. Add a new mode for the beginning
 ### Low Card 2-Player Mode with Pairs
 
 Update the previous game logic such that if any player gets a pair in their hand, they win.
+
+## Reference Solutions
+
+[Here](https://github.com/rocketacademy/basics-starter-code/blob/day8/script.js) is a reference solution for Day 9 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
 ## Daily Feedback
 
