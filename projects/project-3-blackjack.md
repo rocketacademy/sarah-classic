@@ -8,10 +8,6 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 2. The computer will always be the dealer. The dealer has to hit if their hand is below 17.
 3. The player who is closer to 21 wins the hand. Aces can be 1 or 11.
 
-{% hint style="danger" %}
-**Rocket Academy does not endorse gambling.** We chose Blackjack as a project because of its complex rules that help facilitate coding instruction.
-{% endhint %}
-
 ## Setup
 
 Begin by forking the [Coding Basics Blackjack repo](https://github.com/rocketacademy/basics-blackjack). Once forked, clone your fork of the repo and work on that copy.
@@ -93,4 +89,8 @@ Enable multiple players to play against the dealer, where players can take turns
 The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
 [https://github.com/rocketacademy/basics-blackjack/pull/3/files](https://github.com/rocketacademy/basics-blackjack/pull/3/files)
+
+{% hint style="danger" %}
+**Rocket Academy does not endorse gambling.** We chose Blackjack as a project because of its complex rules that help facilitate coding instruction.
+{% endhint %}
 
