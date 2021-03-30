@@ -34,7 +34,7 @@ We will use JavaScript Objects to encode the chat bot's potential responses.
 var answersAndResponses = {
   yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
   no: 'Oh ok, just normally happy ;)',
-  maybe: 'It seems thinking about coding also brings happiness!',
+  maybe: 'It seems the very thought of coding makes people happy!',
 };
 ```
 
@@ -53,7 +53,7 @@ var responseText = answersAndResponses[input];
 
 Implement the chat bot described above, that asks a yes/no/maybe question and can respond to a user's response of "yes", "no", or "maybe".
 
-### Set Up Multiple Chat Bot Answer Sets
+### Multiple Chat Bot Answer Sets
 
 Extend the capabilities of the chat bot by storing question and answer text in the same object, like the following.
 
@@ -61,36 +61,41 @@ Extend the capabilities of the chat bot by storing question and answer text in t
 
 ```javascript
 var questionAndAnswerSet = {
-  question:
-    'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+  question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
   answers: {
     yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
     no: 'Oh ok, just normally happy ;)',
-    maybe: 'It seems thinking about coding also brings happiness!',
+    maybe: 'It seems the very thought of coding makes people happy!',
   },
 };
 ```
 
-To have our chat bot support more than 1 question, put the above `questionAndAnswerSet` object into an array of chat bot answer sets. The bot will pick which question to ask and answer next. 
+To have our chat bot support more than 1 question, put the above `questionAndAnswerSet` object into an array of chat bot answer sets, and add a 2nd answer set to our array. The bot will pick which question to ask and answer next. 
 
 #### Sample Array of Answer Sets
 
 ```javascript
 var questionAndAnswerSets = [
   {
-    question:
-      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
       no: 'Oh ok, just normally happy ;)',
-      maybe: 'It seems thinking about coding also brings happiness!',
+      maybe: 'It seems the very thought of coding makes people happy!',
     },
   },
-  // More answer sets here
+  {
+    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    answers: {
+      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
+      night: 'Under the calm and gentle moon, I also find my focus.',
+      both: "Indeed, I could code 24/7 if I didn't have to sleep!",
+    },
+  },
 ];
 ```
 
-Implement Single Chat Bot Answer Set with an array of question and answer sets. The following exercises will add new answer sets to our array.
+Implement a chat bot that alternates between these 2 questions.
 
 ### Chat Bot Stores User's Name
 
@@ -157,8 +162,7 @@ var chatBotData = {
     question:
       'Do you enjoy coding most during the day, night, or both? (day/night/both)',
     answers: {
-      day:
-        'Ah yes, when the sun is high in the sky, I can feel its energy too.',
+      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
       night: 'Under the calm and gentle moon, I also find my focus.',
       both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
