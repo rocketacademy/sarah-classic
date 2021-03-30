@@ -27,7 +27,7 @@ Bot: Wow! Me too! I've been working on the Blackjack project. Makes my day!
 We will use JavaScript Objects to encode the chat bot's potential responses.
 
 ```javascript
-var answer = {
+var answersAndResponses = {
   yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
   no: 'Oh ok, just normally happy ;)',
   maybe: 'It seems thinking about coding also brings happiness!',
@@ -40,7 +40,7 @@ We can retrieve the relevant chat bot response by using user input to access the
 
 ```javascript
 // value of input is 'yes'
-var answerText = answer[input];
+var responseText = answersAndResponses[input];
 ```
 
 ## Base
@@ -56,7 +56,7 @@ Extend the capabilities of the chat bot by storing question and answer text in t
 #### Sample Answer Set
 
 ```javascript
-var chatBotAnswerSet = {
+var questionAndAnswerSet = {
   question:
     'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
   answers: {
@@ -72,7 +72,7 @@ To have our chat bot support more than 1 question, put the above `chatBotAnswerS
 #### Sample Array of Answer Sets
 
 ```javascript
-var chatBotAnswerSets = [
+var questionAndAnswerSets = [
   {
     question:
       'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
