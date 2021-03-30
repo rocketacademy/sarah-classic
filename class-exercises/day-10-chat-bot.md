@@ -141,9 +141,9 @@ Bot: What a wise age, Kai! Hey, wow you seem happy today! Have you been coding? 
 
 ## More Comfortable
 
-### Chat Bot Response Setting
+### Chat Bot Named Answer Sets
 
-Update our chat bot answer set array to be an object whose keys are answer set IDs and values are answer sets. Also add a `nextQuestion` key to each answer set object, whose value is always an answer set ID, enabling us to chain question sequences in a more logical manner.
+Update our chat bot answer set array to be an object whose keys are answer set IDs and values are answer sets. Also add a `nextQuestion` key to each answer set object, whose value is always an answer set ID, enabling us to chain question sequences in a named manner. This doesn't add new functionality beyond ordering questions using an array, but it sets up the next exercise Dynamic Chat Bot.
 
 #### Sample Answer Set Collection
 
@@ -155,7 +155,7 @@ var chatBotData = {
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
       no: 'Oh ok, just normally happy ;)',
-      maybe: 'It seems thinking about coding also brings happiness!',
+      maybe: 'It seems the very thought of coding makes people happy!',
     },
     nextQuestion: 'timeOfDay',
   },
@@ -169,7 +169,15 @@ var chatBotData = {
     },
     nextQuestion: 'weather',
   },
-  // ... other questions here
+  weather: {
+    question:
+      'Are you most productive when it\'s sunny or raining? (sunny/raining)',
+    answers: {
+      sunny: 'The sun warms my heart and powers me to code.',
+      raining: 'The rain washes away my distractions and allows me to focus.',
+    },
+    nextQuestion: 'hasBeenCoding',
+  },
 };
 ```
 
