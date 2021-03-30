@@ -181,7 +181,7 @@ var chatBotData = {
       'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: {
-        answer: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+        response: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
         nextQuestion: 'timeOfDay',
       },
       // ... other answers here
