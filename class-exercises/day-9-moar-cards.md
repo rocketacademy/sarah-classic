@@ -49,7 +49,7 @@ Player 2 wins!
 
 ### **Low Card with Wild Card**
 
-Update Low Card with the following twist. At the beginning of the game, pick \(but do not draw\) a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins.
+Update our latest Low Card implementation with the following twist. At the beginning of the game, pick \(but do not draw\) a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins.
 
 ### Low Card with Player-Chosen Wild Card
 
