@@ -168,10 +168,10 @@ var questionAndAnswerSets = {
     nextQuestionId: 'weather',
   },
   weather: {
-    question: 'Are you most productive when it\'s sunny or raining? (sunny/raining)',
+    question: 'Are you most productive when it\'s sunny or raining? (sun/rain)',
     answers: {
-      sunny: 'The sun warms my heart and powers me to code.',
-      raining: 'The rain washes away my distractions and allows me to focus.',
+      sun: 'The sun warms my heart and powers me to code.',
+      rain: 'The rain washes away my distractions and allows me to focus.',
     },
     nextQuestionId: 'hasBeenCoding',
   },
@@ -180,29 +180,50 @@ var questionAndAnswerSets = {
 
 ### Dynamic Chat Bot
 
-Update our chat bot to choose a next question based on the answer that the user gives. This next question's ID can be stored in the object that corresponds to the user's answer. See the following sample answer set collection for inspiration.
+Update our chat bot to choose a next question based on the answer that the user gives. This next question's ID can be stored in the object that corresponds to the user's answer. See the following sample answer set collection for inspiration. Note that some questions have `nextQuestionId` nested within specific answers, and other question have `nextQuestionId` fixed for the question.
 
 #### Sample Answer Set Collection
 
 ```javascript
 var questionAndAnswerSets = {
   hasBeenCoding: {
-    question:
-      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: {
-        response: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
+        response: 'Wow! Me too! I\'ve been working on the Blackjack project. Makes my day!',
         nextQuestionId: 'timeOfDay',
       },
-      // ... other answers here
+      no: {
+        response: 'Oh ok, just normally happy ;)',
+        nextQuestionId: 'happiness',
+      },
     },
   },
   timeOfDay: {
-    question:
-      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
-    // ... answers here
+    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    answers: {
+      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
+      night: 'Under the calm and gentle moon, I also find my focus.',
+      both: "Indeed, I could code 24/7 if I didn't have to sleep!",
+    },
+    nextQuestionId: 'weather',
   },
-  // ... other questions here
+  weather: {
+    question: 'Are you most productive when it\'s sunny or raining? (sun/rain)',
+    answers: {
+      sun: 'The sun warms my heart and powers me to code.',
+      rain: 'The rain washes away my distractions and allows me to focus.',
+    },
+    nextQuestionId: 'hasBeenCoding',
+  },
+  happiness: {
+    question: 'Do arrays or objects make you happier? (arrays/objects)',
+    answers: {
+      arrays: 'I knew it, arrays are my favourite too.',
+      objects: 'You\'re good at coding- objects are hard!',
+    },
+    nextQuestionId: 'timeOfDay',
+  },
 };
 ```
 
