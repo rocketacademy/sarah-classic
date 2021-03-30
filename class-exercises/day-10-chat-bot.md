@@ -148,7 +148,7 @@ Update our chat bot answer set array to be an object whose keys are answer set I
 #### Sample Answer Set Collection
 
 ```javascript
-var chatBotData = {
+var questionAndAnswerSets = {
   hasBeenCoding: {
     question:
       'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
@@ -188,7 +188,7 @@ Update our chat bot to choose a next question based on the answer that the user 
 #### Sample Answer Set Collection
 
 ```javascript
-var chatBotData = {
+var questionAndAnswerSets = {
   hasBeenCoding: {
     question:
       'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
