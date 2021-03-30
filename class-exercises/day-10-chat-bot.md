@@ -49,7 +49,7 @@ var responseText = answersAndResponses[input];
 
 Implement the chat bot described above, that asks a yes/no/maybe question and can respond to a user's response of "yes", "no", or "maybe".
 
-### Multiple Chat Bot Answer Sets
+### Set Up Multiple Chat Bot Answer Sets
 
 Extend the capabilities of the chat bot by storing question and answer text in the same object, like the following.
 
@@ -67,7 +67,7 @@ var questionAndAnswerSet = {
 };
 ```
 
-To have our chat bot support more than 1 question, put the above `chatBotAnswerSet` object into an array of chat bot answer sets. The bot will pick which question to ask and answer next. The following exercises will add new answer sets to our answer set array.
+To have our chat bot support more than 1 question, put the above `questionAndAnswerSet` object into an array of chat bot answer sets. The bot will pick which question to ask and answer next. 
 
 #### Sample Array of Answer Sets
 
@@ -85,6 +85,8 @@ var questionAndAnswerSets = [
   // More answer sets here
 ];
 ```
+
+Implement Single Chat Bot Answer Set with an array of question and answer sets. The following exercises will add new answer sets to our array.
 
 ### Chat Bot Asks For User's Name
 
