@@ -69,7 +69,7 @@ Update the previous game logic such that if any player gets a pair in their hand
 
 ## Reference Solutions
 
-[Here](https://github.com/rocketacademy/basics-starter-code/blob/day8/script.js) is a reference solution for Day 9 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/basics-starter-code/blob/day9/script.js) is a reference solution for Day 9 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
 ## Daily Feedback
 
