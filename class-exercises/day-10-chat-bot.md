@@ -99,7 +99,7 @@ Add a new chat bot question that asks for the user's name and responds with a se
 #### Sample Chat Bot Conversation
 
 ```text
-Bot: Hey! I'm Dennis. What's your name?
+Bot: Hey! I'm Robocop. What's your name?
 ---
 User: Kai.
 ---
