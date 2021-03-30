@@ -76,13 +76,13 @@ Make the game output look cool. Can you represent cards with graphics? Ask the p
 
 The player starts with 100 points. Each round the player wagers a number of points before their hand is dealt. Keep track of the player's points throughout the game.
 
-### Splits
-
-Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
-
 ### Multi-Player
 
 Enable multiple players to play against the dealer, where players can take turns. The game hides and shows relevant hand according to the turn.
+
+### Splits
+
+Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
 
 ## Reference Solution
 
