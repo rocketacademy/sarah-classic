@@ -136,7 +136,7 @@ Bot: Kai! What a cool name. How old are you?
 ---
 User: 63
 ---
-Bot: What a wise age. I've got some questions for you! Hit Submit and I'll ask.
+Bot: What a wise age, Kai! Hey, wow you seem happy today! Have you been coding? (yes/no/maybe).
 ```
 
 ## More Comfortable
