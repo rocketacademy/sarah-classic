@@ -106,9 +106,9 @@ Add a new chat bot question that asks for the user's name and responds with a se
 ```text
 Bot: Hey! I'm Robocop. What's your name?
 ---
-User: Kai.
+User: Kai
 ---
-Bot: Kai! What a cool name.
+Bot: Kai! What a cool name. Hit Submit and I'll ask you a question!
 (chat bot continues)
 ```
 
@@ -117,7 +117,7 @@ Use the user's name in the bot's subsequent output. You may want to store the us
 #### Sample Subsequent Bot Output
 
 ```text
-Bot: Kai, I just read in the paper that scientists discovered that apples can cook.
+Bot: Kai! Hey, wow you seem happy today! Have you been coding? (yes/no/maybe).
 ```
 
 ### Chat Bot Stores User's Age
@@ -127,9 +127,9 @@ Update the chat bot to ask for the user's age after their name. The chat bot's r
 #### Sample Chat Bot Conversation
 
 ```text
-Bot: Hey! I'm Dennis. What's your name?
+Bot: Hey! I'm Robocop. What's your name?
 ---
-User: Kai.
+User: Kai
 ---
 Bot: Kai! What a cool name. How old are you?
 ---
