@@ -68,17 +68,17 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ## More Comfortable
 
-### Splits
-
-Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
-
-### Add Betting
-
-The player starts with 100 points. Each round the player wagers a number of points before their hand is dealt. Keep track of the player's points throughout the game.
-
 ### Better Output Formatting
 
 Make the game output look cool. Can you represent cards with graphics? Ask the player their name?
+
+### Betting
+
+The player starts with 100 points. Each round the player wagers a number of points before their hand is dealt. Keep track of the player's points throughout the game.
+
+### Splits
+
+Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
 
 ### Multi-Player
 
