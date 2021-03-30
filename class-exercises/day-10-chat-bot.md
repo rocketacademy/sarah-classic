@@ -92,7 +92,7 @@ var questionAndAnswerSets = [
 
 Implement Single Chat Bot Answer Set with an array of question and answer sets. The following exercises will add new answer sets to our array.
 
-### Chat Bot Asks For User's Name
+### Chat Bot Stores User's Name
 
 Add a new chat bot question that asks for the user's name and responds with a sentence containing the user's name. After greeting the user, the chat bot proceeds with the question from previous exercises.
 
@@ -115,7 +115,7 @@ Use the user's name in the bot's subsequent output. You may want to store the us
 Bot: Kai, I just read in the paper that scientists discovered that apples can cook.
 ```
 
-### Chat Bot Asks For User's Age
+### Chat Bot Stores User's Age
 
 Update the chat bot to ask for the user's age after their name. The chat bot's response will differ based on the user's age. For example, we can respond with different outputs if the user is under 20, between 20-60, and above 60.
 
