@@ -108,8 +108,9 @@ Bot: Hey! I'm Robocop. What's your name?
 ---
 User: Kai
 ---
-Bot: Kai! What a cool name. Hit Submit and I'll ask you a question!
-(chat bot continues)
+Bot: Kai! What a cool name. 
+
+Kai, Hey, wow you seem happy today! Have you been coding? (yes/no/maybe).
 ```
 
 Use the user's name in the bot's subsequent output. You may want to store the user name in a global variable.
