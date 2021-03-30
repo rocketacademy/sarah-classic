@@ -150,33 +150,30 @@ Update our chat bot answer set array to be an object whose keys are answer set I
 ```javascript
 var questionAndAnswerSets = {
   hasBeenCoding: {
-    question:
-      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
       no: 'Oh ok, just normally happy ;)',
       maybe: 'It seems the very thought of coding makes people happy!',
     },
-    nextQuestion: 'timeOfDay',
+    nextQuestionId: 'timeOfDay',
   },
   timeOfDay: {
-    question:
-      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
     answers: {
       day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
       night: 'Under the calm and gentle moon, I also find my focus.',
       both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
-    nextQuestion: 'weather',
+    nextQuestionId: 'weather',
   },
   weather: {
-    question:
-      'Are you most productive when it\'s sunny or raining? (sunny/raining)',
+    question: 'Are you most productive when it\'s sunny or raining? (sunny/raining)',
     answers: {
       sunny: 'The sun warms my heart and powers me to code.',
       raining: 'The rain washes away my distractions and allows me to focus.',
     },
-    nextQuestion: 'hasBeenCoding',
+    nextQuestionId: 'hasBeenCoding',
   },
 };
 ```
@@ -195,7 +192,7 @@ var questionAndAnswerSets = {
     answers: {
       yes: {
         response: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
-        nextQuestion: 'timeOfDay',
+        nextQuestionId: 'timeOfDay',
       },
       // ... other answers here
     },
