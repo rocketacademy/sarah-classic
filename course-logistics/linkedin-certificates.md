@@ -8,13 +8,15 @@ At the end of Coding Basics, you will be eligible to add the course as a certifi
 
 ## 1. Go to your LinkedIn profile page and click "**Add profile section"**
 
+\*\*\*\*
+
 ![](../.gitbook/assets/jie-ping-20210222-18.12.16%20%281%29.png)
 
 ## 2. Click "Licenses & Certifications" to add a new certificate
 
 ![](../.gitbook/assets/jie-ping-20210222-18.14.10.png)
 
-## 3. Fill in the course name, organisation, issue date, and your unique certificate link
+## 3. Fill in the course name, organisation, **and** issue date
 
 1. Name
    1. Coding Basics
