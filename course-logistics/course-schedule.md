@@ -29,10 +29,11 @@ Each day's deliverables are due by the **start** of that day's class. \(You prep
 1. Instructor introductions
 2. Learning goals
 3. Learning format
+   1. [Pre-Class vs In-Class material](course-methodology.md#self-learning)
+   2. [Base vs More Comfortable](course-methodology.md#base-more-comfortable)
 4. Deliverables for Day 1
-   1. Course Registration Form
-   2. Required Hardware and Software
-   3. Pre-Class Material
+   1. [Required Hardware and Software](required-hardware-and-software.md)
+   2. Pre-Class Material
 5. Icebreaker
 6. Class photo
 
