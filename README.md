@@ -14,7 +14,7 @@ description: Coding Basics in JavaScript
 
 ## Coding Bootcamp Acceptance Criteria
 
-For students that wish to join RA's Coding Bootcamp, at the end of Coding Basics, RA will evaluate whether each student qualifies to join Bootcamp. To qualify for Bootcamp, students must complete all projects and demonstrate the following qualities up to RA's standards.
+For students that wish to join RA's Coding Bootcamp, at the end of Coding Basics, RA will evaluate whether each student qualifies to join Bootcamp. To qualify for Bootcamp, students must complete all projects and demonstrate the following qualities up to RA's standards. Instructors will provide code reviews for each project, and students are expected to implement feedback in subsequent projects.
 
 1. Proficiency with technical syntax \(variables, functions, conditionals, loops, data structures\) and tools \(VSCode, Git, GitHub, Chrome DevTools\)
 2. Computational thinking to translate application requirements to code
