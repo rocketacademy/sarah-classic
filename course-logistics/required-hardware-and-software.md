@@ -42,51 +42,7 @@ Chrome is the most popular web browser for software engineers because of its mat
 
 ### VSCode
 
-VSCode is the most popular code editor in the world. We will write all code for Coding Basics inside of VSCode.
-
-#### **Installation**
-
-1. Download VSCode for your OS [here](https://code.visualstudio.com/download).
-2. Follow instructions in the following [VSCode Formatter and Settings section](required-hardware-and-software.md#vscode-formatter-and-settings) to install a linter and linter settings for Coding Basics.
-
-#### VSCode Formatter and Settings
-
-We will make a few small configurations to VSCode to make it easier to work with.
-
-{% embed url="https://youtu.be/gGzX8uUbuIo" caption="" %}
-
-**Install the ESLint and Prettier Extensions for VSCode**
-
-This will auto-format your code and give you warnings about common coding errors.
-
-Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), and the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
-
-{% hint style="info" %}
-"ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
-{% endhint %}
-
-**Apply the Coding Basics VSCode and ESLint Settings**
-
-1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
-2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
-3. Replace the contents of the file with the following settings code. Save the file and restart VSCode.
-
-```text
-{
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[javascript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "editor.minimap.enabled": false,
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "eslint.format.enable": true,
-  "eslint.lintTask.enable": true,
-  "eslint.migration.2_x": "off"
-}
-```
+VSCode is the most popular code editor in the world. We will write all code for Coding Basics inside of VSCode. Download VSCode for your OS [here](https://code.visualstudio.com/download).
 
 ### Window-Snapping Software
 
@@ -154,7 +110,73 @@ Node.js is the most popular JavaScript runtime. "Runtime" in a coding context re
 
 In case it helps, here is a video demonstrating how to verify Git and Node installation on Mac. The video uses the built-in Mac terminal, but we should be able to do the same within the VSCode terminal. We recommend students use the VSCode terminal for Coding Basics.
 
-{% embed url="https://www.youtube.com/watch?v=YsRt9YJNFP4" caption="" %}
+## VSCode Formatters
+
+#### Install ESLint
+
+```text
+sudo npm install -g eslint
+```
+
+#### VSCode Settings
+
+{% embed url="https://youtu.be/gGzX8uUbuIo" caption="" %}
+
+**Install the ESLint Extension for VSCode**
+
+This will auto-format your code and give you warnings about common coding errors.
+
+Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+
+**Install the Prettier Extension for VSCode**
+
+\(This is not shown in the video\). Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
+
+{% hint style="info" %}
+"ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
+{% endhint %}
+
+**Apply the Coding Basics Settings**
+
+1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
+2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
+3. Replace the contents of the file with the following settings code. Save the file and restart VSCode.
+
+```text
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.migration.2_x": "off"
+}
+```
+
+### Using ESLint
+
+#### ESLint suggestion highlighting
+
+![](../.gitbook/assets/eslint-1.png)
+
+Any corrections ESLint suggests will appear as red squiggly lines in the editor.
+
+#### ESLint suggestion details
+
+![](../.gitbook/assets/eslint-2.png)
+
+Click the error icon in the bottom left-hand side footer. This will pop up the ESLint error pane below the code.
+
+For each ESLint suggestion there will be a line in the suggestion pane that give the line number in the code file and a sentence about what ESLint thinks is going wrong.
+
+#### ESLint Suggestion Rule Details
+
+![](../.gitbook/assets/eslint3.png)
+
+Every suggestion is implemented as an ESLint "rule". To see the full details on this rule including code examples you can right-click on the rule name and select "Show documentation for {RULE\_NAME}". This will open your browser to the detail page of the rule on the ESLint website. Here is an example rule page: [https://eslint.org/docs/rules/no-cond-assign](https://eslint.org/docs/rules/no-cond-assign)
 
 ## Required Software Accounts
 
