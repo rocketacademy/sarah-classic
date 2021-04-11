@@ -4,7 +4,7 @@
 
 Today we will practise arrays with occasional loops through the game of Mad Libs. Note that loops may not be necessary for every exercise. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad_Libs).
 
-For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app.
+For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
 
 {% hint style="warning" %}
 When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
@@ -23,12 +23,12 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 
 #### Example Mad Lib in Code
 
-The following is the above example Mad Lib written in code, where the exclamation, adverb, and noun have been hard-coded and `randomAdj` refers to the random adjective our program will select to complete the Mad Lib. 
+The following is the above example Mad Lib written in code, where the exclamation, adverb, and noun have been hard-coded and `randomAdj` refers to the random adjective our program will select to complete the Mad Lib.
 
 Note the below string uses optional JavaScript string literal syntax. More info on string literals in Module 4.2: Our First Program [here](https://basics.rocketacademy.co/4-getting-started-with-code/4.2-our-first-program#output-formatting).
 
 ```javascript
-var madLib = `"Yabadabadoo!" he said gleefully as he jumped into his convertible Tree Car and drove off with his ${randomAdj} wife.`
+var madLib = `"Yabadabadoo!" he said gleefully as he jumped into his convertible Tree Car and drove off with his ${randomAdj} wife.`;
 ```
 
 #### Instructions
@@ -61,7 +61,7 @@ Mad Lib 2 might be:
 
 Update create mode to pick a random Mad Lib sentence and set of words and output the completed Mad Lib in the output box on Submit.
 
-Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+examples&tbm=isch) for potential Mad Lib inspiration. 
+Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+examples&tbm=isch) for potential Mad Lib inspiration.
 
 ## Reference Solution
 
@@ -70,4 +70,3 @@ Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+e
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-

@@ -9,7 +9,7 @@
 
 ## DOM
 
-Begin by cloning a new copy of the [DOM starter code.](https://github.com/rocketacademy/basics-next-steps-dom) Reminder to `npm install` to activate ESLint!‌
+Begin by cloning a new copy of the [DOM starter code.](https://github.com/rocketacademy/basics-next-steps-dom)‌
 
 ## Creating Elements
 
@@ -133,4 +133,3 @@ Add an input to makeBox. The user can fill out a number, _x,_ in the input. When
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-

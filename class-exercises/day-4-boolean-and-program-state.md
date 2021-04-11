@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will practise boolean-and logic, the GitHub fork and pull request workflow, and program state. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Remember to `npm install` to activate ESLint! Please switch driver and navigator each exercise.
+Today we will practise boolean-and logic, the GitHub fork and pull request workflow, and program state. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Please switch driver and navigator each exercise.
 
 {% hint style="warning" %}
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
@@ -67,4 +67,3 @@ Update our dice game to allow the player to play a round of 4D every 2 times the
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-

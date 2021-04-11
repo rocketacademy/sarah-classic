@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will practise arrays and loops. For each exercise except Infinite Loop, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app.
+Today we will practise arrays and loops. For each exercise except Infinite Loop, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup).
 
 {% hint style="warning" %}
 When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
@@ -48,7 +48,7 @@ Make a loop that never stops running. Be prepared to stop / kill this Chrome tab
 
 ### Multi-Round Multi-Dice Game
 
-1. Alter the previous multi-dice game such that the user plays 4 rounds in the 2nd mode. 
+1. Alter the previous multi-dice game such that the user plays 4 rounds in the 2nd mode.
 2. After the user enters their guess in Mode 2, the program enters a loop that runs 4 rounds.
 3. Within each round the game will roll the number of dice the user specified and compare them with the single user guess.
 4. If the user guessed correctly for any dice rolls in a round, they win that round.
@@ -71,4 +71,3 @@ Change the game to ask how many players are playing the game. Players will take 
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-

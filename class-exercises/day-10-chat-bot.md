@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will practise more complex code logic with nested objects and arrays. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Reminder to `npm install` to activate ESLint! Please switch driver and navigator each app.
+Today we will practise more complex code logic with nested objects and arrays. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Please switch driver and navigator each app.
 
 {% hint style="warning" %}
 When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
@@ -61,7 +61,8 @@ Extend the capabilities of the chat bot by storing question and answer text in t
 
 ```javascript
 var questionAndAnswerSet = {
-  question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+  question:
+    'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
   answers: {
     yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
     no: 'Oh ok, just normally happy ;)',
@@ -70,14 +71,15 @@ var questionAndAnswerSet = {
 };
 ```
 
-To have our chat bot support more than 1 question, put the above `questionAndAnswerSet` object into an array of chat bot answer sets, and add a 2nd answer set to our array. The bot will pick which question to ask and answer next. 
+To have our chat bot support more than 1 question, put the above `questionAndAnswerSet` object into an array of chat bot answer sets, and add a 2nd answer set to our array. The bot will pick which question to ask and answer next.
 
 #### Sample Array of Answer Sets
 
 ```javascript
 var questionAndAnswerSets = [
   {
-    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    question:
+      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
       no: 'Oh ok, just normally happy ;)',
@@ -85,9 +87,11 @@ var questionAndAnswerSets = [
     },
   },
   {
-    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    question:
+      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
     answers: {
-      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
+      day:
+        'Ah yes, when the sun is high in the sky, I can feel its energy too.',
       night: 'Under the calm and gentle moon, I also find my focus.',
       both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
@@ -108,7 +112,7 @@ Bot: Hey! I'm Robocop. What's your name?
 ---
 User: Kai
 ---
-Bot: Kai! What a cool name. 
+Bot: Kai! What a cool name.
 
 Kai, Hey, wow you seem happy today! Have you been coding? (yes/no/maybe).
 ```
@@ -150,7 +154,8 @@ Update our chat bot answer set array to be an object whose keys are answer set I
 ```javascript
 var questionAndAnswerSets = {
   hasBeenCoding: {
-    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    question:
+      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: `Wow! Me too! I've been working on the Blackjack project. Makes my day!`,
       no: 'Oh ok, just normally happy ;)',
@@ -159,16 +164,18 @@ var questionAndAnswerSets = {
     nextQuestionId: 'timeOfDay',
   },
   timeOfDay: {
-    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    question:
+      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
     answers: {
-      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
+      day:
+        'Ah yes, when the sun is high in the sky, I can feel its energy too.',
       night: 'Under the calm and gentle moon, I also find my focus.',
       both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
     nextQuestionId: 'weather',
   },
   weather: {
-    question: 'Are you most productive when it\'s sunny or raining? (sun/rain)',
+    question: "Are you most productive when it's sunny or raining? (sun/rain)",
     answers: {
       sun: 'The sun warms my heart and powers me to code.',
       rain: 'The rain washes away my distractions and allows me to focus.',
@@ -187,10 +194,12 @@ Update our chat bot to choose a next question based on the answer that the user 
 ```javascript
 var questionAndAnswerSets = {
   hasBeenCoding: {
-    question: 'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
+    question:
+      'Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)',
     answers: {
       yes: {
-        response: 'Wow! Me too! I\'ve been working on the Blackjack project. Makes my day!',
+        response:
+          "Wow! Me too! I've been working on the Blackjack project. Makes my day!",
         nextQuestionId: 'timeOfDay',
       },
       no: {
@@ -200,16 +209,18 @@ var questionAndAnswerSets = {
     },
   },
   timeOfDay: {
-    question: 'Do you enjoy coding most during the day, night, or both? (day/night/both)',
+    question:
+      'Do you enjoy coding most during the day, night, or both? (day/night/both)',
     answers: {
-      day: 'Ah yes, when the sun is high in the sky, I can feel its energy too.',
+      day:
+        'Ah yes, when the sun is high in the sky, I can feel its energy too.',
       night: 'Under the calm and gentle moon, I also find my focus.',
       both: "Indeed, I could code 24/7 if I didn't have to sleep!",
     },
     nextQuestionId: 'weather',
   },
   weather: {
-    question: 'Are you most productive when it\'s sunny or raining? (sun/rain)',
+    question: "Are you most productive when it's sunny or raining? (sun/rain)",
     answers: {
       sun: 'The sun warms my heart and powers me to code.',
       rain: 'The rain washes away my distractions and allows me to focus.',
@@ -220,7 +231,7 @@ var questionAndAnswerSets = {
     question: 'Do arrays or objects make you happier? (arrays/objects)',
     answers: {
       arrays: 'I knew it, arrays are my favourite too.',
-      objects: 'You\'re good at coding- objects are hard!',
+      objects: "You're good at coding- objects are hard!",
     },
     nextQuestionId: 'timeOfDay',
   },
@@ -240,4 +251,3 @@ Such statements that people might feel are individualised but can apply to every
 ## Daily Feedback
 
 Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-
