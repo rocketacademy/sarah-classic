@@ -248,7 +248,3 @@ Such statements that people might feel are individualised but can apply to every
 
 [Here](https://github.com/rocketacademy/basics-starter-code/blob/day10/script.js) is a reference solution for Day 10 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
-## Daily Feedback
-
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-

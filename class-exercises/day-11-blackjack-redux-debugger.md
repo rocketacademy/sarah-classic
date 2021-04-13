@@ -26,7 +26,3 @@ Switch to use the debugger on your own code.
 
 Implement [More Comfortable exercises](../projects/project-3-blackjack.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
 
-## Daily Feedback
-
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-

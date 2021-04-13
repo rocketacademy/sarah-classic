@@ -12,7 +12,3 @@ Implement [More Comfortable exercises](../projects/project-2-beat-that.md#more-c
 
 [Here](https://github.com/rocketacademy/basics-beat-that/pull/10/files) is a reference solution for Beat That. Please review the reference solution to see how we can improve our solutions! 
 
-## Daily Feedback
-
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-

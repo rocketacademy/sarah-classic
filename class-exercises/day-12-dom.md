@@ -1,25 +1,18 @@
 # Day 12: DOM
 
-## Deployment
+## Setup
 
-1. Make a fork of[ this starter code](https://github.com/rocketacademy/basics-deployment) and `git clone` it onto your computer.
-2. Customise the code with your name and add any other content you would like.
-3. Follow the [deployment instructions](../12-next-steps/12.3-deployment.md) to deploy it to the internet.
-4. Send the deployed link to your pair.
-
-## DOM
-
-Begin by cloning a new copy of the [DOM starter code.](https://github.com/rocketacademy/basics-next-steps-dom)‌
+Clone the [DOM starter code](https://github.com/rocketacademy/basics-next-steps-dom).
 
 ## Creating Elements
 
+Please refer to [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md) if you need a refresher.
+
 ### makeBox
 
-Create an empty function called `makeBox`.
+Create an empty function called `makeBox`. `makeBox` will create a new HTML element on screen each time it's called.
 
-`makeBox` will create a new HTML element on screen each time it's called.
-
-If you were to write out the HTML element it would look like this:
+If you were to write out the HTML element it would look like the following.
 
 ```markup
 <div>
@@ -28,7 +21,7 @@ If you were to write out the HTML element it would look like this:
 </div>
 ```
 
-Specifically your function needs 7 steps:
+Specifically `makeBox` needs 7 steps.
 
 1. Create the `p` paragraph tag. Something like: `var pOne = document.createElement('p');`
 2. Fill the tag with text using `innerText`. Something like: `pOne.innerText = 'haha';`
@@ -38,7 +31,7 @@ Specifically your function needs 7 steps:
 6. Put both `p` tags into the `div` tag using `appendChild`. Something like: `divTag.appendChild( pOne );`
 7. Put the `div` tag onto the page with `document.body.appendChild.`
 
-Edit `style.css` so you can clearly identify the box:
+Edit `style.css` so you can clearly identify the box.
 
 ```css
 div {
@@ -51,33 +44,29 @@ div {
 
 Call the `makeBox` function inside of `script.js`.
 
-Refer to [the gitbook page](../12-next-steps/12.1-browser-applications-with-dom.md) if you need to.
-
 ### makeCard
 
-You can use DOM to set the `img` `src` attribute.
+Create a function `makeCard` that creates card elements with the following HTML structure. See the next code snippet for how to set an `img` tag's `src` attribute in JS.
 
-Using JavaScript create HTML elements that would create a UI card like this:
-
-```css
+```markup
 <section>
-    <p>
-        Hello Ducks
-    </p>
-    <p>
-        <img src="https://gblobscdn.gitbook.com/assets%2F-MBhJa4xpezxI4J9lolG%2F-MGrF6rE0CBWVzznQayq%2F-MGrGfwNRi1D6aKWmg4G%2Fducks2.jpeg?alt=media&token=9dff244b-10e8-4fab-ab68-715e09998ff3"/>
-    </p>
+  <p>
+    Hello Ducks
+  </p>
+  <p>
+    <img src="https://gblobscdn.gitbook.com/assets%2F-MBhJa4xpezxI4J9lolG%2F-MGrF6rE0CBWVzznQayq%2F-MGrGfwNRi1D6aKWmg4G%2Fducks2.jpeg?alt=media&token=9dff244b-10e8-4fab-ab68-715e09998ff3"/>
+  </p>
 </section>
 ```
 
-An example of setting the `src` attribute in JS would look like this:
+Here is how we might set an `img` tag's `src` attribute in JS.
 
 ```javascript
 imgTag.src =
   'https://gblobscdn.gitbook.com/assets%2F-MBhJa4xpezxI4J9lolG%2F-MGrF6rE0CBWVzznQayq%2F-MGrGfwNRi1D6aKWmg4G%2Fducks2.jpeg?alt=media&token=9dff244b-10e8-4fab-ab68-715e09998ff3';
 ```
 
-Edit `style.css` for `makeCard` as well:
+Edit `style.css` for `makeCard` to better identify our cards in the UI.
 
 ```css
 section {
@@ -90,19 +79,19 @@ section {
 
 Call `makeCard` in `script.js`.
 
-## Events
+## Responding to HTML Events
 
-Change `makeBox` so that it has a `button` inside it.
+Change `makeBox` so that it has a `button` inside it. The corresponding HTML might look like the following, but we will construct it using JS.
 
 ```markup
 <div>
-    <p>Make Box was Called</p>
-    <p>Hello :)</p>
-    <button>make card</button>
+  <p>Make Box was Called</p>
+  <p>Hello :)</p>
+  <button>make card</button>
 </div>
 ```
 
-When this button gets clicked it calls `makeCard`- Call `addEventListener` on the button. Set the callback function of the button to `makeCard`.
+When the user clicks the `makeBox` button, have our logic trigger `makeCard`. To do this, call `addEventListener` on the button with `makeCard` as the callback function.
 
 ```javascript
 var button = document.createElement('button');
@@ -112,25 +101,23 @@ button.addEventListener('click', makeCard);
 
 ## Further Exercises
 
-### Multi Card Button
+### Multi-Card Button
 
-Change the `makeCard` function so that it creates multiple cards when the button is clicked- change `makeCard` so that the elements are created and appended _inside a loop_. \(This version has the same image in each card\).
+Change the `makeCard` function so that it creates multiple cards when the button is clicked. We can create and append elements in a loop inside `makeCard`.
 
 ### More Images
 
-Get another image url from the internet. \(Search for an image, right click on it in google chrome and select "Copy Image Address"\).
-
-Put these images into an array and loop over each image in the array to create the set of cards.
+1. Get another image URL from the internet
+   1. Search for an image
+   2. Right click on the image in Chrome
+   3. Select "Copy Image Address"
+2. Put these images into an array and loop over each image in the array to create the set of cards
 
 ### Random Image
 
-Change the makeCard function so that when you click, you get a single card with a random image.
+Change `makeCard` so that when the user clicks, she gets a single card with a random image.
 
-### Random x Images
+### Random Number of Images
 
-Add an input to makeBox. The user can fill out a number, _x,_ in the input. When they click the button, _x_ images are made inside the card.
-
-## Daily Feedback
-
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
+Add an input to the box created by `makeBox`. The user can fill out a number X in the input. When they click the button, X images appear inside the new card.
 

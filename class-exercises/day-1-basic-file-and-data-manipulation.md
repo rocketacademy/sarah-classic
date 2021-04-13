@@ -58,7 +58,3 @@ The user will enter their words-per-minute typing speed. The app will calculate 
 
 [Here](https://github.com/rocketacademy/basics-starter-code/blob/day1/script.js) is a reference solution for the Data Manipulation exercises above. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
-## Daily Feedback
-
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-

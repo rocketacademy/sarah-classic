@@ -8,7 +8,3 @@ Review your partner's code as per [code review instructions in Course Methodolog
 
 Implement [More Comfortable exercises](../projects/project-1-scissors-paper-stone.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
 
-## Daily Feedback
-
-Please [share feedback](https://forms.gle/gMd9ubfvX1x2GnHCA) on today's material. Thank you for making Coding Basics great!
-
