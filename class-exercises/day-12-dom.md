@@ -1,14 +1,13 @@
 # Day 12: DOM
 
+## Setup
+
+1. Clone the [DOM starter code](https://github.com/rocketacademy/basics-next-steps-dom).
+2. Please refer to [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md) if you need a refresher.
+
 ## Base
 
-### Setup
-
-Clone the [DOM starter code](https://github.com/rocketacademy/basics-next-steps-dom).
-
 ### Creating Elements
-
-Please refer to [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md) if you need a refresher.
 
 #### makeBox
 
