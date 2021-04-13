@@ -1,14 +1,16 @@
 # Day 12: DOM
 
-## Setup
+## Base
+
+### Setup
 
 Clone the [DOM starter code](https://github.com/rocketacademy/basics-next-steps-dom).
 
-## Creating Elements
+### Creating Elements
 
 Please refer to [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md) if you need a refresher.
 
-### makeBox
+#### makeBox
 
 Create an empty function called `makeBox`. `makeBox` will create a new HTML element on screen each time it's called.
 
@@ -44,7 +46,7 @@ div {
 
 Call the `makeBox` function inside of `script.js`.
 
-### makeCard
+#### makeCard
 
 Create a function `makeCard` that creates card elements with the following HTML structure. See the next code snippet for how to set an `img` tag's `src` attribute in JS.
 
@@ -79,7 +81,7 @@ section {
 
 Call `makeCard` in `script.js`.
 
-## Responding to HTML Events
+### Responding to HTML Events
 
 Change `makeBox` so that it has a `button` inside it. The corresponding HTML might look like the following, but we will construct it using JS.
 
@@ -99,7 +101,7 @@ button.innerText = 'make card';
 button.addEventListener('click', makeCard);
 ```
 
-## Further Exercises
+## More Comfortable
 
 ### Multi-Card Button
 
