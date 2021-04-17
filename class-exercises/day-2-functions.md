@@ -34,7 +34,7 @@ Create an app that calculates how many hours a hotel needs to run their ice mach
 
 ### Beer Order
 
-Create an app for a bar to calculate how many kegs they need. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter. Assume an average customer drinks 2 pints per visit and visits 2 times a quarter. There are 124 pints of beer in a half-barrel keg.
+Create an app for a bar to calculate how many kegs they need. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter. Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
 
 ## More Comfortable
 
