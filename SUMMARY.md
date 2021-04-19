@@ -24,8 +24,8 @@
 
 * [Day 1: Basic File and Data Manipulation](class-exercises/day-1-basic-file-and-data-manipulation.md)
 * [Day 2: Functions](class-exercises/day-2-functions.md)
-* [Day 3: If Statements, Boolean Or](class-exercises/day-3-if-statements-boolean-or.md)
-* [Day 4: Boolean And, GitHub, Program State](class-exercises/day-4-boolean-and-program-state.md)
+* [Day 3: If Statements, Boolean Or, Boolean And](class-exercises/day-3-if-statements-boolean-or.md)
+* [Day 4: GitHub, Program State](class-exercises/day-4-boolean-and-program-state.md)
 * [Day 5: Scissors Paper Stone Redux](class-exercises/day-5-scissors-paper-stone-redux.md)
 * [Day 6: Loops](class-exercises/day-6-loops.md)
 * [Day 7: Arrays and Loops](class-exercises/day-7-arrays-and-loops.md)

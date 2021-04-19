@@ -1,4 +1,4 @@
-# Day 3: If Statements, Boolean Or
+# Day 3: If Statements, Boolean Or, Boolean And
 
 ## Introduction
 
@@ -10,11 +10,9 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 ## Base
 
-### 4D
+### Lucky 11
 
-[4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. We will create a simplified version of 4D without money to simulate the odds of winning. Rocket Academy does not endorse gambling.
-
-The player will input their 4D guess. For each submission, the program will generate a random winning number between 0 and 9999 inclusive. If the player's guess matches the winning number, let the player know they have won!
+Create a dice game that rolls 2 dice when a user clicks Submit. The user wins if either of their guesses is correct, or the total dice roll is 11.
 
 {% hint style="info" %}
 To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
@@ -27,6 +25,8 @@ Hawker food is a convenient and affordable food option in Singapore. To help edu
 ## Comfortable
 
 ### 4D with Single-Digit Comparison
+
+[4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. Rocket Academy does not endorse gambling.
 
 Create a version of 4D where the player wins if their guess matches any of the 4 digits. The player will input a single digit, and the computer generates 4 random digits between 0 and 9. If the player-inputted digit matches any of the randomly-generated digits, the player wins. In addition to the win/loss result, output the player guess and all randomly-generated digits so the player can see how close they were.
 
