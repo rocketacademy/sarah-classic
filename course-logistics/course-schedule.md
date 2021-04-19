@@ -104,11 +104,19 @@ Total Video Watch Time: **~41 mins**
 
 * [Day 4: Boolean And, GitHub, Program State](../class-exercises/day-4-boolean-and-program-state.md)
 
+**Post-Class: Begin Project**
+
+Note: You will need the pre-class material from Day 4 to complete Project 1.
+
+* [Project 1.5: Scissors Paper Stone 2](../projects/project-1.5-scissors-paper-stone-2.md)
+
 ### Day 5: State 2
 
 #### Project Due
 
-* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
+Note: You will need the pre-class material from Day 5 for the more comfortable sections of project 1.5
+
+* [Project 1.5: Scissors Paper Stone 2](../projects/project-1.5-scissors-paper-stone-2.md)
 
 #### Pre-Class Material
 

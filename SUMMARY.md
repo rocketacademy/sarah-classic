@@ -16,6 +16,7 @@
 ## Projects
 
 * [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone.md)
+* [Project 1.5: Scissors Paper Stone 2](projects/project-1.5-scissors-paper-stone-2.md)
 * [Project 2: Beat That!](projects/project-2-beat-that.md)
 * [Project 3: Blackjack](projects/project-3-blackjack.md)
 
