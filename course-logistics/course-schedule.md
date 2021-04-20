@@ -82,11 +82,11 @@ Total Video Watch Time: **~40 mins**
 
 #### In-Class Material
 
-* [Day 3: If Statements, Boolean Or](../class-exercises/day-3-if-statements-boolean-or.md)
+* [Day 3: If Statements, Boolean Or, And](../class-exercises/day-3-if-statements-boolean-or.md)
 
 #### Post-Class: Begin Project
 
-Note: You will need the pre-class material from Day 4 to complete Project 1.
+Note: You will need the pre-class material from Day 4 to complete the more comfortable sections.
 
 * [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
 
@@ -106,7 +106,7 @@ Total Video Watch Time: **~41 mins**
 
 **Post-Class: Begin Project**
 
-Note: You will need the pre-class material from Day 4 to complete Project 1.
+Note: You will need the pre-class material from Day 5 to complete the more comfortable sections.
 
 * [Project 1.5: Scissors Paper Stone 2](../projects/project-1.5-scissors-paper-stone-2.md)
 
