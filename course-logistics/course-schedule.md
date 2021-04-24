@@ -102,6 +102,7 @@ Total Video Watch Time: **~41 mins**
 
 #### In-Class Material
 
+* Review Project 1
 * [Day 4: Boolean And, GitHub, Program State](../class-exercises/day-4-boolean-and-program-state.md)
 
 **Post-Class: Begin Project**
