@@ -88,7 +88,7 @@ Total Video Watch Time: **~40 mins**
 
 Note: You will need the pre-class material from Day 4 to complete the more comfortable sections.
 
-* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone.md)
+* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone-part-1.md)
 
 ### Day 4: Logic 2, State 1
 
@@ -109,7 +109,7 @@ Total Video Watch Time: **~41 mins**
 
 Note: You will need the pre-class material from Day 5 to complete the more comfortable sections.
 
-* [Project 1.5: Scissors Paper Stone 2](../projects/project-1.5-scissors-paper-stone-2.md)
+* [Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone-part-2.md)
 
 ### Day 5: State 2
 
@@ -117,7 +117,7 @@ Note: You will need the pre-class material from Day 5 to complete the more comfo
 
 Note: You will need the pre-class material from Day 5 for the more comfortable sections of project 1.5
 
-* [Project 1.5: Scissors Paper Stone 2](../projects/project-1.5-scissors-paper-stone-2.md)
+* [Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone-part-2.md)
 
 #### Pre-Class Material
 

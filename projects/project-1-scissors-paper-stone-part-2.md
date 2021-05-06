@@ -1,10 +1,10 @@
-# Project 1.5: Scissors Paper Stone 2
+# Project 1: Scissors Paper Stone \(Part 2\)
 
 ## Introduction
 
 Now that we know about globals and game modes we can start on an updated version of the game.
 
-If you got the [base version of Scissors Paper Stone](project-1-scissors-paper-stone.md#base) done, but didn't finish the other features, don't worry about getting everything done. To keep in step with the material we are covering you should move onto this project's features.
+If you got the [base version of Scissors Paper Stone](project-1-scissors-paper-stone-part-1.md#base) done, but didn't finish the other features, don't worry about getting everything done. To keep in step with the material we are covering you should move onto this project's features.
 
 ## Setup
 
