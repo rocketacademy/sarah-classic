@@ -104,3 +104,5 @@
 * [Drawing With Emojis](past-projects/drawing-with-emojis.md)
 * [Guess the Word](past-projects/guess-the-word.md)
 
+---
+[Teachers' Guide][teachers-guide.md]
