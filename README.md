@@ -10,7 +10,7 @@ description: Coding Basics in JavaScript
 
 [Coding Basics](https://rocketacademy.co/courses/basics) is Rocket Academy \(RA\)'s beginner course for software programming, also known as coding. It is the first course in RA's software engineering curriculum, teaching basic coding syntax and concepts through building simple programs. Students interested to pursue a career in coding can join RA's bootcamp course [Coding Bootcamp](https://rocketacademy.co/courses/bootcamp) after Basics to build more complex software systems and get a job as a software engineer.
 
-![Basics falls near the start of one&apos;s journey to become a software programmer.](.gitbook/assets/course-ped.png)
+![Basics falls near the start of one&apos;s journey to become a software programmer](.gitbook/assets/course-ped.png)
 
 ## Coding Bootcamp Acceptance Criteria
 
