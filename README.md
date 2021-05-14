@@ -24,5 +24,6 @@ For students that wish to join RA's Coding Bootcamp, at the end of Coding Basics
    4. Algorithms: Construct stepwise logic to accomplish tasks
 3. Code quality \(naming, code comments\)
 
----
-[Teachers' Guide][teachers-guide.md]
+# ..
+
+![Teachers' Guide][teachers-guide.md]
