@@ -26,4 +26,4 @@ For students that wish to join RA's Coding Bootcamp, at the end of Coding Basics
 
 # ..
 
-![Teachers' Guide](teachers-guide.md)
+[Teachers' Guide](teachers-guide.md)
