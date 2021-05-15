@@ -87,8 +87,8 @@ We will need to use the command line \(also known as a terminal, more on this in
 
 1. Open Visual Studio Code and open the terminal \(accessed from the top-level menu\). We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
 2. Open the command palette using `Ctrl+Shift+P`.
-3. Type and select "Select Default Shell".
-4. Select "Git Bash" from the options.
+3. Type and select "Terminal: Select Default Profile".
+4. Select "Git Bash" or the option that contains "bash".
 5. Restart VSCode and open terminal again. The terminal should now run with Bash.
 
 ![VSCode Terminal on Windows Running the Bash Terminal Language](../.gitbook/assets/5zlap.png)
