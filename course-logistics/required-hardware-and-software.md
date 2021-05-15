@@ -209,7 +209,7 @@ For Coding Basics, we recommend storing all of your code in a folder called `bas
 
 ### Ask Questions in the Channel
 
-During RA's courses you will have questions about the material. To ensure your questions get answered soonest, and so that others can help and learn, please ask questions in the batch-wide channel, e.g. \#basics-batch-2. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
+During RA's courses you will have questions about the material. To ensure your questions get answered soonest, and so that others can help and learn, please ask questions in the batch-wide channel. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
 
 ### Provide Context for Questions
 
