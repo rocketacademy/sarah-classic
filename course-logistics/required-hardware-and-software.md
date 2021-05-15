@@ -85,7 +85,7 @@ We will need to use the command line \(also known as a terminal, more on this in
 
 ![VSCode Terminal on Windows. PowerShell is the Default Terminal Language on Windows.](../.gitbook/assets/v4hx4.png)
 
-1. Open Visual Studio Code and use the keyboard shortcut ````` Ctrl+``` \(hold````Ctrl\` and press \`\`\`\`\`\) to open the terminal. We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
+1. Open Visual Studio Code and open the terminal \(accessed from the top-level menu\). We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
 2. Open the command palette using `Ctrl+Shift+P`.
 3. Type and select "Select Default Shell".
 4. Select "Git Bash" from the options.
@@ -97,46 +97,11 @@ We shouldn't need to, but if we need to, we can toggle between different termina
 
 ![Toggle between Bash, PowerShell, and Any Other Terminal Languages in VSCode Terminal](../.gitbook/assets/1agtr.png)
 
-### **Node.js**
-
-Node.js is the most popular JavaScript runtime. "Runtime" in a coding context refers to the environment in which code runs. ".js" is the file extension for JavaScript files, and a common suffix for JavaScript packages. We will use Node.js to lint and run our JavaScript code in non-browser contexts.
-
-**Installation**
-
-1. Download and install Node.js for your OS [here](https://nodejs.org/en/download/). It will come with NPM, which stands for Node.js Package Manager. Package managers are used to download and manage 3rd-party packages that our programs rely on, such as ESLint.
-2. Verify Node.js is installed by typing `node -v` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `v12.18.3`.
-
-### **Verify Git and Node Installation**
-
-In case it helps, here is a video demonstrating how to verify Git and Node installation on Mac. The video uses the built-in Mac terminal, but we should be able to do the same within the VSCode terminal. We recommend students use the VSCode terminal for Coding Basics.
-
 ## VSCode Formatters
-
-#### Install ESLint
-
-```text
-sudo npm install -g eslint
-```
-
-#### VSCode Settings
-
-{% embed url="https://youtu.be/gGzX8uUbuIo" caption="" %}
-
-**Install the ESLint Extension for VSCode**
-
-This will auto-format your code and give you warnings about common coding errors.
-
-Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 
 **Install the Prettier Extension for VSCode**
 
-\(This is not shown in the video\). Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
-
-{% hint style="info" %}
-"ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
-{% endhint %}
-
-**Apply the Coding Basics Settings**
+Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
 2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
@@ -156,27 +121,19 @@ Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.
 }
 ```
 
-### Using ESLint
-
-#### ESLint suggestion highlighting
+#### Suggestion highlighting
 
 ![](../.gitbook/assets/eslint-1.png)
 
-Any corrections ESLint suggests will appear as red squiggly lines in the editor.
+Any corrections suggested will appear as red squiggly lines in the editor.
 
 #### ESLint suggestion details
 
 ![](../.gitbook/assets/eslint-2.png)
 
-Click the error icon in the bottom left-hand side footer. This will pop up the ESLint error pane below the code.
+Click the error icon in the bottom left-hand side footer. This will pop up the error pane below the code.
 
-For each ESLint suggestion there will be a line in the suggestion pane that give the line number in the code file and a sentence about what ESLint thinks is going wrong.
-
-#### ESLint Suggestion Rule Details
-
-![](../.gitbook/assets/eslint3.png)
-
-Every suggestion is implemented as an ESLint "rule". To see the full details on this rule including code examples you can right-click on the rule name and select "Show documentation for {RULE\_NAME}". This will open your browser to the detail page of the rule on the ESLint website. Here is an example rule page: [https://eslint.org/docs/rules/no-cond-assign](https://eslint.org/docs/rules/no-cond-assign)
+For each suggestion there will be a line in the suggestion pane that give the line number in the code file and a sentence about what VSCode thinks is going wrong.
 
 ## Required Software Accounts
 
