@@ -43,9 +43,9 @@
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
+| Hsiu Ping Lucius | Hsiu Ping Shaun | Hsiu Ping TJ | Hsiu Ping Vathany | Hsiu Ping Clarence | Hsiu Ping Jiang | Hsiu Ping Pranav | Hsiu Ping Jun Yi | Lucius Shaun |
+| Shaun TJ | Lucius TJ | Lucius Vathany | Lucius Jiang | Lucius Jun Yi | Lucius Clarence | Shaun Clarence | Lucius Pranav | TJ Clarence |
+| Vathany Clarence | Vathany Jiang | Shaun Jun Yi | Shaun Pranav | Shaun Jiang | Shaun Vathany | TJ Jiang | TJ Vathany | Vathany Pranav |
+| Jiang Pranav | Clarence Jun Yi | Clarence Pranav | TJ Jun Yi | TJ Pranav | Pranav Jun Yi | Vathany Jun Yi | Clarence Jiang | Jiang Jun Yi |
+| Jun Yi 10 | Pranav 10 | Jiang 10 | Clarence 10 | Vathany 10 | TJ 10 | Lucius 10 | Shaun 10 | Hsiu Ping 10 |
 
