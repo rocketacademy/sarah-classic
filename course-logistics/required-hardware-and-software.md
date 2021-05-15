@@ -99,9 +99,18 @@ We shouldn't need to, but if we need to, we can toggle between different termina
 
 ## VSCode Formatters
 
-**Install the Prettier Extension for VSCode**
+### Prettier
 
-Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+Prettier is a code formatter that will auto-format our code and make it more readable when we save our files. Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode). 
+
+### ESLint
+
+ESLint is a code formatter specifically for JavaScript that helps us detect functional errors in our code prior to running it. 
+
+1. Install ESLint by running `sudo npm i -g eslint` from the terminal in VSCode. Enter your computer's password if prompted. 
+2. Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+
+### VSCode Formatting Settings
 
 1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
 2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
@@ -121,19 +130,20 @@ Install the Prettier extension for VSCode [here](https://marketplace.visualstudi
 }
 ```
 
-#### Suggestion highlighting
+### ESLint Suggestion Highlighting \(No Action Needed\)
+
+As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
 
 ![](../.gitbook/assets/eslint-1.png)
 
-Any corrections suggested will appear as red squiggly lines in the editor.
-
-#### ESLint suggestion details
+To discern what problems ESLint is raising, we can view the suggestion messages in the console.
 
 ![](../.gitbook/assets/eslint-2.png)
 
-Click the error icon in the bottom left-hand side footer. This will pop up the error pane below the code.
+To view messages in the console, use the following steps.
 
-For each suggestion there will be a line in the suggestion pane that give the line number in the code file and a sentence about what VSCode thinks is going wrong.
+1. Click the error icon in the bottom left of the VSCode footer. This will show the suggestion pane below our code.
+2. For each suggestion there will be a line in the suggestion pane with a sentence about what ESLint suggests, and the relevant line number in the code file.
 
 ## Required Software Accounts
 
