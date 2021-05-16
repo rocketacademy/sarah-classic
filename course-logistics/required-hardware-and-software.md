@@ -71,7 +71,16 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 
 **Installation**
 
-1. Download and install Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). **When copying commands from the Git website, do not copy the dollar sign \($\) in front of the command.** The dollar signs in their commands denote the start of command lines, and are not part of the commands.
+1. Download and install Git for your OS \(Windows or MacOS\) [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). **When copying commands from the Git website, do not copy the dollar sign \($\) in front of the command.** The dollar signs in their commands denote the start of command lines, and are not part of the commands.
+   1. Mac: We should be able to install Git by running the following command in our terminal and following the prompts.
+
+      ```text
+      git --version
+      ```
+
+   2. Windows: This is the Windows install link. Make sure you install the .exe file that automatically downloads instead of any other. [https://git-scm.com/download/win](https://git-scm.com/download/win)
+      1. If we need to re-download the .exe for any reason, click the "Click here to download manually" button on that page instead of any other.
+      2. In the Git installer program, click Next until the end, no need to customise defaults.
 2. \[Windows Only\] Follow [command line setup instructions below](required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
 3. Verify Git is installed by typing `git --version` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `git version 2.28.0`.
 
@@ -88,8 +97,8 @@ We will need to use the command line \(also known as a terminal, more on this in
 1. Open Visual Studio Code and open the terminal \(accessed from the top-level menu\). We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
 2. Open the command palette using `Ctrl+Shift+P`.
 3. Type and select "Terminal: Select Default Profile".
-4. Select "Git Bash" or the option that contains "bash".
-5. Restart VSCode and open terminal again. The terminal should now run with Bash.
+4. Select "Git Bash" from the dropdown.
+5. Restart VSCode, close the terminal, and open a new terminal. The terminal should now run with Bash.
 
 ![VSCode Terminal on Windows Running the Bash Terminal Language](../.gitbook/assets/5zlap.png)
 
@@ -99,38 +108,37 @@ We shouldn't need to, but if we need to, we can toggle between different termina
 
 ## VSCode Formatters
 
-### Prettier
+### Prettier and ESLint
 
-Prettier is a code formatter that will auto-format our code and make it more readable when we save our files. Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode). 
+Prettier is a code formatter that will auto-format our code and make it more readable when we save our files. ESLint is a code formatter specifically for JavaScript that helps us detect functional errors in our code prior to running it. 
 
-### ESLint
-
-ESLint is a code formatter specifically for JavaScript that helps us detect functional errors in our code prior to running it. 
-
-1. Install ESLint by running `sudo npm i -g eslint` from the terminal in VSCode. Enter your computer's password if prompted. 
+1. Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode). 
 2. Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+3. Restart VSCode to activate Prettier and ESLint.
 
 ### VSCode Formatting Settings
 
 1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
 2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
-3. Replace the contents of the file with the following settings code. Save the file and restart VSCode.
+3. Add the following settings to the list of existing settings in the file within the curly braces `{}`.
+   1. If there were existing settings within the curly braces `{}` in the file, add a comma `,` to the end of the last existing setting.
+4. Save the settings file.
+5. Restart VSCode to apply our settings.
+6. Open and save the settings file again and verify that Prettier auto-formats it as our default formatter.
 
 ```text
-{
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "editor.minimap.enabled": false,
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "eslint.format.enable": true,
-  "eslint.lintTask.enable": true,
-  "eslint.migration.2_x": "off"
-}
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+"editor.formatOnSave": true,
+"editor.formatOnPaste": true,
+"editor.minimap.enabled": false,
+"editor.tabSize": 2,
+"editor.wordWrap": "on",
+"eslint.format.enable": true,
+"eslint.lintTask.enable": true,
+"eslint.migration.2_x": "off"
 ```
 
-### ESLint Suggestion Highlighting \(No Action Needed\)
+#### \[No Action Needed\] ESLint Suggestion Highlighting
 
 As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
 
@@ -157,14 +165,17 @@ Go to [https://github.com/](https://github.com/), click the Sign Up button and f
 
 #### **Git and GitHub Credential Configuration**
 
-Add your GitHub account credentials to your computer through the command line. Please replace `<YOUR_GITHUB_USERNAME>` AND `<YOUR_GITHUB_EMAIL>` with your credentials.
+Add your GitHub account credentials to your computer through the command line. Please replace `<YOUR_GITHUB_USERNAME>` AND `<YOUR_GITHUB_EMAIL>` with your credentials. Note to replace the `<>` characters and keep the `"` characters in the commands.
 
 ```text
 git config --global user.name "<YOUR_GITHUB_USERNAME>"
+```
+
+```text
 git config --global user.email "<YOUR_GITHUB_EMAIL>"
 ```
 
-You will not get any feedback from the terminal after entering these commands. Type the following command into the terminal to check your work.
+You will not get any feedback from the terminal after entering these commands. Type the following command into the terminal to check your work. If you see a `:` at the bottom of the output, you may need to press `Enter` until you see the lines starting with `user.name` and `user.email`.
 
 ```text
 git config -l
