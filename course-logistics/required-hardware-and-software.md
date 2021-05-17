@@ -71,7 +71,16 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 
 **Installation**
 
-1. Download and install Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). **When copying commands from the Git website, do not copy the dollar sign \($\) in front of the command.** The dollar signs in their commands denote the start of command lines, and are not part of the commands.
+1. Download and install Git for your OS \(Windows or MacOS\) [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). **When copying commands from the Git website, do not copy the dollar sign \($\) in front of the command.** The dollar signs in their commands denote the start of command lines, and are not part of the commands.
+   1. Mac: We should be able to install Git by running the following command in our terminal and following the prompts.
+
+      ```text
+      git --version
+      ```
+
+   2. Windows: This is the Windows install link. Make sure you install the .exe file that automatically downloads instead of any other. [https://git-scm.com/download/win](https://git-scm.com/download/win)
+      1. If we need to re-download the .exe for any reason, click the "Click here to download manually" button on that page instead of any other.
+      2. In the Git installer program, click Next until the end, no need to customise defaults.
 2. \[Windows Only\] Follow [command line setup instructions below](required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
 3. Verify Git is installed by typing `git --version` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `git version 2.28.0`.
 
@@ -85,11 +94,11 @@ We will need to use the command line \(also known as a terminal, more on this in
 
 ![VSCode Terminal on Windows. PowerShell is the Default Terminal Language on Windows.](../.gitbook/assets/v4hx4.png)
 
-1. Open Visual Studio Code and use the keyboard shortcut ````` Ctrl+``` \(hold````Ctrl\` and press \`\`\`\`\`\) to open the terminal. We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
+1. Open Visual Studio Code and open the terminal \(accessed from the top-level menu\). We should see something like the screenshot above, with the word "powershell" in the dropdown menu. If you're not able to open the terminal with the keyboard shortcut, see [here](https://code.visualstudio.com/docs/editor/integrated-terminal) for other ways to open the terminal.
 2. Open the command palette using `Ctrl+Shift+P`.
-3. Type and select "Select Default Shell".
-4. Select "Git Bash" from the options.
-5. Restart VSCode and open terminal again. The terminal should now run with Bash.
+3. Type and select "Terminal: Select Default Profile".
+4. Select "Git Bash" from the dropdown.
+5. Restart VSCode, close the terminal, and open a new terminal. The terminal should now run with Bash.
 
 ![VSCode Terminal on Windows Running the Bash Terminal Language](../.gitbook/assets/5zlap.png)
 
@@ -97,86 +106,52 @@ We shouldn't need to, but if we need to, we can toggle between different termina
 
 ![Toggle between Bash, PowerShell, and Any Other Terminal Languages in VSCode Terminal](../.gitbook/assets/1agtr.png)
 
-### **Node.js**
-
-Node.js is the most popular JavaScript runtime. "Runtime" in a coding context refers to the environment in which code runs. ".js" is the file extension for JavaScript files, and a common suffix for JavaScript packages. We will use Node.js to lint and run our JavaScript code in non-browser contexts.
-
-**Installation**
-
-1. Download and install Node.js for your OS [here](https://nodejs.org/en/download/). It will come with NPM, which stands for Node.js Package Manager. Package managers are used to download and manage 3rd-party packages that our programs rely on, such as ESLint.
-2. Verify Node.js is installed by typing `node -v` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `v12.18.3`.
-
-### **Verify Git and Node Installation**
-
-In case it helps, here is a video demonstrating how to verify Git and Node installation on Mac. The video uses the built-in Mac terminal, but we should be able to do the same within the VSCode terminal. We recommend students use the VSCode terminal for Coding Basics.
-
 ## VSCode Formatters
 
-#### Install ESLint
+### Prettier and ESLint
 
-```text
-sudo npm install -g eslint
-```
+Prettier is a code formatter that will auto-format our code and make it more readable when we save our files. ESLint is a code formatter specifically for JavaScript that helps us detect functional errors in our code prior to running it. 
 
-#### VSCode Settings
+1. Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode). 
+2. Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
+3. Restart VSCode to activate Prettier and ESLint.
 
-{% embed url="https://youtu.be/gGzX8uUbuIo" caption="" %}
-
-**Install the ESLint Extension for VSCode**
-
-This will auto-format your code and give you warnings about common coding errors.
-
-Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
-
-**Install the Prettier Extension for VSCode**
-
-\(This is not shown in the video\). Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
-
-{% hint style="info" %}
-"ES" stands for ECMAScript, which is the technical specification for JavaScript, and "lint" in a coding context refers to programmatic detection of formatting and syntax errors. ESLint enables us to detect and fix formatting and syntax errors in JavaScript, and the VSCode ESLint extension allows us to do so automatically within VSCode.
-{% endhint %}
-
-**Apply the Coding Basics Settings**
+### VSCode Formatting Settings
 
 1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
 2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
-3. Replace the contents of the file with the following settings code. Save the file and restart VSCode.
+3. Add the following settings to the list of existing settings in the file within the curly braces `{}`.
+   1. If there were existing settings within the curly braces `{}` in the file, add a comma `,` to the end of the last existing setting.
+4. Save the settings file.
+5. Restart VSCode to apply our settings.
+6. Open and save the settings file again and verify that Prettier auto-formats it as our default formatter.
 
 ```text
-{
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "editor.minimap.enabled": false,
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "eslint.format.enable": true,
-  "eslint.lintTask.enable": true,
-  "eslint.migration.2_x": "off"
-}
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+"editor.formatOnSave": true,
+"editor.formatOnPaste": true,
+"editor.minimap.enabled": false,
+"editor.tabSize": 2,
+"editor.wordWrap": "on",
+"eslint.format.enable": true,
+"eslint.lintTask.enable": true,
+"eslint.migration.2_x": "off"
 ```
 
-### Using ESLint
+#### \[No Action Needed\] ESLint Suggestion Highlighting
 
-#### ESLint suggestion highlighting
+As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
 
 ![](../.gitbook/assets/eslint-1.png)
 
-Any corrections ESLint suggests will appear as red squiggly lines in the editor.
-
-#### ESLint suggestion details
+To discern what problems ESLint is raising, we can view the suggestion messages in the console.
 
 ![](../.gitbook/assets/eslint-2.png)
 
-Click the error icon in the bottom left-hand side footer. This will pop up the ESLint error pane below the code.
+To view messages in the console, use the following steps.
 
-For each ESLint suggestion there will be a line in the suggestion pane that give the line number in the code file and a sentence about what ESLint thinks is going wrong.
-
-#### ESLint Suggestion Rule Details
-
-![](../.gitbook/assets/eslint3.png)
-
-Every suggestion is implemented as an ESLint "rule". To see the full details on this rule including code examples you can right-click on the rule name and select "Show documentation for {RULE\_NAME}". This will open your browser to the detail page of the rule on the ESLint website. Here is an example rule page: [https://eslint.org/docs/rules/no-cond-assign](https://eslint.org/docs/rules/no-cond-assign)
+1. Click the error icon in the bottom left of the VSCode footer. This will show the suggestion pane below our code.
+2. For each suggestion there will be a line in the suggestion pane with a sentence about what ESLint suggests, and the relevant line number in the code file.
 
 ## Required Software Accounts
 
@@ -190,14 +165,17 @@ Go to [https://github.com/](https://github.com/), click the Sign Up button and f
 
 #### **Git and GitHub Credential Configuration**
 
-Add your GitHub account credentials to your computer through the command line. Please replace `<YOUR_GITHUB_USERNAME>` AND `<YOUR_GITHUB_EMAIL>` with your credentials.
+Add your GitHub account credentials to your computer through the command line. Please replace `<YOUR_GITHUB_USERNAME>` AND `<YOUR_GITHUB_EMAIL>` with your credentials. Note to replace the `<>` characters and keep the `"` characters in the commands.
 
 ```text
 git config --global user.name "<YOUR_GITHUB_USERNAME>"
+```
+
+```text
 git config --global user.email "<YOUR_GITHUB_EMAIL>"
 ```
 
-You will not get any feedback from the terminal after entering these commands. Type the following command into the terminal to check your work.
+You will not get any feedback from the terminal after entering these commands. Type the following command into the terminal to check your work. If you see a `:` at the bottom of the output, you may need to press `Enter` until you see the lines starting with `user.name` and `user.email`.
 
 ```text
 git config -l
@@ -242,7 +220,7 @@ For Coding Basics, we recommend storing all of your code in a folder called `bas
 
 ### Ask Questions in the Channel
 
-During RA's courses you will have questions about the material. To ensure your questions get answered soonest, and so that others can help and learn, please ask questions in the batch-wide channel, e.g. \#basics-batch-2. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
+During RA's courses you will have questions about the material. To ensure your questions get answered soonest, and so that others can help and learn, please ask questions in the batch-wide channel. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
 
 ### Provide Context for Questions
 
