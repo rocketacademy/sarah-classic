@@ -9,12 +9,19 @@
 Total Video Watch Time: **~48 mins**
 
 [1.1: What is Coding?](1-introduction/1.1-what-is-coding.md)
+
 [1.2: Web Browsers](1-introduction/1.2-web-browsers.md)
+
 [2.1: Command Line](2-organising-and-managing-code-files/2.1-command-line.md)
+
 [2.2: Git](2-organising-and-managing-code-files/2.2-git.md)
+
 [3.1: Operations](3-basic-data-manipulation/3.1-operations.md)
+
 [3.2: Variables](3-basic-data-manipulation/3.2-variables.md)
+
 [4.1: Intro to GitHub](4-getting-started-with-code/4.1-intro-to-github.md)
+
 [4.2: Our First Program](4-getting-started-with-code/4.2-our-first-program.md)
 
 #### In-Class Material
@@ -28,7 +35,9 @@ Total Video Watch Time: **~48 mins**
 Total Video Watch Time: **~25 mins**
 
 Review[ Social Rules](course-logistics/love-social-rules.md)
+
 [5.1: Functions](5-structuring-and-debugging-code/5.1-functions.md)
+
 [5.2: Errors](5-structuring-and-debugging-code/5.2-errors.md)
 
 #### In-Class Material
@@ -42,7 +51,9 @@ Review[ Social Rules](course-logistics/love-social-rules.md)
 Total Video Watch Time: **~40 mins**
 
 [6.1: Intro to Logic](6-conditional-logic/6.1-intro-to-logic.md)
+
 [6.2: Pseudo Code, Boolean Or](6-conditional-logic/6.2-pseudo-code-boolean-or.md)
+
 [6.3: Boolean And and Not](6-conditional-logic/6.3-boolean-and-not.md)
 
 #### In-Class Material
@@ -62,7 +73,9 @@ Note: You will need the pre-class material from Day 4 to complete the more comfo
 Total Video Watch Time: **~41 mins**
 
 [7.1: GitHub Fork and Pull Request](7-github/7.1-github-fork-and-pull-request.md)
+
 [7.2: GitHub Navigation](7-github/7.2-github-repo-browsing.md)
+
 [8.1: Program Lifecycle and Global State](8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
 
 #### In-Class Material
@@ -180,6 +193,7 @@ Total Video Watch Time: **~60 mins**
 Total Video Watch Time: **~18 mins**
 
 [11.1: Advanced Debugging with Sources Tab](11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
+
 [12.3: Project Deployment](12-next-steps/12.3-deployment.md)
 
 #### In-Class Material
@@ -195,6 +209,7 @@ Total Video Watch Time: **~18 mins**
 **Project Due**
 
 [Project 3: Blackjack \(More Comfortable\)](projects/project-3-blackjack.md#more-comfortable)
+
 Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment](12-next-steps/12.3-deployment.md)
 
 #### Pre-Class Material
@@ -202,12 +217,16 @@ Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment
 Total Video Watch Time: **~22 mins**
 
 [12.1: Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
+
 [12.2: HTML, CSS Review](12-next-steps/12.2-html-css-review.md)
 
 #### In-Class Material
 
 [Project presentations](course-logistics/course-methodology.md#project-presentations)
+
 Course feedback and reviews
+
 LinkedIn certificate presentations
+
 Class photo 🥳
 
