@@ -34,8 +34,9 @@ Day 0's pre-course briefing will run from **4-5pm** instead of the usual 1-3pm. 
 4. Deliverables for Day 1
    1. [Required Hardware and Software](required-hardware-and-software.md)
    2. Pre-Class Material
-5. Icebreaker
-6. Class photo
+5. Class photo
+6. Break into sections
+7. Section introductions and icebreakers
 
 ### Day 1: Coding Tools
 
