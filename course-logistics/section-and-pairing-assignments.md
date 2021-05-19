@@ -49,3 +49,13 @@
 | Jiang Pranav | Clarence Jun Yi | Clarence Pranav | TJ Jun Yi | TJ Pranav | Pranav Jun Yi | Vathany Jun Yi | Clarence Jiang | Jiang Jun Yi |
 | Jun Yi Winston | Pranav Winston | Jiang Winston | Clarence Winston | Vathany Winston | TJ Winston | Lucius Winston | Shaun Winston | Hsiu Ping Winston |
 
+### Section 5
+
+| Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| PK Joel | PK Glen | PK Jing Jie | PK Yanheng | PK Thiri | PK Loan | PK Ivy | PK Yilin | Joel Glen |
+| Glen Jing Jie | Joel Jing Jie | Joel Yanheng | Joel Loan | Joel Yilin | Joel Thiri | Glen Thiri | Joel Ivy | Jing Jie Thiri |
+| Yanheng Thiri | Yanheng Loan | Glen Yilin | Glen Ivy | Glen Loan | Glen Yanheng | Jing Jie Loan | Jing Jie Yanheng | Yanheng Ivy |
+| Loan Ivy | Thiri Yilin | Thiri Ivy | Jing Jie Yilin | Jing Jie Ivy | Ivy Yilin | Yanheng Yilin | Thiri Loan | Loan Yilin |
+| Yilin Tong Huat | Ivy Tong Huat | Loan Tong Huat | Thiri Tong Huat | Yanheng Tong Huat | Jing Jie Tong Huat | Joel Tong Huat | Glen Tong Huat | PK Tong Huat |
+
