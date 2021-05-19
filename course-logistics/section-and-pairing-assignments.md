@@ -9,7 +9,7 @@
 
 ## Batch 8
 
-### Section 1
+### Section 1 \(Porter\)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -19,7 +19,7 @@
 | Eddy Matthew | Nadia Aaron | Nadia Matthew | Brian Aaron | Brian Matthew | Matthew Aaron | Abigail Aaron | Nadia Eddy | Eddy Aaron |
 | Aaron Mohit | Matthew Mohit | Eddy Mohit | Nadia Mohit | Abigail Mohit | Brian Mohit | Ameer Mohit | Karim Mohit | CK Mohit |
 
-### Section 2
+### Section 2 \(Yiqing\)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -29,7 +29,7 @@
 | Balvinder Valerie | Felisa Jia Yan | Felisa Valerie | Seah Jia Yan | Seah Valerie | Valerie Jia Yan | Greg Jia Yan | Felisa Balvinder | Balvinder Jia Yan |
 | Jia Yan Justin | Valerie Justin | Balvinder Justin | Felisa Justin | Greg Justin | Seah Justin | E-An Justin | Gavin Justin | Shannon Justin |
 
-### Section 3
+### Section 3 \(Effy\)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -39,7 +39,7 @@
 | Faizal Yeow Hua | Mary Adrian | Mary Yeow Hua | Asad Adrian | Asad Yeow Hua | Yeow Hua Adrian | Terry Adrian | Mary Faizal | Faizal Adrian |
 | Adrian Charmaine | Yeow Hua Charmaine | Faizal Charmaine | Mary Charmaine | Terry Charmaine | Asad Charmaine | Patrick Charmaine | Kevin Charmaine | Jaline Charmaine |
 
-### Section 4
+### Section 4 \(Zeph\)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -49,7 +49,7 @@
 | Jiang Pranav | Clarence Jun Yi | Clarence Pranav | TJ Jun Yi | TJ Pranav | Pranav Jun Yi | Vathany Jun Yi | Clarence Jiang | Jiang Jun Yi |
 | Jun Yi Winston | Pranav Winston | Jiang Winston | Clarence Winston | Vathany Winston | TJ Winston | Lucius Winston | Shaun Winston | Hsiu Ping Winston |
 
-### Section 5
+### Section 5 \(En\)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
