@@ -4,9 +4,7 @@ description: Coding Basics in JavaScript
 
 # Course Overview
 
-## Course Overview
-
-### Welcome to Coding Basics!
+## Welcome to Coding Basics!
 
 {% embed url="https://youtu.be/7Bx4LTD9guo" caption="" %}
 
@@ -14,7 +12,7 @@ description: Coding Basics in JavaScript
 
 ![Basics falls near the start of one&apos;s journey to become a software programmer](.gitbook/assets/course-ped.png)
 
-### Coding Bootcamp Acceptance Criteria
+## Coding Bootcamp Acceptance Criteria
 
 For students that wish to join RA's Coding Bootcamp, at the end of Coding Basics, RA will evaluate whether each student qualifies to join Bootcamp. To qualify for Bootcamp, students must complete all projects and demonstrate the following qualities up to RA's standards. Instructors will provide code reviews for each project, and students are expected to implement feedback in subsequent projects.
 
