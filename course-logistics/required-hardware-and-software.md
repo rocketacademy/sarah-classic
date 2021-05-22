@@ -108,13 +108,12 @@ We shouldn't need to, but if we need to, we can toggle between different termina
 
 ## VSCode Formatters
 
-### Prettier and ESLint
+### Prettier
 
-Prettier is a code formatter that will auto-format our code and make it more readable when we save our files. ESLint is a code formatter specifically for JavaScript that helps us detect functional errors in our code prior to running it. 
+Prettier is a code formatter that will auto-format our code and make it more readable when we save our files.
 
 1. Install the Prettier extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode). 
-2. Install the ESLint extension for VSCode [here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
-3. Restart VSCode to activate Prettier and ESLint.
+2. Restart VSCode to activate Prettier.
 
 ### VSCode Formatting Settings
 
@@ -146,20 +145,20 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 }
 ```
 
-#### \[No Action Needed\] ESLint Suggestion Highlighting
+#### \[No Action Needed\]  Suggestion Highlighting
 
-As we code, ESLint may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
+As we code, VSCode may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
 
 ![](../.gitbook/assets/eslint-1.png)
 
-To discern what problems ESLint is raising, we can view the suggestion messages in the console.
+To discern what problems VSCode is raising, we can view the suggestion messages in the console.
 
 ![](../.gitbook/assets/eslint-2.png)
 
 To view messages in the console, use the following steps.
 
 1. Click the error icon in the bottom left of the VSCode footer. This will show the suggestion pane below our code.
-2. For each suggestion there will be a line in the suggestion pane with a sentence about what ESLint suggests, and the relevant line number in the code file.
+2. For each suggestion there will be a line in the suggestion pane with a sentence about what VSCode suggests, and the relevant line number in the code file.
 
 ## Required Software Accounts
 
