@@ -127,15 +127,23 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 6. Open and save the settings file again and verify that Prettier auto-formats it as our default formatter.
 
 ```text
-"editor.defaultFormatter": "esbenp.prettier-vscode",
-"editor.formatOnSave": true,
-"editor.formatOnPaste": true,
-"editor.minimap.enabled": false,
-"editor.tabSize": 2,
-"editor.wordWrap": "on",
-"eslint.format.enable": true,
-"eslint.lintTask.enable": true,
-"eslint.migration.2_x": "off"
+{
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.minimap.enabled": true,
+	"editor.tabSize": 2,
+	"editor.wordWrap": "on",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"window.zoomLevel": 2,
+	"terminal.integrated.shell.windows": "C:\\Git\\bin\\bash.exe",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"terminal.integrated.profiles.windows": {
+		"Git Bash": {
+			"path": "C:\\Git\\bin\\bash.exe",
+			"icon": "terminal-bash"
+		}
+	}
+}
 ```
 
 #### \[No Action Needed\] ESLint Suggestion Highlighting
