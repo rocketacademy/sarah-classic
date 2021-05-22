@@ -4,40 +4,6 @@ description: Tips for using programming tools
 
 # 💡 Tooling Pro Tips
 
-## Using ESLint Effectively
-
-### ESLint Not Working
-
-ESLint and VSCode both get updated regularly and sometimes don't play nice. If ESLint isn't formatting your code on save, try the following checklist of common solutions.
-
-1. Have you installed the ESLint extension in VSCode as per [Required Hardware and Software](required-hardware-and-software.md#vscode-formatter-and-settings)?
-2. Have you set ESLint to format JavaScript in VSCode settings as per [Required Hardware and Software](required-hardware-and-software.md#vscode-formatter-and-settings)?
-3. Have you [run `npm install`](../4-getting-started-with-code/4.2-our-first-program.md#setup) in terminal from the folder of your current code repository? For example, if you are working on Day 2's Ice Machine exercise in the basics/day2/ice-machine folder, did you run `npm install` from basics/day2/ice-machine in your terminal?
-4. Have you enabled ESLint to run in VSCode? See the [ESLint Not Running After First Install](tooling-pro-tips.md#eslint-not-running-after-first-install) section below to see if you need to enable this one-off setting.
-5. If 1-4 haven't fixed it, try restarting VSCode and opening your `basics` folder in VSCode as per [Required Hardware and Software](required-hardware-and-software.md#open-basics-folder-in-vscode).
-6. If all else false, let an instructor know and we will help you resolve this.
-
-If you've done the above and ESLint still isn't formatting your code, let us know and we'll help you fix it!
-
-### ESLint Not Running After First Install
-
-![ESLint unable to run, icon in bottom right corner of VSCode](../.gitbook/assets/jie-ping-20210302-20.15.45.png)
-
-If we see the above red ESLint status icon in the bottom right of VSCode, it usually means we haven't enabled ESLint in VSCode yet. To enable ESLint in VSCode, follow the instructions [here](https://carldesouza.com/fixing-eslint-execution-is-not-approved-or-denied-in-visual-studio-code/). In summary:
-
-1. Click on the red icon in the bottom right corner
-2. Click Allow Everywhere in the resulting popup menu
-
-Please also remember to run `npm i` in the current starter code folder to enable ESLint in that folder.
-
-### View and Fix ESLint Errors
-
-When we run `npm install` each time we clone a repo in Coding Basics, we are installing a package ESLint that helps us see errors before we run our code. Some of these errors are functional, i.e. the program will not run unless we fix them, and some are stylistic, i.e. ESLint points out these errors so that our code is consistent. Please try to fix all ESLint errors in your code.
-
-VSCode shows us ESLint errors with red squiggly lines under the parts of our code with errors. To see what the error is, hover over the red squiggly line in VSCode.
-
-![ESLint shows errors with red squiggly lines. View error messages by hovering over red lines.](../.gitbook/assets/jie-ping-20200924-18.55.18.png)
-
 ## Using VSCode Effectively
 
 ### Comment Out Multiple Lines at Once
