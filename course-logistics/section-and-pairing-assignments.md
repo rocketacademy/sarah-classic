@@ -38,11 +38,11 @@ description: Batch 8 (22 May - 3 Jul)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
+| Clarence Crystal | Clarence Glen | Clarence Hsiu Ping | Clarence Janice | Clarence Jiang | Clarence Lucius | Clarence Shaun | Clarence Vathany | Crystal Glen |
+| Glen Hsiu Ping | Crystal Hsiu Ping | Crystal Janice | Crystal Lucius | Crystal Vathany | Crystal Jiang | Glen Jiang | Crystal Shaun | Hsiu Ping Jiang |
+| Janice Jiang | Janice Lucius | Glen Vathany | Glen Shaun | Glen Lucius | Glen Janice | Hsiu Ping Lucius | Hsiu Ping Janice | Janice Shaun |
+| Lucius Shaun | Jiang Vathany | Jiang Shaun | Hsiu Ping Vathany | Hsiu Ping Shaun | Shaun Vathany | Janice Vathany | Jiang Lucius | Lucius Vathany |
+| Vathany Yilin | Shaun Yilin | Lucius Yilin | Jiang Yilin | Janice Yilin | Hsiu Ping Yilin | Crystal Yilin | Glen Yilin | Clarence Yilin |
 
 ## Section 5 \(En\)
 
