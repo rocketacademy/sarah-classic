@@ -48,11 +48,11 @@ description: Batch 8 (22 May - 3 Jul)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| a |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
+| Ivy Jing Jie | Ivy Joel | Ivy Jun Yi | Ivy Loan | Ivy Pei Koon | Ivy Thiri | Ivy Tong Huat | Ivy Winston | Jing Jie Joel |
+| Joel Jun Yi | Jing Jie Jun Yi | Jing Jie Loan | Jing Jie Thiri | Jing Jie Winston | Jing Jie Pei Koon | Joel Pei Koon | Jing Jie Tong Huat | Jun Yi Pei Koon |
+| Loan Pei Koon | Loan Thiri | Joel Winston | Joel Tong Huat | Joel Thiri | Joel Loan | Jun Yi Thiri | Jun Yi Loan | Loan Tong Huat |
+| Thiri Tong Huat | Pei Koon Winston | Pei Koon Tong Huat | Jun Yi Winston | Jun Yi Tong Huat | Tong Huat Winston | Loan Winston | Pei Koon Thiri | Thiri Winston |
+| Winston Yanheng | Tong Huat Yanheng | Thiri Yanheng | Pei Koon Yanheng | Loan Yanheng | Jun Yi Yanheng | Jing Jie Yanheng | Joel Yanheng | Ivy Yanheng |
 
 ## Section 6 \(Vincent\)
 
