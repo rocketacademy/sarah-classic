@@ -58,9 +58,9 @@ description: Batch 8 (22 May - 3 Jul)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
+| Seah Fiona | Seah Karim | Seah Kevin | Seah KP | Seah Mohit | Seah Rachel | Seah Tammy | Seah TJ | Fiona Karim |
+| Karim Kevin | Fiona Kevin | Fiona KP | Fiona Rachel | Fiona TJ | Fiona Mohit | Karim Mohit | Fiona Tammy | Kevin Mohit |
+| KP Mohit | KP Rachel | Karim TJ | Karim Tammy | Karim Rachel | Karim KP | Kevin Rachel | Kevin KP | KP Tammy |
+| Rachel Tammy | Mohit TJ | Mohit Tammy | Kevin TJ | Kevin Tammy | Tammy TJ | KP TJ | Mohit Rachel | Rachel TJ |
+| TJ Vernon | Tammy Vernon | Rachel Vernon | Mohit Vernon | KP Vernon | Kevin Vernon | Fiona Vernon | Karim Vernon | Seah Vernon |
 
