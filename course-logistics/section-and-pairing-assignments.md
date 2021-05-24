@@ -8,51 +8,59 @@ description: Batch 8 (22 May - 3 Jul)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| CK Ameer | CK Karim | CK Brian | CK Abigail | CK Nadia | CK Eddy | CK Matthew | CK Aaron | Ameer Karim |
-| Karim Brian | Ameer Brian | Ameer Abigail | Ameer Eddy | Ameer Aaron | Ameer Nadia | Karim Nadia | Ameer Matthew | Brian Nadia |
-| Abigail Nadia | Abigail Eddy | Karim Aaron | Karim Matthew | Karim Eddy | Karim Abigail | Brian Eddy | Brian Abigail | Abigail Matthew |
-| Eddy Matthew | Nadia Aaron | Nadia Matthew | Brian Aaron | Brian Matthew | Matthew Aaron | Abigail Aaron | Nadia Eddy | Eddy Aaron |
-| Aaron Mohit | Matthew Mohit | Eddy Mohit | Nadia Mohit | Abigail Mohit | Brian Mohit | Ameer Mohit | Karim Mohit | CK Mohit |
+| Aaron Abigail | Aaron Ameer | Aaron Brian | Aaron Diana | Aaron Eddy | Aaron CK | Aaron Leia | Aaron Matthew | Abigail Ameer |
+| Ameer Brian | Abigail Brian | Abigail Diana | Abigail CK | Abigail Matthew | Abigail Eddy | Ameer Eddy | Abigail Leia | Brian Eddy |
+| Diana Eddy | Diana CK | Ameer Matthew | Ameer Leia | Ameer CK | Ameer Diana | Brian CK | Brian Diana | Diana Leia |
+| CK Leia | Eddy Matthew | Eddy Leia | Brian Matthew | Brian Leia | Leia Matthew | Diana Matthew | Eddy CK | CK Matthew |
+| Matthew Nadia | Leia Nadia | CK Nadia | Eddy Nadia | Diana Nadia | Brian Nadia | Abigail Nadia | Ameer Nadia | Aaron Nadia |
 
 ## Section 2 \(Yiqing\)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Shannon E-An | Shannon Gavin | Shannon Seah | Shannon Greg | Shannon Felisa | Shannon Balvinder | Shannon Valerie | Shannon Jia Yan | E-An Gavin |
-| Gavin Seah | E-An Seah | E-An Greg | E-An Balvinder | E-An Jia Yan | E-An Felisa | Gavin Felisa | E-An Valerie | Seah Felisa |
-| Greg Felisa | Greg Balvinder | Gavin Jia Yan | Gavin Valerie | Gavin Balvinder | Gavin Greg | Seah Balvinder | Seah Greg | Greg Valerie |
-| Balvinder Valerie | Felisa Jia Yan | Felisa Valerie | Seah Jia Yan | Seah Valerie | Valerie Jia Yan | Greg Jia Yan | Felisa Balvinder | Balvinder Jia Yan |
-| Jia Yan Justin | Valerie Justin | Balvinder Justin | Felisa Justin | Greg Justin | Seah Justin | E-An Justin | Gavin Justin | Shannon Justin |
+| Balvinder E-An | Balvinder Felisa | Balvinder Gavin | Balvinder Greg | Balvinder Jia Yan | Balvinder Justin | Balvinder Kang Raye | Balvinder Shannon | E-An Felisa |
+| Felisa Gavin | E-An Gavin | E-An Greg | E-An Justin | E-An Shannon | E-An Jia Yan | Felisa Jia Yan | E-An Kang Raye | Gavin Jia Yan |
+| Greg Jia Yan | Greg Justin | Felisa Shannon | Felisa Kang Raye | Felisa Justin | Felisa Greg | Gavin Justin | Gavin Greg | Greg Kang Raye |
+| Justin Kang Raye | Jia Yan Shannon | Jia Yan Kang Raye | Gavin Shannon | Gavin Kang Raye | Kang Raye Shannon | Greg Shannon | Jia Yan Justin | Justin Shannon |
+| Shannon Val | Kang Raye Val | Justin Val | Jia Yan Val | Greg Val | Gavin Val | E-An Val | Felisa Val | Balvinder Val |
 
 ## Section 3 \(Effy\)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Jaline Patrick | Jaline Kevin | Jaline Asad | Jaline Terry | Jaline Mary | Jaline Faizal | Jaline Yeow Hua | Jaline Adrian | Patrick Kevin |
-| Kevin Asad | Patrick Asad | Patrick Terry | Patrick Faizal | Patrick Adrian | Patrick Mary | Kevin Mary | Patrick Yeow Hua | Asad Mary |
-| Terry Mary | Terry Faizal | Kevin Adrian | Kevin Yeow Hua | Kevin Faizal | Kevin Terry | Asad Faizal | Asad Terry | Terry Yeow Hua |
-| Faizal Yeow Hua | Mary Adrian | Mary Yeow Hua | Asad Adrian | Asad Yeow Hua | Yeow Hua Adrian | Terry Adrian | Mary Faizal | Faizal Adrian |
-| Adrian Charmaine | Yeow Hua Charmaine | Faizal Charmaine | Mary Charmaine | Terry Charmaine | Asad Charmaine | Patrick Charmaine | Kevin Charmaine | Jaline Charmaine |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 ## Section 4 \(Zeph\)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hsiu Ping Lucius | Hsiu Ping Shaun | Hsiu Ping TJ | Hsiu Ping Vathany | Hsiu Ping Clarence | Hsiu Ping Jiang | Hsiu Ping Pranav | Hsiu Ping Jun Yi | Lucius Shaun |
-| Shaun TJ | Lucius TJ | Lucius Vathany | Lucius Jiang | Lucius Jun Yi | Lucius Clarence | Shaun Clarence | Lucius Pranav | TJ Clarence |
-| Vathany Clarence | Vathany Jiang | Shaun Jun Yi | Shaun Pranav | Shaun Jiang | Shaun Vathany | TJ Jiang | TJ Vathany | Vathany Pranav |
-| Jiang Pranav | Clarence Jun Yi | Clarence Pranav | TJ Jun Yi | TJ Pranav | Pranav Jun Yi | Vathany Jun Yi | Clarence Jiang | Jiang Jun Yi |
-| Jun Yi Winston | Pranav Winston | Jiang Winston | Clarence Winston | Vathany Winston | TJ Winston | Lucius Winston | Shaun Winston | Hsiu Ping Winston |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 ## Section 5 \(En\)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| PK Joel | PK Glen | PK Jing Jie | PK Yanheng | PK Thiri | PK Loan | PK Ivy | PK Yilin | Joel Glen |
-| Glen Jing Jie | Joel Jing Jie | Joel Yanheng | Joel Loan | Joel Yilin | Joel Thiri | Glen Thiri | Joel Ivy | Jing Jie Thiri |
-| Yanheng Thiri | Yanheng Loan | Glen Yilin | Glen Ivy | Glen Loan | Glen Yanheng | Jing Jie Loan | Jing Jie Yanheng | Yanheng Ivy |
-| Loan Ivy | Thiri Yilin | Thiri Ivy | Jing Jie Yilin | Jing Jie Ivy | Ivy Yilin | Yanheng Yilin | Thiri Loan | Loan Yilin |
-| Yilin Tong Huat | Ivy Tong Huat | Loan Tong Huat | Thiri Tong Huat | Yanheng Tong Huat | Jing Jie Tong Huat | Joel Tong Huat | Glen Tong Huat | PK Tong Huat |
+| a |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 ## Section 6 \(Vincent\)
+
+| Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
