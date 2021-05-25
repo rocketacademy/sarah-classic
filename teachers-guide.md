@@ -108,6 +108,16 @@ A: It copies a cloud \(remote\) repo from one GitHub account into your own accou
 
 #### [4.2: Our First Program](4-getting-started-with-code/4.2-our-first-program.md)
 
+#### Overview
+
+This is the first introduction on the starter code. Some students will have some questions about what the main function is, but keep in mind that functions will be covered in the next section.
+
+Be ready to demonstrate this code for the students and have it setup in case you need to demonstrate anything related to their questions.
+
+#### Discussion Questions
+
+Demo adding a string to the beginning and end of the value returned from the main function.
+
 ### In-Class Material
 
 #### [Day 1: Basic File and Data Manipulation](class-exercises/day-1-basic-file-and-data-manipulation.md)
