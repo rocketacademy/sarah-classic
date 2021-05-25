@@ -72,7 +72,7 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 **Installation**
 
 1. Download and install Git for your OS \(Windows or MacOS\) [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). **When copying commands from the Git website, do not copy the dollar sign \($\) in front of the command.** The dollar signs in their commands denote the start of command lines, and are not part of the commands.
-   1. Mac: We should be able to install Git by running the following command in our terminal and following the prompts.
+   1. Mac: We should be able to install Git by typing the following command in our terminal, hitting `enter`, and following the prompts. Follow instructions [here](https://code.visualstudio.com/docs/editor/integrated-terminal) to open our VSCode terminal.
 
       ```text
       git --version
@@ -82,7 +82,7 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
       1. If we need to re-download the .exe for any reason, click the "Click here to download manually" button on that page instead of any other.
       2. In the Git installer program, click Next until the end, no need to customise defaults.
 2. \[Windows Only\] Follow [command line setup instructions below](required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
-3. Verify Git is installed by typing `git --version` in your [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and hitting `enter`. This should print out a version number on the next line like `git version 2.28.0`.
+3. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line like `git version 2.28.0`.
 
 {% hint style="warning" %}
 Git needs to be installed on the same drive as VSCode. If you happen to have 2 drives on your computer, e.g. C and D drives, make sure both VSCode and Git are installed on the same drive.
