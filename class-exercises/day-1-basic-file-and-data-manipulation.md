@@ -15,17 +15,17 @@ You may wish to refer to the [command line cheatsheet](../2-organising-and-manag
 
 We will create poetry, save and edit it using the command line and Git.
 
-1. Open the command line and create a folder for your poetry.
+1. Open the command line and create a folder for our poetry.
 2. Inside the folder, create a text file in the command line and open it in VSCode.
-3. Write a haiku about trees and save the file. \(A haiku is a Japanese poem that follows the convention of 5 syllables 7 syllable 5 syllable\).
-4. Create a Git repo in the folder and add and commit the poetry file.
-5. Edit your poem to reference leaves. Make a commit for your changes.
-6. Add a second poem about winter in another file. Commit this file to the repo.
-7. Title your poem about trees. Add the title to the text in the file, and change the filename to reflect the title. Commit these changes.
-8. Delete your poem about winter from the repo. \(Delete the file and commit the changes\).
+3. Write a [haiku](https://en.wikipedia.org/wiki/Haiku) about trees and save the file. A haiku is a Japanese poem that follows the convention of 5 syllables, 7 syllables, and 5 syllables on each of 3 lines respectively.
+4. Create a Git repo in the folder, and add and commit the poetry file.
+5. Edit our poem to reference leaves. Make a commit for our changes.
+6. Add a 2nd poem about winter in another file. Commit this file to the repo.
+7. Add a title to our poem about trees. Add the title above the text in the file, and change the filename to reflect the title. Commit these changes.
+8. Delete our poem about winter from the repo by deleting the file and committing the change.
 
 {% hint style="info" %}
-**Hint:** At any time you can type the `tab` key and the command line will try to auto complete for you. This works for the names of commands and also long file or folder names.
+**Hint:** When typing in the command line we can press the `tab` key and the command line will try to auto-complete the current command, file, or folder name. This can help reduce unnecessary typing and typos.
 {% endhint %}
 
 ## Data Manipulation with Operations and Variables
