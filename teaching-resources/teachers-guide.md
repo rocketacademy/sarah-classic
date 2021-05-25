@@ -82,6 +82,12 @@ Q: How would you define the difference between Git and the terminal?
 
 A: Git is a program you use \*inside\* the terminal. The terminal is the computer interface where you \*run\* programs.
 
+#### Student FAQ
+
+Q: How do I get a previous version back?
+
+A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section on browsing GitHub we'll see how we can navigate and copy and paste a previous version.
+
 #### [3.1: Operations](../3-basic-data-manipulation/3.1-operations.md)
 
 #### Overview
