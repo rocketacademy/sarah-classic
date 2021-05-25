@@ -55,7 +55,9 @@ Total Video Watch Time: **~48 mins**
 
 #### In-Class Material
 
-Please \*do not\* attempt in-class material before class, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.
+{% hint style="warning" %}
+Please \*do not\* attempt in-class material before class for all course days, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.
+{% endhint %}
 
 * [Day 1: Basic File and Data Manipulation](../class-exercises/day-1-basic-file-and-data-manipulation.md)
 
