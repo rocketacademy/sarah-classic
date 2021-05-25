@@ -128,7 +128,7 @@ This is the first pairing exercise the students will do. Set the tone for the ex
 
 You might touch on the following points:
 
- Pairing only works when both people are willing to commit to the experience and be open to learning from the other person and / or patiently explaining what the other person may not be familiar with.
+Pairing only works when both people are willing to commit to the experience and be open to learning from the other person and / or patiently explaining what the other person may not be familiar with.
 
 Be coachable. Make an effort to listen well when someone wants to explain something.
 
