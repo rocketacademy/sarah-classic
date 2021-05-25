@@ -104,7 +104,7 @@
 * [Drawing With Emojis](past-projects/drawing-with-emojis.md)
 * [Guess the Word](past-projects/guess-the-word.md)
 
----
+## Teaching Resources
 
-* [Teacher's Guide](teachers-guide.md)
+* [🧑‍🏫 Teacher's Guide](teaching-resources/teachers-guide.md)
 
