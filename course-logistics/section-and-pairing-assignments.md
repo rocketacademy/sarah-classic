@@ -28,11 +28,11 @@ description: Batch 8 (22 May - 3 Jul)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Adrian Asad | Adrian Charmaine | Adrian Elean | Adrian Faizal | Adrian Mary | Adrian Patrick | Adrian Terry | Adrian Wen Yi | Asad Charmaine |
-| Charmaine Elean | Asad Elean | Asad Faizal | Asad Patrick | Asad Wen Yi | Asad Mary | Charmaine Mary | Asad Terry | Elean Mary |
-| Faizal Mary | Faizal Patrick | Charmaine Wen Yi | Charmaine Terry | Charmaine Patrick | Charmaine Faizal | Elean Patrick | Elean Faizal | Faizal Terry |
+| Adrian Asad | Adrian John | Adrian Elean | Adrian Faizal | Adrian Mary | Adrian Patrick | Adrian Terry | Adrian Wen Yi | Asad John |
+| John Elean | Asad Elean | Asad Faizal | Asad Patrick | Asad Wen Yi | Asad Mary | John Mary | Asad Terry | Elean Mary |
+| Faizal Mary | Faizal Patrick | John Wen Yi | John Terry | John Patrick | John Faizal | Elean Patrick | Elean Faizal | Faizal Terry |
 | Patrick Terry | Mary Wen Yi | Mary Terry | Elean Wen Yi | Elean Terry | Terry Wen Yi | Faizal Wen Yi | Mary Patrick | Patrick Wen Yi |
-| Wen Yi Yeow Hua | Terry Yeow Hua | Patrick Yeow Hua | Mary Yeow Hua | Faizal Yeow Hua | Elean Yeow Hua | Asad Yeow Hua | Charmaine Yeow Hua | Adrian Yeow Hua |
+| Wen Yi Yeow Hua | Terry Yeow Hua | Patrick Yeow Hua | Mary Yeow Hua | Faizal Yeow Hua | Elean Yeow Hua | Asad Yeow Hua | John Yeow Hua | Adrian Yeow Hua |
 
 ## Section 4 \(Zeph\)
 
