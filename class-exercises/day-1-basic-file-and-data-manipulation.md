@@ -21,8 +21,9 @@ We will create poetry, save and edit it using the command line and Git.
 4. Create a Git repo in the folder, and add and commit the poetry file.
 5. Edit our poem to reference leaves. Make a commit for our changes.
 6. Add a 2nd poem about winter in another file. Commit this file to the repo.
-7. Add a title to our poem about trees. Add the title above the text in the file, and change the filename to reflect the title. Commit these changes.
-8. Delete our poem about winter from the repo by deleting the file and committing the change.
+7. Make a change to the winter file- add "papaya" to the last line. We aren't going to keep this change.
+8. Add a title to our poem about trees. Add the title above the text in the file, and change the filename to reflect the title. Note here that we can change more than one file, and only stage the trees file for committing. In this way we can say which files go into a given commit. Don't stage or commit the winter poem.
+9. Delete our poem about winter from the repo by deleting the file and committing the change.
 
 {% hint style="info" %}
 **Hint:** When typing in the command line we can press the `tab` key and the command line will try to auto-complete the current command, file, or folder name. This can help reduce unnecessary typing and typos.

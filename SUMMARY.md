@@ -106,5 +106,17 @@
 
 ## Teaching Resources
 
-* [🧑‍🏫 Teacher's Guide](teaching-resources/teachers-guide.md)
+* [🧑‍🏫 Teacher's Guide](teaching-resources/teachers-guide/README.md)
+  * [Day 1](teaching-resources/teachers-guide/day-1.md)
+  * [Day 2](teaching-resources/teachers-guide/day-2.md)
+  * [Day 3](teaching-resources/teachers-guide/day-3.md)
+  * [Day 4](teaching-resources/teachers-guide/day-4.md)
+  * [Day 5](teaching-resources/teachers-guide/day-5.md)
+  * [Day 6](teaching-resources/teachers-guide/day-6.md)
+  * [Day 7](teaching-resources/teachers-guide/day-7.md)
+  * [Day 8](teaching-resources/teachers-guide/day-8.md)
+  * [Day 9](teaching-resources/teachers-guide/day-9.md)
+  * [Day 10](teaching-resources/teachers-guide/day-10.md)
+  * [Day 11](teaching-resources/teachers-guide/day-11.md)
+  * [Day 12](teaching-resources/teachers-guide/day-12.md)
 
