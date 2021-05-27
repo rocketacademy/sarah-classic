@@ -33,7 +33,7 @@ The Basics curriculum is trying to emphasize functions as the most important uni
 
  There are a few key ideas that students should take away:
 
-* functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value \(the return value\).
+* functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value \(the return value\). Clear naming is key to writing a good function.
 
 
 
@@ -42,6 +42,32 @@ The Basics curriculum is trying to emphasize functions as the most important uni
 #### Discussion Questions
 
 Prepare this code in VSCode. Run it in the browser.
+
+#### Example 1
+
+```text
+var add = function(a,b){
+    return a + b;
+};
+
+var main = function(input){
+    var myOutputValue = 'hello ' + add(input, 5);
+    myOutputValue = myOutputValue + ' papaya ' + add(input, 6);
+    return myOutputValue;
+};
+```
+
+Q: How many times does the `add` function run?
+
+A: Twice every time the main function runs, and as many times as the user clicks submit. This question will hopefully help clarify that a function is meant to be run multiple times.
+
+Q: What happens if the add function is moved below the main function? Will it still work?
+
+A: We haven't covered asynchronous code yet, but the students should still understand that the main function doesn't run until the user clicks submit. The absolute order of line numbers is not important when talking about control flow and functions.
+
+E.g., if the code was synchronous, but was a function called from within another function further above it would still work.
+
+#### Example 2
 
 ```text
 var add = function(a,b){
@@ -59,6 +85,8 @@ Can we change the name of `a` or `b` to something else?
 What happens when we give a variable to the function? What happens to the variable? `var num = 99; var result2 = add(num,6);`
 
 What happens if we call the function a second time below line 4? `var result3 = add(5,6);`
+
+#### Example 3
 
 ```text
 var main = function(input){
@@ -124,5 +152,9 @@ A: Related to above, if you don't catch errors one at a time it is impossible to
 
 #### [Day 2: Functions](../../class-exercises/day-2-functions.md)
 
-## \*\*\*\*
+## **Look Ahead**
+
+After functions are covered students can make basic calculations and format strings. We've introduced another wrinkle into naming things, which is to name functions as action \(verb\) that also expresses some data value. Clear representation is more important than ever.
+
+It's still early days and the programs are still very simple. Next we add in another kind of control flow, conditions. This is the point at which the code can actually make decisions. When we add in this branching logic things become a lot more complex. In fact logic as a topic on it's own is huge, but we'll be able to apply some simple concepts that are very intuitive for our purposes.
 
