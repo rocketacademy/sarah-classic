@@ -152,7 +152,7 @@ A: Related to above, if you don't catch errors one at a time it is impossible to
 
 #### [Day 2: Functions](../../class-exercises/day-2-functions.md)
 
-## **Look Ahead**
+## **Look Ahead / Wrap-up**
 
 After functions are covered students can make basic calculations and format strings. We've introduced another wrinkle into naming things, which is to name functions as action \(verb\) that also expresses some data value. Clear representation is more important than ever.
 
