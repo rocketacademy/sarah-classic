@@ -34,9 +34,6 @@ The Basics curriculum is trying to emphasize functions as the most important uni
  There are a few key ideas that students should take away:
 
 * functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value \(the return value\). Clear naming is key to writing a good function.
-
-
-
 * writing code that decomposes into input \(parameters\) and output \(return value\) is much easier to reason about than code that deals with multiple global values. Therefore, we should try to emphasize writing functions that take input and return values.
 
 #### Discussion Questions
