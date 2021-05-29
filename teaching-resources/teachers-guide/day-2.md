@@ -64,6 +64,8 @@ A: We haven't covered asynchronous code yet, but the students should still under
 
 E.g., if the code was synchronous, but was a function called from within another function further above it would still work.
 
+Note that we can avoid opening the **index.html** file so as not to confuse students with the DOM manipulation code. Feel free to answer questions, but the main point of the starter code is that the students can understand it in the context of function execution only and not in terms of asynchronous callbacks yet.
+
 #### Example 2
 
 ```text
