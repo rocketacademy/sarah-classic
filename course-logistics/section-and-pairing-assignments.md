@@ -58,9 +58,9 @@ description: Batch 8 (22 May - 3 Jul)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Seah Fiona | Seah Karim | Seah Jordan | Seah KP | Seah Mohit | Seah Rachel | Seah Tammy | Seah TJ | Fiona Karim |
-| Karim Jordan | Fiona Jordan | Fiona KP | Fiona Rachel | Fiona TJ | Fiona Mohit | Karim Mohit | Fiona Tammy | Jordan Mohit |
-| KP Mohit | KP Rachel | Karim TJ | Karim Tammy | Karim Rachel | Karim KP | Jordan Rachel | Jordan KP | KP Tammy |
-| Rachel Tammy | Mohit TJ | Mohit Tammy | Jordan TJ | Jordan Tammy | Tammy TJ | KP TJ | Mohit Rachel | Rachel TJ |
-| TJ Vernon | Tammy Vernon | Rachel Vernon | Mohit Vernon | KP Vernon | Jordan Vernon | Fiona Vernon | Karim Vernon | Seah Vernon |
+| Seah Fiona | Seah Karim | Seah Jordan | Seah KP | Seah Mohit | Seah Ying Yi | Seah Tammy | Seah Yichen | Fiona Karim |
+| Karim Jordan | Fiona Jordan | Fiona KP | Fiona Ying Yi | Fiona Yichen | Fiona Mohit | Karim Mohit | Fiona Tammy | Jordan Mohit |
+| KP Mohit | KP Ying Yi | Karim Yichen | Karim Tammy | Karim Ying Yi | Karim KP | Jordan Ying Yi | Jordan KP | KP Tammy |
+| Ying Yi Tammy | Mohit Yichen | Mohit Tammy | Jordan Yichen | Jordan Tammy | Tammy Yichen | KP Yichen | Mohit Ying Yi | Ying Yi Yichen |
+| Yichen Vernon | Tammy Vernon | Ying Yi Vernon | Mohit Vernon | KP Vernon | Jordan Vernon | Fiona Vernon | Karim Vernon | Seah Vernon |
 
