@@ -1,26 +1,6 @@
 # 🧑‍🏫 Teacher's Guide
 
-## **Day 3: Logic 1**
-
-### Pre-Class Material
-
-Total Video Watch Time: **~40 mins**
-
-[6.1: Intro to Logic](../../6-conditional-logic/6.1-intro-to-logic.md)
-
-[6.2: Pseudo Code, Boolean Or](../../6-conditional-logic/6.2-pseudo-code-boolean-or.md)
-
-[6.3: Boolean And and Not](../../6-conditional-logic/6.3-boolean-and-not.md)
-
-### In-Class Material
-
-[Day 3: If Statements, Boolean Or, And](../../class-exercises/day-3-if-statements-boolean-or.md)
-
-### Post-Class: Begin Project
-
-Note: You will need the pre-class material from Day 4 to complete the more comfortable sections.
-
-[Project 1: Scissors Paper Stone](../../projects/project-1-scissors-paper-stone-part-1.md)
+## \*\*\*\*
 
 ## Day 4: Logic 2, State 1
 

@@ -43,9 +43,9 @@ You lose! Bummer.
 Now you can type "scissors" "paper" or "stone" to play another round!
 ```
 
-### Reverse Game Mode
+### Reverse Game
 
-You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create a version where the rules are reversed. The user can choose to try their luck at reversed mode by adding the word "reversed" to their choice. FOr example: "reversed stone".
+You decide to prank your friends and create an SPS game where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create a version where the rules are reversed. The user can choose to try their luck at reversed mode by adding the word "reversed" to their choice. For example: "reversed stone".
 
 ## Submit
 
