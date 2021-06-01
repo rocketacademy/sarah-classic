@@ -89,11 +89,19 @@ Total Video Watch Time: **~40 mins**
 
 * [Day 3: If Statements, Boolean Or, And](../class-exercises/day-3-if-statements-boolean-or.md)
 
-#### Post-Class: Begin Project
+#### Post-Class Material
 
-* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
+{% hint style="warning" %}
+We may want to review [7.1: GitHub Fork and Pull Request](../7-github/7.1-github-fork-and-pull-request.md) before starting the project.
+{% endhint %}
+
+* [Project 1: Scissors Paper Stone \(Part 1\)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
 ### Day 4: Logic 2, State 1
+
+#### Project Due
+
+* [Project 1: Scissors Paper Stone \(Part 1\)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
 #### Pre-Class Material
 
@@ -107,19 +115,19 @@ Total Video Watch Time: **~41 mins**
 
 * [Day 4: Boolean And, GitHub, Program State](../class-exercises/day-4-boolean-and-program-state.md)
 
-**Post-Class: Begin Project**
+**Post-Class Material**
 
-Note: You will need the pre-class material from Day 5 to complete the more comfortable sections.
+{% hint style="warning" %}
+We may want to review [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md) before completing the More Comfortable section of SPS Part 2.
+{% endhint %}
 
-* [Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
+* [Project 1: Scissors Paper Stone \(Part 2\)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 ### Day 5: State 2
 
 #### Project Due
 
-Note: You will need the pre-class material from Day 5 for the more comfortable sections of project 1.5
-
-* [Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
+* [Project 1: Scissors Paper Stone \(Part 2\)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 #### Pre-Class Material
 
