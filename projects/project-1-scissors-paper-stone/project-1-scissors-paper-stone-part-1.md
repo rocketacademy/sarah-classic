@@ -2,7 +2,7 @@
 description: "✂️\U0001F4C3\U0001F48E\U0001F61C"
 ---
 
-# Part 1
+# Project 1: Scissors Paper Stone \(Part 1\)
 
 ## Introduction
 

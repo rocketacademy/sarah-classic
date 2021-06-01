@@ -16,8 +16,8 @@
 ## Projects
 
 * [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone/README.md)
-  * [Part 1](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
-  * [Part 2](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
+  * [Project 1: Scissors Paper Stone \(Part 1\)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
+  * [Project 1: Scissors Paper Stone \(Part 2\)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 * [Project 2: Beat That!](projects/project-2-beat-that.md)
 * [Project 3: Blackjack](projects/project-3-blackjack.md)
 

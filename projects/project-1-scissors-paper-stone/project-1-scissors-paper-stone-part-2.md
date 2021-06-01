@@ -1,4 +1,8 @@
-# Part 2
+---
+description: "✂️\U0001F4C3\U0001F48E\U0001F929"
+---
+
+# Project 1: Scissors Paper Stone \(Part 2\)
 
 ## Introduction
 
