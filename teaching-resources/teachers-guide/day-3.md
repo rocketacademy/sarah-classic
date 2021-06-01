@@ -22,7 +22,7 @@ We don't introduce things like what else can go in the conditional parens or thi
 
 The code should be relatively intuitive here.
 
-Students can sometimes get confused that block curly braces for functions work differently from conditional block curly braces \(e.g., function scope\).
+Students can sometimes get confused that block curly braces for functions work differently from conditional block curly braces \(e.g. function scope\).
 
 ### Discussion Questions
 
@@ -157,11 +157,11 @@ var main = function (input) {
 };
 ```
 
-#### Q: How can I test to make sure that getting snakeeyes causes me to lose?
+#### Q: How can I test to make sure that getting snake eyes causes me to lose?
 
 A: Hard code `diceRoll` to return 1.
 
-#### Q: Make a change to the code so I only win when I get snakeeyes.
+#### Q: Make a change to the code so I only win when I get snake eyes.
 
 ### In-Class Material
 
