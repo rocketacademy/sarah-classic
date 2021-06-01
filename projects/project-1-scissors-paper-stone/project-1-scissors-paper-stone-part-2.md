@@ -1,10 +1,10 @@
-# Project 1: Scissors Paper Stone \(Part 2\)
+# Part 2
 
 ## Introduction
 
-Now that we know about globals and game modes we can start on an updated version of the game.
+Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use globals as game modes. We'll now update our SPS Part 1 to support game state.
 
-If you got the [base version of Scissors Paper Stone](project-1-scissors-paper-stone-part-1.md#base) done, but didn't finish the other features, don't worry about getting everything done. To keep in step with the material we are covering you should move onto this project's features.
+If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to complete More Comfortable for both parts.
 
 ## Setup
 
@@ -15,7 +15,7 @@ If you got the [base version of Scissors Paper Stone](project-1-scissors-paper-s
 
 ### Win-Loss Record
 
-Add [state](../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
+Add [state](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
 
 ### User Name
 
@@ -64,7 +64,7 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 
 ## Submit
 
-[Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. Please make a copy of the questionnaire in the pull request comments when you submit.
+[Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. Please make a copy of the questionnaire in the pull request comments when you submit.
 
 ## Reference Solution
 

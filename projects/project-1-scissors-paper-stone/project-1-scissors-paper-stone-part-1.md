@@ -2,18 +2,18 @@
 description: "✂️\U0001F4C3\U0001F48E\U0001F61C"
 ---
 
-# Project 1: Scissors Paper Stone \(Part 1\)
+# Part 1
 
 ## Introduction
 
-For our first project, we are going to make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game.
+For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game. We have split this project into 2 parts to cater to the pace of RA's Basics course. See the [Course Schedule](../../course-logistics/course-schedule.md#day-3-logic-1) for when we have assigned each part.
 
-At this point in the course our code can only make limited decisions, so we are limiting what the game can do for now.
+Part 1 works with the technologies we have learned so far in Basics, and Part 2 adds additional technologies that we learn in subsequent course days.
 
 ## Setup
 
 1. Create a `project` directory in your `basics` code folder to host your projects if you haven't already.
-2. [Fork](../7-github/7.1-github-fork-and-pull-request.md) the [Coding Basics Scissors Paper Stone repository](https://github.com/rocketacademy/basics-scissors-paper-stone) into your own GitHub account.
+2. [Fork](../../7-github/7.1-github-fork-and-pull-request.md) the [Coding Basics Scissors Paper Stone repository](https://github.com/rocketacademy/basics-scissors-paper-stone) into your own GitHub account.
 3. Clone the newly-forked SPS repo from your own GitHub account into a new folder in your `project` directory. You will notice that the SPS repository should look similar to the starter code repository. We made separate repositories for each project so that student Pull Request submissions can be better organised by project.
 
 ## Base
@@ -49,7 +49,7 @@ You decide to prank your friends and create an SPS game where the rules are reve
 
 ## Submit
 
-[Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit. Congrats on submitting your first project!
+[Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit. Congrats on submitting your first project!
 
 ## Reference Solution
 

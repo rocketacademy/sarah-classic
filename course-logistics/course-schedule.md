@@ -91,9 +91,7 @@ Total Video Watch Time: **~40 mins**
 
 #### Post-Class: Begin Project
 
-Note: You will need the pre-class material from Day 4 to complete the more comfortable sections.
-
-* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone-part-1.md)
+* [Project 1: Scissors Paper Stone](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
 ### Day 4: Logic 2, State 1
 
@@ -107,14 +105,13 @@ Total Video Watch Time: **~41 mins**
 
 #### In-Class Material
 
-* Review Project 1
 * [Day 4: Boolean And, GitHub, Program State](../class-exercises/day-4-boolean-and-program-state.md)
 
 **Post-Class: Begin Project**
 
 Note: You will need the pre-class material from Day 5 to complete the more comfortable sections.
 
-* [Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone-part-2.md)
+* [Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 ### Day 5: State 2
 
@@ -122,14 +119,14 @@ Note: You will need the pre-class material from Day 5 to complete the more comfo
 
 Note: You will need the pre-class material from Day 5 for the more comfortable sections of project 1.5
 
-* [Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone-part-2.md)
+* [Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 #### Pre-Class Material
 
 Total Video Watch Time: **~17 mins**
 
-* [8.3: Input Validation](../8-managing-state-and-input-validation/8.3-input-validation.md)
 * [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+* [8.3: Input Validation](../8-managing-state-and-input-validation/8.3-input-validation.md)
 
 #### In-Class Material
 

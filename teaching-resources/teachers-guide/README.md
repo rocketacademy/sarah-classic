@@ -22,7 +22,7 @@ Review Project 1 [Day 4: Boolean And, GitHub, Program State](../../class-exercis
 
 Note: You will need the pre-class material from Day 5 to complete the more comfortable sections.
 
-[Project 1.5: Scissors Paper Stone 2](../../projects/project-1-scissors-paper-stone-part-2.md)
+[Project 1.5: Scissors Paper Stone 2](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 ## Day 5: State 2
 
@@ -30,7 +30,7 @@ Note: You will need the pre-class material from Day 5 to complete the more comfo
 
 Note: You will need the pre-class material from Day 5 for the more comfortable sections of project 1.5
 
-[Project 1.5: Scissors Paper Stone 2](../../projects/project-1-scissors-paper-stone-part-2.md)
+[Project 1.5: Scissors Paper Stone 2](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 ### Pre-Class Material
 

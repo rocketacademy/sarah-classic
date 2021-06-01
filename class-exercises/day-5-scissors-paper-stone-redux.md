@@ -6,5 +6,5 @@ Review your partner's code as per [code review instructions in Course Methodolog
 
 ## More Comfortable
 
-Implement [More Comfortable exercises](../projects/project-1-scissors-paper-stone-part-1.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
+Implement [More Comfortable exercises](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
 
