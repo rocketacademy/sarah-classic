@@ -6,7 +6,7 @@
 
 Logic is the first day that we introduce real serious control flow. Some students will struggle to cope with this increase in complexity, not because the code is hard to understand but because understanding what code to write is much more difficult.
 
-Remember that just logic in and of itself is actually a huge topic. This first day trys to leave out some of the complexities by leaving off certain syntax such as `else` and `else if`. It may be awkward to think about coding without these tools, but it may help the students to tackle the problems with less options and less possible code paths to deal with.
+Remember that just logic in and of itself is actually a huge topic. This first day tries to leave out some of the complexities by leaving off certain syntax such as `else` and `else if`. It may be awkward to think about coding without these tools, but it may help the students to tackle the problems with less options and less possible code paths to deal with.
 
 ### Pre-Class Material
 
@@ -20,7 +20,7 @@ Introduces one basic conditional if statement with one equivalence operator insi
 
 We don't introduce things like what else can go in the conditional parens or things like else yet.
 
-The code should be relatively inuitive here.
+The code should be relatively intuitive here.
 
 Students can sometimes get confused that block curly braces for functions work differently from conditional block curly braces \(e.g., function scope\).
 
@@ -105,7 +105,7 @@ if (
 
 **Q: Add the pseudocode comments to this code example.**
 
-**Q: Does it matter what order the individual equivalence checks are in? Can we check for `number -1 == input` first?**
+**Q: Does it matter what order the individual equivalence checks are in? Can we check for `number - 1 == input` first?**
 
 A: With logical OR it does not matter. In english, \*any\* of the statements can be true in order for the condition block to run.
 
@@ -113,7 +113,7 @@ A: With logical OR it does not matter. In english, \*any\* of the statements can
 
 ### Overview
 
-THis section covers three important topics: Boolean AND, boolean NOT, error testing conditionals with `console.log`.
+This section covers three important topics: Boolean AND, boolean NOT, error testing conditionals with `console.log`.
 
 ### Discussion Questions
 
@@ -141,7 +141,7 @@ var main = function (input) {
 
 A: Change the equality `==` operator to not equal `!=`.
 
-#### Snakeeyes
+#### Snake Eyes
 
 ```javascript
 var main = function (input) {
