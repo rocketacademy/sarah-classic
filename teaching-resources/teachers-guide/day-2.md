@@ -1,12 +1,10 @@
-# Day 2
+# Day 2: Functions
 
-## Day 2: Functions
-
-### Overview
+## Overview
 
 This day introduces two foundational topics: functions and errors.
 
-### Pre-Class Material
+## Pre-Class Material
 
 Total Video Watch Time: **~25 mins**
 
@@ -147,7 +145,7 @@ Q: Students won't run their code to check for errors often enough.
 
 A: Related to above, if you don't catch errors one at a time it is impossible to unwind where a series of errors in caused.
 
-### In-Class Material
+## In-Class Material
 
 #### [Day 2: Functions](../../class-exercises/day-2-functions.md)
 

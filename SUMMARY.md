@@ -108,9 +108,9 @@
 ## Teaching Resources
 
 * [🧑‍🏫 Teacher's Guide](teaching-resources/teachers-guide/README.md)
-  * [Day 1](teaching-resources/teachers-guide/day-1.md)
-  * [Day 2](teaching-resources/teachers-guide/day-2.md)
-  * [Day 3](teaching-resources/teachers-guide/day-3.md)
+  * [Day 1: Coding Tools](teaching-resources/teachers-guide/day-1.md)
+  * [Day 2: Functions](teaching-resources/teachers-guide/day-2.md)
+  * [Day 3: Logic 1](teaching-resources/teachers-guide/day-3.md)
   * [Day 4](teaching-resources/teachers-guide/day-4.md)
   * [Day 5](teaching-resources/teachers-guide/day-5.md)
   * [Day 6](teaching-resources/teachers-guide/day-6.md)

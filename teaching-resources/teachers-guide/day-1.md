@@ -1,8 +1,6 @@
-# Day 1
+# Day 1: Coding Tools
 
-## Day 1: Coding Tools
-
-### Overview
+## Overview
 
 The first meeting of the course sets the tone for the rest of the sessions.
 
@@ -16,7 +14,7 @@ Running on time is important. Respect people's time- begin the session on time a
 
 Sorting out setup problems from students \(with VSCode or the terminal or folders\) will be an issue on the first meeting. Unless you know for sure that it is a quick fix, don't spend any time in front of everyone to fix one person's problem. Either wait until the pairing or, even better, wait to meet with them after the session.
 
-### Pre-Class Material
+## Pre-Class Material
 
 Total Video Watch Time: **~48 mins**
 
@@ -124,7 +122,7 @@ Be ready to demonstrate this code for the students and have it setup in case you
 
 Demo adding a string to the beginning and end of the value returned from the main function.
 
-### In-Class Material
+## In-Class Material
 
 #### [Day 1: Basic File and Data Manipulation](../../class-exercises/day-1-basic-file-and-data-manipulation.md)
 

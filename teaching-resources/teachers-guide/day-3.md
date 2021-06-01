@@ -1,20 +1,18 @@
-# Day 3
+# Day 3: Logic 1
 
-## **Day 3: Logic 1**
-
-**Overview**
+## **Overview**
 
 Logic is the first day that we introduce real serious control flow. Some students will struggle to cope with this increase in complexity, not because the code is hard to understand but because understanding what code to write is much more difficult.
 
 Remember that just logic in and of itself is actually a huge topic. This first day tries to leave out some of the complexities by leaving off certain syntax such as `else` and `else if`. It may be awkward to think about coding without these tools, but it may help the students to tackle the problems with less options and less possible code paths to deal with.
 
-### Pre-Class Material
+## Pre-Class Material
 
 Total Video Watch Time: **~40 mins**
 
 ### [6.1: Intro to Logic](../../6-conditional-logic/6.1-intro-to-logic.md)
 
-### Overview
+#### Overview
 
 Introduces one basic conditional if statement with one equivalence operator inside.
 
@@ -24,7 +22,7 @@ The code should be relatively intuitive here.
 
 Students can sometimes get confused that block curly braces for functions work differently from conditional block curly braces \(e.g. function scope\).
 
-### Discussion Questions
+#### Discussion Questions
 
 ```javascript
 var main = function (input) {
@@ -85,13 +83,13 @@ var main = function (input) {
 
 ### [6.2: Pseudo Code, Boolean Or](../../6-conditional-logic/6.2-pseudo-code-boolean-or.md)
 
-### Overview
+#### Overview
 
 Introduces the logical OR operator. Again, here with a single boolean operator there is a lot of inherent complexity, but we leave off a lot so that the code feels relatively intuitive.
 
 This section also introduces _**pseudocode**_ as a way to bridge logical english sentences into running JavaScript code.
 
-### Discussion Questions
+#### Discussion Questions
 
 ```javascript
 if (
@@ -111,11 +109,11 @@ A: With logical OR it does not matter. In english, \*any\* of the statements can
 
 ### [6.3: Boolean And and Not](../../6-conditional-logic/6.3-boolean-and-not.md)
 
-### Overview
+#### Overview
 
 This section covers three important topics: Boolean AND, boolean NOT, error testing conditionals with `console.log`.
 
-### Discussion Questions
+#### Discussion Questions
 
 #### AND
 
@@ -163,15 +161,15 @@ A: Hard code `diceRoll` to return 1.
 
 #### Q: Make a change to the code so I only win when I get snake eyes.
 
-### In-Class Material
+## In-Class Material
 
 [Day 3: If Statements, Boolean Or, And](../../class-exercises/day-3-if-statements-boolean-or.md)
 
-### Look Ahead / Wrap-up
+## Look Ahead / Wrap-up
 
 Just the conditionals syntax in this day is a huge amount of possible complexity and the possibility space the code can explore is now exponentially larger compared to the previous day. The code can now decide things based on data. We'll continue to use conditionals to expand what our programs can do. Next is to introduce global values so that the program can evolve over time and can deal with more and more data as the user uses the program. Next time we'll also introduce the GItHub project submission workflow.
 
-### Post-Class: Begin Project
+## Post-Class: Begin Project
 
 Introduce the project. SPS is split into two parts. The second part will use global variables to keep track of game state.
 
