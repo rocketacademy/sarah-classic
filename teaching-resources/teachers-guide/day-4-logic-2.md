@@ -115,9 +115,13 @@ A: Defining the variable inside the function means that it is created brand new 
 
 Putting the variable on line 1 means that it is created at the beginning of the life of the program.
 
+#### Q: What would happen if we moved line 1 below line 6?
+
+A: It wouldn't affect anything. This is because, even though the definition of `papayaCount` is on a later line, it is still defined _**before**_ the main function is run. Line number and the order of code running are not necessarily the same thing.
+
 #### Q: Will moving line 4 above line 3 make a difference in how the program behaves?
 
-A: This does change the behavior. The original version of this code adds a papaya every time the button gets clicked. Then it displays the value. The suggested change displays the current number of papayas when the button gets clicked, then adds one papaya. The order in the code depends on which behaviour you want.
+A: This does change the behavior. The original version of this code adds a papaya every time the button gets clicked. Then it displays the value. \(You see 1 after the first click\). The suggested change displays the current number of papayas when the button gets clicked, then adds one papaya. \(You see 0 after the first click\) The order in the code depends on which behaviour you want.
 
 ### In-Class Material
 
