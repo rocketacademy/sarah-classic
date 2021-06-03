@@ -125,7 +125,7 @@ Review Project 1 [Day 4: Boolean And, GitHub, Program State](../../class-exercis
 
 ### **Wrap-up / Look Ahead**
 
-In this section we added onto the total amount of values our programs deal with by writing a new variable for each global value. We then put back in our conditionals to use the two together in a dice game. Next, we'll use global values and conditionals together to represent different modes of the game.
+In this section we added onto the total amount of values our programs deal with by writing a new variable for each global value. We then put back in our conditionals to use the two together in a dice game. Next, we'll use global values and conditionals together to represent different modes of the game. This will give us the ability to ask the user for different kinds of input. 
 
 **Post-Class: Begin Project**
 
