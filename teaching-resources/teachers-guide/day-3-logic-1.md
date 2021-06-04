@@ -115,6 +115,34 @@ This section covers three important topics: Boolean AND, boolean NOT, error test
 
 #### Discussion Questions
 
+#### Boolean Values
+
+```javascript
+var main = function (input) {
+  // Generate a random dice number
+  var randomDiceNumber = rollDice();
+
+  // Default output value is 'you lose'.
+  var myOutputValue = 'you lose';
+
+  // If input matches randomDiceNumber, update output.
+  var didUserWin = input == randomDiceNumber;
+  
+  console.log( 'boolean operation result: '+didUserWin );
+  
+  if (didUserWin) {
+    myOutputValue = 'you win';
+  }
+
+  // Return output.
+  return myOutputValue;
+};
+```
+
+#### Q: What is the difference between the above code and the original dice game example?
+
+A: They both work the same. In this example I can see what is going to happen in the if because I am capturing and `console.log`ing the result of the boolean operation.
+
 #### AND
 
 ```javascript
