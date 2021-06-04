@@ -8,7 +8,7 @@ This day introduces two foundational topics: functions and errors.
 
 Total Video Watch Time: **~25 mins**
 
-#### Review[ Social Rules](../../course-logistics/love-social-rules.md)
+## Review[ Social Rules](../../course-logistics/love-social-rules.md)
 
 In the previous session the students were introduced to the idea of pairing and got to experience it for themselves. Now that they have some context for the experience we want to talk about the optimal pairing experience, and to emphasize how their behaviour is key to the experience for themselves and others.
 
@@ -23,9 +23,15 @@ Then, introduce the social rules. Briefly mention each one. No need to read the 
 
 The rules are just a reminder because they are behaviors that commonly arise when discussing technical topics.
 
-#### [5.1: Functions](../../5-structuring-and-debugging-code/5.1-functions.md)
+### Discussion Questions
 
-#### Overview
+#### Q: Have you ever felt dumb or uncomfortable or unknowledgeable when speaking with someone who is an "expert" in a topic?
+
+A: In a lot of situations in everyday life people can purposefully or inadvertently make you feel bad for not understanding something. We hope the social rules can help everyone avoid these kinds of situations by being more kind and thoughtful.
+
+## [5.1: Functions](../../5-structuring-and-debugging-code/5.1-functions.md)
+
+### Overview
 
 The Basics curriculum is trying to emphasize functions as the most important unit of computation. Because a game will naturally have some global values we also have to introduce those, but the idea is that when the computer must do something the easiest way to think about it is wrapped in a function.
 
@@ -37,8 +43,6 @@ The Basics curriculum is trying to emphasize functions as the most important uni
 #### Discussion Questions
 
 Prepare this code in VSCode. Run it in the browser.
-
-#### Example 1
 
 ```text
 var add = function(a,b){
@@ -52,19 +56,17 @@ var main = function(input){
 };
 ```
 
-Q: How many times does the `add` function run?
+#### Q: How many times does the `add` function run?
 
 A: Twice every time the main function runs, and as many times as the user clicks submit. This question will hopefully help clarify that a function is meant to be run multiple times.
 
-Q: What happens if the add function is moved below the main function? Will it still work?
+#### Q: What happens if the add function is moved below the main function? Will it still work?
 
 A: We haven't covered asynchronous code yet, but the students should still understand that the main function doesn't run until the user clicks submit. The absolute order of line numbers is not important when talking about control flow and functions.
 
 E.g., if the code was synchronous, but was a function called from within another function further above it would still work.
 
 Note that we can avoid opening the **index.html** file so as not to confuse students with the DOM manipulation code. Feel free to answer questions, but the main point of the starter code is that the students can understand it in the context of function execution only and not in terms of asynchronous callbacks yet.
-
-#### Example 2
 
 ```text
 var add = function(a,b){
@@ -73,17 +75,15 @@ var add = function(a,b){
 var result = add(1,2);
 ```
 
-What value is inside `result`?
+#### Q: What value is inside `result`?
 
-What happens when we omit the `return` keyword? \(leaving in the addition operation\)
+#### Q: What happens when we omit the `return` keyword? \(leaving in the addition operation\)
 
-Can we change the name of `a` or `b` to something else?
+#### Q: Can we change the name of `a` or `b` to something else?
 
-What happens when we give a variable to the function? What happens to the variable? `var num = 99; var result2 = add(num,6);`
+#### Q: What happens when we give a variable to the function? What happens to the variable? `var num = 99; var result2 = add(num,6);`
 
-What happens if we call the function a second time below line 4? `var result3 = add(5,6);`
-
-#### Example 3
+#### Q: What happens if we call the function a second time below line 4? `var result3 = add(5,6);`
 
 ```text
 var main = function(input){
@@ -91,11 +91,11 @@ var main = function(input){
 };
 ```
 
-Can we name the function to something other than `main`?
+#### Q: Can we name the function to something other than `main`?
 
-Can we change input to something else?
+#### Q: Can we change input to something else?
 
-What happens when we take out the `return` keyword?
+#### Q: What happens when we take out the `return` keyword?
 
 #### Common FAQ
 
@@ -109,39 +109,39 @@ Q: Students think that in order to run more code, they copy the function and use
 
 A: Refactoring or recognizing a pattern that repeats itself within the code is something that the students should have in mind to practice.
 
-#### [5.2: Errors](../../5-structuring-and-debugging-code/5.2-errors.md)
+## [5.2: Errors](../../5-structuring-and-debugging-code/5.2-errors.md)
 
-#### Overview
+### Overview
 
 A common misconception with coding is that all the time spent learning to code or doing coding is spent actually typing out the code. It is important to emphasize to students that the learning process is 80% about identifying and fixing errors. \(And also that the professional coding process is also 80% fixing errors\).
 
 In this sense the idea of errors and the strategies for approaching them are as important or more important than any other subject covered in Basics.
 
-#### Discussion Questions
+### Discussion Questions
 
-Q: What is the difference between a compile-time error and a run-time error?
+#### Q: What is the difference between a compile-time error and a run-time error?
 
 A: _Be ready to code out both errors. Have the example code ready._
 
-Q: What is the difference between a syntax error and a logical error?
+#### Q: What is the difference between a syntax error and a logical error?
 
 A: A syntax error will result in red text in the dev tools console.
 
-Q: What are the different use cases for `console.log`? If there is an error, what order should they be tried in?
+#### Q: What are the different use cases for `console.log`? If there is an error, what order should they be tried in?
 
 A: 1. Control flow check. See if the control flow goes to a given line. 2. Value check. See what value is in a variable.
 
-#### Common FAQ
+### Common FAQ
 
-Q: Students will neglect to open the dev tools before doing anything else.
+#### Q: Students will neglect to open the dev tools before doing anything else.
 
 A: Opening the dev tools should be the first thing they do when opening the HTML file.
 
-Q: Students will have an error but attempt to run their code.
+#### Q: Students will have an error but attempt to run their code.
 
 A: Anytime an error occurs in the program, JavaScript stops execution immediately after the error. If an error occurs the student must drop everything and solve that error before moving on.
 
-Q: Students won't run their code to check for errors often enough.
+#### Q: Students won't run their code to check for errors often enough.
 
 A: Related to above, if you don't catch errors one at a time it is impossible to unwind where a series of errors in caused.
 

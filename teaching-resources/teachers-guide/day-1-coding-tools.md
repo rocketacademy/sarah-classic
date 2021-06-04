@@ -18,13 +18,13 @@ Sorting out setup problems from students \(with VSCode or the terminal or folder
 
 Total Video Watch Time: **~48 mins**
 
-#### [1.1: What is Coding?](../../1-introduction/1.1-what-is-coding.md)
+## [1.1: What is Coding?](../../1-introduction/1.1-what-is-coding.md)
 
-#### Overview:
+### Overview:
 
 This section is to get the students thinking about the high level context of what the course is about.
 
-#### Discussion questions:
+### Discussion questions:
 
 Ask one or two students to answer the exercise questions.
 
@@ -42,75 +42,83 @@ Car engine
 
 Input: Readings from engine sensors. Output: instructions to the engine parts \(i.e., fuel injectors, etc.\)
 
-#### [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
+## [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
 
-#### Overview
+### Overview
 
 This section moves one level lower in the context of how the course runs. The students should understand that the only way to run the `script.js` file is to run the HTML file.
 
-#### Discussion questions:
+### Discussion questions:
 
 Did you know that basically every single thing you view in the browser window is HTML?
 
 Show this by opening a random webpage in the browser and right clicking **View Page Source**.
 
-#### [2.1: Command Line](../../2-organising-and-managing-code-files/2.1-command-line.md)
+## [2.1: Command Line](../../2-organising-and-managing-code-files/2.1-command-line.md)
 
-#### Overview
+### Overview
 
 We are mainly doing the command line so that the students can use Git. The students also get some benefit from understanding how to use the computer in a more strict, programmer-focused interface.
 
-#### Discussion questions:
+### Discussion questions:
 
-No need to review this section. Ask if anyone has questions.
+Q: What is the command line?
 
-#### [2.2: Git](../../2-organising-and-managing-code-files/2.2-git.md)
+Q: Why are we learning the command line?
 
-#### Overview
+A: We need to sue the command line to use Git.
+
+## [2.2: Git](../../2-organising-and-managing-code-files/2.2-git.md)
+
+### Overview
 
 Using Git is important for the students to do their work. At this stage is some are a bit confused this is ok, some understanding will come through practicing the commands.
 
-#### Discussion questions:
+### Discussion questions:
 
-Q: What is Git for?
+#### Q: What is Git for?
 
 A: Git is used to save all the different versions of the program we are going to create..
 
 Q: How would you define the difference between Git and the terminal?
 
-A: Git is a program you use \*inside\* the terminal. The terminal is the computer interface where you \*run\* programs.
+#### A: Git is a program you use \*inside\* the terminal. The terminal is the computer interface where you \*run\* programs.
 
 #### Student FAQ
 
-Q: How do I get a previous version back?
+#### Q: How do I get a previous version back?
 
-A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section on browsing GitHub we'll see how we can navigate and copy and paste a previous version.
+A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section 7.2 on browsing GitHub we'll see how we can navigate and copy and paste a previous version.
 
-#### [3.1: Operations](../../3-basic-data-manipulation/3.1-operations.md)
+### [3.1: Operations](../../3-basic-data-manipulation/3.1-operations.md)
 
-#### Overview
+### Overview
 
-This section is relatively intuitive. It is important to establish here that an **operation** is the smallest bit of computation we can start with. All other code we'll write stems from doing operations, though they may not all be with integers. 
+This section is relatively intuitive. It is important to establish here that an **operation** is the smallest bit of computation we can start with. All other code we'll write stems from doing operations, though they may not all be with integers.
 
-#### [3.2: Variables](../../3-basic-data-manipulation/3.2-variables.md)
+## [3.2: Variables](../../3-basic-data-manipulation/3.2-variables.md)
 
-#### Overview
+### Overview
 
-From operations we add in variables. Here it is important to re-emphasise the concept of accurate representation vs correct calculation. 
+From operations we add in variables. Here it is important to re-emphasise the concept of accurate representation vs correct calculation.
 
-#### [4.1: Intro to GitHub](../../4-getting-started-with-code/4.1-intro-to-github.md)
+#### Q: Why is variable naming important?
 
-#### Overview
+A: Accurate representation is just as important as correct calculation.
+
+## [4.1: Intro to GitHub](../../4-getting-started-with-code/4.1-intro-to-github.md)
+
+### Overview
 
 It is a common misconception to confuse what Git and GitHub are responsible. To help we separate the two sections explicitly.
 
-#### Discussion Questions
+### Discussion Questions
 
-Q: What does a GitHub fork do?
+#### Q: What does a GitHub fork do?
 
 A: It copies a cloud \(remote\) repo from one GitHub account into your own account.
 
-#### [4.2: Our First Program](../../4-getting-started-with-code/4.2-our-first-program.md)
+## [4.2: Our First Program](../../4-getting-started-with-code/4.2-our-first-program.md)
 
 #### Overview
 
@@ -120,7 +128,20 @@ Be ready to demonstrate this code for the students and have it setup in case you
 
 #### Discussion Questions
 
-Demo adding a string to the beginning and end of the value returned from the main function.
+```javascript
+console.log('papaya');
+
+var main = function (input) {
+  var myOutputValue = 'hello world';
+  return myOutputValue;
+};
+```
+
+#### Q: When I type something in the input in the browser how do I get it to display in the grey box?
+
+#### Q: I want to write a program so that I can type a number in the input and then click the submit button and see that number multiplied by 12 in the grey box. For example, I type in 2, I see 24 in the grey box.
+
+#### Q: To add on to the previous question, I also want to see the number I typed in inside the greay box, in a full sentence. Example: I type in 2. I click submit. In the grey box I see: "_You typed in 2. The result is: 24."_
 
 ## In-Class Material
 
@@ -152,5 +173,7 @@ Be clear with the students that it's important to follow along with the setup as
 
 Keep note of any students who already seem lost or confused.
 
-## 
+## **Look Ahead / Wrap-up**
+
+Our code doesn't do too much yet, we've named some values and done some calculations. THis is just the beginning. Next we'll see functions, which is a kind of control flow, a way to specify which groups of lines of code runs. We'll use this to build up our programs in pieces. After that we'll begin to talk about program logic with conditionals.
 
