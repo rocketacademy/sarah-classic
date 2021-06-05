@@ -53,7 +53,5 @@ You decide to prank your friends and create an SPS game where the rules are reve
 
 ## Reference Solution
 
-The reference solution implements the Base functionality for both SPS Parts 1 and 2. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
-
-[https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files)
+[View the reference solution ](https://github.com/rocketacademy/basics-scissors-paper-stone/tree/part1-inclMoreComfortable)for SPS-Part1 \(up till More Comfortable\). Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
