@@ -183,6 +183,16 @@ git config --global user.email "<YOUR_GITHUB_EMAIL>"
 
 You will not get any feedback from the terminal after entering these commands. Type the following command into the terminal to check your work. If you see a `:` at the bottom of the output, you may need to press `Enter` until you see the lines starting with `user.name` and `user.email`.
 
+#### Git default branch configuration
+
+Following the convention of all the other Rocket Academy Git repositories and GitHub, we'll change the default Git branch name.
+
+```text
+git config --global init.defaultBranch main
+```
+
+#### Configuration Check
+
 ```text
 git config -l
 ```
