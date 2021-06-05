@@ -31,10 +31,7 @@ Please complete the Github Fork and Pull Request exercise before updating Secret
 
 ### Secret Word Twice in a Row
 
-Update Secret Word with the following additional rules.
-
-1. The player must guess correctly twice in a row to win
-2. Secret words cannot be repeated 2 guesses in a row. E.g. the secret word cannot be "banana" for 2 player guesses in a row. If the secret word for the 1st guess were "banana", the secret word for the 2nd guess would have to be either "chisel" or "faucet".
+Update Secret Word with an additional rule: The player must guess correctly twice in a row to win.
 
 ### Secret Word X in a Row
 
@@ -55,6 +52,13 @@ Update our dice game to include an additional dice. With each player guess, the 
 ### Dice 4D
 
 Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
+
+### Secret Word Twice in a Row 2
+
+Update Secret Word with the following additional rules.
+
+1. The player must guess correctly twice in a row to win
+2. Secret words cannot be repeated 2 guesses in a row. E.g. the secret word cannot be "banana" for 2 player guesses in a row. If the secret word for the 1st guess were "banana", the secret word for the 2nd guess would have to be either "chisel" or "faucet".
 
 ## Reference Solution
 
