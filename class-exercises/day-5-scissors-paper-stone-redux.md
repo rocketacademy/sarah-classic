@@ -51,8 +51,6 @@ Once done with one person's code, send the code to your pair \(it's their projec
 Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
 {% endhint %}
 
-If you both have working versions, implement a new feature in one of the projects together.
-
 ## More Comfortable
 
 Implement [More Comfortable exercises](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md#more-comfortable) in the project writeup. Once done, push your code to update your pull request in GitHub.
