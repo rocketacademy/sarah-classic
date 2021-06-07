@@ -112,7 +112,7 @@
   * [Day 2: Functions](teaching-resources/teachers-guide/day-2-functions.md)
   * [Day 3: Logic 1](teaching-resources/teachers-guide/day-3-logic-1.md)
   * [Day 4: Logic 2](teaching-resources/teachers-guide/day-4-logic-2.md)
-  * [Day 5](teaching-resources/teachers-guide/day-5.md)
+  * [Day 5: State 2](teaching-resources/teachers-guide/day-5-state-2.md)
   * [Day 6](teaching-resources/teachers-guide/day-6.md)
   * [Day 7](teaching-resources/teachers-guide/day-7.md)
   * [Day 8](teaching-resources/teachers-guide/day-8.md)

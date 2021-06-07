@@ -1,26 +1,6 @@
 # 🧑‍🏫 Teacher's Guide
 
-## Day 5: State 2
-
-### Project Due
-
-Note: You will need the pre-class material from Day 5 for the more comfortable sections of project 1.5
-
-[Project 1.5: Scissors Paper Stone 2](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
-
-### Pre-Class Material
-
-Total Video Watch Time: **~17 mins**
-
-[8.3: Input Validation](../../8-managing-state-and-input-validation/8.3-input-validation.md) [8.2: Program State for Game Modes](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
-
-### In-Class Material
-
-[Day 5: Scissors Paper Stone Redux](../../class-exercises/day-5-scissors-paper-stone-redux.md)
-
-### Post-Class: Begin Project
-
-[Project 2: Beat That!](../../projects/project-2-beat-that.md)
+## 
 
 ## Day 6: Arrays, Loops 1
 
