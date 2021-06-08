@@ -239,7 +239,7 @@ Ideally the timer for the reading section would start after everyone is able to 
 
 If the students want help to fix something in their code, just tell them to push their broken version so that they can work on it together in pairs. Try not to fix any student's code during this silent reading time.
 
-If there is a single person have them read one person in  a pair's code \(don't have anyone in the pair read their code\). Put all three in a breakout room to discuss. When they are done discussing, move the single person into their own room. This is because it is difficult for three people to actually code together.
+If there is a single person have them read one person in a pair's code \(don't have anyone in the pair read their code\). Put all three in a breakout room to discuss. When they are done discussing, move the single person into their own room. This is because it is difficult for three people to actually code together.
 
 ### Read \(Individual\) \(Up to 25 mins Incl. Step 0\)
 
