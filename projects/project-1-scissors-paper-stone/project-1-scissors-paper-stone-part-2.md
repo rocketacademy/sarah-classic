@@ -76,3 +76,5 @@ The reference solution implements the Base functionality for both SPS Parts 1 an
 
 [https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files)
 
+[View the reference solution ](https://github.com/rocketacademy/basics-scissors-paper-stone/tree/part2-inclMoreComfortable)for SPS-Part2 \(up till More Comfortable\). Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
+
