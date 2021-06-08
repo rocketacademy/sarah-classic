@@ -48,7 +48,7 @@ A: 1\)  NaN. 2\) 888
 
 A: We wrote code for a math operation that does not result in a number. The other is a number value so multiplication works fine.
 
-```text
+```javascript
 var main = function(input){
 
   var miles = Number(input);
@@ -93,7 +93,7 @@ var message = count + ''; // change types without adding anything
 
 #### Example 1
 
-```text
+```javascript
 var mode = 'green';
 
 var main = function (input) {
@@ -139,7 +139,7 @@ A: This is a trick question because the code does not look to match the value 'b
 
 A: We can move the conditions that check the user input to _**after**_ the condition that looks for the mode global. The pseudo code might look like:
 
-```text
+```javascript
 // set the default green message
 
 // if the mode is blue
@@ -155,7 +155,7 @@ A: We can move the conditions that check the user input to _**after**_ the condi
 
 #### Example 2
 
-```text
+```javascript
 var currentGameMode = 'waiting for user name';
 var bankRoll = 10;
 var userName = '';
@@ -249,7 +249,7 @@ If there is a single person have them read one person in  a pair's code \(don't 
 
 3\) Read Partner's Code
 
-4\) Play with Partner's Code
+4\) Edit Partner's Code
 
 Encourage the students to use all the tools at their disposal to investigate and understand the code. Reiterate that this is just a copy so don't be afraid of making changes that break things in order to figure out how something works.
 
