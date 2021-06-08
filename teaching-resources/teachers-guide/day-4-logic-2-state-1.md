@@ -1,4 +1,4 @@
-# Day 4: Logic 2
+# Day 4: Logic 2, State 1
 
 ### Overview
 
