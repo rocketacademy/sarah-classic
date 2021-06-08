@@ -1,18 +1,14 @@
 # Day 5: Scissors Paper Stone Redux
 
-## Peer-Led Code Review
-
 ## Code Review
 
 On days when projects are due, we will review each others' code in groups of 2 or 3 during class. If there is a group of 3, the triplet will do individual code review together so that everyone gets to review someone else's code, then split into 2 groups for pairing.
 
-### Individual Review
-
-#### 0\) Push Your Own Code
+### 0. Push Your Code
 
 Refer to the [push section](../7-github/7.1-github-fork-and-pull-request.md#git-push) for the commands needed for this. 
 
-#### 1\) Clone Partner's Code
+### 1. Clone Partner's Code
 
 You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's. If you have forked the repo but haven't pushed your latest code to GitHub, take a moment now to `git push`. Let your partner know you're updating the repo. Run a `git clone <REPO_URL> <NEW_FOLDER_NAME>` to get a copy of your partner's code.
 
@@ -20,11 +16,11 @@ You'll be paired up so that you can exchange the links for your repos via Slack.
 Note: You need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone.
 {% endhint %}
 
-#### 2\) Run Partner's Code
+### 2. Run Partner's Code
 
 Open the code in the browser and test it. What does it do? If you're not sure what it does look inside `script.js` to see.
 
-#### 3\) Read Partner's Code
+### 3. Read Partner's Code
 
 Read the code and answer the following questions.
 
@@ -33,15 +29,15 @@ Read the code and answer the following questions.
 3. Does it implement something that you were trying to do?
 4. Does it implement a feature that you haven't started yet? How does the code work?
 
-#### 4\) Play with Partner's Code
+### 4. Edit Partner's Code
 
 It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
 
-#### 5\) Discuss
+### 5. Discuss
 
 Once both partners are done with \#1-4, discuss what you saw.
 
-### Work on the Project
+## Improve Project Together
 
 You'll be pair programming on one person's project at a time. 
 
@@ -55,11 +51,11 @@ Note: If you are working on your partner's code you can't push to their repo bec
 
 Work on the game in the following order:
 
-## 1. Fix Errors
+### 1. Fix Errors
 
 If there are any errors or bugs in a project, pair to fix those problems.
 
-### 2. Add features
+### 2. Add Features
 
 #### A\) Super Game - Guess the Word
 
