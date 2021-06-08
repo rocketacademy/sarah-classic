@@ -41,7 +41,7 @@ It may be helpful to make changes to the code to help you understand it better. 
 
 Once both partners are done with \#1-4, discuss what you saw.
 
-### Peer Review
+### Work on the Project
 
 You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.** 
 
@@ -50,6 +50,34 @@ Once done with one person's code, send the code to your pair \(it's their projec
 {% hint style="info" %}
 Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
 {% endhint %}
+
+1. Fix Errors
+
+If there are any errors or bugs in a project, pair to fix those problems.
+
+1. Add features
+
+Your pair will turn the Scissors Paper Stone game into a super game. Add a mode for a new guess the secret word game. The user will type in "word game" to switch to this mode. The game itself will be the same as the game in the code example in [6.1](../6-conditional-logic/6.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
 ## More Comfortable
 
