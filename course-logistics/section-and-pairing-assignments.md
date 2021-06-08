@@ -8,11 +8,11 @@ description: Batch 8 (22 May - 3 Jul)
 
 | Days 1, 10 | Days 2, 11 | Days 3, 12 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aaron Abigail | Aaron Ameer | Aaron Brian | Aaron Diana | Aaron Eddy | Aaron CK | Aaron Leia | Aaron Matthew | Abigail Ameer |
-| Ameer Brian | Abigail Brian | Abigail Diana | Abigail CK | Abigail Matthew | Abigail Eddy | Ameer Eddy | Abigail Leia | Brian Eddy |
+| Aaron Hazel | Aaron Ameer | Aaron Brian | Aaron Diana | Aaron Eddy | Aaron CK | Aaron Leia | Aaron Matthew | Hazel Ameer |
+| Ameer Brian | Hazel Brian | Hazel Diana | Hazel CK | Hazel Matthew | Hazel Eddy | Ameer Eddy | Hazel Leia | Brian Eddy |
 | Diana Eddy | Diana CK | Ameer Matthew | Ameer Leia | Ameer CK | Ameer Diana | Brian CK | Brian Diana | Diana Leia |
 | CK Leia | Eddy Matthew | Eddy Leia | Brian Matthew | Brian Leia | Leia Matthew | Diana Matthew | Eddy CK | CK Matthew |
-| Matthew Nadia | Leia Nadia | CK Nadia | Eddy Nadia | Diana Nadia | Brian Nadia | Abigail Nadia | Ameer Nadia | Aaron Nadia |
+| Matthew Nadia | Leia Nadia | CK Nadia | Eddy Nadia | Diana Nadia | Brian Nadia | Hazel Nadia | Ameer Nadia | Aaron Nadia |
 
 ## Section 2 \(Yiqing\)
 
