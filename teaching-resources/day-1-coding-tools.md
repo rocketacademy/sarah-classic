@@ -18,7 +18,7 @@ Sorting out setup problems from students \(with VSCode or the terminal or folder
 
 Total Video Watch Time: **~48 mins**
 
-## [1.1: What is Coding?](../../1-introduction/1.1-what-is-coding.md)
+## [1.1: What is Coding?](../1-introduction/1.1-what-is-coding.md)
 
 ### Overview:
 
@@ -42,7 +42,7 @@ Car engine
 
 Input: Readings from engine sensors. Output: instructions to the engine parts \(i.e., fuel injectors, etc.\)
 
-## [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
+## [1.2: Web Browsers](../1-introduction/1.2-web-browsers.md)
 
 ### Overview
 
@@ -54,7 +54,7 @@ Did you know that basically every single thing you view in the browser window is
 
 Show this by opening a random webpage in the browser and right clicking **View Page Source**.
 
-## [2.1: Command Line](../../2-organising-and-managing-code-files/2.1-command-line.md)
+## [2.1: Command Line](../2-organising-and-managing-code-files/2.1-command-line.md)
 
 ### Overview
 
@@ -68,7 +68,7 @@ Q: Why are we learning the command line?
 
 A: We need to sue the command line to use Git.
 
-## [2.2: Git](../../2-organising-and-managing-code-files/2.2-git.md)
+## [2.2: Git](../2-organising-and-managing-code-files/2.2-git.md)
 
 ### Overview
 
@@ -90,13 +90,13 @@ Q: How would you define the difference between Git and the terminal?
 
 A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section 7.2 on browsing GitHub we'll see how we can navigate and copy and paste a previous version.
 
-### [3.1: Operations](../../3-basic-data-manipulation/3.1-operations.md)
+### [3.1: Operations](../3-basic-data-manipulation/3.1-operations.md)
 
 ### Overview
 
 This section is relatively intuitive. It is important to establish here that an **operation** is the smallest bit of computation we can start with. All other code we'll write stems from doing operations, though they may not all be with integers.
 
-## [3.2: Variables](../../3-basic-data-manipulation/3.2-variables.md)
+## [3.2: Variables](../3-basic-data-manipulation/3.2-variables.md)
 
 ### Overview
 
@@ -106,7 +106,7 @@ From operations we add in variables. Here it is important to re-emphasise the co
 
 A: Accurate representation is just as important as correct calculation.
 
-## [4.1: Intro to GitHub](../../4-getting-started-with-code/4.1-intro-to-github.md)
+## [4.1: Intro to GitHub](../4-getting-started-with-code/4.1-intro-to-github.md)
 
 ### Overview
 
@@ -118,7 +118,7 @@ It is a common misconception to confuse what Git and GitHub are responsible. To 
 
 A: It copies a cloud \(remote\) repo from one GitHub account into your own account.
 
-## [4.2: Our First Program](../../4-getting-started-with-code/4.2-our-first-program.md)
+## [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md)
 
 #### Overview
 
@@ -145,7 +145,7 @@ var main = function (input) {
 
 ## In-Class Material
 
-#### [Day 1: Basic File and Data Manipulation](../../class-exercises/day-1-basic-file-and-data-manipulation.md)
+#### [Day 1: Basic File and Data Manipulation](../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
 
 #### Overview
 

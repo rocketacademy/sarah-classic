@@ -21,20 +21,20 @@
 * [Project 2: Beat That!](projects/project-2-beat-that.md)
 * [Project 3: Blackjack](projects/project-3-blackjack.md)
 
-## Class Exercises
+## In-Class Exercises
 
-* [Day 1: Basic File and Data Manipulation](class-exercises/day-1-basic-file-and-data-manipulation.md)
-* [Day 2: Functions](class-exercises/day-2-functions.md)
-* [Day 3: If Statements, Boolean Or, Boolean And](class-exercises/day-3-if-statements-boolean-or.md)
-* [Day 4: GitHub, Program State](class-exercises/day-4-boolean-and-program-state.md)
-* [Day 5: Scissors Paper Stone Redux](class-exercises/day-5-scissors-paper-stone-redux.md)
-* [Day 6: Loops](class-exercises/day-6-loops.md)
-* [Day 7: Arrays and Loops](class-exercises/day-7-arrays-and-loops.md)
-* [Day 8: Beat That Redux](class-exercises/day-8-beat-that-redux.md)
-* [Day 9: Moar Cards](class-exercises/day-9-moar-cards.md)
-* [Day 10: Chat Bot](class-exercises/day-10-chat-bot.md)
-* [Day 11: Blackjack Redux, Debugger](class-exercises/day-11-blackjack-redux-debugger.md)
-* [Day 12: DOM](class-exercises/day-12-dom.md)
+* [Day 1: Basic File and Data Manipulation](in-class-exercises/day-1-basic-file-and-data-manipulation.md)
+* [Day 2: Functions](in-class-exercises/day-2-functions.md)
+* [Day 3: If Statements, Boolean Or, Boolean And](in-class-exercises/day-3-if-statements-boolean-or.md)
+* [Day 4: GitHub, Program State](in-class-exercises/day-4-boolean-and-program-state.md)
+* [Day 5: Scissors Paper Stone Redux](in-class-exercises/day-5-scissors-paper-stone-redux.md)
+* [Day 6: Loops](in-class-exercises/day-6-loops.md)
+* [Day 7: Arrays and Loops](in-class-exercises/day-7-arrays-and-loops.md)
+* [Day 8: Beat That Redux](in-class-exercises/day-8-beat-that-redux.md)
+* [Day 9: Moar Cards](in-class-exercises/day-9-moar-cards.md)
+* [Day 10: Chat Bot](in-class-exercises/day-10-chat-bot.md)
+* [Day 11: Blackjack Redux, Debugger](in-class-exercises/day-11-blackjack-redux-debugger.md)
+* [Day 12: DOM](in-class-exercises/day-12-dom.md)
 
 ## 1: Introduction
 
@@ -107,17 +107,16 @@
 
 ## Teaching Resources
 
-* [🧑‍🏫 Teacher's Guide](teaching-resources/teachers-guide/README.md)
-  * [Day 1: Coding Tools](teaching-resources/teachers-guide/day-1-coding-tools.md)
-  * [Day 2: Functions](teaching-resources/teachers-guide/day-2-functions.md)
-  * [Day 3: Logic 1](teaching-resources/teachers-guide/day-3-logic-1.md)
-  * [Day 4: Logic 2, State 1](teaching-resources/teachers-guide/day-4-logic-2-state-1.md)
-  * [Day 5: State 2](teaching-resources/teachers-guide/day-5-state-2.md)
-  * [Day 6](teaching-resources/teachers-guide/day-6.md)
-  * [Day 7](teaching-resources/teachers-guide/day-7.md)
-  * [Day 8](teaching-resources/teachers-guide/day-8.md)
-  * [Day 9](teaching-resources/teachers-guide/day-9.md)
-  * [Day 10](teaching-resources/teachers-guide/day-10.md)
-  * [Day 11](teaching-resources/teachers-guide/day-11.md)
-  * [Day 12](teaching-resources/teachers-guide/day-12.md)
+* [Day 1: Coding Tools](teaching-resources/day-1-coding-tools.md)
+* [Day 2: Functions](teaching-resources/day-2-functions.md)
+* [Day 3: Logic 1](teaching-resources/day-3-logic-1.md)
+* [Day 4: Logic 2, State 1](teaching-resources/day-4-logic-2-state-1.md)
+* [Day 5: State 2](teaching-resources/day-5-state-2.md)
+* [Day 6: Arrays, Loops 1](teaching-resources/day-6.md)
+* [Day 7: Loops 2](teaching-resources/day-7.md)
+* [Day 8: Objects](teaching-resources/day-8.md)
+* [Day 9: Card Logic](teaching-resources/day-9.md)
+* [Day 10: Coding Strategies](teaching-resources/day-10.md)
+* [Day 11: Debugger](teaching-resources/day-11.md)
+* [Day 12: Project Presentations](teaching-resources/day-12.md)
 

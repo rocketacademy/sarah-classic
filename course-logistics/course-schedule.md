@@ -59,7 +59,7 @@ Total Video Watch Time: **~48 mins**
 Please \*do not\* attempt in-class material before class for all course days, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.
 {% endhint %}
 
-* [Day 1: Basic File and Data Manipulation](../class-exercises/day-1-basic-file-and-data-manipulation.md)
+* [Day 1: Basic File and Data Manipulation](../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
 
 ### Day 2: Functions
 
@@ -73,7 +73,7 @@ Total Video Watch Time: **~25 mins**
 
 #### In-Class Material
 
-* [Day 2: Functions](../class-exercises/day-2-functions.md)
+* [Day 2: Functions](../in-class-exercises/day-2-functions.md)
 
 ### **Day 3: Logic 1**
 
@@ -87,7 +87,7 @@ Total Video Watch Time: **~40 mins**
 
 #### In-Class Material
 
-* [Day 3: If Statements, Boolean Or, And](../class-exercises/day-3-if-statements-boolean-or.md)
+* [Day 3: If Statements, Boolean Or, And](../in-class-exercises/day-3-if-statements-boolean-or.md)
 
 #### Post-Class Material
 
@@ -113,7 +113,7 @@ Total Video Watch Time: **~41 mins**
 
 #### In-Class Material
 
-* [Day 4: Boolean And, GitHub, Program State](../class-exercises/day-4-boolean-and-program-state.md)
+* [Day 4: Boolean And, GitHub, Program State](../in-class-exercises/day-4-boolean-and-program-state.md)
 
 **Post-Class Material**
 
@@ -138,7 +138,7 @@ Total Video Watch Time: **~17 mins**
 
 #### In-Class Material
 
-* [Day 5: Scissors Paper Stone Redux](../class-exercises/day-5-scissors-paper-stone-redux.md)
+* [Day 5: Scissors Paper Stone Redux](../in-class-exercises/day-5-scissors-paper-stone-redux.md)
 
 #### Post-Class: Begin Project
 
@@ -156,7 +156,7 @@ Total Video Watch Time: **~41 mins**
 
 #### In-Class Material
 
-* [Day 6: Loops](../class-exercises/day-6-loops.md)
+* [Day 6: Loops](../in-class-exercises/day-6-loops.md)
 
 ### **Day 7: Loops 2**
 
@@ -168,7 +168,7 @@ Total Video Watch Time: **~11 mins**
 
 #### In-Class Material
 
-* [Day 7: Loops and Arrays](../class-exercises/day-7-arrays-and-loops.md)
+* [Day 7: Loops and Arrays](../in-class-exercises/day-7-arrays-and-loops.md)
 
 ### Day 8: Objects
 
@@ -184,7 +184,7 @@ Total Video Watch Time: **~15 mins**
 
 #### In-Class Material
 
-* [Day 8: Dice Game Redux](../class-exercises/day-8-beat-that-redux.md)
+* [Day 8: Dice Game Redux](../in-class-exercises/day-8-beat-that-redux.md)
 
 #### Post-Class: Begin Project
 
@@ -200,7 +200,7 @@ Total Video Watch Time: **~16 mins**
 
 #### In-Class Material
 
-* [Day 9: Moar Cards](../class-exercises/day-9-moar-cards.md)
+* [Day 9: Moar Cards](../in-class-exercises/day-9-moar-cards.md)
 
 ### Day 10: Coding Strategies
 
@@ -212,7 +212,7 @@ Total Video Watch Time: **~60 mins**
 
 #### In-Class Material
 
-* [Day 10: Chat Bot](../class-exercises/day-10-chat-bot.md)
+* [Day 10: Chat Bot](../in-class-exercises/day-10-chat-bot.md)
 
 ### Day 11: Debugger
 
@@ -229,7 +229,7 @@ Total Video Watch Time: **~18 mins**
 
 #### In-Class Material
 
-* [Day 11: Blackjack Redux and Debugger](../class-exercises/day-11-blackjack-redux-debugger.md)
+* [Day 11: Blackjack Redux and Debugger](../in-class-exercises/day-11-blackjack-redux-debugger.md)
 
 #### Post-Class: Begin Project
 
