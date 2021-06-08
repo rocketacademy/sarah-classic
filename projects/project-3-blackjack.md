@@ -84,6 +84,16 @@ Enable multiple players to play against the dealer, where players can take turns
 
 Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
 
+## Submit
+
+[Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
+
+[Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
+
+Please leave your name and section number in the _**title**_ of the pull request.
+
+Please fill in the questionnaire in the pull request comments when you submit.
+
 ## Reference Solution
 
 The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.

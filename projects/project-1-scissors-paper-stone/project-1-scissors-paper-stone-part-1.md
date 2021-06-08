@@ -49,7 +49,15 @@ You decide to prank your friends and create an SPS game where the rules are reve
 
 ## Submit
 
-[Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit. Congrats on submitting your first project!
+[Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
+
+[Create a pull request](../../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
+
+Please leave your name and section number in the _**title**_ of the pull request.
+
+Please fill in the questionnaire in the pull request comments when you submit.
+
+Congrats on submitting your first project!
 
 ## Reference Solution
 

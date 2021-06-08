@@ -68,7 +68,11 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 
 ## Submit
 
-[Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. Please make a copy of the questionnaire in the pull request comments when you submit.
+[Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
+
+Any subsequent commits you push will be added to your previous pull request automatically.
+
+Please make a copy of the questionnaire in the pull request comments when you submit.
 
 ## Reference Solution
 
