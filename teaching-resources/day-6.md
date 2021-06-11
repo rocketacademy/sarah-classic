@@ -2,7 +2,7 @@
 
 ## Overview
 
-This day is split between two subjects that will be synthesized in the next meeting.
+This day is split between two subjects that we will be synthesized in the next meeting.
 
 Arrays express the idea of a value made up of discrete composite values, in the way a week is composed of days, or a book of pages. This section introduces the array as a type of value. It doesn't introduce the code needed to iterate over an arbitrary sized array yet.
 
@@ -75,6 +75,8 @@ var main = function (input) {
 ```
 
 #### Q: What does this code do?
+
+\(Note this code doesn't do a lot yet without a loop to get the data back out. Remind the students we'll be doing this next\).
 
 #### Q: `push` is the way we can put values in the array. How do we take them out?
 
