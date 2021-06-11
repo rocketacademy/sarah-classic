@@ -133,8 +133,8 @@ We may want to review [8.2: Program State for Game Modes](../8-managing-state-an
 
 Total Video Watch Time: **~17 mins**
 
-* [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
 * [8.3: Input Validation](../8-managing-state-and-input-validation/8.3-input-validation.md)
+* [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
 
 #### In-Class Material
 
@@ -150,9 +150,9 @@ Total Video Watch Time: **~17 mins**
 
 Total Video Watch Time: **~41 mins**
 
+* [Coding Strategies](coding-strategies.md)
 * [9.1: Arrays](../9-arrays-and-iteration/9.1-arrays.md)
 * [9.2: Loops](../9-arrays-and-iteration/9.2-loops.md)
-* [Coding Strategies](coding-strategies.md)
 
 #### In-Class Material
 

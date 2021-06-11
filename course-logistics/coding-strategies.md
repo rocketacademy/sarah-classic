@@ -12,7 +12,7 @@ There are two main aspects to this process:
 
 * Do you understand the problem from a programatic perspective?
 * Do you understand what its purpose is?
-* Do you understand the logic of the application itself? \(i.e., a recipe app understands what a liter is\)
+* Do you understand the logic of the application itself? \(i.e., a recipe app understands what a liter of liquid is\)
 
 ### 2\) Strategize which part to concentrate on
 
@@ -20,7 +20,7 @@ Start with the beginning of the program first.
 
 Start with the "Minimum Viable Product"
 
-Leave aside the features of the overall program that are not core to it's purpose.
+Leave aside the features of the overall program that are not core to its purpose.
 
 Strategize about how you can fake other parts of the program. \(Can you fake a random dice roll by starting with a value that is always 4?\)
 
@@ -40,7 +40,7 @@ Strategize about how you can fake other parts of the program. \(Can you fake a r
 
 {% embed url="https://www.youtube.com/watch?v=C7zIy38my94" caption="" %}
 
-A program is a sum of it's parts.
+A program is a sum of its parts.
 
 A modern computer system is incredibly complex and it's impossible to understand what goes on at every level.
 
