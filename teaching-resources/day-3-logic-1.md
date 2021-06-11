@@ -147,8 +147,8 @@ A: They both work the same. In this example I can see what is going to happen in
 
 ```javascript
 var main = function (input) {
-  var randomDiceNumber1 = diceRoll();
-  var randomDiceNumber2 = diceRoll();
+  var randomDiceNumber1 = rollDice();
+  var randomDiceNumber2 = rollDice();
   // The default output value is "you lose".
   var myOutputValue = 'you lose';
   // If the input matches both random dice numbers, output value is "you win".
@@ -171,8 +171,8 @@ A: Change the equality `==` operator to not equal `!=`.
 
 ```javascript
 var main = function (input) {
-  var randomDiceNumber1 = diceRoll();
-  var randomDiceNumber2 = diceRoll();
+  var randomDiceNumber1 = rollDice();
+  var randomDiceNumber2 = rollDice();
   // The default output value is "you lose".
   var myOutputValue = 'you lose';
   // If the input matches both random dice numbers, output value is "you win".
@@ -185,7 +185,7 @@ var main = function (input) {
 
 #### Q: How can I test to make sure that getting snake eyes causes me to lose?
 
-A: Hard code `diceRoll` to return 1.
+A: Hard code `rollDice` to return 1.
 
 #### Q: Make a change to the code so I only win when I get snake eyes.
 
