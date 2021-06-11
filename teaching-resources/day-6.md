@@ -54,6 +54,8 @@ letters[9]
 
 #### Q: After defining letters as the previous example, what happens when we try to access an element that doesn't exist?
 
+A: Trying to access an index that doesn't exist will give back the value `undefined`.
+
 ```javascript
 // Store guesses in a global array that persists across Submits.
 var guesses = [];
