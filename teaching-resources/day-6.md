@@ -116,9 +116,9 @@ var main = function (input) {
 
 #### Q: What does the above code do?
 
-#### Q: How can we have the above code example run the console.log 100 times?
+#### Q: How can we have the above code example run the `console.log` 100 times?
 
-#### Q: \(Starting from the original code\) What if we set the starting value of `counter` to two instead of zero?
+#### Q: \(Starting from the original code\) What if we set the starting value of `counter` to two instead of zero? What happens if the user types in a value above two?
 
 #### Q: \(Starting from the original code\) What if we increment the value of `counter` by three instead of one? On line 8: `counter = counter + 3;`
 
@@ -142,6 +142,8 @@ var main = function (input) {
 ```
 
 #### Q: What does the above code do?
+
+#### Q: What happens if the comparison is reversed?  `if (counter > 5) {`
 
 ```javascript
 var main = function (input) {
