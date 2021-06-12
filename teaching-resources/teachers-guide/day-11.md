@@ -4,7 +4,7 @@
 
 [Project 3: Blackjack](../../projects/project-3-blackjack.md)
 
-### Pre-Class Material
+## Pre-Class Material
 
 Total Video Watch Time: **~18 mins**
 
@@ -12,10 +12,11 @@ Total Video Watch Time: **~18 mins**
 
 [12.3: Project Deployment](../../12-next-steps/12.3-deployment.md)
 
-### In-Class Material
+## In-Class Material
 
 [Day 11: Blackjack Redux and Debugger](../../in-class-exercises/day-11-blackjack-redux-debugger.md)
 
-### Post-Class: Begin Project
+## Post-Class: Begin Project
 
 [Project 3: Blackjack \(More Comfortable\)](../../projects/project-3-blackjack.md#more-comfortable)
+

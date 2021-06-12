@@ -6,7 +6,7 @@
 
 Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment](../../12-next-steps/12.3-deployment.md)
 
-### Pre-Class Material
+## Pre-Class Material
 
 Total Video Watch Time: **~22 mins**
 
@@ -14,7 +14,7 @@ Total Video Watch Time: **~22 mins**
 
 [12.2: HTML, CSS Review](../../12-next-steps/12.2-html-css-review.md)
 
-### In-Class Material
+## In-Class Material
 
 [Project presentations](../../course-logistics/course-methodology.md#project-presentations)
 
@@ -23,3 +23,4 @@ Course feedback and reviews
 LinkedIn certificate presentations
 
 Class photo 🥳
+

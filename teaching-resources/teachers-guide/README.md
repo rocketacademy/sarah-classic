@@ -14,6 +14,18 @@ When speaking about code, also demonstrate what you are talking about. Don't lea
 
 Try to let the students talk and explain more than you are.
 
+#### Tips for demonstrating:
+
+Be sure of the context of the current day. Don't jump ahead by demonstrating syntax the students haven't seen before.
+
+Consider changing the theme of VSCode for demonstrating code to the _**light theme**_.
+
+```text
+In VS Code, open the Color Theme picker with File > Preferences > Color Theme. (Code > Preferences > Color Theme on macOS).
+```
+
+[https://code.visualstudio.com/docs/getstarted/themes](https://code.visualstudio.com/docs/getstarted/themes)
+
 #### TIps to remember during pairing:
 
 If, according to the pairing schedule, one in a pair is missing, use your judgement to pair them up with others.

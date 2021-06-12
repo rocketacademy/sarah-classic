@@ -194,3 +194,4 @@ Next we'll put the loop and array together. The integer location of the index an
 _We want to plant the idea of the equivalence of the loop counter and the array index in students minds so that they have some time to wrap their head around the ideas. If students are struggling with the idea of their code manipulating data, this concept of a loop that adjusts dynamically for the size of the array is one of the more difficult concepts for them to use in their code._
 
 In the next meeting we'll also review the completed dice project.
+
