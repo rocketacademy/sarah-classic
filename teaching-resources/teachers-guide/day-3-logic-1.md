@@ -127,9 +127,9 @@ var main = function (input) {
 
   // If input matches randomDiceNumber, update output.
   var didUserWin = input == randomDiceNumber;
-  
-  console.log( 'boolean operation result: '+didUserWin );
-  
+
+  console.log('boolean operation result: ' + didUserWin);
+
   if (didUserWin) {
     myOutputValue = 'you win';
   }
@@ -176,7 +176,11 @@ var main = function (input) {
   // The default output value is "you lose".
   var myOutputValue = 'you lose';
   // If the input matches both random dice numbers, output value is "you win".
-  if (randomDiceNumber1 == input && randomDiceNumber2 == input && !(randomDiceNumber1 == 1 && randomDiceNumber2 == 1)) {
+  if (
+    randomDiceNumber1 == input &&
+    randomDiceNumber2 == input &&
+    !(randomDiceNumber1 == 1 && randomDiceNumber2 == 1)
+  ) {
     myOutputValue = 'you win';
   }
   return myOutputValue;
@@ -204,4 +208,3 @@ Introduce the project. SPS is split into two parts. The second part will use glo
 Make sure everyone understands when the project is due.
 
 [Project 1: Scissors Paper Stone \(Part 1\)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
-

@@ -14,10 +14,10 @@ In the previous session the students were introduced to the idea of pairing and 
 
 To begin, reiterate the big ideas behind pairing because the students only heard them once before:
 
-* Learning directly from a peer helps with understanding.
-* The best way to fully know something is to have to explain it.
-* Pairing is a collaborative experience that should involve a lot of communicating and talking.
-* Both people are focused on the same task. Not one person typing, another person Googling.
+- Learning directly from a peer helps with understanding.
+- The best way to fully know something is to have to explain it.
+- Pairing is a collaborative experience that should involve a lot of communicating and talking.
+- Both people are focused on the same task. Not one person typing, another person Googling.
 
 Then, introduce the social rules. Briefly mention each one. No need to read the whole thing. Ask them to read it if they haven't already. Remind students that these are just some pitfalls when working closely with others and are not actually rules, and that they mostly boil down to, be considerate.
 
@@ -35,10 +35,10 @@ A: In a lot of situations in everyday life people can purposefully or inadverten
 
 The Basics curriculum is trying to emphasize functions as the most important unit of computation. Because a game will naturally have some global values we also have to introduce those, but the idea is that when the computer must do something the easiest way to think about it is wrapped in a function.
 
- There are a few key ideas that students should take away:
+There are a few key ideas that students should take away:
 
-* functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value \(the return value\). Clear naming is key to writing a good function.
-* writing code that decomposes into input \(parameters\) and output \(return value\) is much easier to reason about than code that deals with multiple global values. Therefore, we should try to emphasize writing functions that take input and return values.
+- functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value \(the return value\). Clear naming is key to writing a good function.
+- writing code that decomposes into input \(parameters\) and output \(return value\) is much easier to reason about than code that deals with multiple global values. Therefore, we should try to emphasize writing functions that take input and return values.
 
 #### Discussion Questions
 
@@ -154,4 +154,3 @@ A: Related to above, if you don't catch errors one at a time it is impossible to
 After functions are covered students can make basic calculations and format strings. We've introduced another wrinkle into naming things, which is to name functions as action \(verb\) that also expresses some data value. Clear representation is more important than ever.
 
 It's still early days and the programs are still very simple. Next we add in another kind of control flow, conditions. This is the point at which the code can actually make decisions. When we add in this branching logic things become a lot more complex. In fact logic as a topic on it's own is huge, but we'll be able to apply some simple concepts that are very intuitive for our purposes.
-

@@ -9,4 +9,3 @@ Total Video Watch Time: **~16 mins**
 ### In-Class Material
 
 [Day 9: Moar Cards](../../in-class-exercises/day-9-moar-cards.md)
-

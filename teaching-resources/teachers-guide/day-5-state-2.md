@@ -42,32 +42,31 @@ A: Numbers can do math operations. Strings can be combined together `"cats" + "d
 
 #### Q: \(Run these in the dev tools console\). What value is the result of each of these statements?
 
-A: 1\)  NaN. 2\) 888
+A: 1\) NaN. 2\) 888
 
 #### Q: Why do we get these values?
 
 A: We wrote code for a math operation that does not result in a number. The other is a number value so multiplication works fine.
 
 ```javascript
-var main = function(input){
-
+var main = function (input) {
   var miles = Number(input);
-  
-  console.log("is NaN: " + Number.isNaN(miles));
-  
+
+  console.log('is NaN: ' + Number.isNaN(miles));
+
   if (Number.isNaN(Number(input))) {
     return 'sorry please enter a number.';
   }
-  
-  var kilometers = miles * 1.6; 
+
+  var kilometers = miles * 1.6;
   var myOutputValue = 'Your input in kilometers is: ' + kilometers;
   return myOutputValue;
-}
+};
 ```
 
 #### Q: What does the above code do?
 
-A: Checks what the user typed to make sure they typed a number. If they didn't, let them know. 
+A: Checks what the user typed to make sure they typed a number. If they didn't, let them know.
 
 #### Q: Is there anything better in the above code about doing return on line 8 instead of doing else?
 
@@ -121,7 +120,7 @@ A: This is a trick question because the code does not look to match the value 'b
 
 #### Q: Right now an english description of what the program does might be: "When the button gets clicked show the appropriate quote. If the mode switching word is typed in, change the mode and show that mode's quote."
 
-#### What change would we make to the code if we wanted the behaviour to be: "When the button gets clicked show the appropriate quote.  If the mode switching word is typed in, change the mode. Show that mode's quote the next time the button gets clicked." 
+#### What change would we make to the code if we wanted the behaviour to be: "When the button gets clicked show the appropriate quote. If the mode switching word is typed in, change the mode. Show that mode's quote the next time the button gets clicked."
 
 A: We can move the conditions that check the user input to _**after**_ the condition that looks for the mode global. The pseudo code might look like:
 
@@ -129,12 +128,12 @@ A: We can move the conditions that check the user input to _**after**_ the condi
 // set the default green message
 
 // if the mode is blue
-    // set the blue message
+// set the blue message
 
 // see if we are changing to green mode
-    // change mode
+// change mode
 // see if we are changing to blue mode
-    // change mode
+// change mode
 
 // return the message
 ```
@@ -253,5 +252,4 @@ Put the students in their breakout room pairs.
 
 ## Look Ahead / Wrap Up
 
-Next we're moving on to arrays, which further expand the data we'll use. We'll also see loops control flow, which execute code a given number of times. The meeting after that, we'll combine the two together. 
-
+Next we're moving on to arrays, which further expand the data we'll use. We'll also see loops control flow, which execute code a given number of times. The meeting after that, we'll combine the two together.

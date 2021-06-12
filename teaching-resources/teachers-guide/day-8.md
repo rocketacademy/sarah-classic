@@ -17,4 +17,3 @@ Total Video Watch Time: **~15 mins**
 ### Post-Class: Begin Project
 
 [Project 3: Blackjack](../../projects/project-3-blackjack.md)
-

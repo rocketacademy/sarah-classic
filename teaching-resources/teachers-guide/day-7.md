@@ -9,4 +9,3 @@ Total Video Watch Time: **~11 mins**
 ### In-Class Material
 
 [Day 7: Loops and Arrays](../../in-class-exercises/day-7-arrays-and-loops.md)
-

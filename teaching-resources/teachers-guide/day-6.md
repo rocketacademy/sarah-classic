@@ -24,7 +24,7 @@ Total Video Watch Time: **~41 mins**
 
 #### Discussion Questions
 
-#### Q: What are the three ways to approach a problem? Describe which step you get stuck on the most so far. 
+#### Q: What are the three ways to approach a problem? Describe which step you get stuck on the most so far.
 
 #### Q: Describe one time that fixing an error updated your mental model / helped you understand your code and/or JavaScript better.
 
@@ -49,7 +49,7 @@ var letters = ['a', 'b', 'c'];
 #### Q: \(Paste the above code into the console\). How would we access 'b'?
 
 ```javascript
-letters[9]
+letters[9];
 ```
 
 #### Q: After defining letters as the previous example, what happens when we try to access an element that doesn't exist?
@@ -92,13 +92,13 @@ var counter = 0;
 // Set the while loop condition to continue when counter is less than 10.
 while (counter < 10) {
   // Log hello with each iteration of the loop.
-  console.log('hello '+counter);
+  console.log('hello ' + counter);
   // Increment the counter by 1 at the end of each loop iteration.
   counter = counter + 1;
 }
 ```
 
-#### Q: What does the above code do? \(Have the student answer before pasting this code into the dev tools console\). 
+#### Q: What does the above code do? \(Have the student answer before pasting this code into the dev tools console\).
 
 ```javascript
 var main = function (input) {
@@ -143,7 +143,7 @@ var main = function (input) {
 
 #### Q: What does the above code do?
 
-#### Q: What happens if the comparison is reversed?  `if (counter > 5) {`
+#### Q: What happens if the comparison is reversed? `if (counter > 5) {`
 
 ```javascript
 var main = function (input) {
@@ -169,7 +169,7 @@ var main = function (input) {
 
 #### Q: What does the above code do?
 
-#### Q: What is the result of: `4 % 2`? What about  `5 % 2`?
+#### Q: What is the result of: `4 % 2`? What about `5 % 2`?
 
 A:0,1.
 
@@ -194,4 +194,3 @@ Next we'll put the loop and array together. The integer location of the index an
 _We want to plant the idea of the equivalence of the loop counter and the array index in students minds so that they have some time to wrap their head around the ideas. If students are struggling with the idea of their code manipulating data, this concept of a loop that adjusts dynamically for the size of the array is one of the more difficult concepts for them to use in their code._
 
 In the next meeting we'll also review the completed dice project.
-

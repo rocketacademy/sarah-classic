@@ -9,4 +9,3 @@ Total Video Watch Time: **~60 mins**
 ### In-Class Material
 
 [Day 10: Chat Bot](../../in-class-exercises/day-10-chat-bot.md)
-
