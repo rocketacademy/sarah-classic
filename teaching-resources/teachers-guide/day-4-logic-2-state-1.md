@@ -14,7 +14,7 @@ This day also introduces the GitHub project submission workflow.
 
 Total Video Watch Time: **~41 mins**
 
-## [7.1: GitHub Fork and Pull Request](../7-github/7.1-github-fork-and-pull-request.md)
+## [7.1: GitHub Fork and Pull Request](../../7-github/7.1-github-fork-and-pull-request.md)
 
 ### Overview
 
@@ -74,7 +74,7 @@ A: 1\) Fork the project repo. 2\) Clone the project repo. 3\) Make local changes
 
 A: No. All the changes you pushed to your repo will appear in the pull request.
 
-## [7.2: GitHub Navigation](../7-github/7.2-github-repo-browsing.md)
+## [7.2: GitHub Navigation](../../7-github/7.2-github-repo-browsing.md)
 
 ### Overview
 
@@ -86,7 +86,7 @@ There are Git command line commands that will get back any version from a commit
 
 **Q: Ask a student to share screen and navigate to a repo they have pushed changes to. They should have a least one if they followed the exercise in 7.1. Ask to see the list of commits. Ask to see the diff of a single commit by clicking into the single commit.** 
 
-## \*\*\*\*[8.1: Program Lifecycle and Global State](../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
+## \*\*\*\*[8.1: Program Lifecycle and Global State](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
 
 ### Overview
 
@@ -125,7 +125,7 @@ A: This does change the behavior. The original version of this code adds a papay
 
 ### In-Class Material
 
-Review Project 1 [Day 4: Boolean And, GitHub, Program State](../in-class-exercises/day-4-boolean-and-program-state.md)
+Review Project 1 [Day 4: Boolean And, GitHub, Program State](../../in-class-exercises/day-4-boolean-and-program-state.md)
 
 ### **Wrap-up / Look Ahead**
 
@@ -137,5 +137,5 @@ This part of SPS uses global state to build in more features of the game. To do 
 
 In the next meeting we'll be doing peer review of the SPS code.
 
-[Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
+[Project 1.5: Scissors Paper Stone 2](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
