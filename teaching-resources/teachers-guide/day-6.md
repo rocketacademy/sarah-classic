@@ -14,7 +14,7 @@ We also cover coding strategies. The reason we don't cover this right away is so
 
 [Beat That](../../projects/project-2-beat-that.md)
 
-Remind the students to make a pull request before the next meeting.
+Remind the students to continue working on the Beat That project and submit a pull request before next Saturday's meeting.
 
 ## Pre-Class Material
 
