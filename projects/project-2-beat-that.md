@@ -45,7 +45,7 @@ Keep score for each player. The score is the running sum of all numbers that pla
 
 ### Leaderboard
 
-When outputting game results in the output box, also output a leaderboard that lists the players and their scores in decreasing rank order.
+When outputting game results in the output box, also output a leaderboard that lists the players and their scores \(in any order\).
 
 ### Auto-Choose
 
@@ -92,13 +92,10 @@ Create a mode where if there are more than 2 players, the game can match players
 
 ## Submit
 
-[Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
-
-[Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
-
-Please leave your name and section number in the _**title**_ of the pull request.
-
-Please fill in the questionnaire in the pull request comments when you submit.
+1. [Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
+2. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
+3. Please leave your name and section number in the _**title**_ of the pull request.
+4. Please fill in the questionnaire in the pull request comments when you submit.
 
 ## Reference Solution
 
