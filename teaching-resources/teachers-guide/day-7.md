@@ -30,9 +30,9 @@ var main = function (input) {
 };
 ```
 
-Review questions:
+#### Review questions:
 
-Q: What is the value of counter of the the life of the loop?
+#### Q: What is the value of `counter` over the the life of the loop?
 
 A: 0,1,2,3
 
@@ -52,15 +52,15 @@ var main = function (input) {
 };
 ```
 
-Q: How can we change this loop code to `console.log` letters **a**,**b** and **c** in the `letters` array? How and why does this code work?
+#### Q: How can we change this loop code to `console.log` letters **a**,**b** and **c** in the `letters` array? How and why does this code work?
 
 A: `console.log( letters[counter] );`
 
-Q: How can we change the loop so that it will console.log every letter in the array?
+#### Q: How can we change the loop so that it will console.log every letter in the array?
 
 A:  `while (counter < 6)`
 
-Q: Is there a way to refactor this code to directly link the loop condition and the array?
+#### Q: Is there a way to refactor this code to directly link the loop condition and the array?
 
 A:  `while (counter < letters.length)`
 
@@ -78,11 +78,11 @@ var main = function (input) {
 };
 ```
 
-**Q: What does the above code do?**
+#### **Q: What does the above code do?**
 
-**A: Puts a name into the list and displays the list.**
+A: Puts a name into the list and displays the list.
 
-**Q: Before we look at the solution below, how could we stop duplicate names from getting into the list?**
+#### **Q: Before we look at the solution below, how could we stop duplicate names from getting into the list?**
 
 ```javascript
 // Initialise an empty names array
@@ -114,9 +114,13 @@ var main = function (input) {
 };
 ```
 
-**Q: The above set of code makes sure that we are not putting in a duplicate name. How does it work?** 
+#### **Q: The above set of code makes sure that we are not putting in a duplicate name. How does it work?** 
 
 ## In-Class Material
 
-[Day 7: Loops and Arrays](../../in-class-exercises/day-7-arrays-and-loops.md)
+### [Day 7: Loops and Arrays](../../in-class-exercises/day-7-arrays-and-loops.md)
+
+## Wrap-Up / Look Ahead
+
+Each new syntax and concept we see the amount of data our progams are capable are handing grows. Next we'll see the last new JavaScript syntax we'll cover in Basics. This is a new kind of data that, similar to arrays is a collection of single pieces of data- objects. Objects are special because they are a collection of _**different**_ types of data.
 
