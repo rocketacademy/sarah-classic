@@ -124,6 +124,10 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 5. Restart VSCode to apply our settings.
 6. Open and save the settings file again and verify that Prettier auto-formats it as our default formatter.
 
+{% hint style="warning" %}
+Windows users: The following code assumes we installed our Git folder at the root of our C drive. Some students' installers install the Git folder elsewhere, for example in `C:\\Program Files (x86)`. If your installed Git folder is not in the root of your C drive, please update the paths to the Git folder below to reference the location of your Git folder. 
+{% endhint %}
+
 ```text
 {
 	"editor.formatOnSave": true,
@@ -132,7 +136,6 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 	"editor.tabSize": 2,
 	"editor.wordWrap": "on",
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"window.zoomLevel": 2,
 	"terminal.integrated.shell.windows": "C:\\Git\\bin\\bash.exe",
 	"terminal.integrated.defaultProfile.windows": "Git Bash",
 	"terminal.integrated.profiles.windows": {
