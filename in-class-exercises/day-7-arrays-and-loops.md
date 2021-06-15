@@ -35,11 +35,22 @@ var madLib = `"Yabadabadoo!" he said gleefully as he jumped into his convertible
 
 1. Create a Mad Lib with blanks to fill. Feel free to use the example Mad Lib from Wikipedia \(above\) or create your own.
 2. If you are using the example Mad Lib, insert fixed words for exclamation, adverb and noun, and leave the adjective field blank. If you are using your own Mad Lib, leave 1 adjective field blank. In your code, this may look like the Example Mad Lib in Code above.
-3. When the Basics Starter Code app loads, the user can input 1 or more adjectives to store in the app. You can decide whether to let the user input more than 1 word with each Submit. To input more than 1 word for each Submit, we can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref_split.asp) for details. Store the user-inputted adjectives in an array.
-4. When the user inputs "create", change the game mode to create mode. In create mode, each Submit prompts the app to complete your Mad Lib with a random adjective from the user-inputted adjectives list and output the completed Mad Lib in the output box.
-5. When the user inputs "input", change the game mode to input mode. In input mode, the user can continue to add adjectives to their adjectives list with each Submit. The user should be able to toggle infinitely between input and create modes to add adjectives and generate completed Mad Libs respectively.
+3. When the Basics Starter Code app loads, the user can input 1 adjective at a time to store in the app. Store the user-inputted adjectives in an array.
+4. When the user inputs "_create_" it prompts the app to complete your Mad Lib with a random adjective from the user-inputted adjectives list and output the completed Mad Lib in the output box.
 
 ## More Comfortable
+
+### Input and Create Mode
+
+When the Basics Starter Code app loads it starts in "input", or normal mode.
+
+In input mode, the user can add adjectives to their adjectives list with each Submit.
+
+When the user inputs "create", change the game mode to create mode. In create mode, each Submit prompts the app to complete your Mad Lib.
+
+### Input Multiple Words
+
+When the Basics Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref_split.asp) for details.
 
 ### Mad Libs Multiple Word Types
 
