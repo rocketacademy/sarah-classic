@@ -8,7 +8,7 @@ It's also true that an object represents any tabular data- rows in a spreadsheet
 
 Students will sometimes be confused about the idea of "holding" different types of data in a single variable value, that is, they won't be sure when to use an array or object. Refer back to the table in 10.1 to decide this.
 
-Sometimes assignment into a given key can look confusing: `card.rank = newRank;` or assigning a new key: `card.newKey = 99;`
+Sometimes assignment into a given key can look confusing: `card.rank = newRank;` or assigning a new key: `card.newKey = 99;` It may not be totally clear to students that square brackets in objects are different from square brackets for arrays. 
 
 ## Project Due
 
