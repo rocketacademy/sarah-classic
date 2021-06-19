@@ -81,5 +81,7 @@ Create a mode where if there are more than 2 players, the game can match players
 
 The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
-[https://github.com/rocketacademy/basics-beat-that/pull/10/files](https://github.com/rocketacademy/basics-beat-that/pull/10/files)
+1. [Base](https://github.com/rocketacademy/basics-beat-that/pull/10/files)
+2. [Variable Number of Dice](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-variableNumDice/script.js)
+3. [Variable Number of Players](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-variableNumPlayers/script.js)
 
