@@ -401,7 +401,7 @@ A: Add each emoji to each card object. \(This is inefficient but would make sens
 
 ## Post-Class: Begin Project
 
-## [Project 3: Blackjack](../../projects/project-3-blackjack.md)
+### [Project 3: Blackjack](../../projects/project-3-blackjack.md)
 
 This card game is the final project, the accumulation of everything we've learned. The core of this project is a card game that has some complexity to it, so we've given some instructions that should help break it down and make it easier.  
   
