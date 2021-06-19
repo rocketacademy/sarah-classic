@@ -401,7 +401,13 @@ A: Add each emoji to each card object. \(This is inefficient but would make sens
 
 ## Post-Class: Begin Project
 
-[Project 3: Blackjack](../../projects/project-3-blackjack.md)
+## [Project 3: Blackjack](../../projects/project-3-blackjack.md)
+
+This card game is the final project, the accumulation of everything we've learned. The core of this project is a card game that has some complexity to it, so we've given some instructions that should help break it down and make it easier.  
+  
+With any complex project it's important to break down a large goal into smaller sub-goals. This can be very challenging for new programmers, so this has been done ahead of time. It is _**very, very, strongly recommended**_ to follow the order of work that we've specified in the project page.
+
+Note that we've structures the schedule so that there is a peer-review code session _**before**_ the project deadline, so that you can get some feedback on your work and continue to work on the game.
 
 ## Wrap-Up / Look Ahead
 
