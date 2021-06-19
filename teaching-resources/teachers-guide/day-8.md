@@ -1,6 +1,6 @@
 # Day 8: Objects
 
-### Overview
+## Overview
 
 With objects we get to abstract and create our own definitions of what one value / variable / piece of data can be. In the case of our card example, we can choose to have integers \*and\* strings make up the definition of one card. We're creating an abstraction of what a card is, and also including data in our card that we'll need to calculate and display things. The exercise of defining object keys and data types is fundamentally an exercise in abstraction and encapsulation.
 
