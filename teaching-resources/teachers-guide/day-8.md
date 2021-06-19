@@ -1,6 +1,6 @@
 # Day 8: Objects
 
-## Overview
+### Overview
 
 With objects we get to abstract and create our own definitions of what one value / variable / piece of data can be. In the case of our card example, we can choose to have integers \*and\* strings make up the definition of one card. We're creating an abstraction of what a card is, and also including data in our card that we'll need to calculate and display things. The exercise of defining object keys and data types is fundamentally an exercise in abstraction and encapsulation.
 
@@ -18,7 +18,7 @@ Sometimes assignment into a given key can look confusing: `card.rank = newRank;`
 
 Total Video Watch Time: **~15 mins**
 
-## [10.1: JavaScript Objects](../../10-javascript-objects/10.1-javascript-objects.md)
+### [10.1: JavaScript Objects](../../10-javascript-objects/10.1-javascript-objects.md)
 
 ```javascript
 var cardDeck = ['nine of hearts', 'ten of hearts', 'jack of hearts'];
