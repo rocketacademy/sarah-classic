@@ -85,4 +85,5 @@ Please only refer to the reference solution after you have attempted the project
 2. [Auto-Generate Combined Number](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-autoGenerateCombinedNum/script.js) \(includes Score, Leaderboard, and Lowest Combined Number Mode\)
 3. [Variable Number of Dice](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-variableNumDice/script.js)
 4. [Variable Number of Players](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-variableNumPlayers/script.js)
+5. [Knockout mode](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-knockout/script.js)
 
