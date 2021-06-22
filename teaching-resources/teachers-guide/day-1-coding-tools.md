@@ -165,9 +165,9 @@ It's important that everyone is on the same page with the setup and command line
 
 Look out for people who don't have things setup according to the guidelines, such as:
 
-- no folder structure setup ahead of time
-- using a browser other than chrome
-- using some other setup besides the starter code like codepen.io
+* no folder structure setup ahead of time
+* using a browser other than chrome
+* using some other setup besides the starter code like codepen.io
 
 Be clear with the students that it's important to follow along with the setup as outlined so that in pairing everyone begins with the same context.
 
@@ -176,3 +176,4 @@ Keep note of any students who already seem lost or confused.
 ## **Look Ahead / Wrap-up**
 
 Our code doesn't do too much yet, we've named some values and done some calculations. THis is just the beginning. Next we'll see functions, which is a kind of control flow, a way to specify which groups of lines of code runs. We'll use this to build up our programs in pieces. After that we'll begin to talk about program logic with conditionals.
+

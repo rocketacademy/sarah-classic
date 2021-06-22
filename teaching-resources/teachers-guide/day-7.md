@@ -122,3 +122,4 @@ var main = function (input) {
 ## Wrap-Up / Look Ahead
 
 Each new syntax and concept we see the amount of data our progams are capable are handing grows. Next we'll see the last new JavaScript syntax we'll cover in Basics. This is a new kind of data that, similar to arrays is a collection of single pieces of data- objects. Objects are special because they are a collection of _**different**_ types of data.
+

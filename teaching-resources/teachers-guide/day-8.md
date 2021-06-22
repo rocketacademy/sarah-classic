@@ -414,3 +414,4 @@ Note that we've structures the schedule so that there is a peer-review code sess
 This section is the end of the main JavaScript syntaxes we'll cover. There are some others we haven't touched on, but the ones we have covered are the ones present in almost all programming languages, and are the most important. We now have all the most important tools needed to build almost any program.
 
 Moving forward from here we'll be covering more details on how to build our programs, doing some more complex example programs and more on how to debug, but we won't be introducing any new major JavaScript syntaxes.
+
