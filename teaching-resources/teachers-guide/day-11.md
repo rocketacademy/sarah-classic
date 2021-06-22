@@ -19,4 +19,3 @@ Total Video Watch Time: **~18 mins**
 ## Post-Class: Begin Project
 
 [Project 3: Blackjack \(More Comfortable\)](../../projects/project-3-blackjack.md#more-comfortable)
-

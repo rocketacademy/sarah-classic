@@ -20,9 +20,9 @@ Total Video Watch Time: **~11 mins**
 var main = function (input) {
   var myOutputValue = '';
   var counter = 0;
-  
+
   while (counter < 3) {
-    console.log( counter );
+    console.log(counter);
     myOutputValue = myOutputValue + 'yes';
     counter = counter + 1;
   }
@@ -37,14 +37,14 @@ var main = function (input) {
 A: 0,1,2,3
 
 ```javascript
-var letters = ['a','b','c','d','e','f'];
+var letters = ['a', 'b', 'c', 'd', 'e', 'f'];
 
 var main = function (input) {
   var myOutputValue = '';
   var counter = 0;
-  
+
   while (counter < 3) {
-    console.log( counter );
+    console.log(counter);
     myOutputValue = myOutputValue + 'yes';
     counter = counter + 1;
   }
@@ -58,18 +58,17 @@ A: `console.log( letters[counter] );`
 
 #### Q: How can we change the loop so that it will console.log every letter in the array?
 
-A:  `while (counter < 6)`
+A: `while (counter < 6)`
 
 #### Q: Is there a way to refactor this code to directly link the loop condition and the array?
 
-A:  `while (counter < letters.length)`
+A: `while (counter < letters.length)`
 
 ```javascript
 // Initialise an empty names array
 var names = [];
 
 var main = function (input) {
- 
   names.push(input);
 
   // Return the full array of names
@@ -91,7 +90,7 @@ var names = [];
 var main = function (input) {
   // Set a boolean value found to a default value of false
   var found = false;
-  
+
   // Loop over the names array, and set found to true if the input name already
   // exists in the names array
   var index = 0;
@@ -103,7 +102,7 @@ var main = function (input) {
     index = index + 1;
   }
 
-  // If no duplicate name was found, add the input name to the names array 
+  // If no duplicate name was found, add the input name to the names array
   if (!found) {
     names.push(input);
   }
@@ -114,7 +113,7 @@ var main = function (input) {
 };
 ```
 
-#### **Q: The above set of code makes sure that we are not putting in a duplicate name. How does it work?** 
+#### **Q: The above set of code makes sure that we are not putting in a duplicate name. How does it work?**
 
 ## In-Class Material
 
@@ -123,4 +122,3 @@ var main = function (input) {
 ## Wrap-Up / Look Ahead
 
 Each new syntax and concept we see the amount of data our progams are capable are handing grows. Next we'll see the last new JavaScript syntax we'll cover in Basics. This is a new kind of data that, similar to arrays is a collection of single pieces of data- objects. Objects are special because they are a collection of _**different**_ types of data.
-

@@ -208,4 +208,3 @@ Introduce the project. SPS is split into two parts. The second part will use glo
 Make sure everyone understands when the project is due.
 
 [Project 1: Scissors Paper Stone \(Part 1\)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
-

@@ -253,4 +253,3 @@ Put the students in their breakout room pairs.
 ## Look Ahead / Wrap Up
 
 Next we're moving on to arrays, which further expand the data we'll use. We'll also see loops control flow, which execute code a given number of times. The meeting after that, we'll combine the two together.
-

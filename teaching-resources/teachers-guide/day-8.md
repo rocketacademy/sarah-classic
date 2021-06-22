@@ -8,7 +8,7 @@ It's also true that an object represents any tabular data- rows in a spreadsheet
 
 Students will sometimes be confused about the idea of "holding" different types of data in a single variable value, that is, they won't be sure when to use an array or object. Refer back to the table in 10.1 to decide this.
 
-Sometimes assignment into a given key can look confusing: `card.rank = newRank;` or assigning a new key: `card.newKey = 99;` It may not be totally clear to students that square brackets in objects are different from square brackets for arrays. 
+Sometimes assignment into a given key can look confusing: `card.rank = newRank;` or assigning a new key: `card.newKey = 99;` It may not be totally clear to students that square brackets in objects are different from square brackets for arrays.
 
 ## Project Due
 
@@ -24,9 +24,9 @@ Total Video Watch Time: **~15 mins**
 var cardDeck = ['nine of hearts', 'ten of hearts', 'jack of hearts'];
 ```
 
-#### Q: For the code example above, what would be the pseudocode for getting the total of the ranks? 
+#### Q: For the code example above, what would be the pseudocode for getting the total of the ranks?
 
-A: 
+A:
 
 ```text
 // loop over the array
@@ -39,7 +39,7 @@ A:
 
 #### Q: What other card-like values could we use to represent the card deck? Are there issues with these other implementations?
 
-A: Array of numbers: `var cardDeck = [9,10,10];`  With this array we wouldn't know what the suit or name of the card is.
+A: Array of numbers: `var cardDeck = [9,10,10];` With this array we wouldn't know what the suit or name of the card is.
 
 #### Q: Why does an object solve these issues of representing a "card"?
 
@@ -403,8 +403,8 @@ A: Add each emoji to each card object. \(This is inefficient but would make sens
 
 ### [Project 3: Blackjack](../../projects/project-3-blackjack.md)
 
-This card game is the final project, the accumulation of everything we've learned. The core of this project is a card game that has some complexity to it, so we've given some instructions that should help break it down and make it easier.  
-  
+This card game is the final project, the accumulation of everything we've learned. The core of this project is a card game that has some complexity to it, so we've given some instructions that should help break it down and make it easier.
+
 With any complex project it's important to break down a large goal into smaller sub-goals. This can be very challenging for new programmers, so this has been done ahead of time. It is _**very, very, strongly recommended**_ to follow the order of work that we've specified in the project page.
 
 Note that we've structures the schedule so that there is a peer-review code session _**before**_ the project deadline, so that you can get some feedback on your work and continue to work on the game.
@@ -414,4 +414,3 @@ Note that we've structures the schedule so that there is a peer-review code sess
 This section is the end of the main JavaScript syntaxes we'll cover. There are some others we haven't touched on, but the ones we have covered are the ones present in almost all programming languages, and are the most important. We now have all the most important tools needed to build almost any program.
 
 Moving forward from here we'll be covering more details on how to build our programs, doing some more complex example programs and more on how to debug, but we won't be introducing any new major JavaScript syntaxes.
-

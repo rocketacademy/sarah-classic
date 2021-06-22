@@ -77,10 +77,10 @@ A:
 
 ```javascript
 // make each suit (loop 1)
-    // make each card type (inner loop 2)
-    
-        // if its a face card, change the name
-        // add a single card to the deck array
+// make each card type (inner loop 2)
+
+// if its a face card, change the name
+// add a single card to the deck array
 ```
 
 #### Q: How does the above code work?
@@ -114,13 +114,13 @@ cardDeck.push(card2);
 A:
 
 ```javascript
-if( currentSuit === 'hearts' ){
+if (currentSuit === 'hearts') {
   var emojiSuit = '♥️';
-}else if( currentSuit === 'diamonds' ){
+} else if (currentSuit === 'diamonds') {
   var emojiSuit = '♦️';
-}else if( currentSuit === 'spades' ){
+} else if (currentSuit === 'spades') {
   var emojiSuit = '♠️';
-}else if( currentSuit === 'clubs' ){
+} else if (currentSuit === 'clubs') {
   var emojiSuit = '♣️';
 }
 
@@ -128,7 +128,7 @@ var card = {
   name: cardName,
   suit: currentSuit,
   rank: rankCounter,
-  emojiSuit: emojiSuit
+  emojiSuit: emojiSuit,
 };
 
 // Add the new card to the deck
@@ -144,4 +144,3 @@ This in-class exercise creates different variations of high card. This will hope
 ## Wrap-up / Look Ahead
 
 Day 10 pre-class material is a longer video \(~60 minutes\)- a walk through of building a simple card game, and how to think through all of the logic involved with moving the cards around given the game rules. Hopefully hearing some of the syntax and logic decisions needed to implement a game will help refine the students' own decision making process. Encourage students to watch it at half or double speed or more than once if it helps.
-

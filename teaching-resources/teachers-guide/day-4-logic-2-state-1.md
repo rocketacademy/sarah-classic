@@ -138,4 +138,3 @@ This part of SPS uses global state to build in more features of the game. To do 
 In the next meeting we'll be doing peer review of the SPS code.
 
 [Project 1.5: Scissors Paper Stone 2](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
-
