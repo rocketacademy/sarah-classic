@@ -74,7 +74,7 @@ Create a mode where if there are more than 2 players, the game can match players
 
 1. [Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
 2. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
-3. Please leave your name and section number in the _**title**_ of the pull request.
+3. Please leave your name and _**section number**_ in the _**title**_ of the pull request.
 4. Please fill in the questionnaire in the pull request comments when you submit.
 
 ## Reference Solution
