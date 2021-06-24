@@ -2,7 +2,7 @@
 
 ## Overview
 
-This day is a sample implementation of a complete game, again, without adding any new syntax this section models how to actually code something using all the syntaxes already covered, and talks about faking cards, debugging and, at the beginning of a project how to start thinking about the code that needs to be written.  
+This day is a sample implementation of a complete game, again, without adding any new syntax, this section models how to actually code something using all the syntaxes already covered. This section talks about faking cards, debugging and, at the beginning of a project, how to start thinking about the code that needs to be written.  
   
 Reiterate to the students how important the process and approach to the code and what was covered in [Coding Strategies](../../course-logistics/coding-strategies.md) is important.
 
@@ -16,9 +16,13 @@ Total Video Watch Time: **~60 mins**
 
 A: Because we would never be able to test all the code if it was random.
 
-#### Q: Name another project or exercise where controlling the outcome is necessary to test the code.
+#### Q: Name another project or exercise where controlling the outcome is _necessary_ in order to test the code.
 
-A: The Lucky 11 exercise from day 2. Testing if cards are equal in High Card. Getting blackjack.
+A: 
+
+* The Lucky 11 exercise from day 2.
+* Testing if cards are equal in High Card.
+* Getting blackjack.
 
 #### Q: What are the two things to look for with console.log?
 
@@ -74,7 +78,7 @@ A: It would only look at those conditions if the cards were equal, so it wouldn'
 
 #### Q: How would the rule be stated for the code the way it currently is above?
 
-A: If, in war, both players draw a six, the human player always wins.
+A: If, during a war, both players draw a six, the human player wins.
 
 ## In-Class Material
 
