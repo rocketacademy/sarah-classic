@@ -70,7 +70,7 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ### Better Output Formatting
 
-Make the game output look cool. Can you represent cards with graphics? Ask the player their name?
+Make the game output look cool. Ask the player their name? Give full instructions to the player?
 
 ### Betting
 
