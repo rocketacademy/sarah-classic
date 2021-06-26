@@ -20,13 +20,16 @@ A: Because we would never be able to test all the code if it was random.
 
 A:
 
-- The Lucky 11 exercise from day 2.
-- Testing if cards are equal in High Card.
-- Getting blackjack.
+* The Lucky 11 exercise from day 2.
+* Testing if cards are equal in High Card.
+* Getting Blackjack.
 
 #### Q: What are the two things to look for with console.log?
 
-A: 1. Does the program reach that line? 2. What is the value at that line?
+A: 
+
+1. Does the program reach that line?
+2. What is the value at that line?
 
 #### Q: What does `unshift` do?
 
@@ -136,3 +139,4 @@ A: `undefined`.
 ### Wrap-Up / Look Ahead
 
 We've gone deeper with cards, coding processes and objects. Next we'll cover one last thing, which is the ability to see _**into**_ our code with the Chrome dev tools with the debugger. The debugger is the most granular tool we can use to analyze what our code is doing. As we covered in [Coding Strategies](../../course-logistics/coding-strategies.md), building a correct mental model of how the code works during debugging is the key task to fixing errors. Sometimes we may need to look at a particular value in order to do that.
+

@@ -144,3 +144,4 @@ This in-class exercise creates different variations of high card. This will hope
 ## Wrap-up / Look Ahead
 
 Day 10 pre-class material is a longer video \(~60 minutes\)- a walk through of building a simple card game, and how to think through all of the logic involved with moving the cards around given the game rules. Hopefully hearing some of the syntax and logic decisions needed to implement a game will help refine the students' own decision making process. Encourage students to watch it at half or double speed or more than once if it helps.
+
