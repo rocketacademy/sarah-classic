@@ -2,8 +2,8 @@
 
 ## Overview
 
-This day is a sample implementation of a complete game, again, without adding any new syntax, this section models how to actually code something using all the syntaxes already covered. This section talks about faking cards, debugging and, at the beginning of a project, how to start thinking about the code that needs to be written.  
-  
+This day is a sample implementation of a complete game, again, without adding any new syntax, this section models how to actually code something using all the syntaxes already covered. This section talks about faking cards, debugging and, at the beginning of a project, how to start thinking about the code that needs to be written.
+
 Reiterate to the students how important the process and approach to the code and what was covered in [Coding Strategies](../../course-logistics/coding-strategies.md) is important.
 
 ## Pre-Class Material
@@ -18,11 +18,11 @@ A: Because we would never be able to test all the code if it was random.
 
 #### Q: Name another project or exercise where controlling the outcome is _necessary_ in order to test the code.
 
-A: 
+A:
 
-* The Lucky 11 exercise from day 2.
-* Testing if cards are equal in High Card.
-* Getting blackjack.
+- The Lucky 11 exercise from day 2.
+- Testing if cards are equal in High Card.
+- Getting blackjack.
 
 #### Q: What are the two things to look for with console.log?
 
@@ -37,11 +37,11 @@ A: Puts something at the front of an array.
 A: From line 186:
 
 ```javascript
-if( playerFaceUp.rank == 6 ){
+if (playerFaceUp.rank == 6) {
   playerHand = addArray(warCards, playerHand);
-}else if( computerFaceUp.rank == 6 ){
+} else if (computerFaceUp.rank == 6) {
   computerHand = addArray(warCards, computerHand);
-}else if (playerFaceUp.rank > computerFaceUp.rank) {
+} else if (playerFaceUp.rank > computerFaceUp.rank) {
   // Set cardsEqual to false to end the loop.
   cardsEqual = false;
   // Add all war cards to bottom of player hand.
@@ -67,9 +67,9 @@ if (playerFaceUp.rank > computerFaceUp.rank) {
   cardsEqual = false;
   // Add all war cards to bottom of computer hand.
   computerHand = addArray(warCards, computerHand);
-}else if( playerFaceUp.rank == 6 ){
+} else if (playerFaceUp.rank == 6) {
   playerHand = addArray(warCards, playerHand);
-}else if( computerFaceUp.rank == 6 ){
+} else if (computerFaceUp.rank == 6) {
   computerHand = addArray(warCards, computerHand);
 }
 ```
@@ -90,37 +90,37 @@ This exercise introduces one new object syntax that will be needed in order to c
 
 ```javascript
 var person = {
-    name : 'Fred',
-    height:1.7
+  name: 'Fred',
+  height: 1.7,
 };
 
 // these are equivalent
-console.log( person.name );
-console.log( person['name'] );
+console.log(person.name);
+console.log(person['name']);
 ```
 
 #### Object Key Substitution
 
 ```javascript
 var person = {
-    name : 'Fred',
-    height:1.7
+  name: 'Fred',
+  height: 1.7,
 };
 var keyName = 'height';
 
 // these are equivalent
-console.log( person.height );
-console.log( person[keyName] );
+console.log(person.height);
+console.log(person[keyName]);
 // this wont work!
-console.og( person.keyName );
+console.log(person.keyName);
 ```
 
 #### Dynamic Object Key
 
 ```javascript
 var person = {
-    name : 'Fred',
-    height:1.7
+  name: 'Fred',
+  height: 1.7,
 };
 
 var main = function (input) {
@@ -131,9 +131,8 @@ var main = function (input) {
 
 #### Q: What value will be in the grey box if "apples" is typed in?
 
-A: `undefined`. 
+A: `undefined`.
 
 ### Wrap-Up / Look Ahead
 
 We've gone deeper with cards, coding processes and objects. Next we'll cover one last thing, which is the ability to see _**into**_ our code with the Chrome dev tools with the debugger. The debugger is the most granular tool we can use to analyze what our code is doing. As we covered in [Coding Strategies](../../course-logistics/coding-strategies.md), building a correct mental model of how the code works during debugging is the key task to fixing errors. Sometimes we may need to look at a particular value in order to do that.
-
