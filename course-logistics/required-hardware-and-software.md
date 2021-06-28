@@ -218,11 +218,17 @@ All code-related files and folders are in lowercase and kebab case \(hyphenated\
 2. Within the `basics` folder, for each class session \(there are 12 total\) in Basics, create a new folder for that day. This means you will have 12 day-specific folders, such as `day1`, `day2`, ..., `day12`.
 3. Within each `dayX` folder, create 1 folder for pre-class exercises and another folder for in-class exercises. These can look like `pre-class` and `in-class`, or any other naming scheme that works for you.
 4. Within `pre-class` and `in-class` folders, keep a separate folder for every exercise you do that requires you to create a new Git repository or clone a new copy of the Basics starter code.
-5. Run the following command on the terminal to create all the folders:
 
-```text
-mkdir -p basics/day{1..12}/{in-class,pre-class}
-```
+{% hint style="info" %}
+As a shortcut, we can run the following command in the terminal to create all the folders.
+
+1. Open the `Documents` folder in VSCode with File &gt; Open Folder and choose `Documents`.
+2. Run the following command.
+
+   ```text
+   mkdir -p basics/day{1..12}/{in-class,pre-class}
+   ```
+{% endhint %}
 
 {% hint style="warning" %}
 When cloning the starter code, choose to [name the target folder](../4-getting-started-with-code/4.1-intro-to-github.md#git-clone) to the relevant exercise name. This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
