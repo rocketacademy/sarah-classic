@@ -120,4 +120,5 @@
   * [Day 10: Coding Strategies](teaching-resources/teachers-guide/day-10.md)
   * [Day 11: Debugger](teaching-resources/teachers-guide/day-11.md)
   * [Day 12: Project Presentations](teaching-resources/teachers-guide/day-12.md)
+* [Code Review Guidelines](teaching-resources/code-review-guidelines.md)
 
