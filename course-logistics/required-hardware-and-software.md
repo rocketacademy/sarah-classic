@@ -102,6 +102,12 @@ We will need to use the command line \(also known as a terminal, more on this in
 
 ![VSCode Terminal on Windows Running the Bash Terminal Language](../.gitbook/assets/5zlap.png)
 
+{% hint style="warning" %}
+If we don't see "bash" or "Git Bash" from the Select Default Profile dropdown, it's possible VSCode isn't sure where to find our Bash installation. In this case, we can manually tell Git where to find it by adding settings to our VSCode settings.
+
+If you have this issue, follow instructions in the VSCode Formatting Settings section below to tell VSCode to look for Bash where you installed it. Remember to update the file paths to the location of your Bash installation.
+{% endhint %}
+
 We shouldn't need to, but if we need to, we can toggle between different terminal languages from the dropdown in our VSCode terminal.
 
 ![Toggle between Bash, PowerShell, and Any Other Terminal Languages in VSCode Terminal](../.gitbook/assets/1agtr.png)
