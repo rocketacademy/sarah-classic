@@ -48,7 +48,7 @@ var main = function (input) {
 
 A: Two loops create a square emoji figure. The condition evaluates if the loops are at an edge. An edge is defined as: Beginning of either loop. End of either loop. 
 
-#### Q: \(_Enter the number 3_\) What is the value of outerCounter and innerCounter when the program draws the top middle fist? Use the debugger to find that value.
+#### Q: \(_Enter the number 3_\) What is the value of `outerCounter` and `innerCounter` when the program draws the top middle fist? Use the debugger to find that value.
 
 #### Q: \(_Enter the number 5_\) What is the result of each condition the first time the loop runs? \(_Use the debugger to find the value_\).
 
