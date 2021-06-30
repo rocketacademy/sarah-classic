@@ -201,7 +201,7 @@ Go to [https://github.com/](https://github.com/), click the Sign Up button and f
 
 #### **Git and GitHub Credential Configuration**
 
-Add your GitHub account credentials to your computer through the command line. Please replace `<YOUR_GITHUB_USERNAME>` AND `<YOUR_GITHUB_EMAIL>` with your credentials. Note to replace the `<>` characters and keep the `"` characters in the commands.
+Add your GitHub account credentials to your computer through the command line. Please replace `<YOUR_GITHUB_USERNAME>` AND `<YOUR_GITHUB_EMAIL>` with your own GitHub user name and the email you used to sign up to GitHub with. _Note to replace the_ `<>` _characters and keep the_ `"` _characters in the commands._
 
 ```text
 git config --global user.name "<YOUR_GITHUB_USERNAME>"
@@ -211,7 +211,17 @@ git config --global user.name "<YOUR_GITHUB_USERNAME>"
 git config --global user.email "<YOUR_GITHUB_EMAIL>"
 ```
 
-You will not get any feedback from the terminal after entering these commands. Type the following command into the terminal to check your work. If you see a `:` at the bottom of the output, you may need to press `Enter` until you see the lines starting with `user.name` and `user.email`.
+#### Configuration Check
+
+You will not get any feedback from the terminal after entering these commands.
+
+Type the following command into the terminal to check your work. If you see a `:` at the bottom of the output, you may need to press `Enter` until you see the lines starting with `user.name` and `user.email`.
+
+```
+git config -l
+```
+
+You should see your username and email in the output, and possibly some other settings.
 
 #### Git default branch configuration
 
@@ -221,17 +231,9 @@ Following the convention of all the other Rocket Academy Git repositories and Gi
 git config --global init.defaultBranch main
 ```
 
-#### Configuration Check
+#### \(Optional\) Personal Access Token
 
-```text
-git config -l
-```
-
-You should see your username and email in the output, and possibly some other settings.
-
-#### Personal Access Token
-
-In addition to setting a password for your GitHub account, you will need to generate a Personal Access Token to use GitHub on the command line. Follow GitHub's instructions [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) for how to set up and use Personal Access Tokens.
+In addition to setting a password for your GitHub account, you may need to generate a Personal Access Token to use GitHub on the command line. Follow GitHub's instructions [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) if you need to setup and use Personal Access Tokens.
 
 ## Folder Structure for Coding Basics
 
