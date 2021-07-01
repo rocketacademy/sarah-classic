@@ -76,7 +76,7 @@ Make the game output look cool. Ask the player their name? Give full instruction
 
 The player starts with 100 points. Each round the player wagers a number of points before their hand is dealt. Keep track of the player's points throughout the game.
 
-### Multi-Player
+### Multiplayer
 
 Enable multiple players to play against the dealer, where players can take turns. The game hides and shows relevant hand according to the turn.
 
@@ -93,9 +93,12 @@ Add hand-splitting functionality to the game. If the player has two of the same 
 
 ## Reference Solution
 
-The reference solution implements the Base functionality. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
+ Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
-[https://github.com/rocketacademy/basics-blackjack/pull/3/files](https://github.com/rocketacademy/basics-blackjack/pull/3/files)
+1. [Base](https://github.com/rocketacademy/basics-blackjack/pull/3/files)
+2. [Multiplayer](https://github.com/rocketacademy/basics-blackjack/tree/moreComfortable-Multiplayer)
+
+
 
 {% hint style="danger" %}
 **Rocket Academy does not endorse gambling.** We chose Blackjack as a project because of its complex rules that help facilitate coding instruction.
