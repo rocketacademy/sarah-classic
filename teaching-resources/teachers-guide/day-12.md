@@ -18,7 +18,7 @@ Total Video Watch Time: **~22 mins**
 
 ## [12.1: Browser Applications with DOM](../../12-next-steps/12.1-browser-applications-with-dom.md)
 
-## Q: What is the DOM?
+#### Q: What is the DOM?
 
 A: The DOM is two variables called `window` and `document`.  They are created by the browser and represent everything that's happening in the window and on the page.
 
@@ -125,7 +125,7 @@ var main = function (input) {
 };
 ```
 
-Review the starter code for the students- inside index.html is the heart of how the starter code DOM manipulation works. Here is a concise commented version of the above:
+Review the starter code for the students- inside a script tag in `index.html` is the heart of how the starter code DOM manipulation works. Here is a concise commented version of the above:
 
 ```javascript
 var button = document.querySelector("#submit-button");
@@ -138,10 +138,10 @@ var handleSubmitClick = function(){
   // get out the value the user typed
   var userTypedValue = input.value;
   
-  // run the main function defined in script.js
-  //   pass in the typed value as a parameter
-  //   capture the returned value
-  var result = main();
+  // run the main function defined in script.js:
+  //   a) pass in the typed value as a parameter
+  //   b) capture the returned value in the result variable
+  var result = main(userTypedValue);
 
   // put the grey box element into a variable
   var output = document.querySelector("#output-div");
