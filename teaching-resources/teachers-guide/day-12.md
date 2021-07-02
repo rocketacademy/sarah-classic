@@ -16,7 +16,7 @@ Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment
 
 Total Video Watch Time: **~22 mins**
 
-## [12.1: Browser Applications with DOM](../../12-next-steps/12.1-browser-applications-with-dom.md)
+### [12.1: Browser Applications with DOM](../../12-next-steps/12.1-browser-applications-with-dom.md)
 
 #### Q: What is the DOM?
 
@@ -160,21 +160,27 @@ button.addEventListener("click", handleSubmitClick);
 
 #### Q: How does the above code work?
 
-## [12.2: HTML, CSS Review](../../12-next-steps/12.2-html-css-review.md)
+### [12.2: HTML, CSS Review](../../12-next-steps/12.2-html-css-review.md)
 
 ## In-Class Material
 
-### [Project presentations](../../course-logistics/course-methodology.md#project-presentations)
+### [Project Presentations](../../course-logistics/course-methodology.md#project-presentations)
 
 Congratulate everyone on a job well done!! 🎉
 
-Emphasize that for this course it's not about how many features of blackjack that were completed in the project, it's about what they were able to accomplish and understand about coding.
+Emphasise that for this course it's not about how many features of Blackjack that were completed in the project, it's about what they were able to accomplish and understand about coding.
 
 Ask the students to reflect on their level of knowledge six weeks ago.
 
-**Course feedback and reviews**
+### **LinkedIn Certificate Presentations**
 
-**LinkedIn certificate presentations**
+Share with students how they can add Rocket Academy's Coding Basics Certificate badge to their LinkedIns. [Instructions here](../../course-logistics/linkedin-certificates.md).
 
-**Class photo 🥳**
+### **Class Photo 🥳**
+
+Please take a screenshot in Zoom gallery view that we can use as the profile photo for the section alumni group chat in Telegram!
+
+### **Course Feedback and Reviews**
+
+Feedback link for Basics 8: [https://forms.gle/JQhKDNr9nqyS1QfT7](https://forms.gle/JQhKDNr9nqyS1QfT7)
 
