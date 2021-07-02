@@ -178,7 +178,9 @@ Share with students how they can add Rocket Academy's Coding Basics Certificate 
 
 ### **Class Photo 🥳**
 
-Please take a screenshot in Zoom gallery view that we can use as the profile photo for the section alumni group chat in Telegram!
+Please take a screenshot in Zoom gallery view that we can use as the profile photo for the section alumni group chat in Telegram! 
+
+After the photo, class is officially over, but please encourage students to use the remaining class time to help RA by sharing feedback and public reviews of our course.
 
 ### **Course Feedback and Reviews**
 
