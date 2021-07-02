@@ -37,7 +37,13 @@ During Coding Basics, we will use pair programming to solidify our understanding
 
 ### Project Presentations
 
-Please follow RA's [Coding Bootcamp project presentation format](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-presentations) for project presentations. Thank you!
+Students present projects in class on the last day of each project. Presentations should cover the following.
+
+1. Demo
+2. Biggest challenges faced
+3. What they might do differently next time
+
+In order to keep each presentation relatively brief, the presentation should be focused around the _features_ of the game. The presentation is not a code review, as that would take up too much time.
 
 ## Exercise, Project Strategy
 

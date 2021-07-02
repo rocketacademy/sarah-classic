@@ -1,4 +1,4 @@
-# Day 12: DOM
+# DOM
 
 ## Setup
 

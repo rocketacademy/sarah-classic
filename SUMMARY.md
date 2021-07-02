@@ -34,7 +34,6 @@
 * [Day 9: Moar Cards](in-class-exercises/day-9-moar-cards.md)
 * [Day 10: Chat Bot](in-class-exercises/day-10-chat-bot.md)
 * [Day 11: Blackjack Redux, Debugger](in-class-exercises/day-11-blackjack-redux-debugger.md)
-* [Day 12: DOM](in-class-exercises/day-12-dom.md)
 
 ## 1: Introduction
 
@@ -100,6 +99,10 @@
 * [12.2: HTML, CSS Review](12-next-steps/12.2-html-css-review.md)
 * [12.3: Deployment](12-next-steps/12.3-deployment.md)
 
+## 13: POST COURSE EXERCISES
+
+* [DOM](13-post-course-exercises/pce-dom.md)
+
 ## Past Projects
 
 * [Drawing With Emojis](past-projects/drawing-with-emojis.md)
@@ -108,6 +111,7 @@
 ## Teaching Resources
 
 * [Teacher's Guide](teaching-resources/teachers-guide/README.md)
+  * [Code Review Guidelines](teaching-resources/teachers-guide/code-review-guidelines.md)
   * [Day 1: Coding Tools](teaching-resources/teachers-guide/day-1-coding-tools.md)
   * [Day 2: Functions](teaching-resources/teachers-guide/day-2-functions.md)
   * [Day 3: Logic 1](teaching-resources/teachers-guide/day-3-logic-1.md)
@@ -120,5 +124,4 @@
   * [Day 10: Coding Strategies](teaching-resources/teachers-guide/day-10.md)
   * [Day 11: Debugger](teaching-resources/teachers-guide/day-11.md)
   * [Day 12: Project Presentations](teaching-resources/teachers-guide/day-12.md)
-* [Code Review Guidelines](teaching-resources/code-review-guidelines.md)
 
