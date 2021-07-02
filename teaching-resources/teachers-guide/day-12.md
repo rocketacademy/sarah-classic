@@ -125,7 +125,7 @@ var main = function (input) {
 };
 ```
 
-Review the starter code for the students- inside a script tag in `index.html` is the heart of how the starter code DOM manipulation works. Here is a concise commented version of the above:
+Review the starter code for the students- inside a script tag in `index.html` is the heart of how the starter code DOM manipulation works. Here is a concise commented version of the above. Note that this assumes the main function defined above.
 
 ```javascript
 var button = document.querySelector("#submit-button");
