@@ -54,11 +54,11 @@ This section moves one level lower in the context of how the course runs. The st
 
 #### Q: What is HTML and how does HTML relate to Browsers?
 
-A: HTML specifies what appears in the screen of the browser.
+A: HTML is a file with words and characters in it. HTML specifies what appears in the screen of the browser.
 
 #### Q: How does HTML relate to JavaScript?
 
-A: After HTML is loaded by the browser, if the HTML contains JavaScript or a reference to some JavaScript, that code is run in the context of that page.
+A: After HTML is loaded by the browser, if the HTML contains JavaScript or a reference to some JavaScript, that JavaScript code is run in the context of that page.
 
 ### [2.1: Command Line](../../2-organising-and-managing-code-files/2.1-command-line.md)
 
@@ -122,7 +122,7 @@ A: Accurate representation is just as important as correct calculation.
 
 #### Overview
 
-It is a common misconception to confuse what Git and GitHub are responsible. To help we separate the two sections explicitly.
+It is a common misconception to confuse what Git and GitHub are responsible for. To help, we separate the two sections explicitly.
 
 #### Discussion Questions
 
@@ -155,7 +155,7 @@ var main = function (input) {
 
 #### Q: When I type something in the input in the browser how do I get it to display in the grey box?
 
-A: Use input as part of the myOutputValue variable, or assign input directly to myOutputValue.
+A: Use input as part of the `myOutputValue` variable, or assign input directly to `myOutputValue`.
 
 #### Q: I want to write a program so that I can type a number in the input and then click the submit button and see that number multiplied by 12 in the grey box. For example, I type in 2, I see 24 in the grey box.
 
