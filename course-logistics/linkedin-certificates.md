@@ -14,7 +14,7 @@ At the end of Coding Basics, you will be eligible to add the course as a certifi
 
 ![](../.gitbook/assets/jie-ping-20210222-18.14.10.png)
 
-## 3. Fill in the course name, organisation, **and** issue date
+## 3. Fill in the course name, organisation, ****issue date, and URL
 
 1. Name
    1. Coding Basics
@@ -23,6 +23,8 @@ At the end of Coding Basics, you will be eligible to add the course as a certifi
 3. Check "This credential does not expire"
 4. Issue Date
    1. Your Coding Basics graduation month, e.g. February 2021
+5. Credential URL
+   1. Your section leader will generate a unique URL for your certificate. Please let us know if you don't have one!
 
 ![](../.gitbook/assets/jie-ping-20210222-18.14.43.png)
 
