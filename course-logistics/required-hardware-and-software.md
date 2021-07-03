@@ -30,7 +30,7 @@ The following are a set of guidelines to follow when using Slack at RA.
 
 ### Ask Questions in the Channel
 
-During RA's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
+During RA's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel \(including about installing required software\). Please refrain from DMing \(direct messaging\) instructors with questions about course material.
 
 ### Provide Context for Questions
 
