@@ -22,13 +22,15 @@ At the end of Coding Basics, you will be eligible to add the course as a certifi
    1. Rocket Academy
 3. Check "This credential does not expire"
 4. Issue Date
-   1. Your Coding Basics graduation month, e.g. February 2021
+   1. Your Coding Basics graduation month, e.g. July 2021
 5. Credential URL
    1. Your section leader will generate a unique URL for your certificate. Please let us know if you don't have one!
 
-![](../.gitbook/assets/jie-ping-20210222-18.14.43.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 ## 4. Admire your hard-earned certification 🚀
 
-![](../.gitbook/assets/jie-ping-20210222-18.15.00.png)
+![](../.gitbook/assets/image%20%283%29.png)
+
+![](../.gitbook/assets/image%20%281%29.png)
 
