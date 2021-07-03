@@ -6,6 +6,14 @@ This is the last class meeting!
   
 Mention to the students that this day isn't meant as a full review of the pre-class material. The pre-class material is meant as a look ahead into what is possible with JavaScript given the tools that have already been covered.
 
+### Class Schedule
+
+1. 1-1:30pm: Review DOM
+2. 1:30-2:15pm: BJ presentations
+3. 2:15-2:45pm: Post-Course Feedback Form and reviews
+4. 2:45-2:50pm: LinkedIn Certs
+5. 2:50-3:00pm: Photo and goodbye!
+
 ## **Project Due**
 
 #### [Project 3: Blackjack \(More Comfortable\)](../../projects/project-3-blackjack.md#more-comfortable)
