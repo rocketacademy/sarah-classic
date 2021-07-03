@@ -16,12 +16,40 @@ GUI-application software is software we run with a graphical user interface \(GU
 
 ### Slack
 
-Slack is RA's primary mode of communication. It allows us to communicate across our school, within sections, and between individuals. Many tech companies internationally use Slack for internal communication.
+Slack is a chat software and RA's primary mode of communication. It allows us to communicate across our school, within sections, and between individuals. Many tech companies internationally use Slack for internal communication.
 
 #### **Installation**
 
 1. Download the Slack mobile app from the Android Play Store or iOS App Store
 2. Download the Slack desktop app for your relevant operating system [here](https://slack.com/intl/en-sg/help/categories/360000049043-Getting-started).
+
+{% hint style="warning" %}
+## Slack House Rules
+
+The following are a set of guidelines to follow when using Slack at RA.
+
+### Ask Questions in the Channel
+
+During RA's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
+
+### Provide Context for Questions
+
+To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions. Junior engineers tend to ask questions without context: "It doesn't work. Could you help?" Senior engineers tend to ask questions with relevant context: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system." At Rocket Academy, we want to be like senior engineers.
+
+Try to answer the following when asking questions.
+
+1. What is the problem? Include any relevant error messages in text or screenshots.
+2. What is your hypothesis? Include relevant code snippets, [formatted as code](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) in Slack.
+3. What have you tried? Include any relevant output or Google results.
+
+### Format Code in Slack
+
+When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates code blocks with monospaced text for easier reading.
+
+For single-line code like variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the code to format it.
+
+For multi-line blocks of code like 1 or more functions, we recommend using [Slack code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) which include syntax highlighting and take up less space in the Slack window. When using snippets, please activate syntax highlighting for the relevant language \(e.g. JavaScript\) for readability.
+{% endhint %}
 
 ### Zoom
 
@@ -274,24 +302,4 @@ For Coding Basics, we recommend storing all of your code in a folder called `bas
 {% endhint %}
 
 ![Sample basics folder in VSCode](../.gitbook/assets/jie-ping-20210302-15.52.14.png)
-
-## Slack House Rules
-
-### Ask Questions in the Channel
-
-During RA's courses you will have questions about the material. To ensure your questions get answered soonest, and so that others can help and learn, please ask questions in the batch-wide channel. Please refrain from DMing \(direct messaging\) instructors with questions about course material.
-
-### Provide Context for Questions
-
-To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions. Junior engineers tend to ask questions without context: "It doesn't work. Could you help?" Senior engineers tend to ask questions with relevant context: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system." At Rocket Academy, we want to be like senior engineers.
-
-Try to answer the following when asking questions.
-
-1. What is the problem? Include any relevant error messages in text or screenshots.
-2. What is your hypothesis? Include relevant code snippets, [formatted as code](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) in Slack.
-3. What have you tried? Include any relevant output or Google results.
-
-### Format Code in Slack
-
-When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates code blocks with monospaced text for easier reading. For single-line code like variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the code to format it. For multi-line blocks of code like functions, we recommend using [Slack code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) which include syntax highlighting and take up less space in the Slack window.
 
