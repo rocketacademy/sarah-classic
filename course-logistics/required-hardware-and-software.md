@@ -103,8 +103,8 @@ _**When copying any commands from the Git website, do not copy the dollar sign \
 
 #### Mac Installation
 
-1. Download and install Git for MacOS by following the [Installing on MacOS instructions here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Terminal is a built-in application on Macs.
-2. Verify the installation of Git by opening the Terminal application and typing the command shown below. This should print out a version number on the next line like `git version 2.28.0`.
+1. Download and install Git for MacOS by downloading it here: [https://sourceforge.net/projects/git-osx-installer/](https://sourceforge.net/projects/git-osx-installer/)
+2. Verify the installation of Git by opening the [Terminal](https://en.wikipedia.org/wiki/Terminal_%28macOS%29) application and typing the command shown below. This should print out a version number on the next line like `git version 2.28.0`.
 
 ```text
 git --version
@@ -115,7 +115,7 @@ git --version
 1. Download and install Git for your OS: [https://git-scm.com/download/win](https://git-scm.com/download/win)
    1. If we need to re-download the .exe for any reason, click the "Click here to download manually" button on that page instead of any other.
    2. In the Git installer program, click Next until the end, no need to customise defaults.
-2. \[Windows Only\] Follow [command line setup instructions below](required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
+2. Follow [command line setup instructions below](required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
 3. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line like `git version 2.28.0`.
 
 {% hint style="warning" %}
