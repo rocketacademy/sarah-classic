@@ -172,6 +172,10 @@ Emphasise that for this course it's not about how many features of Blackjack tha
 
 Ask the students to reflect on their level of knowledge six weeks ago.
 
+### **Course Feedback and Reviews**
+
+Feedback link for Basics 8: [https://forms.gle/JQhKDNr9nqyS1QfT7](https://forms.gle/JQhKDNr9nqyS1QfT7)
+
 ### **LinkedIn Certificate Presentations**
 
 Share with students how they can add Rocket Academy's Coding Basics Certificate badge to their LinkedIns. [Instructions here](../../course-logistics/linkedin-certificates.md).
@@ -181,8 +185,4 @@ Share with students how they can add Rocket Academy's Coding Basics Certificate 
 Please take a screenshot in Zoom gallery view that we can use as the profile photo for the section alumni group chat in Telegram! 
 
 After the photo, class is officially over, but please encourage students to use the remaining class time to help RA by sharing feedback and public reviews of our course.
-
-### **Course Feedback and Reviews**
-
-Feedback link for Basics 8: [https://forms.gle/JQhKDNr9nqyS1QfT7](https://forms.gle/JQhKDNr9nqyS1QfT7)
 
