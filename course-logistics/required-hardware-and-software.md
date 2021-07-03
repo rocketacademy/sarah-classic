@@ -75,7 +75,7 @@ _**When copying any commands from the Git website, do not copy the dollar sign \
 
 #### Mac Installation
 
-1. Download and install Git for your OS [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+1. Download and install Git for MacOS by following the [Installing on MacOS instructions here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Terminal is a built-in application on Macs.
 2. Verify the installation of Git by opening the Terminal application and typing the command shown below. This should print out a version number on the next line like `git version 2.28.0`.
 
 ```text
