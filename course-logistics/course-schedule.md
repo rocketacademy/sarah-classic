@@ -37,6 +37,9 @@ Day 0's pre-course briefing will run from **4-5pm** instead of the usual 1-3pm. 
 5. Class photo
 6. Break into sections
 7. Section introductions and icebreakers
+   1. What do you do for work?
+   2. Why do you want to learn coding?
+   3. What are your career goals?
 
 ### Day 1: Coding Tools
 
