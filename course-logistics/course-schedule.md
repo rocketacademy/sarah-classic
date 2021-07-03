@@ -34,9 +34,11 @@ Day 0's pre-course briefing will run from **4-5pm** instead of the usual 1-3pm. 
 4. Deliverables for Day 1
    1. [Required Hardware and Software](required-hardware-and-software.md)
    2. Pre-Class Material
-5. Class photo
-6. Break into sections
-7. Section introductions and icebreakers
+5. Slack tutorial
+   1. How to send monospaced code and code snippets in Slack
+6. Class photo
+7. Break into sections
+8. Section introductions and icebreakers
    1. What do you do for work?
    2. Why do you want to learn coding?
    3. What are your career goals?
