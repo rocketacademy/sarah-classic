@@ -293,6 +293,16 @@ When cloning the starter code, choose to [name the target folder](../4-getting-s
 
 ![Sample basics folder in Finder on MacOS](../.gitbook/assets/jie-ping-20210302-15.50.36.png)
 
+### OneDrive \(Windows only\)
+
+On Windows computers it may not be clear where a given folder is. Some Windows computers are setup to default to the OneDrive cloud folder. This can be double checked by clicking on the window path location arrow at the top of the window to see the full file location path.
+
+{% hint style="warning" %}
+**Don't put your Basics folders in OneDrive.** This makes it harder to access them from the command line.
+{% endhint %}
+
+![How to see the full file path of a folder in Windows.](../.gitbook/assets/onedrive.png)
+
 ### Open Basics Folder in VSCode
 
 When working with code, it's often necessary to jump between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to quickly jump between files in that folder without having to File &gt; Open every time.
