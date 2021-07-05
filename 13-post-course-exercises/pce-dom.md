@@ -82,21 +82,21 @@ Call `makeCard` in `script.js`.
 
 ### Responding to HTML Events
 
-Change `makeBox` so that it has a `button` inside it. The corresponding HTML might look like the following, but we will construct it using JS.
+Update the `makeBox` function to also render a button with the words "Make Card". The corresponding HTML might look like the following, but we will construct it using JS.
 
 ```markup
 <div>
   <p>Make Box was Called</p>
   <p>Hello :)</p>
-  <button>make card</button>
+  <button>Make Card</button>
 </div>
 ```
 
-When the user clicks the `makeBox` button, have our logic trigger `makeCard`. To do this, call `addEventListener` on the button with `makeCard` as the callback function.
+Trigger the `makeCard` function when the user clicks the "Make Card" button by calling `addEventListener` on the button with `makeCard` as the callback function.
 
 ```javascript
 var button = document.createElement('button');
-button.innerText = 'make card';
+button.innerText = 'Make Card';
 button.addEventListener('click', makeCard);
 ```
 
