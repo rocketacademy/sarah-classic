@@ -168,7 +168,7 @@ var main = function (input) {
 };
 ```
 
-#### Q: To add on to the previous question, I also want to see the number I typed in inside the greay box, in a full sentence. Example: I type in 2. I click submit. In the grey box I see: "_You typed in 2. The result is: 24."_
+#### Q: To add on to the previous question, I also want to see the number I typed in inside the grey box, in a full sentence. Example: I type in 2. I click submit. In the grey box I see: "_You typed in 2. The result is: 24."_
 
 ```javascript
 var main = function (input) {
