@@ -26,7 +26,7 @@ In VS Code, open the Color Theme picker with File > Preferences > Color Theme. (
 
 [https://code.visualstudio.com/docs/getstarted/themes](https://code.visualstudio.com/docs/getstarted/themes)
 
-#### TIps to remember during pairing:
+#### Tips to remember during pairing:
 
 If, according to the pairing schedule, one in a pair is missing, use your judgement to pair them up with others.
 
