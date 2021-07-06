@@ -1,4 +1,4 @@
-# Day 12: Project Presentations
+# Day 12: DOM, Project Presentations
 
 ## **Overview**
 
