@@ -18,10 +18,11 @@ We will create poetry, save and edit it using the command line and Git.
 1. Open the command line and create a folder for our poetry.
 2. Inside the folder, create a text file in the command line and open it in VSCode.
 3. Write a [haiku](https://en.wikipedia.org/wiki/Haiku) about trees in the text file and save the file. A haiku is a Japanese poem that follows the convention of 5 syllables, 7 syllables, and 5 syllables on each of 3 lines respectively.
+   1. If writing poetry is difficult, feel free to make up something :\) The content isn't particularly important for this exercise.
 4. Create a Git repo in the folder, and add and commit the poetry file.
 5. Edit our poem to reference leaves. Make a commit for our changes.
 6. Add a 2nd poem about winter in another file. Commit this file to the repo.
-7. Make a change to the winter file- add "papaya" to the last line. We aren't going to keep this change.
+7. Make a change to the winter file: add "papaya" to the last line. We aren't going to keep this change.
 8. Add a title to our poem about trees. Add the title above the text in the file, and change the filename to reflect the title. Note here that we can change more than one file, and only stage the trees file for committing. In this way we can say which files go into a given commit. Don't stage or commit the winter poem.
 9. Delete our poem about winter from the repo by deleting the file and committing the change.
 
