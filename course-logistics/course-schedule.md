@@ -16,7 +16,7 @@ description: What and when we will learn
 | 6 | [Day 10: Coding Strategies](course-schedule.md#day-10-coding-strategies) | [Day 11: Debugger](course-schedule.md#day-11-debugger) |
 | 7 | [Day 12: Project Presentations](course-schedule.md#day-12-project-presentations) |  |
 
-Each day's deliverables are due by the **start** of that day's class. \(You prepare the linked day's content _**before**_ the start of class\). Bulleted items refer to pages within the SWE101 course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
+Each day's deliverables are due by the **start** of that day's class. \(You prepare the linked day's content _**before**_ the start of class\). Bulleted items refer to pages within the Coding Basics course website. Each page consists of videos, explanations, and exercises to complete. We will complete exercises based on each day's deliverables in pairs during class.
 
 ## Daily Breakdown
 
