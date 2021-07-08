@@ -27,7 +27,7 @@ The rules are just a reminder because they are behaviors that commonly arise whe
 
 #### Q: Have you ever felt dumb or uncomfortable or unknowledgeable when speaking with someone who is an "expert" in a topic?
 
-A: In a lot of situations in everyday life people can purposefully or inadvertently make you feel bad for not understanding something. We hope the social rules can help everyone avoid these kinds of situations by being more kind and thoughtful.
+A: In a lot of situations in everyday life people can  inadvertently \(or sometimes even purposefully\) make you feel bad for not understanding something. We hope the social rules can help everyone avoid these kinds of situations by being more kind and thoughtful.
 
 ## [5.1: Functions](../../5-structuring-and-debugging-code/5.1-functions.md)
 
@@ -42,16 +42,66 @@ There are a few key ideas that students should take away:
 
 #### Discussion Questions
 
-Prepare this code in VSCode. Run it in the browser.
+Prepare the example code in VSCode. Run it in the browser.
 
-```text
+```java
+var add = function(a,b){
+    return a + b;
+};
+var result = add(1,2);
+```
+
+#### Q: What value is inside `result`?
+
+A: The sum of `a` and `b`.
+
+#### Q: What happens when we omit the `return` keyword? \(leaving in the addition operation\)
+
+A: variable `result` will hold the value `undefined`.
+
+#### Q: Can we change the name of `a` or `b` to something else?
+
+A: Yes, a function parameter _**name**_ is defined, like a variable, inside the function definition parentheses. A function parameter value is defined when the function is executed.
+
+#### Q: What happens when we give a variable to the function? What happens to the variable? `var num = 99; var result2 = add(num,6);`
+
+A: Nothing happens to the variable. We can call a function and pass in any kind of value. In the first example we were passing in **literal** values, we can also pass in variable values. A third option would be to pass in function return values. \(_shown in another example below_\)
+
+#### Q: What happens if we call the function a second time below line 4? `var result3 = add(5,6);`
+
+```javascript
+var main = function(input){
+    return "hello " + input;
+};
+```
+
+#### Q: Can we name the function to something other than `main`?
+
+A: No, that name is set inside of the starter code.
+
+#### Q: Can we change `input` to something else?
+
+A: Yes. A function parameter _**name**_ is defined, like a variable, inside the parentheses. A function parameter value is defined when the function is executed.
+
+Note the function execution of `main` happens in another part of the starter code.
+
+#### Q: What happens when we take out the `return` keyword?
+
+A: The word undefined will be put in the grey box. This is because if there is no return keyword, the value returned by a function is the value `undefined`.
+
+{% hint style="warning" %}
+Because functions and return values are an important topic, be sure to emphasize the distinction between function \***values**\* being returned and and a statement like, "_the function returns undefined"_.
+{% endhint %}
+
+```javascript
 var add = function(a,b){
     return a + b;
 };
 
 var main = function(input){
-    var myOutputValue = 'hello ' + add(input, 5);
-    myOutputValue = myOutputValue + ' papaya ' + add(input, 6);
+    var myOutputValue = 'input is: ' + input;
+    myOutputValue = myOutputValue + ' input plus 5 is: ' + add(input, 5);
+    myOutputValue = myOutputValue + ' input plus 6 is: ' + add(input, 6);
     return myOutputValue;
 };
 ```
@@ -66,36 +116,20 @@ A: We haven't covered asynchronous code yet, but the students should still under
 
 E.g., if the code was synchronous, but was a function called from within another function further above it would still work.
 
+{% hint style="warning" %}
 Note that we can avoid opening the **index.html** file so as not to confuse students with the DOM manipulation code. Feel free to answer questions, but the main point of the starter code is that the students can understand it in the context of function execution only and not in terms of asynchronous callbacks yet.
+{% endhint %}
 
-```text
+```java
 var add = function(a,b){
     return a + b;
 };
-var result = add(1,2);
+var result = add(1,add(3,4));
 ```
 
-#### Q: What value is inside `result`?
+#### Q: How does this code work? What is the result?
 
-#### Q: What happens when we omit the `return` keyword? \(leaving in the addition operation\)
-
-#### Q: Can we change the name of `a` or `b` to something else?
-
-#### Q: What happens when we give a variable to the function? What happens to the variable? `var num = 99; var result2 = add(num,6);`
-
-#### Q: What happens if we call the function a second time below line 4? `var result3 = add(5,6);`
-
-```text
-var main = function(input){
-    return "hello " + input;
-};
-```
-
-#### Q: Can we name the function to something other than `main`?
-
-#### Q: Can we change input to something else?
-
-#### Q: What happens when we take out the `return` keyword?
+A: 8. First, 3 and 4 are added together. The returned value is given as a second argument to the add function. Then 7 and 1 are added together.
 
 #### Common FAQ
 
@@ -117,11 +151,15 @@ A common misconception with coding is that all the time spent learning to code o
 
 In this sense the idea of errors and the strategies for approaching them are as important or more important than any other subject covered in Basics.
 
+{% hint style="warning" %}
+Reinforce and continue to reinforce the idea that the students should always **immediately** open the dev tools whenever they open the browser. If you aren't already doing this, always pattern this behavior for students.
+{% endhint %}
+
 ### Discussion Questions
 
 #### Q: What is the difference between a compile-time error and a run-time error?
 
-A: _Be ready to code out both errors. Have the example code ready._
+A: _Be ready to code out both errors. Have the example code ready._ One happens when the page loads, the other happens when the code is run- that is, a function's code isn't necessarily run right away, for example the code inside the main function.
 
 #### Q: What is the difference between a syntax error and a logical error?
 
@@ -147,7 +185,11 @@ A: Related to above, if you don't catch errors one at a time it is impossible to
 
 ## In-Class Material
 
-#### [Day 2: Functions](../../in-class-exercises/day-2-functions.md)
+### [Day 2: Functions](../../in-class-exercises/day-2-functions.md)
+
+The topic of these exercises are very similar to the previous exercises, except they are in the context of functions. Try to encourage the students to break the calculations down into separate helper functions.
+
+Check for understanding by looking for well formed functions that use multiple arguments and return values.
 
 ## **Look Ahead / Wrap-up**
 
