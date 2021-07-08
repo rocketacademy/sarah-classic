@@ -5,7 +5,7 @@
 ## Course Logistics
 
 * [📅 Course Schedule](course-logistics/course-schedule.md)
-* [👬🏼 Pairing Assigments](course-logistics/section-and-pairing-assignments.md)
+* [👬 Pairing Assignments](course-logistics/section-and-pairing-assignments.md)
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [✍🏽 Course Methodology](course-logistics/course-methodology.md)
 * [❤️ Social Rules](course-logistics/love-social-rules.md)
