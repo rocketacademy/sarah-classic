@@ -12,7 +12,7 @@ Total Video Watch Time: **~25 mins**
 
 In the previous session the students were introduced to the idea of pairing and got to experience it for themselves. Now that they have some context for the experience we want to talk about the optimal pairing experience, and to emphasize how their behaviour is key to the experience for themselves and others.
 
-To begin, reiterate the big ideas behind pairing because the students only heard them once before:
+**To begin, reiterate the big ideas behind pairing because the students only heard them once before:**
 
 * Learning directly from a peer helps with understanding.
 * The best way to fully know something is to have to explain it.
@@ -25,7 +25,7 @@ The rules are just a reminder because they are behaviors that commonly arise whe
 
 ### Discussion Questions
 
-#### Q: Have you ever felt dumb or uncomfortable or unknowledgeable when speaking with someone who is an "expert" in a topic?
+#### Q: Have you ever felt dumb or uncomfortable or unknowledgeable when speaking with someone who is an "expert" in a topic? Give an example you feel comfortable sharing.
 
 A: In a lot of situations in everyday life people can  inadvertently \(or sometimes even purposefully\) make you feel bad for not understanding something. We hope the social rules can help everyone avoid these kinds of situations by being more kind and thoughtful.
 
