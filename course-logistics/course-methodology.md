@@ -20,9 +20,9 @@ The goal of live classes is for students to solidify understanding of concepts t
 
 Live classes will generally follow this outline:
 
-1. 15 minutes for students to explain and review concepts with the section
-2. 90 minutes of pair programming on new exercises with a designated peer
-3. 15 minutes for students to summarise and conclude with the section
+1. 30 minutes for students to explain and review concepts with the section
+2. 85 minutes of pair programming on new exercises with a designated peer
+3. 5 minutes for students to summarise and conclude with the section
 
 ### Pair Programming
 
