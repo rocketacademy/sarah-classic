@@ -25,5 +25,5 @@ RA will assess students who wish to join Coding Bootcamp at the end of Coding Ba
   3. Abstraction: Re-use helper functions with varying parameter values when possible
   4. Algorithms: Construct stepwise logic to accomplish tasks
 
-Students are also expected to have completed ALL projects in Basics.  The instructors will provide code reviews for each project, and students are also expected to implement feedback given by them in subsequent projects. 
+Students are also expected to have completed ALL projects in Basics.  The instructors will provide code reviews after every project, and students are also expected to implement feedback given by them in subsequent projects. 
 
