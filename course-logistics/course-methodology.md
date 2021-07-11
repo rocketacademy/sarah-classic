@@ -10,19 +10,24 @@ Coding Basics applies a flipped classroom model that consists of 2 components: s
 
 ### Self-Learning
 
-The goal of self-learning is for students to learn concepts **before** class, such that class time can be spent interacting with peers to solidify one's understanding of the concepts. **Self-learning is mandatory**, and will consist of videos and exercises due before each class under the Pre-Class header.
+The goal of self-learning is for students to learn concepts **before** class, such that class time can be spent discussing those concepts. **Self-learning is mandatory**, and will consist of videos and exercises listed under the Pre-Class header.
 
 ### **Live Classes**
 
-The goal of live classes is for students to solidify understanding of concepts through explaining concepts with peers and working through exercises in pairs based on those concepts.
+The objective of live classes is to enable students to gain a better understanding of the concepts learnt during self-learning through instructor facilitated discussion and pair-programming exercises.
 
-**Live classes are mandatory** and will be held from 7-9pm on Tuesdays and 1-3pm on Saturdays over Zoom. There will be 1 pre-course briefing and 12 classes total. Each section will have their own Zoom room to meet for live classes.
+**Live classes are mandatory.** They will be held over Zoom, at the following time slots:
+
+*  7-9pm on Tuesdays
+* 1-3pm on Saturdays
+
+There will be 1 pre-course briefing and 12 classes in total. Each section will have their own Zoom room to meet for live classes.
 
 Live classes will generally follow this outline:
 
 1. 15 minutes for students to explain and review concepts with the section
-2. 100 minutes of pair programming on new exercises with a designated peer
-3. 5 minutes for students to summarise and conclude with the section
+2. 100 minutes of pair programming on in-class exercises with a designated peer
+3. 5 minutes for students to ask any questions that they might have about the day's class, and for the instructor to preview the next class
 
 ### Pair Programming
 
@@ -33,7 +38,7 @@ Pair programming is commonly used for the following purposes:
 1. To share knowledge across teams or between juniors and seniors, where the navigator is typically more knowledgeable about that part of the system than the driver.
 2. To ensure an important piece of software gets done correctly. Sometimes, for difficult software engineering problems with large future repercussions, it is more worth it to spend 2 engineers' time to get it right, than to spend 1 engineer's time and risk getting it wrong.
 
-During Coding Basics, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming with designated pairings that will rotate each class.
+During Coding Basics, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming in designated pairs that will change every live class.
 
 ### Project Presentations
 
@@ -47,7 +52,7 @@ In order to keep each presentation relatively brief, the presentation should be 
 
 ## Exercise, Project Strategy
 
-Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. If we plan on implementing later parts, we may want to design our code in a certain way to avoid lengthy refactoring later.
+Please read through all sections of exercises and projects before starting. Later parts of exercises and projects may require different code architecture than earlier parts. Failure to take into consideration all aspects of the project might result in a lengthy refactor.
 
 ### Base, More Comfortable
 

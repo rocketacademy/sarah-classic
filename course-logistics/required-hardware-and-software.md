@@ -34,7 +34,7 @@ During RA's courses you will have questions about the material. To ensure your q
 
 ### Provide Context for Questions
 
-To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions. Junior engineers tend to ask questions without context: "It doesn't work. Could you help?" Senior engineers tend to ask questions with relevant context: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system." At Rocket Academy, we want to be like senior engineers.
+To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions. Junior engineers tend to ask questions without context: "It doesn't work. Could you help?" Senior engineers tend to ask questions with relevant context: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system." At Rocket Academy, we aim to be like senior engineers.
 
 Try to answer the following when asking questions.
 
@@ -53,7 +53,7 @@ For multi-line blocks of code like 1 or more functions, we recommend using [Slac
 
 ### Zoom
 
-Zoom is RA's video conferencing software for class. Each section will have its own Zoom link to join for each class.
+Zoom is RA's video conferencing software for class. Each section will have its own Zoom room. The link to this room can be found at the top of each section's Slack channel.
 
 #### **Installation**
 
@@ -89,13 +89,13 @@ Window snapping is not built-in to MacOS, and we will need to download an extern
 
 ## Required Command-Line Software
 
-Command-line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is in a separate section so that students do not expect to run this software from their computer's Applications folder.
+Command-line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is not stored in a computer's Applications folder.
 
 ### Git
 
 Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects.
 
-On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way across Windows and Mac. A version of Bash called Zsh \(pronounced "zoosh"\) is installed by default on MacOS.
+On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands \(and command line software\) on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way on both Windows and Mac. A version of Bash called Zsh \(pronounced "zoosh"\) is installed by default on MacOS.
 
 {% hint style="warning" %}
 _**When copying any commands from the Git website, do not copy the dollar sign \($\) in front of the command.**_ The dollar signs in their commands denote the start of command lines, and are not part of the commands.
@@ -104,7 +104,7 @@ _**When copying any commands from the Git website, do not copy the dollar sign \
 #### Mac Installation
 
 1. Download and install Git for MacOS by downloading it here: [https://sourceforge.net/projects/git-osx-installer/](https://sourceforge.net/projects/git-osx-installer/)
-2. Verify the installation of Git by opening the [Terminal](https://en.wikipedia.org/wiki/Terminal_%28macOS%29) application and typing the command shown below. This should print out a version number on the next line like `git version 2.28.0`.
+2. Verify the installation of Git by opening the [Terminal](https://en.wikipedia.org/wiki/Terminal_%28macOS%29) application and typing the command shown below. This should print out a version number on the next line,  e.g., `git version 2.28.0`.
 
 ```text
 git --version
@@ -114,9 +114,9 @@ git --version
 
 1. Download and install Git for your OS: [https://git-scm.com/download/win](https://git-scm.com/download/win)
    1. If we need to re-download the .exe for any reason, click the "Click here to download manually" button on that page instead of any other.
-   2. In the Git installer program, click Next until the end, no need to customise defaults.
+   2. In the Git installer program, click Next until the end, there is no need to customise defaults.
 2. Follow [command line setup instructions below](required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
-3. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line like `git version 2.28.0`.
+3. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
 
 {% hint style="warning" %}
 Git needs to be installed on the same drive as VSCode. If you happen to have 2 drives on your computer, e.g. C and D drives, make sure both VSCode and Git are installed on the same drive.
@@ -124,7 +124,7 @@ Git needs to be installed on the same drive as VSCode. If you happen to have 2 d
 
 ### Windows Command Line Setup
 
-We will need to use the command line \(also known as a terminal, more on this in a later module\) during Coding Basics. Windows uses a terminal language called PowerShell by default, but this is not the most widely-used terminal language. Most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. To ensure that Windows and Mac users can use the same terminal commands, Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
+We will need to use the command line \(also known as a terminal, more on this in a later module\) during Coding Basics. Windows uses a terminal language called PowerShell by default, but this is not what we are going to use, as most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
 
 ![VSCode Terminal on Windows. PowerShell is the Default Terminal Language on Windows.](../.gitbook/assets/v4hx4.png)
 
@@ -253,7 +253,7 @@ You should see your username and email in the output, and possibly some other se
 
 #### Git default branch configuration
 
-Following the convention of all the other Rocket Academy Git repositories and GitHub, we'll change the default Git branch name.
+Following the convention of all the other Rocket Academy Git repositories and GitHub, we'll change the default Git branch name by typing in the command shown in the code box.
 
 ```text
 git config --global init.defaultBranch main
@@ -268,12 +268,12 @@ In addition to setting a password for your GitHub account, you may need to gener
 In Coding Basics we will be creating many folders and cloning the starter code multiple times. To keep our code organised, we recommend the following folder structure.
 
 {% hint style="info" %}
-All code-related files and folders are in lowercase and kebab case \(hyphenated\) for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them, because spaces need to be escaped with backslash \(`\`\) on the command line.
+All code-related files and folders are in kebab case \(hyphenated and lowercase\), e.g., `file-name.txt` ,  for ease of use on the command line. It is generally a bad idea to name any files or folders with a space in them, e.g., `file name.txt` , because spaces need to be escaped with backslash \(`\`\) on the command line.
 {% endhint %}
 
 1. Host all Coding Basics code in a folder called `basics`. Keep this in your `Documents` folder.
 2. Within the `basics` folder, for each class session \(there are 12 total\) in Basics, create a new folder for that day. This means you will have 12 day-specific folders, such as `day1`, `day2`, ..., `day12`.
-3. Within each `dayX` folder, create 1 folder for pre-class exercises and another folder for in-class exercises. These can look like `pre-class` and `in-class`, or any other naming scheme that works for you.
+3. Within each `dayX` folder, create 1 folder for pre-class exercises and another folder for in-class exercises. These can be named  `pre-class` and `in-class`, or any other naming scheme that works for you.
 4. Within `pre-class` and `in-class` folders, keep a separate folder for every exercise you do that requires you to create a new Git repository or clone a new copy of the Basics starter code.
 
 {% hint style="info" %}
@@ -305,7 +305,7 @@ On Windows computers it may not be clear where a given folder is. Some Windows c
 
 ### Open Basics Folder in VSCode
 
-When working with code, it's often necessary to jump between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to quickly jump between files in that folder without having to File &gt; Open every time.
+When working with code, it's often necessary to switch between different files in the same repository, or even across repositories. Instead of using File &gt; Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File &gt; Open Folder, or on Mac with File &gt; Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to switch quickly between files in that folder without having to File &gt; Open every time.
 
 {% hint style="info" %}
 For Coding Basics, we recommend storing all of your code in a folder called `basics` as per the [recommended folder structure](required-hardware-and-software.md#folder-structure-for-coding-basics), and keeping that folder open in VSCode for the duration of the course.
