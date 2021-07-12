@@ -48,6 +48,24 @@ Output several values including:
 2. How much the customer will pay just in interest.
 3. How much the customer's monthly payment will be.
 
+{% hint style="warning" %}
+#### Concatenating Strings and Numbers
+
+Sometimes when trying to add 2 numbers you may find that your numbers concatenate instead of add. For example, when adding '1' + 1 in your code, the result may be '11' instead of 2. This is because one of your numbers may be represented in JS as a string, most commonly when the number comes from the `input` variable in our programs. 
+
+To resolve similar issues, try converting `input` to a number with [JS' built-in Number function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number) before using it, e.g. `const loanAmt = Number(input)`.
+
+The following is a more detailed breakdown of JS behaviour when concatenating strings and numbers.
+
+1. String + String
+   1. 'hello' + 'hi'  will return 'hellohi'
+   2. '2' + '2' will return '22'
+2. Number + Number 
+   1. 2 + 2 will return 4
+3. Number + String
+   1. 2 + '2' will return '22'
+{% endhint %}
+
 ## Reference Solution
 
 [Here](https://github.com/rocketacademy/basics-starter-code/blob/day2/script.js) is a reference solution for Day 2 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
