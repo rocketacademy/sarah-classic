@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Implement a simplified version of Blackjack. If you're not familiar with Blackjack, refer to [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) for game rules. Our simplified rules are the following.
+Implement a simplified version of Blackjack. If you're not familiar with Blackjack, refer to [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) for game rules. Our simplified rules are the following. Please read all the requirements before starting it!
 
 1. There will be only two players. One human and one computer.
 2. The computer will always be the dealer. The dealer has to hit if their hand is below 17.
