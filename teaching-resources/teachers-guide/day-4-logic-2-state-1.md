@@ -86,7 +86,7 @@ There are Git command line commands that will get back any version from a commit
 
 **Q: Ask a student to share screen and navigate to a repo they have pushed changes to. They should have a least one if they followed the exercise in 7.1. Ask to see the list of commits. Ask to see the diff of a single commit by clicking into the single commit.**
 
-## \*\*\*\*[8.1: Program Lifecycle and Global State](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
+## [8.1: Program Lifecycle and Global State](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
 
 ### Overview
 
@@ -94,7 +94,7 @@ This section introduces dynamic global variables.
 
 ### Discussion Questions
 
-```text
+```javascript
 var papayaCount = 0;
 var main = function (input) {
   papayaCount = papayaCount + 1;
