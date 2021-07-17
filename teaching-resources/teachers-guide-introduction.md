@@ -1,4 +1,4 @@
-# Teacher's Guide
+# Teacher's Guide Introduction
 
 #### Tips to remember before starting a session:
 

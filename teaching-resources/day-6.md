@@ -12,7 +12,7 @@ We also cover coding strategies. The reason we don't cover this right away is so
 
 ### Project
 
-[Beat That](../../projects/project-2-beat-that.md)
+[Beat That](../projects/project-2-beat-that.md)
 
 Remind the students to continue working on the Beat That project and submit a pull request before next Saturday's meeting.
 
@@ -20,7 +20,7 @@ Remind the students to continue working on the Beat That project and submit a pu
 
 Total Video Watch Time: **~41 mins**
 
-### [Coding Strategies](../../course-logistics/coding-strategies.md)
+### [Coding Strategies](../course-logistics/coding-strategies.md)
 
 #### Discussion Questions
 
@@ -30,7 +30,7 @@ Total Video Watch Time: **~41 mins**
 
 #### Q: What does deliberate practice mean to you? How are you implementing it in this course?
 
-### [9.1: Arrays](../../9-arrays-and-iteration/9.1-arrays.md)
+### [9.1: Arrays](../9-arrays-and-iteration/9.1-arrays.md)
 
 #### Discussion Questions
 
@@ -84,7 +84,7 @@ var main = function (input) {
 
 A: `pop`
 
-### [9.2: Loops](../../9-arrays-and-iteration/9.2-loops.md)
+### [9.2: Loops](../9-arrays-and-iteration/9.2-loops.md)
 
 ```javascript
 // Initialise a counter to 0.
@@ -185,7 +185,7 @@ The most difficult part is deciding which to use!
 
 ## In-Class Material
 
-[Day 6: Loops](../../in-class-exercises/day-6-loops.md)
+[Day 6: Loops](../in-class-exercises/day-6-loops.md)
 
 ## **Look Ahead / Wrap Up**
 

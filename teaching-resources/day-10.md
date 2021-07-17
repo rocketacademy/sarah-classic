@@ -4,13 +4,13 @@
 
 This day is a sample implementation of a complete game, again, without adding any new syntax, this section models how to actually code something using all the syntaxes already covered. This section talks about faking cards, debugging and, at the beginning of a project, how to start thinking about the code that needs to be written.
 
-Reiterate to the students how important the process and approach to the code and what was covered in [Coding Strategies](../../course-logistics/coding-strategies.md) is important.
+Reiterate to the students how important the process and approach to the code and what was covered in [Coding Strategies](../course-logistics/coding-strategies.md) is important.
 
 ## Pre-Class Material
 
 Total Video Watch Time: **~60 mins**
 
-### [10.3: War Card Game Sample Implementation](../../10-javascript-objects/10.3-card-game-example-war.md)
+### [10.3: War Card Game Sample Implementation](../10-javascript-objects/10.3-card-game-example-war.md)
 
 #### Q: Why do we want to control which cards get dealt from the deck?
 
@@ -85,7 +85,7 @@ A: If, during a war, both players draw a six, the human player wins.
 
 ## In-Class Material
 
-### [Day 10: Chat Bot](../../in-class-exercises/day-10-chat-bot.md)
+### [Day 10: Chat Bot](../in-class-exercises/day-10-chat-bot.md)
 
 This exercise introduces one new object syntax that will be needed in order to complete it. Demonstrate this for the students.
 
@@ -138,5 +138,5 @@ A: `undefined`.
 
 ### Wrap-Up / Look Ahead
 
-We've gone deeper with cards, coding processes and objects. Next we'll cover one last thing, which is the ability to see _**into**_ our code with the Chrome dev tools with the debugger. The debugger is the most granular tool we can use to analyze what our code is doing. As we covered in [Coding Strategies](../../course-logistics/coding-strategies.md), building a correct mental model of how the code works during debugging is the key task to fixing errors. Sometimes we may need to look at a particular value in order to do that.
+We've gone deeper with cards, coding processes and objects. Next we'll cover one last thing, which is the ability to see _**into**_ our code with the Chrome dev tools with the debugger. The debugger is the most granular tool we can use to analyze what our code is doing. As we covered in [Coding Strategies](../course-logistics/coding-strategies.md), building a correct mental model of how the code works during debugging is the key task to fixing errors. Sometimes we may need to look at a particular value in order to do that.
 
