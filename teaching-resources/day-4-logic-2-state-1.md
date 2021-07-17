@@ -1,6 +1,8 @@
 # Day 4: Logic 2, State 1
 
-### Overview
+## Overview
+
+Total Video Watch Time: **~41 mins**
 
 This day introduces the boundaries of the lifecycle of the starter code. Specifically at the beginning when the JavaScript file loads until the refresh button gets clicked.
 
@@ -9,10 +11,6 @@ Within this time span we introduce the idea of global values that are manipulate
 We are also introducing the idea that the code can deal with more dynamic values other than the `input` variable.
 
 This day also introduces the GitHub project submission workflow.
-
-### Pre-Class Material
-
-Total Video Watch Time: **~41 mins**
 
 ## [7.1: GitHub Fork and Pull Request](../7-github/7.1-github-fork-and-pull-request.md)
 
@@ -24,7 +22,7 @@ This section introduces the workflow for submitting the projects. This is also t
 
 A fork is when GitHub makes a copy of a repo into the user's GitHub account. By default the copy is frozen at the point at which it was copied and from within Git is no longer connected to the other GitHub account original repo. Remember that in this context _**repo**_ means the code and the record of all it's versions, not just the code itself.
 
-### Discussion Questions
+#### Discussion Questions
 
 #### Q: What does a fork do?
 
@@ -42,7 +40,7 @@ A: No, GitHub will only make one copy from one account to another.
 
 `push` is a Git command that takes changes from a local repo and puts them on a remote repo. `push` is not a GitHub functionality.
 
-### Discussion Questions
+#### Discussion Questions
 
 #### Q: What does `push` do?
 
@@ -60,7 +58,7 @@ A: No, without forking it means the code you cloned belongs to Rocket Academy. Y
 
 A pull request is a GitHub web application feature that allows communication between people working on code.
 
-### Discussion Questions
+#### Discussion Questions
 
 #### Q: What is the difference between a Pull Request and `git pull`?
 
@@ -92,7 +90,7 @@ There are Git command line commands that will get back any version from a commit
 
 This section introduces dynamic global variables.
 
-### Discussion Questions
+#### Discussion Questions
 
 ```javascript
 var papayaCount = 0;
@@ -123,15 +121,16 @@ A: It wouldn't affect anything. This is because, even though the definition of `
 
 A: This does change the behavior. The original version of this code adds a papaya every time the button gets clicked. Then it displays the value. \(You see 1 after the first click\). The suggested change displays the current number of papayas when the button gets clicked, then adds one papaya. \(You see 0 after the first click\) The order in the code depends on which behaviour you want.
 
-### In-Class Material
+## In-Class Material
 
-Review Project 1 [Day 4: Boolean And, GitHub, Program State](../in-class-exercises/day-4-boolean-and-program-state.md)
+1. Review [Project 1: Scissors Paper Stone \(Part 1\)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
+2. [Day 4: Boolean And, GitHub, Program State](../in-class-exercises/day-4-boolean-and-program-state.md)
 
-### **Wrap-up / Look Ahead**
+## **Wrap-up / Look Ahead**
 
 In this section we added onto the total amount of values our programs deal with by writing a new variable for each global value. We then put back in our conditionals to use the two together in a dice game. Next, we'll use global values and conditionals together to represent different modes of the game. This will give us the ability to ask the user for different kinds of input.
 
-**Post-Class: Begin Project**
+### **Post-Class: Begin Project**
 
 This part of SPS uses global state to build in more features of the game. To do the more comfortable you may have to read ahead to the game mode sections.
 
