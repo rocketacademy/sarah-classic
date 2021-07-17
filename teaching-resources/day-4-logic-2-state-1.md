@@ -119,7 +119,7 @@ A: It wouldn't affect anything. This is because, even though the definition of `
 
 #### Q: Will moving line 4 above line 3 make a difference in how the program behaves?
 
-A: This does change the behavior. The original version of this code adds a papaya every time the button gets clicked. Then it displays the value. \(You see 1 after the first click\). The suggested change displays the current number of papayas when the button gets clicked, then adds one papaya. \(You see 0 after the first click\) The order in the code depends on which behaviour you want.
+A: This does change the behaviour. The original version of this code adds a papaya every time the button gets clicked. Then it displays the value. \(You see 1 after the first click\). The suggested change displays the current number of papayas when the button gets clicked, then adds one papaya. \(You see 0 after the first click\) The order in the code depends on which behaviour you want.
 
 ## In-Class Material
 

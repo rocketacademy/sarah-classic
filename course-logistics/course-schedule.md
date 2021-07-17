@@ -135,6 +135,12 @@ We may want to review [8.2: Program State for Game Modes](../8-managing-state-an
 
 ### Day 5: State 2
 
+{% hint style="warning" %}
+#### Date Change for Basics 9 Students
+
+Basics 9 Students: We will meet for Day 5's class from 7-9pm SGT on **Wednesday 21 July** because of the Hari Raya Haji public holiday in Singapore on Tuesday.
+{% endhint %}
+
 #### Project Due
 
 * [Project 1: Scissors Paper Stone \(Part 2\)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
@@ -143,8 +149,8 @@ We may want to review [8.2: Program State for Game Modes](../8-managing-state-an
 
 Total Video Watch Time: **~17 mins**
 
-* [8.3: Input Validation](../8-managing-state-and-input-validation/8.3-input-validation.md)
 * [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+* [8.3: Input Validation](../8-managing-state-and-input-validation/8.3-input-validation.md)
 
 #### In-Class Material
 
