@@ -46,11 +46,11 @@ A: No, GitHub will only make one copy from one account to another.
 
 A: `push` puts the new changes to the repo onto the GitHub copy of the repo.
 
-#### Q: I commited changes to my code twice. How many times do I run the push command?
+#### Q: I committed changes to my code twice. How many times do I run the push command?
 
 A: A Git push is to bring all commits over to the remote repo. The command will all the commits over.
 
-#### Q: Can I `push` the changes I made to the starter code?
+#### Q: Can I `push` the changes I made to GitHub if I didn't fork the repo?
 
 A: No, without forking it means the code you cloned belongs to Rocket Academy. You cannot give back your own changes to a repo owned by Rocket Academy.
 
