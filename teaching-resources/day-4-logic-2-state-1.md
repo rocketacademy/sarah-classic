@@ -130,11 +130,11 @@ A: This does change the behavior. The original version of this code adds a papay
 
 In this section we added onto the total amount of values our programs deal with by writing a new variable for each global value. We then put back in our conditionals to use the two together in a dice game. Next, we'll use global values and conditionals together to represent different modes of the game. This will give us the ability to ask the user for different kinds of input.
 
-### **Post-Class: Begin Project**
+### **Post-Class: Begin Project Part 2**
 
 This part of SPS uses global state to build in more features of the game. To do the more comfortable you may have to read ahead to the game mode sections.
 
 In the next meeting we'll be doing peer review of the SPS code.
 
-[Project 1.5: Scissors Paper Stone 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
+[Project 1: Scissors Paper Stone \(Part 2\)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
