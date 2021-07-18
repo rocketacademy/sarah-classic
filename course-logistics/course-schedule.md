@@ -51,7 +51,7 @@ Day 0's pre-course briefing will run from **4-5pm** instead of the usual 1-3pm. 
 Total Video Watch Time: **~48 mins**
 
 {% hint style="warning" %}
-Coding Basics used to be called SWE101 and some of our videos were made before the name change and still reference the old name of SWE101. Please 
+Coding Basics used to be called SWE101 and some of our videos were made before the name change and still reference the old name of SWE101. Please take note!
 {% endhint %}
 
 * [1.1: What is Coding?](../1-introduction/1.1-what-is-coding.md)
