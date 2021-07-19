@@ -25,6 +25,7 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
 
 # 20 July 2021
 week: 2
+
 public holiday: Hari Raya Haji
 
 
