@@ -1,4 +1,4 @@
-# Sat, 17 Jul - Wk: 1, Day: 0
+# Sat, 3 Jul - Wk: 1 Day: 0
 ### Meeting time: 4:00 PM (Asia/Singapore)
 ## Pre-Course Briefing
 {% hint style="warning" %}
@@ -23,14 +23,8 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    4. Fun fact?
 
 
-# Tue, 20 Jul
-week: 2
-
-public holiday: Hari Raya Haji
-
-
-# Sat, 24 Jul - Wk: 2, Day: 1
-### Meeting time: 1:00 PM (Asia/Singapore)
+# Tue, 6 Jul - Wk: 2 Day: 1
+### Meeting time: 7:00 PM (Asia/Singapore)
 ## Coding Tools 
 #### Pre Class:
 Total Video Watch Time: **~48 mins**
@@ -54,8 +48,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 
 
-# Tue, 27 Jul - Wk: 3, Day: 2
-### Meeting time: 7:00 PM (Asia/Singapore)
+# Sat, 10 Jul - Wk: 2 Day: 2
+### Meeting time: 1:00 PM (Asia/Singapore)
 ## Functions
 #### Pre Class:
 Total Video Watch Time: **~25 mins**
@@ -68,8 +62,8 @@ Total Video Watch Time: **~25 mins**
 
 
 
-# Sat, 31 Jul - Wk: 3, Day: 3
-### Meeting time: 1:00 PM (Asia/Singapore)
+# Tue, 13 Jul - Wk: 3 Day: 3
+### Meeting time: 7:00 PM (Asia/Singapore)
 ## Logic 1
 #### Pre Class:
 Total Video Watch Time: **~40 mins**
@@ -88,8 +82,8 @@ We may want to review [7.1: GitHub Fork and Pull Request](https://basics.rocketa
 
 
 
-# Tue, 3 Aug - Wk: 4, Day: 4
-### Meeting time: 7:00 PM (Asia/Singapore)
+# Sat, 17 Jul - Wk: 3 Day: 4
+### Meeting time: 1:00 PM (Asia/Singapore)
 ## Logic 2, State 1
 #### Project Due:
 * [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
@@ -111,7 +105,12 @@ We may want to review 8.2: Program State for Game Modes before completing the Mo
 
 
 
-# Sat, 7 Aug - Wk: 4, Day: 5
+# Tue, 20 Jul
+week: 4
+## public holiday: Hari Raya Haji
+
+
+# Sat, 24 Jul - Wk: 4 Day: 5
 ### Meeting time: 1:00 PM (Asia/Singapore)
 ## State 2
 #### Pre Class:
@@ -127,7 +126,7 @@ Total Video Watch Time: **~17 mins**
 
 
 
-# Tue, 10 Aug - Wk: 5, Day: 6
+# Tue, 27 Jul - Wk: 5 Day: 6
 ### Meeting time: 7:00 PM (Asia/Singapore)
 ## Arrays, Loops 1
 #### Pre Class:
@@ -141,7 +140,7 @@ Total Video Watch Time: **~41 mins**
 
 
 
-# Sat, 14 Aug - Wk: 5, Day: 7
+# Sat, 31 Jul - Wk: 5 Day: 7
 ### Meeting time: 1:00 PM (Asia/Singapore)
 ## Loops 2
 #### Pre Class:
@@ -153,7 +152,7 @@ Total Video Watch Time: **~11 mins**
 
 
 
-# Tue, 17 Aug - Wk: 6, Day: 8
+# Tue, 3 Aug - Wk: 6 Day: 8
 ### Meeting time: 7:00 PM (Asia/Singapore)
 ## Objects
 #### Project Due:
@@ -171,7 +170,7 @@ Total Video Watch Time: **~15 mins**
 
 
 
-# Sat, 21 Aug - Wk: 6, Day: 9
+# Sat, 7 Aug - Wk: 6 Day: 9
 ### Meeting time: 1:00 PM (Asia/Singapore)
 ## Card Logic
 #### Pre Class:
@@ -183,7 +182,7 @@ Total Video Watch Time: **~16 mins**
 
 
 
-# Tue, 24 Aug - Wk: 7, Day: 10
+# Tue, 10 Aug - Wk: 7 Day: 10
 ### Meeting time: 7:00 PM (Asia/Singapore)
 ## Coding Strategies
 #### Pre Class:
@@ -195,7 +194,7 @@ Total Video Watch Time: **~60 mins**
 
 
 
-# Sat, 28 Aug - Wk: 7, Day: 11
+# Sat, 14 Aug - Wk: 7 Day: 11
 ### Meeting time: 1:00 PM (Asia/Singapore)
 ## Debugger
 #### Project Due:
@@ -214,7 +213,7 @@ Total Video Watch Time: **~18 mins**
 
 
 
-# Mon, 30 Aug - Wk: 8, Day: 12
+# Mon, 16 Aug - Wk: 8 Day: 12
 ### Meeting time: 7:00 PM (Asia/Singapore)
 ## Project Presentations
 #### Project Due:
