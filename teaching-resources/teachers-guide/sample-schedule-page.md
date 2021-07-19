@@ -21,9 +21,13 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    2. Why do you want to learn coding?
    3. What are your career goals?
    4. Fun fact?
+
+
 # 20 July 2021
 week: 2
 ## Hari Raya Haji
+
+
 # 24 July 2021, 1:00 PM Asia/Singapore
 week: 2, day: 2
 ## Coding Tools 
@@ -45,6 +49,8 @@ Total Video Watch Time: **~48 mins**
 {% hint style="warning" %}
 Please **do not** attempt in-class material before class for all course days, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.{% endhint %}
 * [Day 1: Basic File and Data Manipulation](https://basics.rocketacademy.co/in-class-exercises/day-1-basic-file-and-data-manipulation)
+
+
 # 27 July 2021, 7:00 PM Asia/Singapore
 week: 3, day: 3
 ## Functions
@@ -55,6 +61,8 @@ Total Video Watch Time: **~25 mins**
 * [5.2: Errors](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.2-errors)
 #### In Class:
 * [Day 2: Functions](https://basics.rocketacademy.co/in-class-exercises/day-2-functions)
+
+
 # 31 July 2021, 1:00 PM Asia/Singapore
 week: 3, day: 4
 ## Logic 1
@@ -70,6 +78,8 @@ Total Video Watch Time: **~40 mins**
 We may want to review [7.1: GitHub Fork and Pull Request](https://basics.rocketacademy.co/7-github/7.1-github-fork-and-pull-request) before starting the project.
 {% endhint %}
 * [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
+
+
 # 3 August 2021, 7:00 PM Asia/Singapore
 week: 4, day: 5
 ## Logic 2, State 1
@@ -87,6 +97,8 @@ Total Video Watch Time: **~41 mins**
 We may want to review 8.2: Program State for Game Modes before completing the More Comfortable section of SPS Part 2.
 {% endhint %}
 * [Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
+
+
 # 7 August 2021, 1:00 PM Asia/Singapore
 week: 4, day: 6
 ## State 2
@@ -98,6 +110,8 @@ Total Video Watch Time: **~17 mins**
 * [Day 5: Scissors Paper Stone Redux](https://basics.rocketacademy.co/in-class-exercises/day-5-scissors-paper-stone-redux)
 #### Project Start:
 * [Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
+
+
 # 10 August 2021, 7:00 PM Asia/Singapore
 week: 5, day: 7
 ## Arrays, Loops 1
@@ -108,6 +122,8 @@ Total Video Watch Time: **~41 mins**
 * [9.2: Loops](https://basics.rocketacademy.co/9-arrays-and-iteration/9.2-loops)
 #### In Class:
 * [Loops](https://basics.rocketacademy.co/in-class-exercises/day-6-loops)
+
+
 # 14 August 2021, 1:00 PM Asia/Singapore
 week: 5, day: 8
 ## Loops 2
@@ -116,6 +132,8 @@ Total Video Watch Time: **~11 mins**
 * [9.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
 #### In Class:
 * [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
+
+
 # 17 August 2021, 7:00 PM Asia/Singapore
 week: 6, day: 9
 ## Objects
@@ -128,6 +146,8 @@ Total Video Watch Time: **~15 mins**
 * [Day 8: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
 #### Project Start:
 * [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
+
+
 # 21 August 2021, 1:00 PM Asia/Singapore
 week: 6, day: 10
 ## Card Logic
@@ -136,6 +156,8 @@ Total Video Watch Time: **~16 mins**
 * [10.2: Card Deck Generation with Loops ](https://basics.rocketacademy.co/10-javascript-objects/10.2-card-deck-generation-with-loops)
 #### In Class:
 * [Day 9: Moar Cards](https://basics.rocketacademy.co/in-class-exercises/day-9-moar-cards)
+
+
 # 24 August 2021, 7:00 PM Asia/Singapore
 week: 7, day: 11
 ## Coding Strategies
@@ -144,6 +166,8 @@ Total Video Watch Time: **~60 mins**
 * [10.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/10-javascript-objects/10.3-card-game-example-war)
 #### In Class:
 * [Day 10: Chat Bot](https://basics.rocketacademy.co/in-class-exercises/day-10-chat-bot)
+
+
 # 28 August 2021, 1:00 PM Asia/Singapore
 week: 7, day: 12
 ## Debugger
@@ -157,6 +181,8 @@ Total Video Watch Time: **~18 mins**
 * [Day 11: Blackjack Redux and Debugger](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
 #### Project Start:
 * [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
+
+
 # 30 August 2021
 week: 8, day: 13
 ## Project Presentations
@@ -172,3 +198,5 @@ Total Video Watch Time: **~22 mins**
 * [Project presentations](https://basics.rocketacademy.co/course-logistics/course-methodology#project-presentations)
 * [LinkedIn certificate presentations]
 * [Class Photo 🥳]
+
+
