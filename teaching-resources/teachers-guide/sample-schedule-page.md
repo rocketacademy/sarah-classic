@@ -10,7 +10,7 @@
 | 6 | - | [10 Aug](#courseDay10) | [14 Aug](#courseDay11) |
 | 7 | [16 Aug](#courseDay12) | - | - |
 
-# Sat, 3 Jul - Wk 1, Course Day 0 {#courseDay0}: Pre-Course Briefing
+# Sat 3 Jul, Week 1, Course Day 0 {#courseDay0}: Pre-Course Briefing
 Meeting time: 4:00 PM SGT (GMT+8)
 
 {% hint style="warning" %}
@@ -35,7 +35,7 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    4. Fun fact?
 
 
-# Tue, 6 Jul - Wk 2, Course Day 1 {#courseDay1}: Coding Tools 
+# Tue 6 Jul, Week 2, Course Day 1 {#courseDay1}: Coding Tools 
 Meeting time: 7:00 PM SGT (GMT+8)
 
 ### Pre Class:
@@ -60,7 +60,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 
 
-# Sat, 10 Jul - Wk 2, Course Day 2 {#courseDay2}: Functions
+# Sat 10 Jul, Week 2, Course Day 2 {#courseDay2}: Functions
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class:
@@ -74,7 +74,7 @@ Total Video Watch Time: **~25 mins**
 
 
 
-# Tue, 13 Jul - Wk 3, Course Day 3 {#courseDay3}: Logic 1
+# Tue 13 Jul, Week 3, Course Day 3 {#courseDay3}: Logic 1
 Meeting time: 7:00 PM SGT (GMT+8)
 
 ### Pre Class:
@@ -94,7 +94,7 @@ We may want to review [7.1: GitHub Fork and Pull Request](https://basics.rocketa
 
 
 
-# Sat, 17 Jul - Wk 3, Course Day 4 {#courseDay4}: Logic 2, State 1
+# Sat 17 Jul, Week 3, Course Day 4 {#courseDay4}: Logic 2, State 1
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due:
@@ -119,7 +119,7 @@ We may want to review 8.2: Program State for Game Modes before completing the Mo
 
 # Tue, 20 Jul: Singapore Public Holiday, Hari Raya Haji
 
-# Sat, 24 Jul - Wk 4, Course Day 5 {#courseDay5}: State 2
+# Sat 24 Jul, Week 4, Course Day 5 {#courseDay5}: State 2
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class:
@@ -135,7 +135,7 @@ Total Video Watch Time: **~17 mins**
 
 
 
-# Tue, 27 Jul - Wk 5, Course Day 6 {#courseDay6}: Arrays, Loops 1
+# Tue 27 Jul, Week 5, Course Day 6 {#courseDay6}: Arrays, Loops 1
 Meeting time: 7:00 PM SGT (GMT+8)
 
 ### Pre Class:
@@ -149,7 +149,7 @@ Total Video Watch Time: **~41 mins**
 
 
 
-# Sat, 31 Jul - Wk 5, Course Day 7 {#courseDay7}: Loops 2
+# Sat 31 Jul, Week 5, Course Day 7 {#courseDay7}: Loops 2
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class:
@@ -161,7 +161,7 @@ Total Video Watch Time: **~11 mins**
 
 
 
-# Tue, 3 Aug - Wk 6, Course Day 8 {#courseDay8}: Objects
+# Tue 3 Aug, Week 6, Course Day 8 {#courseDay8}: Objects
 Meeting time: 7:00 PM SGT (GMT+8)
 
 ### Project Due:
@@ -179,7 +179,7 @@ Total Video Watch Time: **~15 mins**
 
 
 
-# Sat, 7 Aug - Wk 6, Course Day 9 {#courseDay9}: Card Logic
+# Sat 7 Aug, Week 6, Course Day 9 {#courseDay9}: Card Logic
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class:
@@ -191,7 +191,7 @@ Total Video Watch Time: **~16 mins**
 
 
 
-# Tue, 10 Aug - Wk 7, Course Day 10 {#courseDay10}: Coding Strategies
+# Tue 10 Aug, Week 7, Course Day 10 {#courseDay10}: Coding Strategies
 Meeting time: 7:00 PM SGT (GMT+8)
 
 ### Pre Class:
@@ -203,7 +203,7 @@ Total Video Watch Time: **~60 mins**
 
 
 
-# Sat, 14 Aug - Wk 7, Course Day 11 {#courseDay11}: Debugger
+# Sat 14 Aug, Week 7, Course Day 11 {#courseDay11}: Debugger
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due:
@@ -222,7 +222,7 @@ Total Video Watch Time: **~18 mins**
 
 
 
-# Mon, 16 Aug - Wk 8, Course Day 12 {#courseDay12}: Project Presentations
+# Mon 16 Aug, Week 8, Course Day 12 {#courseDay12}: Project Presentations
 Meeting time: 7:00 PM SGT (GMT+8)
 
 ### Project Due:
