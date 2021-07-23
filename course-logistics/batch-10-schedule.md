@@ -1,5 +1,5 @@
 ---
-what, and when we will learn
+description: What and when we will learn
 ---
 
 # Course Dates
