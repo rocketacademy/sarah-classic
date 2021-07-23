@@ -244,5 +244,11 @@ Total Video Watch Time: **~22 mins**
 * LinkedIn certificate presentations
 * Class Photo 🥳
 
+# Further Reading
+
+### Past Projects
+
+* [Drawing With Emojis](../past-projects/drawing-with-emojis.md)
+* [Guess The Word](../past-projects/guess-the-word.md)
 
 
