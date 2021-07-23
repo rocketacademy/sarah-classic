@@ -2,10 +2,6 @@
 description: What and when we will learn
 ---
 
-# 📅 Course Schedule
-
-## Overview
-
 # Course Dates
 
 | Week |           Tuesday           |        Saturday        |
