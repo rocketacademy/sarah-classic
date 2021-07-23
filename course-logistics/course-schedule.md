@@ -5,14 +5,14 @@ description: What and when we will learn
 # Course Dates
 
 | Week |           Tuesday           |        Saturday        |
-| :--: | :-------------------------: | :--------------------: | :-: |
-|  0   |              -              |  [3 Jul](#courseDay0)  |  -  |
-|  1   |    [6 Jul](#courseDay1)     | [10 Jul](#courseDay2)  |  -  |
-|  2   |    [13 Jul](#courseDay3)    | [17 Jul](#courseDay4)  |  -  |
-|  3   | [21 Jul (Wed)](#courseDay5) | [24 Jul](#courseDay6)  |  -  |
-|  4   |    [27 Jul](#courseDay7)    | [31 Jul](#courseDay8)  |  -  |
-|  5   |    [3 Aug](#courseDay9)     | [7 Aug](#courseDay10)  |  -  |
-|  6   |   [10 Aug](#courseDay11)    | [14 Aug](#courseDay12) |  -  |
+| :--: | :-------------------------: | :--------------------: | 
+|  0   |              -              |  [3 Jul](#courseDay0)  |  
+|  1   |    [6 Jul](#courseDay1)     | [10 Jul](#courseDay2)  |  
+|  2   |    [13 Jul](#courseDay3)    | [17 Jul](#courseDay4)  |  
+|  3   | [21 Jul (Wed)](#courseDay5) | [24 Jul](#courseDay6)  |  
+|  4   |    [27 Jul](#courseDay7)    | [31 Jul](#courseDay8)  |  
+|  5   |    [3 Aug](#courseDay9)     | [7 Aug](#courseDay10)  |  
+|  6   |   [10 Aug](#courseDay11)    | [14 Aug](#courseDay12) |  
 
 # Sat 3 Jul, Week 1, Course Day 0 {#courseDay0}: Pre-Course Briefing
 
