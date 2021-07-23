@@ -285,7 +285,7 @@ Total Video Watch Time: **~22 mins**
 - LinkedIn certificate presentations
 - Class Photo 🥳
 
-## Further Reading
+# Further Reading
 
 ### Past Projects
 
