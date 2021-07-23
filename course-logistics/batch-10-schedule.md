@@ -4,14 +4,14 @@ description: What and when we will learn
 
 # Course Dates
 | Week | Tuesday | Saturday |
-| :---: | :---: | :---: | :---: |
-| 0 | - | [14 Aug](#courseDay0) | - |
-| 1 | [17 Aug](#courseDay1) | [21 Aug](#courseDay2) | - |
-| 2 | [24 Aug](#courseDay3) | [28 Aug](#courseDay4) | - |
-| 3 | [31 Aug](#courseDay5) | [4 Sep](#courseDay6) | - |
-| 4 | [7 Sep](#courseDay7) | [11 Sep](#courseDay8) | - |
-| 5 | [14 Sep](#courseDay9) | [18 Sep](#courseDay10) | - |
-| 6 | [21 Sep](#courseDay11) | [25 Sep](#courseDay12) | - |
+| :---: | :---: | :---: |
+| 0 | - | [14 Aug](#courseDay0) | 
+| 1 | [17 Aug](#courseDay1) | [21 Aug](#courseDay2) | 
+| 2 | [24 Aug](#courseDay3) | [28 Aug](#courseDay4) | 
+| 3 | [31 Aug](#courseDay5) | [4 Sep](#courseDay6) | 
+| 4 | [7 Sep](#courseDay7) | [11 Sep](#courseDay8) | 
+| 5 | [14 Sep](#courseDay9) | [18 Sep](#courseDay10) | 
+| 6 | [21 Sep](#courseDay11) | [25 Sep](#courseDay12) |
 
 # Sat 14 Aug, Week 1, Course Day 0 {#courseDay0}: Pre-Course Briefing
 Meeting time: 4:00 PM SGT (GMT+8)
