@@ -1,2 +1,0 @@
-# Teacher's Guide
-

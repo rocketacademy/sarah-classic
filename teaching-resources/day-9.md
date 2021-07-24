@@ -14,7 +14,7 @@ Remind the students that in order to move forward with the blackjack game, it's 
 
 Total Video Watch Time: **~16 mins**
 
-### [10.2: Card Deck Generation with Loops](../../10-javascript-objects/10.2-card-deck-generation-with-loops.md)
+### [10.2: Card Deck Generation with Loops](../10-javascript-objects/10.2-card-deck-generation-with-loops.md)
 
 ```javascript
 var makeDeck = function () {
@@ -137,7 +137,7 @@ cardDeck.push(card);
 
 ## In-Class Material
 
-### [Day 9: Moar Cards](../../in-class-exercises/day-9-moar-cards.md)
+### [Day 9: Moar Cards](../in-class-exercises/day-9-moar-cards.md)
 
 This in-class exercise creates different variations of high card. This will hopefully help the students warm-up to working on card games so that they are better prepared for doing the blackjack project.
 
