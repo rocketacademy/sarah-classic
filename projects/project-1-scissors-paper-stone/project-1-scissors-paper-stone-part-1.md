@@ -6,7 +6,7 @@ description: "✂️\U0001F4C3\U0001F48E\U0001F61C"
 
 ## Introduction
 
-For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game. We have split this project into 2 parts to cater to the pace of RA's Basics course. See the [Course Schedule](../../course-logistics/course-schedule.md#day-3-logic-1) for when we have assigned each part.
+For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game. We have split this project into 2 parts to cater to the pace of RA's Basics course. See the [Course Schedule]() for when we have assigned each part.
 
 Part 1 works with the technologies we have learned so far in Basics, and Part 2 adds additional technologies that we learn in subsequent course days.
 

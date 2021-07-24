@@ -26,6 +26,8 @@ Total Video Watch Time: **~41 mins**
 
 #### Q: What are the three ways to approach a problem? Describe which step you get stuck on the most so far.
 
+A: 1\) Understand the problem through language. 2\) Strategize to prioritize problems. 3\) Translate problem to JavaScript, use pseudocode.
+
 #### Q: Describe one time that fixing an error updated your mental model / helped you understand your code and/or JavaScript better.
 
 #### Q: What does deliberate practice mean to you? How are you implementing it in this course?
