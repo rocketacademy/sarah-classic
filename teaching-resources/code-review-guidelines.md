@@ -1,6 +1,16 @@
 # Code Review Guidelines
 
-## Overall \(All Projects\)
+## How to do Code Reviews
+
+1. Navigate to your student's PR link in GitHub
+2. Navigate to the Files Changed tab to see changes
+3. Leave comments on specific lines based on feedback points below and any others you deem relevant. To leave comments on multiple lines, click and drag on the blue plus icon when hovering over the code.
+4. Running the code is not necessary. Focus on code quality.
+5. Spend up to 30 minutes per student submission.
+
+![](../.gitbook/assets/jie-ping-20210724-17.29.20.png)
+
+## General Points \(All Projects\)
 
 ### Formatting
 
