@@ -1,5 +1,5 @@
 ---
-description: What and when we will learn
+What and when we will learn
 ---
 
 # Course Dates
@@ -136,7 +136,7 @@ We may want to review 8.2: Program State for Game Modes before completing the Mo
 
 - [Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
 
-# Tue 20 Jul, Week 4, Course Day 5 {#course-day-5}: State 2
+# Wed 21 Jul, Week 4, Course Day 5 {#course-day-5}: State 2
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
