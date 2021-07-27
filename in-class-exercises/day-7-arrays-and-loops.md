@@ -4,8 +4,6 @@
 
 Today we will practise arrays with occasional loops through the game of Mad Libs. Note that loops may not be necessary for every exercise.
 
-## Mad Libs Game
-
 Mad Libs is a word game where players fill in the blanks with random words, such that the final sentence is usually funny. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad_Libs).
 
 #### Example "Mad Lib" Sentence from Wikipedia
@@ -41,10 +39,9 @@ var madLib = `"Yabadabadoo!" he said gleefully as he jumped into his convertible
 
 Please read all instructions before getting started.
 
-1. Create a Mad Lib with blanks to fill. Feel free to use the example Mad Lib from Wikipedia \(above\) or create your own.
-2. If you are using the example Mad Lib, insert fixed words for exclamation, adverb and noun, and leave the adjective field blank. If you are using your own Mad Lib, leave 1 adjective field blank. In your code, this may look like the Example Mad Lib in Code above.
-3. When the Basics Starter Code app loads, the user can input 1 adjective at a time to store in the app. Store the user-inputted adjectives in an array.
-4. When the user inputs "_create_" it prompts the app to complete your Mad Lib with a random adjective from the user-inputted adjectives list and output the completed Mad Lib in the output box.
+1. Create a Mad Lib with 1 blank adjective to fill using the example Mad Lib above.
+2. When the Basics Starter Code app loads, the user can input 1 adjective at a time to store in the app. Store the user-inputted adjectives in an array.
+3. When the user inputs "create" it prompts the app to complete your Mad Lib with a random adjective from the user-inputted adjectives list and output the completed Mad Lib in the output box.
 
 ## More Comfortable
 
@@ -59,6 +56,12 @@ When the user inputs "create", change the game mode to create mode. In create mo
 When the Basics Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref_split.asp) for details.
 
 ### Mad Libs Multiple Word Types
+
+Update our Mad Lib to take additional word types.
+
+```javascript
+var madLib = `${randomExclamation}! he said ${randomAdverb} as he jumped into his convertible ${randomNoun} and drove off with his ${randomAdj} wife.`;
+```
 
 Create modes to input words from different word types, e.g. exclamation, adverb, noun, and adjective. For each type, prompt the user what type of word they should be entering. If it's too tedious to support 4 word types, considering starting with 2 word types.
 
