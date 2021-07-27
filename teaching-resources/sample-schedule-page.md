@@ -28,9 +28,11 @@ Module 1: Frontend Basics
 
 ### Pre Class
 * [1.3: High Card DOM](https://bootcamp.rocketacademy.co/1-frontend-basics/1.3-high-card-dom)
+* [CSS.1: Basic CSS (Exercises Part 1)](https://bootcamp.rocketacademy.co/css/css-1-basic-css)
 
 ### In Class
 * [1.ICE.1: Drawing DOM (continued)](https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.1-drawing-dom)
+* [Review 1 student's 1.POCE.1: Noodle Recipe Website](undefined)
 
 ### Post Class
 * [1.POCE.2: High Card DOM](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.2-high-card-dom)
@@ -45,6 +47,7 @@ Module 1: Frontend Basics
 * [1.5: High Card setTimeout](https://bootcamp.rocketacademy.co/1-frontend-basics/1.5-high-card-settimeout)
 * [1.6: Match Game](https://bootcamp.rocketacademy.co/1-frontend-basics/1.6-match-game)
 * [0.2.4: Reference vs. Value](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.2-es6/0.2.4-reference-vs.-value)
+* [CSS.1: Basic CSS (Exercises Part 2)](https://bootcamp.rocketacademy.co/css/css-1-basic-css)
 
 ### In Class
 * [Review 1 student's 1.POCE.2: High Card]()
@@ -62,6 +65,8 @@ Module 1: Frontend Basics
 ### Pre Class
 * [1.7: setInterval](https://bootcamp.rocketacademy.co/1-frontend-basics/1.7-setinterval)
 * [1.8: Timer](https://bootcamp.rocketacademy.co/1-frontend-basics/1.8-timer)
+* [CSS.2.1 No Layout](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.1-no-layout)
+* [CSS.2.2 Display Inline Block](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.2-display-inline-and-block)
 
 ### In Class
 * [Review 1 student's 1.POCE.3: Match Game](undefined)
@@ -79,6 +84,8 @@ Module 1: Frontend Basics
 ### Pre Class
 * [1.9: Tic Tac Toe](https://bootcamp.rocketacademy.co/1-frontend-basics/1.9-tic-tac-toe)
 * [1.10: Multi File Refactor](https://bootcamp.rocketacademy.co/1-frontend-basics/1.10-multi-file-refactor)
+* [CSS.2.3: Box Model](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.3-box-model)
+* [CSS.2.4: Layout Width](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.4-layout-fixed-width-and-max-width)
 
 ### In Class
 * [Review 1 student's 1.POCE.4: Timer]()
@@ -98,14 +105,17 @@ Module 1: Frontend Basics
 ### Pre Class
 * [1.11: CSS Control with DOM](https://bootcamp.rocketacademy.co/1-frontend-basics/1.11-css-control-with-dom)
 * [0.4: JS Object as Tally](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.4-js-object-as-tally)
+* [CSS.2.5 Display Inline Block](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.5-display-inline-block)
+* [CSS.2.6 Layout Col / Card](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.6-layout-columns-and-cards)
 
 ### In Class
 * [Review 1 student's 1.POCE.5: Tic Tac Toe](undefined)
 
 ### Post Class
+* [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
 ### Project Due
-[Project 1: Video Poker](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
+* [Project 1: Video Poker](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
 # Wed 11 Aug, Week 2, Course Day 7
 Meeting time: 10:00 AM SGT (GMT+8)
@@ -113,10 +123,15 @@ Meeting time: 10:00 AM SGT (GMT+8)
 Module 1: Frontend Basics
 
 ### Pre Class
+* [CSS.2.7: Position](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.7-position)
+* [CSS.2.8: Float](https://bootcamp.rocketacademy.co/css/css.2-layout/css.2.8-float)
 
 ### In Class
+* [1.ICE.CSS.1: Straits Times](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.1-straits-times-css)
+* [Project 1 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
 
 # Thu 12 Aug, Week 2, Course Day 8
@@ -126,10 +141,14 @@ Module 1: Frontend Basics
 
 ### Pre Class
 * [2.0: Module 2 Setup](https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview)
+* [CSS.3 Flexbox](https://bootcamp.rocketacademy.co/css/css.3-flexbox)
 
 ### In Class
+* [1.ICE.CSS.Wikipedia](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.2-css-practice-6-wikipedia)
+* [Project 1 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
 
 # Fri 13 Aug, Week 2, Course Day 9
@@ -139,12 +158,16 @@ Module 1: Frontend Basics
 
 ### Pre Class
 * [1.1.4: Flexbox Layout](https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html-and-css/1.1.4-flexbox#see-how-to-use-flexbox-to-create-css-layouts)
+* [CSS.3.1: Flexbox Columns](https://bootcamp.rocketacademy.co/css/css.3-flexbox/css.3.1-flexbox-layout)
 
 ### In Class
 * [Project 1 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 * [1.1: HTML & CSS (Technical Documentation)](https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html-and-css#technical-documentation-page)
+* [1.ICE.CSS.4: Etsy](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.4-etsy-css)
+* [Project 1 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 * [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
 
@@ -154,10 +177,16 @@ Meeting time: 10:00 AM SGT (GMT+8)
 Module 1: Frontend Basics
 
 ### Pre Class
+* [CSS.4 Responsive Design](https://bootcamp.rocketacademy.co/css/css.4-responsive-design)
+* [CSS.5: Web Design Basics](https://bootcamp.rocketacademy.co/css/css.5-web-design-basics)
 
 ### In Class
+* [1.1: HTML & CSS (Product Landing Page)](https://bootcamp.rocketacademy.co/1-frontend-basics/1.1-html-and-css#product-landing-page)
+* [Project 1 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
+* [Project 1: Deploy to GitHub Pages](https://basics.rocketacademy.co/12-next-steps/12.3-deployment)
 
 
 # Tue 17 Aug, Week 3, Course Day 11
@@ -165,13 +194,16 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 1: Frontend Basics
 ### Project Due
-[Project 1: Video Poker](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
+* [Project 1: Video Poker](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
 ### Pre Class
+* [Project 1 Implementation](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
 ### In Class
+* [Project 1 Presentations](https://bootcamp.rocketacademy.co/projects/project-1-video-poker)
 
 ### Post Class
+* [Project 1 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
 
 
 # Wed 18 Aug, Week 3, Course Day 12
@@ -187,6 +219,7 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 ### Post Class
 * [2.POCE.1: Command Line Colour Converter](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.1-command-line-colour-converter)
+* [1.POCE.6: CSS Flexbox](https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.1-technical-documentation-page-flexbox-responsive)
 
 
 # Thu 19 Aug, Week 3, Course Day 13
@@ -220,6 +253,7 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 ### Post Class
 * [2.POCE.3: CSS Processor](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.3-css-processor)
+* [1.POCE.8: Flexbox Personal Page](https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.2-flexbox-personal-page)
 
 
 # Mon 23 Aug, Week 4, Course Day 15
@@ -230,6 +264,7 @@ Meeting time: 10:00 AM SGT (GMT+8)
 * [2.9: HTTP Requests and Responses](https://bootcamp.rocketacademy.co/2-backend-basics/2.9-http)
 * [2.10: HTTP File Server](https://bootcamp.rocketacademy.co/2-backend-basics/2.10-http-file-server)
 * [Install ngrok. We will use it in 2.ICE.4.](https://bootcamp.rocketacademy.co/2-backend-basics/2.0-module-2-overview#ngrok)
+* [CSS.6 Bootstrap](https://bootcamp.rocketacademy.co/css/css.6-bootstrap)
 
 ### In Class
 * [Review 2.POCE.3: CSS Processor](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review)
@@ -237,6 +272,7 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 ### Post Class
 * [2.POCE.4: File Server](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.4-file-server)
+* [1.POCE.9: Bootstrap](https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.3-bootstrap-columns)
 
 
 # Tue 24 Aug, Week 4, Course Day 16
@@ -270,6 +306,7 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 ### Post Class
 * [2.POCE.6: To-Do List - JSON](https://bootcamp.rocketacademy.co/2-backend-basics/2.poce-post-class-exercises/2.poce.6-todo-list-json)
+* [1.POCE.10: Bootstrap Adobe](https://bootcamp.rocketacademy.co/css/1.poce.css-post-class-css-exercises/1.poce.css.4-bootstrap-adobe)
 
 
 # Thu 26 Aug, Week 4, Course Day 18
@@ -366,6 +403,7 @@ Module 3: Backend Applications
 ### In Class
 * [Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 * [1.ICE.7: CSS Practice 1 - MyTunes](https://bootcamp.rocketacademy.co/1-frontend-basics/1.ice-in-class-exercises/1.ice.7-css-practice-1-mytunes)
+* [1.ICE.CSS.4: MyTunes](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes)
 
 ### Post Class
 * [3.POCE.3: UFO Sightings](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos)
@@ -384,6 +422,7 @@ Module 3: Backend Applications
 ### In Class
 * [Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 * [3.ICE.4: Cookies](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.4-cookies)
+* [1.ICE.CSS.4: MyTunes](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.3-mytunes)
 
 ### Post Class
 * [3.POCE.3: UFO Sightings](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.3-express-ufos)
@@ -421,9 +460,10 @@ Module 3: Backend Applications
 
 ### Post Class
 * [3.POCE.5: Bird Watching](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.5-bird-watching)
+* [Project 2 Ideation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
 
 ### Project Due
-[Project 2: Server-Side App](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app)
+* [Project 2: Server-Side App](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app)
 
 # Wed 8 Sep, Week 6, Course Day 27
 Meeting time: 10:00 AM SGT (GMT+8)
@@ -439,6 +479,7 @@ Module 3: Backend Applications
 
 ### Post Class
 * [3.POCE.6: Bird Watching Users](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.6-bird-watching-users)
+* [Project 2 Ideation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
 
 
 # Thu 9 Sep, Week 6, Course Day 28
@@ -456,6 +497,7 @@ Module 3: Backend Applications
 
 ### Post Class
 * [3.POCE.7: Bird Watching Species](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.7-bird-watching-species)
+* [Project 2 Ideation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
 
 
 # Fri 10 Sep, Week 6, Course Day 29
@@ -473,6 +515,7 @@ Module 3: Backend Applications
 
 ### Post Class
 * [3.POCE.8: Bird Watching Behaviour](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.8-bird-watching-behaviour)
+* [Project 2 Ideation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
 
 
 # Mon 13 Sep, Week 7, Course Day 30
@@ -480,7 +523,7 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Project Due
-[Project 2 deadline to post ideas in Slack](undefined)
+* [Project 2 deadline to post ideas in Slack](undefined)
 
 ### Pre Class
 * [3.3.6: SQL Schema Design](https://bootcamp.rocketacademy.co/3-backend-applications/3.3-sql-language/3.3.6-sql-schema-design)
@@ -491,6 +534,7 @@ Module 3: Backend Applications
 ### Post Class
 * [3.POCE.9: Bird Watching Comments](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.9-bird-watching-comments)
 * [3.POCE.10: EC2 Deployment with Postgres](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.10-ec2-deployment-with-postgres)
+* [Project 2 Ideation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-1)
 
 
 # Tue 14 Sep, Week 7, Course Day 31
@@ -508,6 +552,7 @@ Module 3: Backend Applications
 * [3.ICE.10: Bird Watching Redux](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.10-bird-watching-redux)
 
 ### Post Class
+* [Project 2 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2)
 
 
 # Wed 15 Sep, Week 7, Course Day 32
@@ -520,8 +565,12 @@ Module 3: Backend Applications
 * [3.5.5: Custom Middleware for Authentication](https://bootcamp.rocketacademy.co/3-backend-applications/3.5-authentication/3.5.5-custom-middleware-for-authentication)
 
 ### In Class
+* [Project 2 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
+* [Project 2 Planning: Peer Discussion](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2)
 
 ### Post Class
+* [Project 2 Instructor 1-1s](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#ideation-phase-2)
+* [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
 
 # Thu 16 Sep, Week 7, Course Day 33
@@ -534,8 +583,10 @@ Module 3: Backend Applications
 
 ### In Class
 * [3.ICE.11: DB Schema Design - Uber](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.11-db-schema-design-uber)
+* [Project 2 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
 
 # Fri 17 Sep, Week 7, Course Day 34
@@ -548,8 +599,10 @@ Module 3: Backend Applications
 
 ### In Class
 * [3.ICE.12: DB Schema Design - Instagram](https://bootcamp.rocketacademy.co/3-backend-applications/3.ice-in-class-exercises/3.ice.12-db-schema-design-instagram)
+* [Project 2 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
 
 # Mon 20 Sep, Week 8, Course Day 35
@@ -561,8 +614,11 @@ Module 3: Backend Applications
 
 ### In Class
 * [Project 2 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
+* [1.ICE.CSS.5: Restaurant](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.5-trombones)
+* [Project 2 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 * [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
 
@@ -571,13 +627,17 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Project Due
-[Project 2 MVP (deployed)](undefined)
+* [Project 2 MVP (deployed)](undefined)
 
 ### Pre Class
 
 ### In Class
+* [Project 2 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
+* [Project 2 Mid-Point Peer Review](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#mid-point-peer-review-in-class)
 
 ### Post Class
+* [Project 2 Mid-Point Instructor Meeting (30 minutes)](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#project-timeline)
+* [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
 
 # Wed 22 Sep, Week 8, Course Day 37
@@ -588,8 +648,11 @@ Module 3: Backend Applications
 ### Pre Class
 
 ### In Class
+* [1.ICE.CSS.6: NTU](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.6-ntu)
+* [Project 2 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
 
 # Thu 23 Sep, Week 8, Course Day 38
@@ -600,8 +663,11 @@ Module 3: Backend Applications
 ### Pre Class
 
 ### In Class
+* [1.ICE.CSS.7: Zillow](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.7-zillow)
+* [Project 2 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
 
 # Fri 24 Sep, Week 8, Course Day 39
@@ -609,13 +675,16 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Project Due
-[Project 2 Feature Freeze](undefined)
+* [Project 2 Feature Freeze](undefined)
 
 ### Pre Class
 
 ### In Class
+* [1.ICE.CSS.8: Chase Bank](https://bootcamp.rocketacademy.co/css/1.ice.css-in-class-css-exercises/1.ice.css.8-chase-bank)
+* [Project 2 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 2 Implementation](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#recommended-order-of-implementation)
 
 
 # Mon 27 Sep, Week 9, Course Day 40
@@ -623,13 +692,15 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 3: Backend Applications
 ### Project Due
-[Project 2: Server-Side App](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app)
+* [Project 2: Server-Side App](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app)
 
 ### Pre Class
 
 ### In Class
+* [Project 2 Presentations](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-presentations)
 
 ### Post Class
+* [Project 2 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
 
 
 # Tue 28 Sep, Week 9, Course Day 41
@@ -649,6 +720,7 @@ Module 4: Backend Structure
 ### Post Class
 * [3.POCE.11: Heroku Deployment](https://bootcamp.rocketacademy.co/3-backend-applications/3.poce-post-class-exercises/3.poce.11-heroku-deployment)
 * [Project 2 Demo Video](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#video-demo)
+* [Project 2 Demo Video](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#video-demo)
 
 
 # Wed 29 Sep, Week 9, Course Day 42
@@ -666,6 +738,7 @@ Module 4: Backend Structure
 
 ### Post Class
 * [4.POCE.1: Sequelize CLI App - Travel Itinerary](https://bootcamp.rocketacademy.co/4-backend-structure/4.poce-post-class-exercises/4.poce.1-sequelize-cli-app-travel-itinerary)
+* [Project 2 Demo Video](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#video-demo)
 
 
 # Thu 30 Sep, Week 9, Course Day 43
@@ -673,7 +746,7 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 4: Backend Structure
 ### Project Due
-[Project 2 Demo Video](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#video-demo)
+* [Project 2 Demo Video](https://bootcamp.rocketacademy.co/projects/project-2-server-side-app#video-demo)
 
 ### Pre Class
 * [0.8.2: Try Catch](https://bootcamp.rocketacademy.co/0-language-and-tooling/0.8-js-promises/0.8.2-try-catch)
@@ -764,9 +837,10 @@ Module 5: Full-Stack Applications
 
 ### Post Class
 * [5.POCE.1: Bug Reports AJAX](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.1-bug-reports-ajax)
+* [Project 3 Ideation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
 ### Project Due
-[Project 3: Full-Stack Game](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
+* [Project 3: Full-Stack Game](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
 # Fri 8 Oct, Week 10, Course Day 49
 Meeting time: 10:00 AM SGT (GMT+8)
@@ -775,14 +849,15 @@ Module 5: Full-Stack Applications
 
 ### Pre Class
 * [4.1.8: Multiple FK Columns Referencing Same Table](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.8-multiple-foreign-key-columns-referencing-same-table)
-*[D.1: Intro to SWE Interviews](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.1-intro-to-swe-interviews)
-*[D.2: Intro to Python (Exercises 1-8)](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.2-intro-to-python)
+* [D.1: Intro to SWE Interviews](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.1-intro-to-swe-interviews)
+* [D.2: Intro to Python (Exercises 1-8)](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.2-intro-to-python)
 
 ### In Class
 * [5.ICE.4: Cross-Domain AJAX](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.ice-in-class-exercises/5.ice.4-cross-domain-ajax)
 
 ### Post Class
 * [5.POCE.2: Bug Reports AJAX Users](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.2-bug-reports-ajax-users)
+* [Project 3 Ideation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
 
 # Mon 11 Oct, Week 11, Course Day 50
@@ -793,13 +868,14 @@ Module 6: Frontend
 ### Pre Class
 * [6.1: Webpack](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack)
 * [5.2.2: AJAX Cards](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.2-ajax/5.2.2-ajax-cards)
-*[D.2: Intro to Python (Exercises 9-11)](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.2-intro-to-python)
+* [D.2: Intro to Python (Exercises 9-11)](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.2-intro-to-python)
 
 ### In Class
 * [Bug Reports (5.POCE.1, 5.POCE.2) Redux ](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#peer-code-review)
 
 ### Post Class
 * [5.POCE.3: AJAX Cards](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards)
+* [Project 3 Ideation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
 
 # Tue 12 Oct, Week 11, Course Day 51
@@ -810,14 +886,15 @@ Module 6: Frontend
 ### Pre Class
 * [6.1.1: Webpack with Local Modules](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.1-webpack-with-local-modules)
 * [6.1.2: Webpack with NPM Modules](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.2-webpack-with-npm-modules)
-*[D.3: Complexity Analysis, Big-O Notation](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation)
-*[D.4: Interview Strategies](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.4-interview-strategies)
+* [D.3: Complexity Analysis, Big-O Notation](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.3-complexity-analysis-big-o-notation)
+* [D.4: Interview Strategies](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.4-interview-strategies)
 
 ### In Class
 * [6.ICE.1: NPM Webpack](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.ice-in-class-exercises/6.ice.1-npm-webpack)
 
 ### Post Class
 * [5.POCE.3: AJAX Cards](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards)
+* [Project 3 Ideation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
 
 # Wed 13 Oct, Week 11, Course Day 52
@@ -828,14 +905,15 @@ Module 6: Frontend
 ### Pre Class
 * [6.1.3: Webpack with Babel](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.3-webpack-with-babel)
 * [6.1.4: Webpack with SASS](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.4-webpack-with-sass)
-*[D.5.1: Arrays - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#pre-class)
+* [D.5.1: Arrays - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#pre-class)
 
 ### In Class
-*[D.5.1: Arrays - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#part-1)
+* [D.5.1: Arrays - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#part-1)
 
 ### Post Class
 * [5.POCE.3: AJAX Cards](https://bootcamp.rocketacademy.co/5-full-stack-applications/5.poce-post-class-exercises/5.poce.3-ajax-cards)
-*[D.5.1: Arrays - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#part-1)
+* [D.5.1: Arrays - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#part-1)
+* [Project 3 Ideation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-1)
 
 
 # Thu 14 Oct, Week 11, Course Day 53
@@ -843,17 +921,18 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend
 ### Project Due
-[Deadline to post Project 3 ideas in Slack](undefined)
+* [Deadline to post Project 3 ideas in Slack](undefined)
 
 ### Pre Class
 * [6.1.5: Webpack with Express](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.5-webpack-with-express)
 
 ### In Class
 * [AJAX Cards Redux](undefined)
-*[D.5.1: Arrays - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#part-2)
+* [D.5.1: Arrays - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#part-2)
 
 ### Post Class
-*[D.5.1: Arrays - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#part-2)
+* [D.5.1: Arrays - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.1-arrays#part-2)
+* [Project 3 Ideation Phase 2](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#ideation-phase-2)
 
 
 # Fri 15 Oct, Week 11, Course Day 54
@@ -863,13 +942,15 @@ Module 6: Frontend
 
 ### Pre Class
 * [Group Work (for project management)](https://bootcamp.rocketacademy.co/course-logistics/group-work)
-*[D.5.2: Hash Tables - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables)
+* [D.5.2: Hash Tables - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables)
 
 ### In Class
-*[D.5.2: Hash Tables - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables#part-1)
+* [D.5.2: Hash Tables - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables#part-1)
+* [Project 3 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
-*[D.5.2: Hash Tables - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables#part-1)
+* [D.5.2: Hash Tables - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables#part-1)
+* [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
 
 # Mon 18 Oct, Week 12, Course Day 55
@@ -880,10 +961,12 @@ Module 6: Frontend
 ### Pre Class
 
 ### In Class
-*[D.5.2: Hash Tables - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables#part-2)
+* [D.5.2: Hash Tables - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables#part-2)
+* [Project 3 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
-*[D.5.2: Hash Tables - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables#part-2)
+* [D.5.2: Hash Tables - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.2-hash-tables#part-2)
+* [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
 
 # Tue 19 Oct, Week 12, Course Day 56
@@ -892,13 +975,15 @@ Meeting time: 10:00 AM SGT (GMT+8)
 Module 6: Frontend
 
 ### Pre Class
-*[D.5.3: Stacks - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#pre-class)
+* [D.5.3: Stacks - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#pre-class)
 
 ### In Class
-*[D.5.3: Stacks - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#part-1)
+* [D.5.3: Stacks - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#part-1)
+* [Project 3 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
-*[D.5.3: Stacks - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#part-1)
+* [D.5.3: Stacks - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#part-1)
+* [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
 
 # Wed 20 Oct, Week 12, Course Day 57
@@ -909,10 +994,12 @@ Module 6: Frontend
 ### Pre Class
 
 ### In Class
-*[D.5.3: Stacks - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#part-2)
+* [D.5.3: Stacks - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#part-2)
+* [Project 3 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
-*[D.5.3: Stacks - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#part-2)
+* [D.5.3: Stacks - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.3-stacks#part-2)
+* [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
 
 # Thu 21 Oct, Week 12, Course Day 58
@@ -920,18 +1007,21 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend
 ### Project Due
-[Project 3 MVP Deadline (deployed)](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#mvp-deadline)
+* [Project 3 MVP Deadline (deployed)](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#mvp-deadline)
 
 ### Pre Class
 * [4.1.10: Deploy Sequelize App to Heroku](https://bootcamp.rocketacademy.co/4-backend-structure/4.1-orm-sequelize/4.1.10-deploy-sequelize-app-to-heroku)
 * [6.1.6: Deploy Webpack App to Heroku](https://bootcamp.rocketacademy.co/6-frontend-infrastructure/6.1-webpack/6.1.6-express-mvc-webpack-and-heroku)
-*[D.5.4: Queues - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.4-queues#pre-class)
+* [D.5.4: Queues - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.4-queues#pre-class)
 
 ### In Class
-*[D.5.4: Queues - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.4-queues#part-1)
+* [D.5.4: Queues - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.4-queues#part-1)
+* [Project 3 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
+* [Project 3 Peer Code Review](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#mvp-deadline)
 
 ### Post Class
-*[D.5.4: Queues - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.4-queues#part-1)
+* [D.5.4: Queues - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.4-queues#part-1)
+* [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
 
 # Fri 22 Oct, Week 12, Course Day 59
@@ -940,14 +1030,16 @@ Meeting time: 10:00 AM SGT (GMT+8)
 Module 6: Frontend
 
 ### Pre Class
-*[D.6: Object-Oriented Programming](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.6-intro-to-object-oriented-programming)
-*[D.5.5: Linked Lists - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#pre-class)
+* [D.6: Object-Oriented Programming](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.6-intro-to-object-oriented-programming)
+* [D.5.5: Linked Lists - Pre-Class](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#pre-class)
 
 ### In Class
-*[D.5.5: Linked Lists - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-1)
+* [D.5.5: Linked Lists - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-1)
+* [Project 3 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
-*[D.5.5: Linked Lists - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-1)
+* [D.5.5: Linked Lists - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-1)
+* [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
 
 # Mon 25 Oct, Week 13, Course Day 60
@@ -955,15 +1047,18 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend
 ### Project Due
-[Project 3 Feature Freeze](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#feature-freeze)
+* [Project 3 Feature Freeze](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#feature-freeze)
 
 ### Pre Class
 
 ### In Class
-*[D.5.5: Linked Lists - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-2)
+* [D.5.5: Linked Lists - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-2)
+* [Project 3 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
+* [Project 3 Feature Freeze In-Class Review](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#feature-freeze)
 
 ### Post Class
-*[D.5.5: Linked Lists - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-2)
+* [D.5.5: Linked Lists - Part 2](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-2)
+* [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
 
 # Tue 26 Oct, Week 13, Course Day 61
@@ -975,8 +1070,10 @@ Module 6: Frontend
 
 ### In Class
 * [Project 3 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
+* [Project 3 Scrum](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-scrums)
 
 ### Post Class
+* [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 * [Project 3 Implementation](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
 
@@ -985,14 +1082,16 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 6: Frontend
 ### Project Due
-[Project 3](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
+* [Project 3](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game)
 
 ### Pre Class
 
 ### In Class
+* [Project 3 Presentations](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-presentations)
 
 ### Post Class
-*[D.5.5: Linked Lists - Part 3](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-3)
+* [D.5.5: Linked Lists - Part 3](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.5-data-structures/d.5.5-linked-lists#part-3)
+* [Project 3 Post-Mortems](https://bootcamp.rocketacademy.co/course-logistics/course-methodology#project-post-mortem-meeting)
 
 
 # Thu 28 Oct, Week 13, Course Day 63
@@ -1010,6 +1109,7 @@ Module 7: React
 
 ### Post Class
 * [7.POCE.1: JSX Bug Reports](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.1-bugs)
+* [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
 
 
 # Fri 29 Oct, Week 13, Course Day 64
@@ -1022,13 +1122,14 @@ Module 7: React
 * [7.2.1: Props](https://bootcamp.rocketacademy.co/7-react/7.2-react-components/7.2.1-props)
 * [7.2.2: Generating Components from a List](https://bootcamp.rocketacademy.co/7-react/7.2-react-components/7.2.2-generating-components-from-a-list)
 * [7.2.3: Class Components](https://bootcamp.rocketacademy.co/7-react/7.2-react-components/7.2.3-class-components)
-*[D.8: Sorting Algorithms](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.8-sorting-algorithms)
+* [D.8: Sorting Algorithms](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.8-sorting-algorithms)
 
 ### In Class
 * [7.ICE.2: React Pokedex](https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.2-pokedex)
 
 ### Post Class
 * [7.ICE.2: React Pokedex](https://bootcamp.rocketacademy.co/7-react/7.ice-in-class-exercises/7.ice.2-pokedex)
+* [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
 
 
 # Mon 1 Nov, Week 14, Course Day 65
@@ -1045,6 +1146,7 @@ Module 7: React
 
 ### Post Class
 * [7.POCE.2: React Tic Tac Toe](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.2-react-tic-tac-toe)
+* [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
 
 
 # Tue 2 Nov, Week 14, Course Day 66
@@ -1061,6 +1163,8 @@ Module 7: React
 
 ### Post Class
 * [7.POCE.3: Read Later](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.3-read-later)
+* [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
+* [Project 4 Ideation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
 
 
 # Wed 3 Nov, Week 14, Course Day 67
@@ -1068,7 +1172,7 @@ Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 7: React
 ### Project Due
-[Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
+* [Project 3 Video Demo](https://bootcamp.rocketacademy.co/projects/project-3-full-stack-game#video-demo)
 
 ### Pre Class
 * [7.7: Designing Component Hierarchy](https://bootcamp.rocketacademy.co/7-react/7.7-designing-component-hierarchy)
@@ -1080,6 +1184,7 @@ Module 7: React
 
 ### Post Class
 * [7.POCE.3: Read Later](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.3-read-later)
+* [Project 4 Ideation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
 
 
 # Thu 4 Nov
@@ -1091,13 +1196,14 @@ Meeting time: 10:00 AM SGT (GMT+8)
 Module 7: React
 
 ### Pre Class
-*[D.7: Recursion - Required Reading](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.7-recursion#required-reading)
+* [D.7: Recursion - Required Reading](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.7-recursion#required-reading)
 
 ### In Class
 * [Review 7.POCE.3: Read Later](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.3-read-later)
-*[D.7: Recursion - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.7-recursion#part-1)
+* [D.7: Recursion - Part 1](https://bootcamp.rocketacademy.co/data-structures-and-algorithms/d.7-recursion#part-1)
 
 ### Post Class
 * [7.POCE.4: Hot Pot Bill Splitter](https://bootcamp.rocketacademy.co/7-react/7.poce-post-class-exercises/7.poce.4-hot-pot-bill-splitter)
+* [Project 4 Ideation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
 
 
