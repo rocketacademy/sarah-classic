@@ -35,10 +35,10 @@ var madLib = '"WOW!" he said EXCITEDLY as he jumped into his convertible PAPAYA 
 
 #### Instructions
 
-Please read all instructions before getting started.
+_Please read all instructions before getting started._
 
 1. When the Basics Starter Code app loads, the user can input 1 adjective at a time to store in the app. Store the user-inputted adjectives in a global array variable.
-2. When the user inputs the word "create" the app completes the Mad Lib with a random adjective from the user-inputted adjectives array and outputs the completed Mad Lib in the grey box.
+2. When the user inputs the word "create" the app completes the Mad Lib with a random word from the user-inputted adjectives array and outputs the completed Mad Lib in the grey box.
 
 #### Random Elements from an Array
 
@@ -96,5 +96,5 @@ Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+e
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-starter-code/blob/day7/script.js) is a reference solution for Day 7 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/basics-starter-code/tree/day7) is a reference solution for Day 7 exercises. [Here](https://github.com/rocketacademy/basics-starter-code/tree/day7-moreComfortable) is a reference solution for Day 7 More Comfortable exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
 
