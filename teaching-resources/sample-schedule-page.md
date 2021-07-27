@@ -94,8 +94,7 @@ Module 1: Frontend Basics
 * [1.POCE.5: Tic Tac Toe](https://bootcamp.rocketacademy.co/1-frontend-basics/1.poce-post-class-exercises/1.poce.5-tic-tac-toe)
 
 
-# Mon 9 Aug
-## Public Holiday:  National Day (SG)
+# Mon 9 Aug: SG Public Holiday (National Day)
 
 # Tue 10 Aug, Week 2, Course Day 6
 Meeting time: 10:00 AM SGT (GMT+8)
@@ -1187,8 +1186,7 @@ Module 7: React
 * [Project 4 Ideation](https://bootcamp.rocketacademy.co/projects/project-4-full-stack-react-app#ideation-phase-1)
 
 
-# Thu 4 Nov
-## Public Holiday:  Deepavali (SG)
+# Thu 4 Nov: SG Public Holiday (Deepavali)
 
 # Fri 5 Nov, Week 14, Course Day 68
 Meeting time: 10:00 AM SGT (GMT+8)
