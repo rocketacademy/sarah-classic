@@ -2,7 +2,20 @@
 
 ## Introduction
 
-Today we will practise arrays with occasional loops through the game of Mad Libs. Note that loops may not be necessary for every exercise. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad_Libs).
+Today we will practise arrays with occasional loops through the game of Mad Libs. Note that loops may not be necessary for every exercise.
+
+## Mad Libs Game
+
+Mad Libs is a word game where players fill in the blanks with random words, such that the final sentence is usually funny. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad_Libs).
+
+#### Example "Mad Lib" Sentence from Wikipedia
+
+```text
+"___________! he said ________ as he jumped into his convertible ______ and drove off with his _________ wife."
+ exclamation           adverb                                     noun                         adjective
+```
+
+## Getting Started
 
 For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
 
@@ -13,13 +26,6 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 ## Base
 
 ### Mad Libs Adjectives
-
-#### Example Mad Lib from Wikipedia
-
-```text
-"___________! he said ________ as he jumped into his convertible ______ and drove off with his _________ wife."
- exclamation           adverb                                     noun                         adjective
-```
 
 #### Example Mad Lib in Code
 
@@ -33,6 +39,8 @@ var madLib = `"Yabadabadoo!" he said gleefully as he jumped into his convertible
 
 #### Instructions
 
+Please read all instructions before getting started.
+
 1. Create a Mad Lib with blanks to fill. Feel free to use the example Mad Lib from Wikipedia \(above\) or create your own.
 2. If you are using the example Mad Lib, insert fixed words for exclamation, adverb and noun, and leave the adjective field blank. If you are using your own Mad Lib, leave 1 adjective field blank. In your code, this may look like the Example Mad Lib in Code above.
 3. When the Basics Starter Code app loads, the user can input 1 adjective at a time to store in the app. Store the user-inputted adjectives in an array.
@@ -42,9 +50,7 @@ var madLib = `"Yabadabadoo!" he said gleefully as he jumped into his convertible
 
 ### Input and Create Mode
 
-When the Basics Starter Code app loads it starts in "input", or normal mode.
-
-In input mode, the user can add adjectives to their adjectives list with each Submit.
+When the Basics Starter Code app loads it starts in "input", or normal mode. In input mode, the user can add adjectives to their adjectives list with each Submit.
 
 When the user inputs "create", change the game mode to create mode. In create mode, each Submit prompts the app to complete your Mad Lib.
 
