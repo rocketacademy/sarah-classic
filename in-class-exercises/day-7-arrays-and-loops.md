@@ -27,21 +27,32 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 
 #### Example Mad Lib in Code
 
-The following is the above example Mad Lib written in code, where the exclamation, adverb, and noun have been hard-coded and `randomAdj` refers to the random adjective our program will select to complete the Mad Lib.
-
-Note the below string uses optional JavaScript string literal syntax. More info on string literals in Module 4.2: Our First Program [here](https://basics.rocketacademy.co/4-getting-started-with-code/4.2-our-first-program#output-formatting).
+The following code is the above example Mad Lib written in JavaScript, where the exclamation, adverb, and noun have been hard-coded and `randomAdj` refers to the random adjective our program will randomly select to complete the Mad Lib.
 
 ```javascript
-var madLib = `"Yabadabadoo!" he said gleefully as he jumped into his convertible Tree Car and drove off with his ${randomAdj} wife.`;
+var madLib = '"WOW!" he said EXCITEDLY as he jumped into his convertible PAPAYA and drove off with his '+randomAdj+' wife.';
 ```
 
 #### Instructions
 
 Please read all instructions before getting started.
 
-1. Create a Mad Lib with 1 blank adjective to fill using the example Mad Lib above.
-2. When the Basics Starter Code app loads, the user can input 1 adjective at a time to store in the app. Store the user-inputted adjectives in an array.
-3. When the user inputs "create" it prompts the app to complete your Mad Lib with a random adjective from the user-inputted adjectives list and output the completed Mad Lib in the output box.
+1. When the Basics Starter Code app loads, the user can input 1 adjective at a time to store in the app. Store the user-inputted adjectives in a global array variable.
+2. When the user inputs the word "create" the app completes the Mad Lib with a random adjective from the user-inputted adjectives array and outputs the completed Mad Lib in the grey box.
+
+#### Random Elements from an Array
+
+In order to get a random value from an array we can generate a random integer in the range of: zero to the last index of the array.
+
+```javascript
+var getRandomIndex = function(arrayLength){
+  // create a random number from zero to array length minus one.
+  // this number is in the range from the first
+  // index (zero) to the last index (array length minus one)
+  var randomIndex = Math.floor( Math.random() * arrayLength );
+  return randomIndex;
+};
+```
 
 ## More Comfortable
 
@@ -79,7 +90,7 @@ Mad Lib 2 might be:
 
 > It was a {adjective}, cold November day. I woke up to the {adjective} smell of {noun} roasting in the {noun} downstairs.
 
-Update create mode to pick a random Mad Lib sentence and set of words and output the completed Mad Lib in the output box on Submit.
+Update create mode to pick a random Mad Lib sentence and set of words and output the completed Mad Lib in the grey box on Submit.
 
 Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+examples&tbm=isch) for potential Mad Lib inspiration.
 
