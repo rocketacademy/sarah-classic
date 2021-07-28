@@ -975,11 +975,11 @@ Module 6: Frontend
 
 # Sat 25 Dec: SG Public Holiday (Christmas Day)
 
-# Mon 27 Dec:## Company Holiday: Winter Break (SG)
+# Mon 27 Dec: Company Holiday (Winter Break)
 
-# Wed 29 Dec:## Company Holiday: Winter Break (SG)
+# Wed 29 Dec: Company Holiday (Winter Break)
 
-# Sat 1 Jan:## Company Holiday: Winter Break (SG)
+# Sat 1 Jan: Company Holiday (Winter Break)
 
 # Mon 3 Jan, Week 21, Course Day 57
 Meeting time: 7:30 PM SGT (GMT+8)
