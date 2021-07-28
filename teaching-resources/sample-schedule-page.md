@@ -1,4 +1,5 @@
-# Course Schedule# Mon 16 Aug, Week 1, Course Day 1
+# Course Schedule
+# Mon 16 Aug, Week 1, Course Day 1
 Meeting time: 10:00 AM SGT (GMT+8)
 
 Module 1: Frontend Basics
