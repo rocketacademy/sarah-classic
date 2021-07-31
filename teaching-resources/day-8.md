@@ -397,7 +397,7 @@ A: Add each emoji to each card object. \(This is inefficient but would make sens
 
 ## In-Class Material
 
-[Day 8: Dice Game Redux](../in-class-exercises/day-8-beat-that-redux.md)
+[Day 8: Beat That Redux](../in-class-exercises/day-8-beat-that-redux.md)
 
 ## Post-Class: Begin Project
 
