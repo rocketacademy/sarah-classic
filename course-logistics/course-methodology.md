@@ -50,7 +50,7 @@ Students present projects in class on the last day of each project. Presentation
 
 In order to keep each presentation relatively brief, the presentation should be focused around the _features_ of the game. The presentation is not a code review, as that would take up too much time.
 
-### Slack
+## Slack
 
 Slack is the app we use to communicate within a section. It provides real-time but asynchronous messaging that should feel casual and fun. **The aim is for the portion of the course that is not this website, videos or live meetings happens in your section Slack channel.**
 
@@ -68,7 +68,7 @@ To get help effectively, we need to provide context. One of the biggest differen
 
 #### How to ask contextual questions
 
-Try to answer the following when asking questions. What is the problem? Include any relevant error messages in text or screenshots. What is your hypothesis? Include relevant code snippets, formatted as code in Slack. What have you tried? Include any relevant output or Google results.
+Try to answer the following when asking questions. What is the problem? Include any relevant error messages in text or screenshots. What is your hypothesis? [Include relevant code snippets, formatted as code in Slack.](course-methodology.md#slack-code-snippets) What have you tried? Include any relevant output or Google results.
 
 ### Format Code in Slack
 

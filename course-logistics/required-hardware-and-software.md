@@ -75,7 +75,7 @@ _**When copying any commands from the Git website, do not copy the dollar sign \
 Dialog Options: \(just click _**next**_ for default options\)
 
 * Information \(default\)
-* Select Destination Location \(**Copy this or write it down**\)
+* Select Destination Location \(**Copy this or write it down,** [**you will need it for VSCode setup**](required-hardware-and-software.md#vscode-settings-windows)\)
 * Select Components \(default\)
 * Select Start Menu Folder \(default\)
 * Choose the default editor used by Git \(**Choose VSCode**\)
@@ -143,7 +143,7 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 5. Restart VSCode to apply our settings.
 6. Open and save the settings file again and verify that Prettier auto-formats it as our default formatter.
 
-#### Mac
+### VSCode Settings - Mac
 
 ```text
 {
@@ -156,10 +156,12 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 }
 ```
 
-#### Windows
+### VSCode Settings - Windows
 
 {% hint style="warning" %}
-Windows users: The following code assumes we installed our Git folder at the root of our C drive. Some students' installers install the Git folder elsewhere, for example in `C:\\Program Files (x86)`. If your installed Git folder is not in the root of your C drive, please update the paths to the Git folder below to reference the location of your Git folder. 
+Windows users: The following code assumes we installed our Git folder at the root of our C drive. Some students' installers install the Git folder elsewhere, for example in `C:\\Program Files (x86)`.  You should have noted the installation location of Git when you installed it, as per the instructions above.
+
+If your installed Git folder is not in the location as listed below, please edit line 8 and 12 to the appropriate values when you copy these configurations.
 {% endhint %}
 
 ```text
@@ -181,7 +183,7 @@ Windows users: The following code assumes we installed our Git folder at the roo
 }
 ```
 
-#### \[No Action Needed\]  Suggestion Highlighting
+### \[No Action Needed\]  Suggestion Highlighting
 
 As we code, VSCode may suggest fixes to our code by highlighting errors. Some of these suggestions will be optional but others may cause our programs to break.
 
@@ -237,10 +239,6 @@ Following the convention of all the other Rocket Academy Git repositories and Gi
 ```text
 git config --global init.defaultBranch main
 ```
-
-#### \(Optional\) Personal Access Token
-
-In addition to setting a password for your GitHub account, you may need to generate a Personal Access Token to use GitHub on the command line. Follow GitHub's instructions [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) if you need to setup and use Personal Access Tokens.
 
 ## Folder Structure for Coding Basics
 
