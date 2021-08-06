@@ -46,11 +46,11 @@ VSCode is the most popular code editor in the world. We will write all code for 
 
 ## Required Command-Line Software
 
-Command-line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is not stored in a computer's Applications folder.
+Command-line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is not stored in a computer's Applications folder. We'll cover [more about the command line in 2.1.](../2-organising-and-managing-code-files/2.1-command-line.md)
 
 ### Git
 
-Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects.
+Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects. We'll cover more about Git in [2.2](../2-organising-and-managing-code-files/2.2-git.md), [4.1](../4-getting-started-with-code/4.1-intro-to-github.md) and [7.1](../7-github/7.1-github-fork-and-pull-request.md).
 
 On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands \(and command line software\) on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way on both Windows and Mac. A version of Bash called Zsh \(pronounced "zoosh"\) is installed by default on MacOS.
 
@@ -70,6 +70,8 @@ _**When copying any commands from the Git website, do not copy the dollar sign \
 3. The Git install dialog will open. We'll need to set a few options here. The rest will be the default options.
 4. Follow [command line setup instructions below](required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
 5. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
+
+{% embed url="https://www.youtube.com/watch?v=7Dq\_e90LqTU" %}
 
 {% hint style="info" %}
 Dialog Options: \(just click _**next**_ for default options\)
