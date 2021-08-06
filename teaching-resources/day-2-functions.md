@@ -4,6 +4,10 @@
 
 This day introduces two foundational topics: functions and errors.
 
+{% hint style="warning" %}
+Before the meeting, ask the students to put their [5.1 Functions](../5-structuring-and-debugging-code/5.1-functions.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
+{% endhint %}
+
 ## Pre-Class Material
 
 Total Video Watch Time: **~25 mins**
