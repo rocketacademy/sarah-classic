@@ -23,34 +23,6 @@ Slack is a chat software and RA's primary mode of communication. It allows us to
 1. Download the Slack mobile app from the Android Play Store or iOS App Store
 2. Download the Slack desktop app for your relevant operating system [here](https://slack.com/intl/en-sg/help/categories/360000049043-Getting-started).
 
-{% hint style="warning" %}
-## Slack House Rules
-
-The following are a set of guidelines to follow when using Slack at RA.
-
-### Ask Questions in the Channel
-
-During RA's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel \(including about installing required software\). Please refrain from DMing \(direct messaging\) instructors with questions about course material.
-
-### Provide Context for Questions
-
-To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions. Junior engineers tend to ask questions without context: "It doesn't work. Could you help?" Senior engineers tend to ask questions with relevant context: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system." At Rocket Academy, we aim to be like senior engineers.
-
-Try to answer the following when asking questions.
-
-1. What is the problem? Include any relevant error messages in text or screenshots.
-2. What is your hypothesis? Include relevant code snippets, [formatted as code](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) in Slack.
-3. What have you tried? Include any relevant output or Google results.
-
-### Format Code in Slack
-
-When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates code blocks with monospaced text for easier reading.
-
-For single-line code like variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the code to format it.
-
-For multi-line blocks of code like 1 or more functions, we recommend using [Slack code snippets](https://slack.com/intl/en-sg/help/articles/204145658-Create-a-snippet) which include syntax highlighting and take up less space in the Slack window. When using snippets, please activate syntax highlighting for the relevant language \(e.g. JavaScript\) for readability.
-{% endhint %}
-
 ### Zoom
 
 Zoom is RA's video conferencing software for class. Each section will have its own Zoom room. The link to this room can be found at the top of each section's Slack channel.
@@ -72,21 +44,6 @@ Chrome is the most popular web browser for software engineers because of its mat
 
 VSCode is the most popular code editor in the world. We will write all code for Coding Basics inside of VSCode. Download VSCode for your OS [here](https://code.visualstudio.com/download).
 
-### Window-Snapping Software
-
-On both Windows and Mac there are features to snap windows to standard sizes and places on our screen using keyboard shortcuts. This is especially helpful when coding and we want to view code on one side and documentation on another. The alternative is to manually drag windows and resize them.
-
-**Windows Installation**
-
-Window snapping is built-in to Windows, and you can take advantage of it with instructions [here](https://support.microsoft.com/en-sg/help/4027324/windows-10-snap-your-windows).
-
-**Mac Installation**
-
-Window snapping is not built-in to MacOS, and we will need to download an external program to snap windows. We recommend any of the following.
-
-1. [Rectangle](https://rectangleapp.com/) \(free\) is an actively-maintained open-source window snapping app. We recommend this to start.
-2. [Magnet](https://magnet.crowdcafe.com/) \(S$10.98\) is an actively-maintained window snapping app on the Mac App Store. It mostly has the same features as Rectangle, and might be more user-friendly because it's managed through the App Store. From what we can tell, it serves the same function as Rectangle.
-
 ## Required Command-Line Software
 
 Command-line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is not stored in a computer's Applications folder.
@@ -101,30 +58,52 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 _**When copying any commands from the Git website, do not copy the dollar sign \($\) in front of the command.**_ The dollar signs in their commands denote the start of command lines, and are not part of the commands.
 {% endhint %}
 
-#### Mac Installation
+## Git - Mac Installation
 
 1. Download and install Git for MacOS by downloading it here: [https://sourceforge.net/projects/git-osx-installer/](https://sourceforge.net/projects/git-osx-installer/)
-2. Verify the installation of Git by opening the [Terminal](https://en.wikipedia.org/wiki/Terminal_%28macOS%29) application and typing the command shown below. This should print out a version number on the next line,  e.g., `git version 2.28.0`.
+2. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
 
-```text
-git --version
-```
+## **Git - Windows Installation**
 
-**Windows Installation**
+1. Navigate to the Git website download page and click the download link: [https://git-scm.com/download/win](https://git-scm.com/download/win)
+2. Open the downloaded file.
+3. The Git install dialog will open. We'll need to set a few options here. The rest will be the default options.
+4. Follow [command line setup instructions below](required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
+5. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
 
-1. Download and install Git for your OS: [https://git-scm.com/download/win](https://git-scm.com/download/win)
-   1. If we need to re-download the .exe for any reason, click the "Click here to download manually" button on that page instead of any other.
-   2. In the Git installer program, click Next until the end, there is no need to customise defaults.
-2. Follow [command line setup instructions below](required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
-3. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
+{% hint style="info" %}
+Dialog Options: \(just click _**next**_ for default options\)
+
+* Information \(default\)
+* Select Destination Location \(**Copy this or write it down**\)
+* Select Components \(default\)
+* Select Start Menu Folder \(default\)
+* Choose the default editor used by Git \(**Choose VSCode**\)
+* Adjusting your PATH environment \(default\)
+* Choosing HTTPS transport backend \(**choose Use the native Windows Secure Channel Library**\)
+* Configuring the line ending conversions \(default\)
+* Configuring the terminal emulator to use with Git Bash \(default\)
+* Choose the default behaviour of git pull \(default\)
+* Choose a credential helper \(default\)
+* Configuring extra options \(default\)
+* Configuring extra options \(default\)
+{% endhint %}
 
 {% hint style="warning" %}
 Git needs to be installed on the same drive as VSCode. If you happen to have 2 drives on your computer, e.g. C and D drives, make sure both VSCode and Git are installed on the same drive.
 {% endhint %}
 
+{% hint style="warning" %}
+Don't install anything into Windows OneDrive. 
+{% endhint %}
+
 ### Windows Command Line Setup
 
-We will need to use the command line \(also known as a terminal, more on this in a later module\) during Coding Basics. Windows uses a terminal language called PowerShell by default, but this is not what we are going to use, as most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. Windows users will need to install Bash, a Unix-based terminal language. Please [download and install Git](required-hardware-and-software.md#git) first. The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
+We will need to use the command line \(also known as a terminal, more on this in a later module\) during Coding Basics. Windows uses a terminal language called PowerShell by default, but this is not what we are going to use, as most software engineers use terminal languages made for Unix-based operating systems, e.g. Linux and MacOS. Windows users will be using GitBash, a Unix-based terminal language for windows. See more on GitBash [here](https://www.gitkraken.com/blog/what-is-git-bash).
+
+Make sure you've already downloaded and installed Git first.
+
+The following instructions are adapted from [Stack Overflow](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
 
 ![VSCode Terminal on Windows. PowerShell is the Default Terminal Language on Windows.](../.gitbook/assets/v4hx4.png)
 
@@ -312,4 +291,19 @@ For Coding Basics, we recommend storing all of your code in a folder called `bas
 {% endhint %}
 
 ![Sample basics folder in VSCode](../.gitbook/assets/jie-ping-20210302-15.52.14.png)
+
+## Recommended: Window-Snapping Software
+
+On both Windows and Mac there are features to snap windows to standard sizes and places on our screen using keyboard shortcuts. This is especially helpful when coding and we want to view code on one side and documentation on another. The alternative is to manually drag windows and resize them.
+
+**Windows Installation**
+
+Window snapping is built-in to Windows, and you can take advantage of it with instructions [here](https://support.microsoft.com/en-sg/help/4027324/windows-10-snap-your-windows).
+
+**Mac Installation**
+
+Window snapping is not built-in to MacOS, and we will need to download an external program to snap windows. We recommend any of the following.
+
+1. [Rectangle](https://rectangleapp.com/) \(free\) is an actively-maintained open-source window snapping app. We recommend this to start.
+2. [Magnet](https://magnet.crowdcafe.com/) \(S$10.98\) is an actively-maintained window snapping app on the Mac App Store. It mostly has the same features as Rectangle, and might be more user-friendly because it's managed through the App Store. From what we can tell, it serves the same function as Rectangle.
 
