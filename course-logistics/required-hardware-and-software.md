@@ -313,7 +313,7 @@ Use all the new software you've installed to send your first message to your new
 
 ![](../.gitbook/assets/slack-mes.png)
 
-### Send a message with:
+#### Send a message with:
 
 1. Your location
 2. 4 emojis that describe you
