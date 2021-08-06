@@ -313,9 +313,9 @@ Window snapping is not built-in to MacOS, and we will need to download an extern
 
 ## Exercise
 
-**Send your first Slack message in your Section Channel!**
+**Send your first Slack message!**
 
-Use all the new software you've installed to send your first message to your new section-mates.
+Use all the new software you've installed to send your first message to your new course-mates.
 
 ![](../.gitbook/assets/slack-mes.png)
 
