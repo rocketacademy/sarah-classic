@@ -305,3 +305,29 @@ Window snapping is not built-in to MacOS, and we will need to download an extern
 1. [Rectangle](https://rectangleapp.com/) \(free\) is an actively-maintained open-source window snapping app. We recommend this to start.
 2. [Magnet](https://magnet.crowdcafe.com/) \(S$10.98\) is an actively-maintained window snapping app on the Mac App Store. It mostly has the same features as Rectangle, and might be more user-friendly because it's managed through the App Store. From what we can tell, it serves the same function as Rectangle.
 
+## Exercise
+
+**Send your first Slack message in your Section Channel!**
+
+Use all the new software you've installed to send your first message to your new section-mates.
+
+![](../.gitbook/assets/slack-mes.png)
+
+### Send a message with:
+
+1. Your location
+2. 4 emojis that describe you
+3. The result of running the following command \(depending on your OS\):
+
+#### Windows: Your exact windows version
+
+```text
+cmd /c ver
+```
+
+#### Mac: Build Version of your OS:
+
+```text
+sw_vers
+```
+
