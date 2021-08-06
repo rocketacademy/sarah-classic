@@ -23,6 +23,10 @@ Slack is a chat software and RA's primary mode of communication. It allows us to
 1. Download the Slack mobile app from the Android Play Store or iOS App Store
 2. Download the Slack desktop app for your relevant operating system [here](https://slack.com/intl/en-sg/help/categories/360000049043-Getting-started).
 
+{% hint style="warning" %}
+Slack is one of the cornerstone mediums on which this course operates! Please be sure to read through the [Slack House Rules](course-methodology.md#slack-house-rules).
+{% endhint %}
+
 ### Zoom
 
 Zoom is RA's video conferencing software for class. Each section will have its own Zoom room. The link to this room can be found at the top of each section's Slack channel.
