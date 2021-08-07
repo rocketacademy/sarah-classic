@@ -324,6 +324,7 @@ Use all the new software you've installed to send your first message to your new
 1. Your location
 2. 4 emojis that describe you
 3. The result of running the following command \(depending on your OS\):
+4. Anything else you feel like adding 😁.
 
 #### Windows: Your exact windows version
 
@@ -336,4 +337,8 @@ cmd /c ver
 ```text
 sw_vers
 ```
+
+{% hint style="warning" %}
+Don't worry about exactly what's happening in these commands yet! This exercise is just to get you started with typing in the Command Line interface and sending Slack messages. We'll see more about the command line in [2.1 Command Line.](../2-organising-and-managing-code-files/2.1-command-line.md)
+{% endhint %}
 
