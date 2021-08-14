@@ -78,7 +78,9 @@ To install the Git Credential Manager you may need to allow "unidentified develo
 3. _Click Open._  
 
 
-   _The app is saved as an exception to your security settings, and you can open it in the future by double-clicking it just as you can any registered app._
+   _The app is saved as an exception to your security settings, and you can open it in the future by double-clicking it just as you can any registered app._  
+
+If you are using a company computer for this course you may not be able to override the security settings- you may need to [create a personal token as described here.](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 {% endhint %}
 
 
