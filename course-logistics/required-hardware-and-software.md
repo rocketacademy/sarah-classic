@@ -69,9 +69,16 @@ _**When copying any commands from the Git website, do not copy the dollar sign \
 3. Download and install the [Git Credential Manager.](https://github.com/microsoft/Git-Credential-Manager-Core/releases/download/v2.0.498/gcmcore-osx-2.0.498.54650.pkg)
 
 {% hint style="warning" %}
-To install the Git Credential Manager you may need to allow "unidentified developer apps". \(_But don't worry, Git Credential Manager is created by Microsoft_\)
+To install the Git Credential Manager you may need to allow "unidentified developer apps". \(_But don't worry, Git Credential Manager is created by Microsoft_\) from instructions [here:](https://support.apple.com/en-sg/guide/mac-help/mh40616/mac)
 
-Follow the instructions here: [https://support.apple.com/en-sg/guide/mac-help/mh40616/mac](https://support.apple.com/en-sg/guide/mac-help/mh40616/mac)
+**To override your security settings and open the app, follow these steps:**
+
+1. _In the Finder_ ![](https://help.apple.com/assets/605932B4A1B7A93F492858E8/605932C0A1B7A93F492858FF/en_US/058e4af8e726290f491044219d2eee73.png) _on your Mac, locate the download file._
+2. _Control-click the app icon, then choose Open from the shortcut menu._
+3. _Click Open._  
+
+
+   _The app is saved as an exception to your security settings, and you can open it in the future by double-clicking it just as you can any registered app._
 {% endhint %}
 
 
