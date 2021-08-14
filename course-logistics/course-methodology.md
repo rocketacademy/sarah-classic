@@ -52,7 +52,7 @@ In order to keep each presentation relatively brief, the presentation should be 
 
 ## Slack
 
-Slack is the app we use to communicate within a section. It provides real-time but asynchronous messaging that should feel casual and fun. **The aim is for the portion of the course that is not this website, videos or live meetings happens in your section Slack channel.**
+Slack is the app we use to communicate within a section. It provides real-time but asynchronous messaging that should feel casual and fun. **The aim is for a good portion of the course** _**not composed of this website, videos or live meetings**_ **happens in your section Slack channel.**
 
 ### Slack House Rules
 
@@ -64,11 +64,15 @@ During RA's courses you will have questions about the material. To ensure your q
 
 ### Provide Context for Questions
 
-To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions. Questions without context usually sound like: "It doesn't work. Could you help?" A question with relevant context might be more like: "Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system." Contextual questions help the answerer by filling in the details needed to fully understand the question. In programming \(not just for students\) it is also well known that simply formulating the question very often leads directly to the answer. [This is called rubber-duck programming.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions.
+
+Questions **without context** usually sound like: "_It doesn't work. Could you help?_" A question with **relevant** context might be more like: "_Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system._" 
+
+Contextual questions help the answerer by filling in the details needed to fully understand the question. In the field of programming \(not just for students\) it is well known that simply formulating the question often leads directly to the answer. [This is called rubber-duck programming.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 #### How to ask contextual questions
 
-Try to answer the following when asking questions. What is the problem? Include any relevant error messages in text or screenshots. What is your hypothesis? [Include relevant code snippets, formatted as code in Slack.](course-methodology.md#slack-code-snippets) What have you tried? Include any relevant output or Google results.
+Try to answer the following when asking questions. What is the problem? Include any relevant error messages in text or screenshots. What is your hypothesis? [Include relevant code snippets, formatted as code in Slack.](course-methodology.md#slack-code-snippets) What have you tried? Include any relevant output or Google results. This will not only assist the person helping you, it will actually make you a better coder.
 
 ### Format Code in Slack
 
