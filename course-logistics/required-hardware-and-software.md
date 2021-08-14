@@ -98,19 +98,19 @@ If you are using a company computer for this course you may not be able to overr
 {% hint style="info" %}
 Dialog Options: \(just click _**next**_ for default options\)
 
-* Information \(default\)
+* Information \(_default_\)
 * Select Destination Location \(**Copy this or write it down,** [**you will need it for VSCode setup**](required-hardware-and-software.md#vscode-settings-windows)\)
-* Select Components \(default\)
-* Select Start Menu Folder \(default\)
+* Select Components \(_default_\)
+* Select Start Menu Folder \(_default_\)
 * Choose the default editor used by Git \(**Choose VSCode**\)
-* Adjusting your PATH environment \(default\)
+* Adjusting your PATH environment \(_default_\)
 * Choosing HTTPS transport backend \(**choose Use the native Windows Secure Channel Library**\)
-* Configuring the line ending conversions \(default\)
-* Configuring the terminal emulator to use with Git Bash \(default\)
-* Choose the default behaviour of git pull \(default\)
-* Choose a credential helper \(default\)
-* Configuring extra options \(default\)
-* Configuring extra options \(default\)
+* Configuring the line ending conversions \(_default_\)
+* Configuring the terminal emulator to use with Git Bash \(_default_\)
+* Choose the default behaviour of git pull \(_default_\)
+* Choose a credential helper \(_default_\)
+* Configuring extra options \(_default_\)
+* Configuring extra options \(_default_\)
 {% endhint %}
 
 {% hint style="warning" %}
