@@ -182,10 +182,6 @@ Ask the students to reflect on their level of knowledge six weeks ago.
 
 ### **Course Feedback and Reviews**
 
-#### Feedback link
-
-Feedback link for Basics 8: [https://forms.gle/JQhKDNr9nqyS1QfT7](https://forms.gle/JQhKDNr9nqyS1QfT7)
-
 #### Review links
 
 1. SwitchUp: [https://www.switchup.org/bootcamps/rocket-academy](https://www.google.com/url?q=https://www.switchup.org/bootcamps/rocket-academy&sa=D&source=editors&ust=1625291865969000&usg=AFQjCNH39J3LKDV1-38Sls050tRr9zEBXg)
