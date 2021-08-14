@@ -16,17 +16,14 @@ The goal of self-learning is for students to learn concepts **before** class, su
 
 The objective of live classes is to enable students to gain a better understanding of the concepts learnt during self-learning through instructor facilitated discussion and pair-programming exercises.
 
-**Live classes are mandatory.** They will be held over Zoom, at the following time slots:
-
-*  7-9pm on Tuesdays
-* 1-3pm on Saturdays
+**Live classes are mandatory.** They will be held over Zoom.
 
 There will be 1 pre-course briefing and 12 classes in total. Each section will have their own Zoom room to meet for live classes.
 
 Live classes will generally follow this outline:
 
-1. 15 minutes for students to explain and review concepts with the section
-2. 100 minutes of pair programming on in-class exercises with a designated peer
+1. 30 minutes for students to explain and review concepts with the section
+2. 85 minutes of pair programming on in-class exercises with a designated peer
 3. 5 minutes for students to ask any questions that they might have about the day's class, and for the instructor to preview the next class
 
 ### Pair Programming
