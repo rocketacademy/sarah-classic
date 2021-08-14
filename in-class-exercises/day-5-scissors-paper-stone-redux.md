@@ -22,12 +22,22 @@ Open the code in the browser and test it. What does it do? If you're not sure wh
 
 ### 3. Read Partner's Code
 
-Read the code and answer the following questions.
+Read the code:
 
 1. How does it work?
 2. Does it have any obvious errors?
 3. Does it implement something that you were trying to do?
 4. Does it implement a feature that you haven't started yet? How does the code work?
+
+**Code Review Reflection Questions**
+
+While you are reading, note down the answers to the following questions: No need to be comprehensive, but pick out parts of the code you found notable.
+
+1. Note a line of code \(or multiple lines\) that you think works well. This could be the logic of the code, or just a well-named variable. Explain why it works well. 
+2. Note a line of code \(or multiple lines\) that you thought was unclear or you can't figure out. How would you explain why is it unclear or hard to figure out?
+3. Note a line of code \(or multiple lines\) where you found a bug. Why is it a bug? Do you have a solution?
+
+ 
 
 ### 4. Edit Partner's Code
 
@@ -35,7 +45,7 @@ It may be helpful to make changes to the code to help you understand it better. 
 
 ### 5. Discuss
 
-Once both partners are done with \#1-4, discuss what you saw.
+Once both partners are done with \#1-4, discuss what you saw. Read out and review together the answers to the 3 questions you wrote down from above.
 
 ## Improve Project Together
 
