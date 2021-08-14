@@ -103,6 +103,7 @@
 ## 13: POST COURSE EXERCISES
 
 * [DOM](13-post-course-exercises/pce-dom.md)
+* [Further Readings](13-post-course-exercises/further-readings.md)
 
 ## Past Projects
 
