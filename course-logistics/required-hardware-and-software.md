@@ -68,6 +68,14 @@ _**When copying any commands from the Git website, do not copy the dollar sign \
 2. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
 3. Download and install the [Git Credential Manager.](https://github.com/microsoft/Git-Credential-Manager-Core/releases/download/v2.0.498/gcmcore-osx-2.0.498.54650.pkg)
 
+{% hint style="warning" %}
+To install the Git Credential Manager you may need to allow "unidentified developer apps". \(_But don't worry, Git Credential Manager is created by Microsoft_\)
+
+Follow the instructions here: [https://support.apple.com/en-sg/guide/mac-help/mh40616/mac](https://support.apple.com/en-sg/guide/mac-help/mh40616/mac)
+{% endhint %}
+
+
+
 ## **Git - Windows Installation**
 
 1. Navigate to the Git website download page and click the download link: [https://git-scm.com/download/win](https://git-scm.com/download/win)
