@@ -48,11 +48,11 @@ Chrome is the most popular web browser for software engineers because of its mat
 
 VSCode is the most popular code editor in the world. We will write all code for Coding Basics inside of VSCode. Download VSCode for your OS [here](https://code.visualstudio.com/download).
 
-## Required Command-Line Software
+## Required Command-Line Software: Git
+
+### Intro to Git
 
 Command-line software is software primarily operated from the command line \(we will explain this in a video\) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is not stored in a computer's Applications folder. We'll cover [more about the command line in 2.1.](../2-organising-and-managing-code-files/2.1-command-line.md)
-
-### Git
 
 Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects. We'll cover more about Git in [2.2](../2-organising-and-managing-code-files/2.2-git.md), [4.1](../4-getting-started-with-code/4.1-intro-to-github.md) and [7.1](../7-github/7.1-github-fork-and-pull-request.md).
 
@@ -62,7 +62,7 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 _**When copying any commands from the Git website, do not copy the dollar sign \($\) in front of the command.**_ The dollar signs in their commands denote the start of command lines, and are not part of the commands.
 {% endhint %}
 
-## Git - Mac Installation
+### Git - Mac Installation
 
 1. Download and install Git for MacOS by downloading it here: [https://sourceforge.net/projects/git-osx-installer/](https://sourceforge.net/projects/git-osx-installer/)
 2. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
@@ -83,9 +83,7 @@ To install the Git Credential Manager you may need to allow "unidentified develo
 Note: If you are using a company computer for this course you may not be able to override the security settings- you may need to [create a personal token as described here.](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 {% endhint %}
 
-
-
-## **Git - Windows Installation**
+### **Git - Windows Installation**
 
 1. Navigate to the Git website download page and click the download link: [https://git-scm.com/download/win](https://git-scm.com/download/win)
 2. Open the downloaded file.
@@ -329,34 +327,34 @@ Window snapping is not built-in to MacOS, and we will need to download an extern
 1. [Rectangle](https://rectangleapp.com/) \(free\) is an actively-maintained open-source window snapping app. We recommend this to start.
 2. [Magnet](https://magnet.crowdcafe.com/) \(S$10.98\) is an actively-maintained window snapping app on the Mac App Store. It mostly has the same features as Rectangle, and might be more user-friendly because it's managed through the App Store. From what we can tell, it serves the same function as Rectangle.
 
-## Exercise
+## Exercise: **Send Your First Slack Message!**
 
-**Send your first Slack message!**
+### **Introduction**
 
-Use all the new software you've installed to send your first message to your new course-mates.
+Use the new software you've installed to send your first message to your new course mates. Please include the following in your message.
 
-![](../.gitbook/assets/slack-mes.png)
+1. Where are you based?
+2. What do you do for work?
+3. Why do you want to learn coding?
+4. 4 emojis that describe you
+5. Your specific OS version. This will be the result of running the command below for your specific OS \(Windows or Mac\)
+6. Anything else you would like to share 😁
 
-#### Send a message with:
+![From Kai](../.gitbook/assets/image%20%285%29.png)
 
-1. Your location
-2. 4 emojis that describe you
-3. The result of running the following command \(depending on your OS\):
-4. Anything else you feel like adding 😁.
+### Retrieve Your OS Version
 
-#### Windows: Your exact windows version
+These commands are for the intro above. Don't worry about exactly what's happening in these commands yet. This exercise is just to get you started with typing in the Command Line interface and sending Slack messages. We'll learn more about the command line in [2.1 Command Line.](../2-organising-and-managing-code-files/2.1-command-line.md)
+
+#### Windows
 
 ```text
 cmd /c ver
 ```
 
-#### Mac: Build Version of your OS:
+#### Mac
 
 ```text
 sw_vers
 ```
-
-{% hint style="warning" %}
-Don't worry about exactly what's happening in these commands yet! This exercise is just to get you started with typing in the Command Line interface and sending Slack messages. We'll see more about the command line in [2.1 Command Line.](../2-organising-and-managing-code-files/2.1-command-line.md)
-{% endhint %}
 
