@@ -4,8 +4,8 @@
 
 ## Course Logistics
 
-* [📅 Batch 9 Schedule](course-logistics/batch-9-schedule.md)
 * [📅 Batch 10 Schedule](course-logistics/batch-10-schedule.md)
+* [📅 Batch 11 Schedule](course-logistics/batch-11-schedule.md)
 * [👫 Pairing Assignments](course-logistics/section-and-pairing-assignments.md)
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
 * [✍🏽 Course Methodology](course-logistics/course-methodology.md)
