@@ -8,6 +8,8 @@ Today we will write functions to perform data transformations, similar to exampl
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
+_**Remember that the point of this exercise is to practice writing helper functions and creating contextual, meaningful variables, not just to solve for the correct calculation!**_
+
 ## Base
 
 ### Cost of Air Con
@@ -22,11 +24,11 @@ On [Android 10](https://wellbeing.google/tools/), [iOS 12](https://support.apple
 
 For example, if I spend 2 hours per day on WhatsApp and I live an average lifetime, how many days will I spend in my lifetime on WhatsApp?
 
-### Cost of Cellular Data
+### Papayas Supply Budget
 
-Create an app for the $19.99 50GB post-paid plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB. Assume that if the user exceeds 50GB, they need to purchase an additional 50GB plan. You may find the built-in function `Math.ceil` helpful for this \(can google how to use it\).
+Create an app that will tell the user how much they'll pay for their Papaya supply this month.
 
-For example if the user only used 1GB this month, the app would calculate $19.99 per GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month, the app would calculate $0.78 per GB.
+This app is only for one particular user who always eats 2 kilos of Papayas each month. This user will enter in the price of Papayas per kilo this month, and the app will calculate and display how much they should budget.
 
 ### Ice Machine
 
@@ -37,6 +39,12 @@ Create an app that calculates how many hours a hotel needs to run their ice mach
 Create an app for a bar to calculate how many kegs they need. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter. Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
 
 ## More Comfortable
+
+### Cost of Cellular Data
+
+Create an app for the $19.99 50GB post-paid plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB. Assume that if the user exceeds 50GB, they will automatically purchase an additional 50GB plan. You may find the built-in function `Math.ceil` helpful for this \(can google how to use it\).
+
+For example if the user only used 1GB this month, the app would calculate $19.99 per GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month assume the user bought 2 plans and the app would calculate $0.78 per GB. 
 
 ### Mortgage Calculator
 

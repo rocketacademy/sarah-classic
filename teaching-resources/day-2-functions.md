@@ -103,9 +103,10 @@ var add = function(a,b){
 };
 
 var main = function(input){
-    var myOutputValue = 'input is: ' + input;
-    myOutputValue = myOutputValue + ' input plus 5 is: ' + add(input, 5);
-    myOutputValue = myOutputValue + ' input plus 6 is: ' + add(input, 6);
+    var userTypedInput = 'input is: ' + input;
+    var result1 = userTypedInput + ' plus 5 is: ' + add(input, 5);
+    var result2 = userTypedInput + ' plus 6 is: ' + add(input, 6);
+    var myOutputValue = result1 + ' ' + result2;
     return myOutputValue;
 };
 ```
