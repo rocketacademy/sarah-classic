@@ -331,7 +331,7 @@ Window snapping is not built-in to MacOS, and we will need to download an extern
 
 ### **Introduction**
 
-Use the new software you've installed to send your first message to your new course mates. Please include the following in your message.
+Use some of the new software you've installed. Open Slack and send your first message to your new course mates. Please include the following in your message:
 
 1. Where are you based?
 2. What do you do for work?
