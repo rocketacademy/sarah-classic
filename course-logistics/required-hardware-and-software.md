@@ -340,7 +340,7 @@ Use some of the new software you've installed. Open Slack and send your first me
 5. Your specific OS version. This will be the result of running the command below for your specific OS \(Windows or Mac\)
 6. Anything else you would like to share 😁
 
-![From Kai](../.gitbook/assets/image%20%285%29.png)
+![Slack Message from Kai](../.gitbook/assets/image%20%285%29.png)
 
 ### Retrieve Your OS Version
 
