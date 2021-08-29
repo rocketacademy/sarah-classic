@@ -123,8 +123,7 @@ A: This does change the behaviour. The original version of this code adds a papa
 
 ## In-Class Material
 
-1. Review [Project 1: Scissors Paper Stone \(Part 1\)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
-2. [Day 4: Boolean And, GitHub, Program State](../in-class-exercises/day-4-boolean-and-program-state.md)
+1. [Day 4: Boolean And, GitHub, Program State](../in-class-exercises/day-4-boolean-and-program-state.md)
 
 ## **Wrap-up / Look Ahead**
 
