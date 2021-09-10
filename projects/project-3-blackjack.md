@@ -68,9 +68,60 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ## More Comfortable
 
-### Better Output Formatting
+### Interface
 
-Make the game output look cool. Ask the player their name? Give full instructions to the player?
+Improve the look and feel of the game.
+
+#### User Instructions
+
+Make the game intuitive and fun to use by adding explicit instructions for each step of the game. "_Wow, you're at 14 right now! Do you want to hit or stand? Type h for hit or s for stand._"
+
+#### Starting Instructions
+
+Add instructions on how to start the game by editing the `index.html`.  
+  
+Simply add your instructions into [line 134](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L134). These instructions will appear when the game loads and will be erased as soon as the user clicks the submit button.
+
+```javascript
+<div id="output-div">Click the submit button to get started!</div>
+```
+
+#### Emoji
+
+Use emoji for the card suits ♣️♠️♦️♥️and for the card names 2️⃣. Use more emoji in your game instructions and results. Get creative!
+
+#### Images
+
+You can add images to your game by including an HTML image tag in `myOutputValue`.
+
+```javascript
+var myImage = '<img src="https://c.tenor.com/Hj2-u4VELREAAAAi/655.gif"/>';
+myOutputValue = myOutputValue + myImage; // will display an image in the grey box
+```
+
+Image variable template:
+
+```javascript
+var myImage = '<img src="COPIED_URL_OF_IMAGE"/>';
+```
+
+#### Using images
+
+1. Go to a site like [tenor.com](https://tenor.com/) for gifs \(although _any_ website with images will work\)
+2. Right-click on an image and copy the url by selecting "Copy Image Address".
+3. Paste this value into your code as shown above.
+
+![How to Copy a website Image Address](../.gitbook/assets/gif-url-copy.png)
+
+#### More Fun
+
+#### Colors
+
+Set your own custom colors in the CSS. Find the color values in `index.html` and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
+
+#### Fonts
+
+Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp](https://www.w3schools.com/css/css_font_google.asp)
 
 ### Betting
 
