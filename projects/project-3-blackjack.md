@@ -83,7 +83,7 @@ Add instructions on how to start the game by editing the `index.html`.
 Simply add your instructions into [line 134](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L134). These instructions will appear when the game loads and will be erased as soon as the user clicks the submit button.
 
 ```javascript
-<div id="output-div">Click the submit button to get started!</div>
+<div id="output-div">Welcome to Kai's Cards! Click the submit button to get started!</div>
 ```
 
 #### Emoji
