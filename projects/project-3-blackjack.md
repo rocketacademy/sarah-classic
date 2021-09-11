@@ -163,10 +163,8 @@ Add hand-splitting functionality to the game. If the player has two of the same 
 
  Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
-1. [Base](https://github.com/rocketacademy/basics-blackjack/pull/3/files)
+1. [Base](https://github.com/rocketacademy/basics-blackjack/tree/base)
 2. [Multiplayer](https://github.com/rocketacademy/basics-blackjack/tree/moreComfortable-Multiplayer)
-
-
 
 {% hint style="danger" %}
 **Rocket Academy does not endorse gambling.** We chose Blackjack as a project because of its complex rules that help facilitate coding instruction.
