@@ -99,7 +99,7 @@ var myImage = '<img src="https://c.tenor.com/Hj2-u4VELREAAAAi/655.gif"/>';
 myOutputValue = myOutputValue + myImage; // will display an image in the grey box
 ```
 
-Image variable template:
+Image variable template: Fill in the `COPIED_URL_OF_IMAGE` with any image URL you find.
 
 ```javascript
 var myImage = '<img src="COPIED_URL_OF_IMAGE"/>';
@@ -112,6 +112,23 @@ var myImage = '<img src="COPIED_URL_OF_IMAGE"/>';
 3. Paste this value into your code as shown above.
 
 ![How to Copy a website Image Address](../.gitbook/assets/gif-url-copy.png)
+
+#### Using your own images
+
+Place an image file in your Git repository. Commit the image file and push your image to your GitHub repository.
+
+For example you added an image called `my-image.jpeg` into your repository directory. Refer to it like the following:
+
+```javascript
+var myImage = '<img src="/my-image.jpeg" />';
+myOutputValue = myOutputValue + myImage; // will display an image in the grey box
+```
+
+Image variable template: Fill in the `COPIED_RELATIVE_IMAGE_PATH` with the image file name you uploaded to your repo.
+
+```javascript
+var myImage = '<img src="/COPIED_RELATIVE_IMAGE_PATH"/>';
+```
 
 #### More Fun
 
