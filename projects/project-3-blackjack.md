@@ -136,6 +136,8 @@ var myImage = '<img src="/COPIED_RELATIVE_IMAGE_PATH"/>';
 
 Set your own custom colors in the CSS. Find the color values in `index.html` \(for example lines 57 or 77\) and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 
+Find matching color sets using this design tool: [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
+
 #### Fonts
 
 Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp](https://www.w3schools.com/css/css_font_google.asp)
