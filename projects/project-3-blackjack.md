@@ -70,7 +70,11 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ### Interface
 
-Improve the look and feel of the game.
+Improve the look and feel of the game.  
+  
+See a deployed example here: [https://awongh.github.io/basics-blackjack/index.html](https://awongh.github.io/basics-blackjack/index.html)  
+  
+[https://github.com/awongh/basics-blackjack](https://github.com/awongh/basics-blackjack) 
 
 #### User Instructions
 
