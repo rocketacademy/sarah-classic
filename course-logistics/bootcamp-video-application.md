@@ -12,7 +12,7 @@ Because communication skills are more challenging to teach in a short time frame
 
 ## Requirements
 
-1. Record a 3-5 minute video of you explaining a concept you learned from Basics to a friend \(or better, to a kid or parent\). Feel free to choose a topic from any day of Basics as your subject.
+1. Record a 3-5 minute video of you explaining a concept you learned from Basics to a friend \(or better, to a kid or parent\). Feel free to choose a topic from any day of Basics as your subject, or a concept that you learned while working on a Basics project.
 2. Upload this video to YouTube and submit the link to [https://forms.gle/Wm2SU2JQgLSvx14MA](https://forms.gle/Wm2SU2JQgLSvx14MA). Ensure that the link is not private so that RA can view the video.
 3. Please do not read off a script. RA is looking for students that can explain coding concepts clearly and engagingly to others. We are more interested in your ability to communicate concepts than the perfection of your speech.
 
