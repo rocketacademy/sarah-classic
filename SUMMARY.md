@@ -13,6 +13,7 @@
 * [👩‍💻 Coding Strategies](course-logistics/coding-strategies.md)
 * [💡 Tooling Pro Tips](course-logistics/tooling-pro-tips.md)
 * [🎓 LinkedIn Certificates](course-logistics/linkedin-certificates.md)
+* [🧑‍🏫 Bootcamp Video Application](course-logistics/bootcamp-video-application.md)
 
 ## Projects
 
