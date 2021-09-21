@@ -127,5 +127,5 @@
 * [Day 10: Coding Strategies](teaching-resources/day-10.md)
 * [Day 11: Debugger](teaching-resources/day-11.md)
 * [Day 12: DOM, Project Presentations](teaching-resources/day-12.md)
-* [Sample Schedule Page](teaching-resources/sample-schedule-page.md)
+
 
