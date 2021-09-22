@@ -16,3 +16,7 @@ Because communication skills are more challenging to teach in a short time frame
 2. Upload the video to YouTube and submit the link to [https://forms.gle/Wm2SU2JQgLSvx14MA](https://forms.gle/Wm2SU2JQgLSvx14MA). Ensure the link is not private so RA can view the video.
 3. Please do not read off a script. RA is looking for students that can explain coding concepts clearly and engagingly to others. We are more interested in your ability to communicate concepts than the perfection of your speech.
 
+## Deadline
+
+Students can submit this video application any time. The deadline to submit is 1 week before the Bootcamp batch that students wish to join.
+

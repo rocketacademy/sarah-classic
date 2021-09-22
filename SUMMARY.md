@@ -128,4 +128,3 @@
 * [Day 11: Debugger](teaching-resources/day-11.md)
 * [Day 12: DOM, Project Presentations](teaching-resources/day-12.md)
 
-
