@@ -32,5 +32,5 @@ Typically we look for the following attributes in evaluating projects.
    3. Abstraction: Re-use helper functions with varying parameter values when possible
    4. Algorithms: Construct stepwise logic to accomplish tasks
 
-Through the above criteria, RA is essentially asking the question: Would I hire this person as a software engineer if I had their attention for 6 months full time or 12 months part time to teach them coding. If the answer is yes, welcome to Bootcamp! If the answer is currently no, let's have a conversation and see how we can help you get where you want to be!
+Through the above criteria, RA is essentially asking the question: Would I hire this person as a software engineer if I had their attention for 6 months full time or 12 months part time to teach them coding. If the answer is yes, welcome to Bootcamp! If the answer is currently no, let's have a conversation and see how we can help you get where you want to be! Test
 
