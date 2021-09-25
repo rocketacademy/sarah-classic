@@ -285,9 +285,15 @@ Total Video Watch Time: **~22 mins**
 
 ### In Class
 
-* Course Feedback and Reviews
 * [Project presentations](https://basics.rocketacademy.co/course-logistics/course-methodology#project-presentations)
+* Poll \(within section\) on Most Creative Blackjack Project
+* Course Feedback and Reviews
+  * [RA's Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfESX668XwoMgfmZDxAOgXIb44iAe7dgYKbpCqV74YcrDulMg/viewform?usp=sf_link)
+  * [Switchup](https://www.switchup.org/write-review)
+  * [Google Business](https://g.page/rocket-academy-co/review?rc)
+* Review and vote for Most Creative Blackjack Presentations in Main channel
 * LinkedIn certificate presentations
+* SL awards Most-Improved Student
 * Class Photo 🥳
 
 ## Further Reading
