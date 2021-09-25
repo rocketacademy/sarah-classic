@@ -291,9 +291,9 @@ Total Video Watch Time: **~22 mins**
   * [RA's Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfESX668XwoMgfmZDxAOgXIb44iAe7dgYKbpCqV74YcrDulMg/viewform?usp=sf_link)
   * [Switchup](https://www.switchup.org/write-review)
   * [Google Business](https://g.page/rocket-academy-co/review?rc)
-* Review and vote for Most Creative Blackjack Presentations in Main channel
 * LinkedIn certificate presentations
 * SL awards Most-Improved Student
+* Review and vote for Most Creative Blackjack Presentations in Main channel
 * Class Photo 🥳
 
 ## Further Reading
