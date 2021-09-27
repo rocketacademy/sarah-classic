@@ -13,7 +13,7 @@ description: What and when we will learn
 | 6 | [8 Nov](#course-day-10) | [11 Nov](#course-day-11) | - |
 | 7 | [15 Nov](#course-day-12) | - | - |
 
-# Sat 2 Oct, Week 1, Course Day 0{#course-day-0}: Pre-Course Briefing
+# Sat 2 Oct, Week 0, Course Day 0{#course-day-0}: Pre-Course Briefing
 Meeting time: 4:00 PM SGT (GMT+8)
 
 {% hint style="warning" %}
@@ -38,7 +38,7 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    4. Fun fact?
 
 
-# Mon 4 Oct, Week 2, Course Day 1{#course-day-1}: Coding Tools 
+# Mon 4 Oct, Week 1, Course Day 1{#course-day-1}: Coding Tools 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -63,7 +63,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 
 
-# Thu 7 Oct, Week 2, Course Day 2{#course-day-2}: Functions
+# Thu 7 Oct, Week 1, Course Day 2{#course-day-2}: Functions
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -77,7 +77,7 @@ Total Video Watch Time: **~25 mins**
 
 
 
-# Mon 11 Oct, Week 3, Course Day 3{#course-day-3}: Logic 1
+# Mon 11 Oct, Week 2, Course Day 3{#course-day-3}: Logic 1
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -94,7 +94,7 @@ Total Video Watch Time: **~40 mins**
 
 
 
-# Thu 14 Oct, Week 3, Course Day 4{#course-day-4}: Logic 2, State 1
+# Thu 14 Oct, Week 2, Course Day 4{#course-day-4}: Logic 2, State 1
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
@@ -114,7 +114,7 @@ Total Video Watch Time: **~41 mins**
 
 
 
-# Mon 18 Oct, Week 4, Course Day 5{#course-day-5}: State 2
+# Mon 18 Oct, Week 3, Course Day 5{#course-day-5}: State 2
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
@@ -133,7 +133,7 @@ Total Video Watch Time: **~17 mins**
 
 
 
-# Thu 21 Oct, Week 4, Course Day 6{#course-day-6}: Arrays, Loops 1
+# Thu 21 Oct, Week 3, Course Day 6{#course-day-6}: Arrays, Loops 1
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -147,7 +147,7 @@ Total Video Watch Time: **~41 mins**
 
 
 
-# Mon 25 Oct, Week 5, Course Day 7{#course-day-7}: Loops 2
+# Mon 25 Oct, Week 4, Course Day 7{#course-day-7}: Loops 2
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -159,7 +159,7 @@ Total Video Watch Time: **~11 mins**
 
 
 
-# Thu 28 Oct, Week 5, Course Day 8{#course-day-8}: Objects
+# Thu 28 Oct, Week 4, Course Day 8{#course-day-8}: Objects
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
@@ -177,7 +177,7 @@ Total Video Watch Time: **~15 mins**
 
 
 
-# Mon 1 Nov, Week 6, Course Day 9{#course-day-9}: Card Logic
+# Mon 1 Nov, Week 5, Course Day 9{#course-day-9}: Card Logic
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -191,7 +191,7 @@ Total Video Watch Time: **~16 mins**
 
 # Thu, 4 Nov: Singapore public holiday, Deepavali
 
-# Mon 8 Nov, Week 7, Course Day 10{#course-day-10}: Coding Strategies
+# Mon 8 Nov, Week 6, Course Day 10{#course-day-10}: Coding Strategies
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -203,7 +203,7 @@ Total Video Watch Time: **~60 mins**
 
 
 
-# Thu 11 Nov, Week 7, Course Day 11{#course-day-11}: Debugger
+# Thu 11 Nov, Week 6, Course Day 11{#course-day-11}: Debugger
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
@@ -222,7 +222,7 @@ Total Video Watch Time: **~18 mins**
 
 
 
-# Mon 15 Nov, Week 8, Course Day 12{#course-day-12}: Project Presentations
+# Mon 15 Nov, Week 7, Course Day 12{#course-day-12}: Project Presentations
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
