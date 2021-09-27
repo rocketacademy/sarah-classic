@@ -1,7 +1,7 @@
 ---
 description: What and when we will learn
 ---
-# 📅 Batch 11 \(Mon - Thu\) Schedule
+# 📅 Batch 11 \(Sun - Thu\) Schedule
 
 # Course Dates
 | Week | Monday | Thursday | Saturday | Sunday |
