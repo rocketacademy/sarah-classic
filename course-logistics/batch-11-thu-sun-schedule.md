@@ -1,18 +1,16 @@
 ---
 description: What and when we will learn
 ---
-# 📅 Batch 11 \(Sun - Thu\) Schedule
-
 # Course Dates
 | Week | Monday | Thursday | Saturday | Sunday |
 | :---: | :---: | :---: | :---: | :---: |
-| 0 | - | - | [2 Oct](#course-day-0) | [3 Oct](#course-day-1) |
-| 1 | - | [7 Oct](#course-day-2) | - | [10 Oct](#course-day-3) |
-| 2 | - | [14 Oct](#course-day-4) | - | [17 Oct](#course-day-5) |
-| 3 | - | [21 Oct](#course-day-6) | - | [24 Oct](#course-day-7) |
-| 4 | - | [28 Oct](#course-day-8) | - | [31 Oct](#course-day-9) |
-| 5 | - | public holiday (SG) | - | [7 Nov](#course-day-10) |
-| 6 | - | [11 Nov](#course-day-11) | - | - |
+| 0 | - | - | [2 Oct](#course-day-0) | - |
+| 1 | - | [7 Oct](#course-day-1) | - | [10 Oct](#course-day-2) |
+| 2 | - | [14 Oct](#course-day-3) | - | [17 Oct](#course-day-4) |
+| 3 | - | [21 Oct](#course-day-5) | - | [24 Oct](#course-day-6) |
+| 4 | - | [28 Oct](#course-day-7) | - | [31 Oct](#course-day-8) |
+| 5 | - | public holiday (SG) | - | [7 Nov](#course-day-9) |
+| 6 | - | [11 Nov](#course-day-10) | - | [14 Nov](#course-day-11) |
 | 7 | [15 Nov](#course-day-12) | - | - | - |
 
 # Sat 2 Oct, Week 0, Course Day 0{#course-day-0}: Pre-Course Briefing
@@ -40,8 +38,8 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    4. Fun fact?
 
 
-# Sun 3 Oct, Week 0, Course Day 1{#course-day-1}: Coding Tools 
-Meeting time: 7:00 PM SGT (GMT+8)
+# Thu 7 Oct, Week 1, Course Day 1{#course-day-1}: Coding Tools 
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 Total Video Watch Time: **~48 mins**
@@ -65,8 +63,8 @@ Please **do not** attempt in-class material before class for all course days, so
 
 
 
-# Thu 7 Oct, Week 1, Course Day 2{#course-day-2}: Functions
-Meeting time: 7:30 PM SGT (GMT+8)
+# Sun 10 Oct, Week 1, Course Day 2{#course-day-2}: Functions
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 Total Video Watch Time: **~25 mins**
@@ -79,8 +77,8 @@ Total Video Watch Time: **~25 mins**
 
 
 
-# Sun 10 Oct, Week 1, Course Day 3{#course-day-3}: Logic 1
-Meeting time: 7:00 PM SGT (GMT+8)
+# Thu 14 Oct, Week 2, Course Day 3{#course-day-3}: Logic 1
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 Total Video Watch Time: **~40 mins**
@@ -96,8 +94,8 @@ Total Video Watch Time: **~40 mins**
 
 
 
-# Thu 14 Oct, Week 2, Course Day 4{#course-day-4}: Logic 2, State 1
-Meeting time: 7:30 PM SGT (GMT+8)
+# Sun 17 Oct, Week 2, Course Day 4{#course-day-4}: Logic 2, State 1
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
 [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
@@ -116,8 +114,8 @@ Total Video Watch Time: **~41 mins**
 
 
 
-# Sun 17 Oct, Week 2, Course Day 5{#course-day-5}: State 2
-Meeting time: 7:00 PM SGT (GMT+8)
+# Thu 21 Oct, Week 3, Course Day 5{#course-day-5}: State 2
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 [Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
@@ -135,8 +133,8 @@ Total Video Watch Time: **~17 mins**
 
 
 
-# Thu 21 Oct, Week 3, Course Day 6{#course-day-6}: Arrays, Loops 1
-Meeting time: 7:30 PM SGT (GMT+8)
+# Sun 24 Oct, Week 3, Course Day 6{#course-day-6}: Arrays, Loops 1
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 Total Video Watch Time: **~41 mins**
@@ -149,8 +147,8 @@ Total Video Watch Time: **~41 mins**
 
 
 
-# Sun 24 Oct, Week 3, Course Day 7{#course-day-7}: Loops 2
-Meeting time: 7:00 PM SGT (GMT+8)
+# Thu 28 Oct, Week 4, Course Day 7{#course-day-7}: Loops 2
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 Total Video Watch Time: **~11 mins**
@@ -161,8 +159,8 @@ Total Video Watch Time: **~11 mins**
 
 
 
-# Thu 28 Oct, Week 4, Course Day 8{#course-day-8}: Objects
-Meeting time: 7:30 PM SGT (GMT+8)
+# Sun 31 Oct, Week 4, Course Day 8{#course-day-8}: Objects
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
 [Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
@@ -179,8 +177,10 @@ Total Video Watch Time: **~15 mins**
 
 
 
-# Sun 31 Oct, Week 4, Course Day 9{#course-day-9}: Card Logic
-Meeting time: 7:00 PM SGT (GMT+8)
+# Thu, 4 Nov: Singapore public holiday, Deepavali
+
+# Sun 7 Nov, Week 5, Course Day 9{#course-day-9}: Card Logic
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 Total Video Watch Time: **~16 mins**
@@ -191,10 +191,8 @@ Total Video Watch Time: **~16 mins**
 
 
 
-# Thu, 4 Nov: Singapore public holiday, Deepavali
-
-# Sun 7 Nov, Week 5, Course Day 10{#course-day-10}: Coding Strategies
-Meeting time: 7:00 PM SGT (GMT+8)
+# Thu 11 Nov, Week 6, Course Day 10{#course-day-10}: Coding Strategies
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 Total Video Watch Time: **~60 mins**
@@ -205,8 +203,8 @@ Total Video Watch Time: **~60 mins**
 
 
 
-# Thu 11 Nov, Week 6, Course Day 11{#course-day-11}: Debugger
-Meeting time: 7:30 PM SGT (GMT+8)
+# Sun 14 Nov, Week 6, Course Day 11{#course-day-11}: Debugger
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
@@ -247,4 +245,3 @@ Total Video Watch Time: **~22 mins**
 ### Past Projects
  * [Drawing With Emojis](https://basics.rocketacademy.co/past-projects/drawing-with-emojis)
  * [Guess The Word](https://basics.rocketacademy.co/past-projects/guess-the-word)
-
