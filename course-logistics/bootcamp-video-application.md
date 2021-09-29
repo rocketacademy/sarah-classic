@@ -12,9 +12,25 @@ Because communication skills are more challenging to teach in a short time frame
 
 ## Requirements
 
-1. Record a 3-5 minute video of you explaining a concept you learned from Basics as if to a friend \(or better, to a kid or parent\). Feel free to choose a topic from any day of Basics as your subject, or a concept that you learned while working on a Basics project.
+1. Record a 3-5 minute video of you explaining a concept you learned from Basics as if to a friend \(or better, to a kid or parent\). Feel free to choose a topic from any day of Basics as your subject, or a concept that you learned while working on a Basics project. Consider using visual aids to help in your explanation. 
 2. Upload the video to YouTube and submit the link to [https://forms.gle/Wm2SU2JQgLSvx14MA](https://forms.gle/Wm2SU2JQgLSvx14MA). Ensure the link is not private so RA can view the video.
 3. Please do not read off a script. RA is looking for students that can explain coding concepts clearly and engagingly to others. We are more interested in your ability to communicate concepts than the perfection of your speech.
+
+
+
+## Guidelines On Recording Bootcamp Application Videos
+
+Please feel free to record your video on whatever platform best suits you. However, if you'd like some direction, the following setup demonstrates how we can use Zoom to record ourselves along with the use of visual aids. 
+
+1. Login to Zoom and start a new meeting with yourself as host.
+2. Optional: If you are using visual aids, share your screen \([how?](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)\). 
+
+   **Tip:** We recommend an IDE like VScode as a visual aid,  which is conducive for writing code as-you-speak, just like how your SLs did it during classes. That said, other mediums like powerpoint slides are also accepted. 
+
+3. Take a deep breath; You got this. When ready:  Start recording \([how?](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording#h_2b0b123c-d9e9-48bc-b0c6-3cd874ebc98a)\). 
+4. Once done, end the recording. Locate the recording \([how?](https://support.zoom.us/hc/en-us/articles/206277393-Finding-and-Viewing-Recordings)\) and upload the video to Youtube.
+5. [Go to this link](%20https://forms.gle/Wm2SU2JQgLSvx14MA) and submit the link to your Youtube video. 
+6. Video application complete!
 
 ## Deadline
 
