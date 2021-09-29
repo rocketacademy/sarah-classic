@@ -23,7 +23,7 @@ Because communication skills are more challenging to teach in a short time frame
 Please feel free to record your video on whatever platform best suits you. However, if you'd like some direction, the following setup demonstrates how we can use Zoom to record ourselves along with the use of visual aids. 
 
 1. Login to Zoom and start a new meeting with yourself as host.
-2. Optional: If you are using visual aids, share your screen \([how?](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)\). 
+2. Optional: If you are using visual aids, share your screen \([how?](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen)\). Please ensure that your face can still be seen clearly, possibly either at the top left or right of the screen. 
 
    **Tip:** We recommend an IDE like VScode as a visual aid,  which is conducive for writing code as-you-speak, just like how your SLs did it during classes. That said, other mediums like powerpoint slides are also accepted. 
 
