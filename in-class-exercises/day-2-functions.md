@@ -1,5 +1,11 @@
 # Day 2: Functions
 
+## Learning Outcomes
+
+* Practice writing helper functions _\(and not just solve for the correct calculation\)_
+* Executing multiple helper functions as part of the overall program.
+* Practice creating contextual, meaningful variables.
+
 ## Introduction
 
 Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md#exercises). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For some exercises you may need to google for information. Please switch driver and navigator each exercise.
@@ -7,8 +13,6 @@ Today we will write functions to perform data transformations, similar to exampl
 {% hint style="warning" %}
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
-
-_**Remember that the point of this exercise is to practice writing helper functions and creating contextual, meaningful variables, not just to solve for the correct calculation!**_
 
 ## Base
 
