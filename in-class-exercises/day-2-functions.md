@@ -1,5 +1,13 @@
 # Day 2: Functions
 
+## Introduction
+
+Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md#exercises). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For some exercises you may need to google for information. Please switch driver and navigator each exercise.
+
+{% hint style="warning" %}
+When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+{% endhint %}
+
 ## Knowledge Check
 
 Before you begin, check that you and your partner can answer the following:
@@ -17,14 +25,6 @@ Before you begin, check that you and your partner can answer the following:
 * Practice writing helper functions _\(and not just solve for the correct calculation\)_
 * Executing multiple helper functions as part of the overall program.
 * Practice creating contextual, meaningful variables.
-
-## Introduction
-
-Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md#exercises). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For some exercises you may need to google for information. Please switch driver and navigator each exercise.
-
-{% hint style="warning" %}
-When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
-{% endhint %}
 
 ## Base
 
@@ -53,6 +53,10 @@ Create an app that calculates how many hours a hotel needs to run their ice mach
 ### Beer Order
 
 Create an app for a bar to calculate how many kegs they need. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter. Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
+
+### Helen and Ivan's Coins
+
+Helen and Ivan had the same number of coins. Helen had some number of 50-cent coins, and 64 20-cent coins. Write an app that takes in how many **more** 20-cent coins Ivan has, and outputs who has more money and by how much.
 
 ## More Comfortable
 
