@@ -1,5 +1,17 @@
 # Day 2: Functions
 
+## Knowledge Check
+
+Before you begin, check that you and your partner can answer the following:
+
+* [ ] How do you define a function?
+* [ ] How do you execute a function?
+* [ ] Where can you execute a function?
+* [ ] How many times can you use a function?
+* [ ] What is the purpose of the `return` keyword? What happens if we omit the `return` keyword from a function?
+
+
+
 ## Learning Outcomes
 
 * Practice writing helper functions _\(and not just solve for the correct calculation\)_
