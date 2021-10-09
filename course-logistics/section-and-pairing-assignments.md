@@ -6,16 +6,16 @@ description: Basics 11
 
 ## Section 1
 
-| Day 1, Day 11 | Day 2, Day 12 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Carina Chu,Grace Keng | Grace Keng,Ghee Kiong | Ghee Kiong,Sim Wang | Shi Yuan Yap,Ghee Kiong | Ghee Kiong,Sharlen Liew | Sabrina Lim,Ghee Kiong | Ghee Kiong,Muhammad Taufiq | Muhammad Khairuddin Rosly,Ghee Kiong | Ghee Kiong,Matthew Yang | Li Yan Wong \(leanne\),Ghee Kiong |
-| Chris Situmorang,Sim Wang | Carina Chu,Shi Yuan Yap | Grace Keng,Shi Yuan Yap | Sim Wang,Sharlen Liew | Shi Yuan Yap,Sabrina Lim | Sharlen Liew,Muhammad Taufiq | Sabrina Lim,Muhammad Khairuddin Rosly | Muhammad Taufiq,Matthew Yang | Muhammad Khairuddin Rosly,Li Yan Wong \(leanne\) | Matthew Yang,Jia Jun Ng |
-| Dmitry Timoshenko,Shi Yuan Yap | Chris Situmorang,Sharlen Liew | Carina Chu,Sabrina Lim | Grace Keng,Sabrina Lim | Sim Wang,Muhammad Taufiq | Shi Yuan Yap,Muhammad Khairuddin Rosly | Sharlen Liew,Matthew Yang | Sabrina Lim,Li Yan Wong \(leanne\) | Muhammad Taufiq,Jia Jun Ng | Muhammad Khairuddin Rosly,Jane Ng |
-| Edwin Tan,Sharlen Liew | Dmitry Timoshenko,Sabrina Lim | Chris Situmorang,Muhammad Taufiq | Carina Chu,Muhammad Khairuddin Rosly | Grace Keng,Muhammad Khairuddin Rosly | Sim Wang,Matthew Yang | Shi Yuan Yap,Li Yan Wong \(leanne\) | Sharlen Liew,Jia Jun Ng | Sabrina Lim,Jane Ng | Muhammad Taufiq,Dong Zheng Peh |
-| Dong Zheng Peh,Sabrina Lim | Edwin Tan,Muhammad Taufiq | Dmitry Timoshenko,Muhammad Khairuddin Rosly | Chris Situmorang,Matthew Yang | Carina Chu,Li Yan Wong \(leanne\) | Grace Keng,Li Yan Wong \(leanne\) | Sim Wang,Jia Jun Ng | Shi Yuan Yap,Jane Ng | Sharlen Liew,Dong Zheng Peh | Sabrina Lim,Edwin Tan |
-| Jane Ng,Muhammad Taufiq | Dong Zheng Peh,Muhammad Khairuddin Rosly | Edwin Tan,Matthew Yang | Dmitry Timoshenko,Li Yan Wong \(leanne\) | Chris Situmorang,Jia Jun Ng | Carina Chu,Jane Ng | Grace Keng,Jane Ng | Sim Wang,Dong Zheng Peh | Shi Yuan Yap,Edwin Tan | Sharlen Liew,Dmitry Timoshenko |
-| Jia Jun Ng,Muhammad Khairuddin Rosly | Jane Ng,Matthew Yang | Dong Zheng Peh,Li Yan Wong \(leanne\) | Edwin Tan,Jia Jun Ng | Dmitry Timoshenko,Jane Ng | Chris Situmorang,Dong Zheng Peh | Carina Chu,Edwin Tan | Grace Keng,Edwin Tan | Sim Wang,Dmitry Timoshenko | Shi Yuan Yap,Chris Situmorang |
-| Li Yan Wong \(leanne\),Matthew Yang | Jia Jun Ng,Li Yan Wong \(leanne\) | Jane Ng,Jia Jun Ng | Dong Zheng Peh,Jane Ng | Edwin Tan,Dong Zheng Peh | Dmitry Timoshenko,Edwin Tan | Chris Situmorang,Dmitry Timoshenko | Carina Chu,Chris Situmorang | Grace Keng,Chris Situmorang | Sim Wang,Carina Chu |
+
+
+| Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 | Day 11 | Day 12 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ignatius Edwin Tan, Tricia Heng | Bibiana Loh, Wilson Rondo | Tricia Heng, Yun Ting Chia | Josephine Tay, Wilson Rondo | Nappinnai Gobi, Desmond Tan | Justin Teoh, Shawn Goh | Alvin Wong, Tricia Heng | Tricia Heng, Desmond Tan | Chalya LN Salmwang, Yun Ting Chia | Ignatius Edwin Tan, Justin Teoh | Ignatius Edwin Tan, Tricia Heng | Bibiana Loh, Wilson Rondo |
+| Justin Teoh, Wilson Rondo | Chalya LN Salmwang, Josephine Tay | Alvin Wong, Wilson Rondo | Chalya LN Salmwang, Justin Teoh | Josephine Tay, Justin Teoh | Bibiana Loh, Ignatius Edwin Tan | Nappinnai Gobi, Tricia Heng | Josephine Tay, Desmond Tan | Bibiana Loh, Tricia Heng | Bibiana Loh, Alvin Wong | Justin Teoh, Wilson Rondo | Chalya LN Salmwang, Josephine Tay |
+| Bibiana Loh, Shawn Goh | Alvin Wong, Desmond Tan | Shawn Goh, Desmond Tan | Bibiana Loh, Chalya LN Salmwang | Alvin Wong, Justin Teoh | Chalya LN Salmwang, Desmond Tan | Josephine Tay, Shawn Goh | Alvin Wong, Shawn Goh | Ignatius Edwin Tan, Nappinnai Gobi | Chalya LN Salmwang, Wilson Rondo | Bibiana Loh, Shawn Goh | Alvin Wong, Desmond Tan |
+| Josephine Tay, Yun Ting Chia | Justin Teoh, Tricia Heng | Josephine Tay, Nappinnai Gobi | Alvin Wong, Nappinnai Gobi | Bibiana Loh, Yun Ting Chia | Nappinnai Gobi, Yun Ting Chia | Bibiana Loh, Josephine Tay | Chalya LN Salmwang, Ignatius Edwin Tan | Alvin Wong, Yun Ting Chia | Yun Ting Chia, Wilson Rondo | Josephine Tay, Yun Ting Chia | Justin Teoh, Tricia Heng |
+| Alvin Wong, Ignatius Edwin Tan | Shawn Goh, Wilson Rondo | Bibiana Loh, Justin Teoh | Ignatius Edwin Tan, Shawn Goh | Ignatius Edwin Tan, Yun Ting Chia | Wilson Rondo, Desmond Tan | Yun Ting Chia, Desmond Tan | Nappinnai Gobi, Shawn Goh | Justin Teoh, Nappinnai Gobi | Shawn Goh, Yun Ting Chia | Alvin Wong, Ignatius Edwin Tan | Shawn Goh, Wilson Rondo |
+| Chalya LN Salmwang, Tricia Heng | Ignatius Edwin Tan, Desmond Tan | Ignatius Edwin Tan, Wilson Rondo | Tricia Heng, Wilson Rondo | Chalya LN Salmwang, Shawn Goh | Josephine Tay, Tricia Heng | Ignatius Edwin Tan, Josephine Tay | Justin Teoh, Desmond Tan | Shawn Goh, Tricia Heng | Nappinnai Gobi, Wilson Rondo | Chalya LN Salmwang, Tricia Heng | Ignatius Edwin Tan, Desmond Tan |
 
 ## Section 2
 
@@ -68,4 +68,48 @@ description: Basics 11
 | Nathanael Xu,Wen Qi Lee | Micheal Loh,Tan Cy | Kia Jin Hoh,Wenjin Tan | Jonathan Tan,Thomas Liang | Jermaine Lim,Samantha Pang | Bryna Tan,Nathanael Xu | Uthiaya Maran,Nathanael Xu | Kai Ting Hsu,Micheal Loh | Jayson Tee,Kia Jin Hoh | Bao Cheng Lee,Jonathan Tan |
 | Samantha Pang,Tan Cy | Nathanael Xu,Wenjin Tan | Micheal Loh,Thomas Liang | Kia Jin Hoh,Samantha Pang | Jonathan Tan,Nathanael Xu | Jermaine Lim,Micheal Loh | Bryna Tan,Kia Jin Hoh | Uthiaya Maran,Kia Jin Hoh | Kai Ting Hsu,Jonathan Tan | Jayson Tee,Jermaine Lim |
 | Thomas Liang,Wenjin Tan | Samantha Pang,Thomas Liang | Nathanael Xu,Samantha Pang | Micheal Loh,Nathanael Xu | Kia Jin Hoh,Micheal Loh | Jonathan Tan,Kia Jin Hoh | Jermaine Lim,Jonathan Tan | Bryna Tan,Jermaine Lim | Uthiaya Maran,Jermaine Lim | Kai Ting Hsu,Bryna Tan |
+
+## Section 6
+
+
+
+| Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 | Day 11 | Day 12 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Justin Irwen, Natasha Sadiq | Charlie Solorzano, Sherman Ho | Siang meng Kia, Vishala Jyothi Kotra | Manek Shah, Natasha Sadiq | Justin Irwen, Manek Shah | Sherman Ho, Siang meng Kia | Justin Irwen, Vishala Jyothi Kotra | Justin Irwen, Shin Kok Chee | Charlie Solorzano, Justin Irwen | Justin Irwen, Natasha Sadiq | Charlie Solorzano, Sherman Ho | Siang meng Kia, Vishala Jyothi Kotra |
+| Shin Kok Chee, Vishala Jyothi Kotra | Ivan Winatha, Justin Irwen | Charlie Solorzano, Ivan Winatha | Ivan Winatha, Vishala Jyothi Kotra | Ivan Winatha, Sherman Ho | Ivan Winatha, Jia Liang Lee | Ivan Winatha, Shin Kok Chee | Alexander Banitch, Siang meng Kia | Alexander Banitch, Justin Irwen | Shin Kok Chee, Vishala Jyothi Kotra | Ivan Winatha, Justin Irwen | Charlie Solorzano, Ivan Winatha |
+| Alexander Banitch, Shin Kok Chee | Manek Shah, Shin Kok Chee | Shin Kok Chee, Siang meng Kia | Justin Irwen, Sherman Ho | Charlie Solorzano, Manek Shah | Charlie Solorzano, Vishala Jyothi Kotra | Alexander Banitch, Ivan Winatha | Jia Liang Lee, Justin Irwen | Ivan Winatha, Manek Shah | Alexander Banitch, Shin Kok Chee | Manek Shah, Shin Kok Chee | Shin Kok Chee, Siang meng Kia |
+| Charlie Solorzano, Jia Liang Lee | Alexander Banitch, Charlie Solorzano | Justin Irwen, Siang meng Kia | Alexander Banitch, Natasha Sadiq | Alexander Banitch, Jia Liang Lee | Natasha Sadiq, Shin Kok Chee | Manek Shah, Siang meng Kia | Ivan Winatha, Natasha Sadiq | Sherman Ho, Shin Kok Chee | Charlie Solorzano, Jia Liang Lee | Alexander Banitch, Charlie Solorzano | Justin Irwen, Siang meng Kia |
+| Ivan Winatha, Siang meng Kia | Natasha Sadiq, Sherman Ho | Alexander Banitch, Vishala Jyothi Kotra | Jia Liang Lee, Siang meng Kia | Natasha Sadiq, Vishala Jyothi Kotra | Alexander Banitch, Sherman Ho | Charlie Solorzano, Shin Kok Chee | Charlie Solorzano, Natasha Sadiq | Jia Liang Lee, Shin Kok Chee | Ivan Winatha, Siang meng Kia | Natasha Sadiq, Sherman Ho | Alexander Banitch, Vishala Jyothi Kotra |
+
+## Section 7
+
+| Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 | Day 11 | Day 12 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Alphonzo Twine, Jarrell Yapp | Marcello Kadharusman, Richie Chia | Christopher Ho Ye Hui, Justin Teo | Shing Oh, Yuting Cheong | Justin Teo, NG ZONG YI NG | Marcello Kadharusman, NG ZONG YI NG | NG ZONG YI NG, Vivian Tan | Alphonzo Twine, Yuting Cheong | YuQing Tay, Yuting Cheong | Shing Oh, Sneha Saji | Alphonzo Twine, Jarrell Yapp | Marcello Kadharusman, Richie Chia |
+| NG ZONG YI NG, Shing Oh | Yuting Cheong, Sneha Saji | Richie Chia, Shing Oh | NG ZONG YI NG, Sneha Saji | Alphonzo Twine, Justin Teo | Alphonzo Twine, Marcello Kadharusman | Alphonzo Twine, Richie Chia | Christopher Ho Ye Hui, Yuting Cheong | Justin Teo, Richie Chia | Justin Teo, Marcello Kadharusman | NG ZONG YI NG, Shing Oh | Yuting Cheong, Sneha Saji |
+| Vivian Tan, Sneha Saji | Alphonzo Twine, Sneha Saji | Alphonzo Twine, Shing Oh | Alphonzo Twine, NG ZONG YI NG | YuQing Tay, Vivian Tan | YuQing Tay, Sneha Saji | Marcello Kadharusman, Sneha Saji | Jarrell Yapp, Justin Teo | Alphonzo Twine, Vivian Tan | YuQing Tay, NG ZONG YI NG | Vivian Tan, Sneha Saji | Alphonzo Twine, Sneha Saji |
+| YuQing Tay, Marcello Kadharusman | NG ZONG YI NG, Yuting Cheong | YuQing Tay, Alphonzo Twine | Justin Teo, Yuting Cheong | Jarrell Yapp, Vivian Tan | Christopher Ho Ye Hui, Jarrell Yapp | Jarrell Yapp, NG ZONG YI NG | YuQing Tay, Shing Oh | Marcello Kadharusman, Shing Oh | Jarrell Yapp, Shing Oh | YuQing Tay, Marcello Kadharusman | NG ZONG YI NG, Yuting Cheong |
+| Justin Teo, Vivian Tan | Justin Teo, Shing Oh | Jarrell Yapp, Marcello Kadharusman | Christopher Ho Ye Hui, Richie Chia | Marcello Kadharusman, Yuting Cheong | Justin Teo, Sneha Saji | Christopher Ho Ye Hui, NG ZONG YI NG | Richie Chia, Yuting Cheong | Christopher Ho Ye Hui, Marcello Kadharusman | Richie Chia, Sneha Saji | Justin Teo, Vivian Tan | Justin Teo, Shing Oh |
+| Christopher Ho Ye Hui, Vivian Tan | YuQing Tay, Richie Chia | NG ZONG YI NG, Richie Chia | Jarrell Yapp, Sneha Saji | Richie Chia, Vivian Tan | Vivian Tan, Yuting Cheong | YuQing Tay, Justin Teo | Marcello Kadharusman, Vivian Tan | Jarrell Yapp, Yuting Cheong | Christopher Ho Ye Hui, Shing Oh | Christopher Ho Ye Hui, Vivian Tan | YuQing Tay, Richie Chia |
+
+## Section 8
+
+| Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 | Day 11 | Day 12 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Priscilla Soh, Shivani Batra | AMIT SINGH, Zhi Ting Quek | Shane Wee, Zhi Ting Quek | Atul Sharma, Shivani Batra | Praveen U Manjunath, Priscilla Soh | Kush Rai, David Meng | Atul Sharma, Kenneth Ong | Atul Sharma, Shane Wee | Atul Sharma, Praveen U Manjunath | Kush Rai, Kenneth Ong | Priscilla Soh, Shivani Batra | AMIT SINGH, Zhi Ting Quek |
+| Kush Rai, Vijayalakshmi Ravikumar | Praveen U Manjunath, Zhi Ting Quek | AMIT SINGH, Vijayalakshmi Ravikumar | David Meng, Wayne Shi Jie Wee | AMIT SINGH, Priscilla Soh | Atul Sharma, David Meng | Praveen U Manjunath, Vijayalakshmi Ravikumar | Vijayalakshmi Ravikumar, Zhi Ting Quek | Kush Rai, Wayne Shi Jie Wee | Atul Sharma, Vijayalakshmi Ravikumar | Kush Rai, Vijayalakshmi Ravikumar | Praveen U Manjunath, Zhi Ting Quek |
+| Praveen U Manjunath, Wayne Shi Jie Wee | Atul Sharma, Wayne Shi Jie Wee | Atul Sharma, Zhi Ting Quek | Kenneth Ong, Praveen U Manjunath | David Meng, Shane Wee | Shivani Batra, Vijayalakshmi Ravikumar | Kush Rai, Shivani Batra | Wayne Shi Jie Wee, Zhi Ting Quek | AMIT SINGH, Wayne Shi Jie Wee | Shane Wee, Shivani Batra | Praveen U Manjunath, Wayne Shi Jie Wee | Atul Sharma, Wayne Shi Jie Wee |
+| Kenneth Ong, Vijayalakshmi Ravikumar | Kenneth Ong, Priscilla Soh | Kenneth Ong, Shivani Batra | Kush Rai, AMIT SINGH | Kush Rai, Zhi Ting Quek | Kenneth Ong, Shane Wee | David Meng, Praveen U Manjunath | Kenneth Ong, Wayne Shi Jie Wee | Kenneth Ong, Zhi Ting Quek | AMIT SINGH, Shivani Batra | Kenneth Ong, Vijayalakshmi Ravikumar | Kenneth Ong, Priscilla Soh |
+| AMIT SINGH, Atul Sharma | Shane Wee, Vijayalakshmi Ravikumar | Kush Rai, Priscilla Soh | Shane Wee, Wayne Shi Jie Wee | Shivani Batra, Wayne Shi Jie Wee | AMIT SINGH, Shane Wee | AMIT SINGH, Kenneth Ong | David Meng, Vijayalakshmi Ravikumar | Priscilla Soh, Zhi Ting Quek | Praveen U Manjunath, Shane Wee | AMIT SINGH, Atul Sharma | Shane Wee, Vijayalakshmi Ravikumar |
+| David Meng, Zhi Ting Quek | David Meng, Kenneth Ong | David Meng, Shivani Batra | Vijayalakshmi Ravikumar, Wayne Shi Jie Wee | Atul Sharma, Priscilla Soh | Priscilla Soh, Vijayalakshmi Ravikumar | Priscilla Soh, Shane Wee | Kush Rai, Praveen U Manjunath | David Meng, Priscilla Soh | Priscilla Soh, Wayne Shi Jie Wee | David Meng, Zhi Ting Quek | David Meng, Kenneth Ong |
+
+## Section 9
+
+| Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 | Day 11 | Day 12 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stacey Ng, Wilbert Lim | An Ting Lim, Marcus Neo | AUNG MYAT MOE, Wilbert Lim | AUNG MYAT MOE, Marcus Neo | An Ting Lim, Stacey Ng | AUNG MYAT MOE, Maxime Veyrines | An Ting Lim, AUNG MYAT MOE | AUNG MYAT MOE, Khun Min Aung | Maxime Veyrines, Abbygail Chong | Stacey Ng, Wilbert Lim | An Ting Lim, Marcus Neo | AUNG MYAT MOE, Wilbert Lim |
+| An Ting Lim, Maxime Veyrines | Rebeca Hana Emmanuella, Wilbert Lim | Deepthi Sajeev, Rebeca Hana Emmanuella | Stacey Ng, Abbygail Chong | Marcus Neo, Abbygail Chong | Khun Min Aung, Stacey Ng | Deepthi Sajeev, Marcus Neo | An Ting Lim, Deepthi Sajeev | Deepthi Sajeev, Abbygail Chong | An Ting Lim, Maxime Veyrines | Rebeca Hana Emmanuella, Wilbert Lim | Deepthi Sajeev, Rebeca Hana Emmanuella |
+| Khun Min Aung, Rebeca Hana Emmanuella | Khun Min Aung, Abbygail Chong | Marcus Neo, Stacey Ng | Khun Min Aung, Wilbert Lim | Rebeca Hana Emmanuella, Abbygail Chong | Rebeca Hana Emmanuella, Stacey Ng | Maxime Veyrines, Wilbert Lim | Marcus Neo, Maxime Veyrines | Joveen Lee, Maxime Veyrines | Khun Min Aung, Rebeca Hana Emmanuella | Khun Min Aung, Abbygail Chong | Marcus Neo, Stacey Ng |
+| Marcus Neo, Wilbert Lim | AUNG MYAT MOE, Rebeca Hana Emmanuella | Joveen Lee, Abbygail Chong | Joveen Lee, Stacey Ng | Khun Min Aung, Maxime Veyrines | Joveen Lee, Rebeca Hana Emmanuella | Joveen Lee, Marcus Neo | Wilbert Lim, Abbygail Chong | An Ting Lim, Khun Min Aung | Marcus Neo, Wilbert Lim | AUNG MYAT MOE, Rebeca Hana Emmanuella | Joveen Lee, Abbygail Chong |
+| Deepthi Sajeev, Joveen Lee | Deepthi Sajeev, Khun Min Aung | An Ting Lim, Joveen Lee | Maxime Veyrines, Stacey Ng | Joveen Lee, Khun Min Aung | An Ting Lim, Wilbert Lim | Khun Min Aung, Marcus Neo | Joveen Lee, Wilbert Lim | AUNG MYAT MOE, Stacey Ng | Deepthi Sajeev, Joveen Lee | Deepthi Sajeev, Khun Min Aung | An Ting Lim, Joveen Lee |
 
