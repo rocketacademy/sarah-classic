@@ -16,13 +16,13 @@ Before you begin, check that you and your partner can answer the following:
 * [ ] How do you execute a function?
 * [ ] Where can you execute a function?
 * [ ] How many times can you use a function?
-* [ ] What is the purpose of the `return` keyword? What happens if we omit the `return` keyword from a function?
+* [ ] What is the purpose of the `return `keyword? What happens if we omit the `return `keyword from a function?
 
 
 
 ## Learning Outcomes
 
-* Practice writing helper functions _\(and not just solve for the correct calculation\)_
+* Practice writing helper functions _(and not just solve for the correct calculation)_
 * Executing multiple helper functions as part of the overall program.
 * Practice creating contextual, meaningful variables.
 
@@ -54,15 +54,11 @@ Create an app that calculates how many hours a hotel needs to run their ice mach
 
 Create an app for a bar to calculate how many kegs they need. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter. Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
 
-### Helen and Ivan's Coins
-
-Helen and Ivan had the same number of coins. Helen had some number of 50-cent coins, and 64 20-cent coins. Write an app that takes in how many **more** 20-cent coins Ivan has, and outputs who has more money and by how much.
-
 ## More Comfortable
 
 ### Cost of Cellular Data
 
-Create an app for the $19.99 50GB post-paid plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB. Assume that if the user exceeds 50GB, they will automatically purchase an additional 50GB plan. You may find the built-in function `Math.ceil` helpful for this \(can google how to use it\).
+Create an app for the $19.99 50GB post-paid plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB. Assume that if the user exceeds 50GB, they will automatically purchase an additional 50GB plan. You may find the built-in function `Math.ceil` helpful for this (can google how to use it).
 
 For example if the user only used 1GB this month, the app would calculate $19.99 per GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month assume the user bought 2 plans and the app would calculate $0.78 per GB. 
 
@@ -97,4 +93,3 @@ The following is a more detailed breakdown of JS behaviour when concatenating st
 ## Reference Solution
 
 [Here](https://github.com/rocketacademy/basics-starter-code/blob/day2/script.js) is a reference solution for Day 2 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
-
