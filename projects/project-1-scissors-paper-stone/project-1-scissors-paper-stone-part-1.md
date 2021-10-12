@@ -43,7 +43,7 @@ Unsure how to start? Try these steps:
 
 ### Input Validation
 
-Sometimes the user types bad and types something other than "scissors", "paper", or "stone" during gameplay. Add input validation to kindly let the user know that there are only 3 input options, and ask them to try again.
+Sometimes the user types something other than "scissors", "paper", or "stone" during gameplay. Add _input validation_ to check if what the user types is a valid choice, and if not, kindly let the user know that there are only 3 input options, and ask them to try again.
 
 ## More Comfortable
 
