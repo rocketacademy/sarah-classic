@@ -34,11 +34,11 @@ Unsure how to start? Try these steps:
    * How many different cases are there?
 2. Draw a simple flowchart to help you visualise the overall flow of the program.
 3. Start small, test while you build and be ready to debug.
-   1. It's unwise to attempt to build the entire program in one go before testing.
-   2. Know that the final shape and form of your program will look different from when you are building it.
-   3. You can write new lines of code within main first, check that the code works as intended, and then "relocate" / refactor your code as a helper function. 
-   4. Utilise `console.log()` sensibly to check for the right [control flow](../../5-structuring-and-debugging-code/5.2-errors.md#control-flow-checking-is-our-code-running) and [values](../../5-structuring-and-debugging-code/5.2-errors.md#value-checking-are-the-values-correct).
-   5. Try to test as frequently as you can, and whenever you make a significant change. It builds confidence that things are working as they should and you will catch bugs as soon as they pop up.
+   * It's unwise to attempt to build the entire program in one go before testing.
+   * Know that the final shape and form of your program will look different from when you are building it.
+   * You can write new lines of code within main first, check that the code works as intended, and then "relocate" / refactor your code as a helper function. 
+   * Utilise `console.log()` sensibly to check for the right [control flow](../../5-structuring-and-debugging-code/5.2-errors.md#control-flow-checking-is-our-code-running) and [values](../../5-structuring-and-debugging-code/5.2-errors.md#value-checking-are-the-values-correct).
+   * Try to test as frequently as you can, and whenever you make a significant change. It builds confidence that things are working as they should and you will catch bugs as soon as they pop up.
 {% endhint %}
 
 ### Input Validation
