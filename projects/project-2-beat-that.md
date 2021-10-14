@@ -43,7 +43,16 @@ Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating
 
 Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
 
-Try changing line 21: `background-color: pink; `to`  background-color: lightblue;  `or any [colour ](https://www.w3schools.com/colors/colors_names.asp)of your choice!
+At line 21 of index.html, try changing `background-color: pink; `to`  background-color: lightblue;  `or any [colour ](https://www.w3schools.com/colors/colors_names.asp)of your choice!
+
+```
+      #container {
+        background-color: lightblue;
+        margin: 40px auto;
+        max-width: 800px;
+        padding: 38px 31px;
+      }
+```
 
 Add 1 or more [paragraphs](https://www.w3schools.com/html/html_paragraphs.asp) after line 53 with instructions on how to play Beat That! It can look something like this:
 
