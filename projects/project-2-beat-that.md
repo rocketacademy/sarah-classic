@@ -21,7 +21,7 @@ Begin by forking the [Coding Basics Beat That repo](https://github.com/rocketaca
 
 Player 1 rolls 2 dice with dice rolls 3 for Dice 1 and 6 for Dice 2.
 
-```text
+```
 Welcome Player 1.
 You rolled 3 for Dice 1 and 6 for Dice 2.
 Choose the order of the dice.
@@ -29,13 +29,48 @@ Choose the order of the dice.
 
 Player 1 can pick either Dice 1 or Dice 2 as the first numeral of the combined number.
 
-```text
+```
 Player 1, you chose Dice 2 first.
 Your number is 63.
 It is now Player 2's turn.
 ```
 
 Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating the combined number 63. Player 2 then rolls 2 dice and tries to generate a number greater than 63.
+
+## Comfortable
+
+### Add some polish!
+
+Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
+
+Try changing line 21: `background-color: pink; `to`  background-color: lightblue;  `or any [colour ](https://www.w3schools.com/colors/colors_names.asp)of your choice!
+
+Add 1 or more [paragraphs](https://www.w3schools.com/html/html_paragraphs.asp) after line 53 with instructions on how to play Beat That! It can look something like this:
+
+```
+...
+
+<body>
+    <h1 id="header">Basics: Beat That! 🚀</h1>
+    <div id="container">
+      <p>Hello! Welcome to Beat That! Click submit to start the game.</p>
+      <p>Create a two-digit number by selecting the order of your dice rolls.</p>
+      <p>The player with the highest number wins! Good luck!</p>
+      <p>Input:</p>
+      <input id="input-field" />
+      <br />
+      <button id="submit-button">Submit</button>
+      <p>Output:</p>
+      <div id="output-div"></div>
+    </div>
+    
+  ...
+```
+
+Having fun making your game look good? Feel free to explore more HTML and CSS on your own! Here are some resources:
+
+* FreeCodeCamp's [basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) and basic [CSS tutorials](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
+* W3School's CSS [Tutorial](https://www.w3schools.com/css/default.asp) and [Reference](https://www.w3schools.com/cssref/default.asp).
 
 ## More Comfortable
 
@@ -53,7 +88,7 @@ Add a game mode such that the player with the lowest combined number is the winn
 
 ### Auto-Generate Combined Number
 
-Update the game to auto-generate the highest \(or lowest\) combined number from dice rolls. For example, for dice rolls `[6, 3]` in Lowest Combined Number mode, the game would auto-generate the combined number `36`.
+Update the game to auto-generate the highest (or lowest) combined number from dice rolls. For example, for dice rolls `[6, 3]` in Lowest Combined Number mode, the game would auto-generate the combined number `36`.
 
 ### Variable Number of Dice
 
@@ -74,7 +109,7 @@ Create a mode where if there are more than 2 players, the game can match players
 
 1. [Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
 2. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
-3. Please leave your name and _**section number**_ in the _**title**_ of the pull request.
+3. Please leave your name and _**section number **_in the _**title**_ of the pull request.
 4. Please fill in the questionnaire in the pull request comments when you submit.
 
 ## Reference Solution
@@ -82,8 +117,7 @@ Create a mode where if there are more than 2 players, the game can match players
 Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
 1. [Base](https://github.com/rocketacademy/basics-beat-that/pull/10/files)
-2. [Auto-Generate Combined Number](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-autoGenerateCombinedNum/script.js) \(includes Score, Leaderboard, and Lowest Combined Number Mode\)
+2. [Auto-Generate Combined Number](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-autoGenerateCombinedNum/script.js) (includes Score, Leaderboard, and Lowest Combined Number Mode)
 3. [Variable Number of Dice](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-variableNumDice/script.js)
 4. [Variable Number of Players](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-variableNumPlayers/script.js)
 5. [Knockout mode](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-knockout/script.js)
-
