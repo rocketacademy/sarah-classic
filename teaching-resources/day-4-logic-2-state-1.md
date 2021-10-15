@@ -2,7 +2,7 @@
 
 ## Overview
 
-Total Video Watch Time: **~41 mins**
+Total Video Watch Time: **\~41 mins**
 
 This day introduces the boundaries of the lifecycle of the starter code. Specifically at the beginning when the JavaScript file loads until the refresh button gets clicked.
 
@@ -16,7 +16,7 @@ This day also introduces the GitHub project submission workflow.
 
 ### Overview
 
-This section introduces the workflow for submitting the projects. This is also the first time we mention a flow of the repo from the local computer to GitHub. \(Before it was always from GitHub to the local computer.\) This section mixes together functionality from the GitHub webapp \(fork, pull request\) and the Git command line version control system \(push\).
+This section introduces the workflow for submitting the projects. This is also the first time we mention a flow of the repo from the local computer to GitHub. (Before it was always from GitHub to the local computer.) This section mixes together functionality from the GitHub webapp (fork, pull request) and the Git command line version control system (push).
 
 ### Fork
 
@@ -48,7 +48,7 @@ A: `push` puts the new changes to the repo onto the GitHub copy of the repo.
 
 #### Q: I committed changes to my code twice. How many times do I run the push command?
 
-A: A Git push is to bring all commits over to the remote repo. The command will all the commits over.
+A: A Git push is to bring all commits over to the remote repo. The command will transfer all the commits over.
 
 #### Q: Can I `push` the changes I made to GitHub if I didn't fork the repo?
 
@@ -66,11 +66,11 @@ A: `git pull` is a Git command line command. We won't be using `git pull` during
 
 #### Q: What are the sequence of steps needed to submit a pull request for Basics?
 
-A: 1\) Fork the project repo. 2\) Clone the project repo. 3\) Make local changes to the project repo. 4\) Push changes. 5\) Go to github.com and create the pull request.
+A: 1) Fork the project repo. 2) Clone the project repo. 3) Make local changes to the project repo. 4) Push changes. 5) Go to github.com and create the pull request.
 
 #### Q: I made new changes and pushed them to my repo. Do I need to create another pull request?
 
-A: No. All the changes you pushed to your repo will appear in the pull request.
+A: No. All the changes you pushed to your repo will appear in your original pull request.
 
 ## [7.2: GitHub Navigation](../7-github/7.2-github-repo-browsing.md)
 
@@ -119,7 +119,7 @@ A: It wouldn't affect anything. This is because, even though the definition of `
 
 #### Q: Will moving line 4 above line 3 make a difference in how the program behaves?
 
-A: This does change the behaviour. The original version of this code adds a papaya every time the button gets clicked. Then it displays the value. \(You see 1 after the first click\). The suggested change displays the current number of papayas when the button gets clicked, then adds one papaya. \(You see 0 after the first click\) The order in the code depends on which behaviour you want.
+A: This does change the behaviour. The original version of this code adds a papaya every time the button gets clicked. Then it displays the value. (You see 1 after the first click). The suggested change displays the current number of papayas when the button gets clicked, then adds one papaya. (You see 0 after the first click) The order in the code depends on which behaviour you want.
 
 ## In-Class Material
 
@@ -135,5 +135,4 @@ This part of SPS uses global state to build in more features of the game. To do 
 
 In the next meeting we'll be doing peer review of the SPS code.
 
-[Project 1: Scissors Paper Stone \(Part 2\)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
-
+[Project 1: Scissors Paper Stone (Part 2)](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
