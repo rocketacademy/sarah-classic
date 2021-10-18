@@ -1,4 +1,4 @@
-# ❤️ Social Rules
+# ❤ Social Rules
 
 Programming, more so than other technical domains is a culture. Each language, framework and coding style has it's own traditions and style of conducting itself. The culture of Lisp programmers is quite different from the culture of Java programmers. Rails programmers have a different culture than Wordpress programmers. In this sense, this page describes some of the human elements of this course and of Rocket Academy that we want to emphasize.
 
@@ -55,9 +55,9 @@ No feigning surprise isn’t a great name. When someone acts surprised when you 
 >
 > **Alice:** Strncpy.
 >
-> **Eve:** \(from across the room\) You should use strlcpy. It’s safer.
+> **Eve:** (from across the room) You should use strlcpy. It’s safer.
 
-Backseat driving is when you lob advice from across the room \(or across the online chat\) without really joining or engaging in a conversation. Because you haven’t been participating in the conversation, it’s easy to miss something important and give advice that’s not actually helpful. Even if your advice is correct, it’s rude to bust into a conversation without asking. If you overhear a conversation where you could be helpful, the best thing to do is to ask to join.
+Backseat driving is when you lob advice from across the room (or across the online chat) without really joining or engaging in a conversation. Because you haven’t been participating in the conversation, it’s easy to miss something important and give advice that’s not actually helpful. Even if your advice is correct, it’s rude to bust into a conversation without asking. If you overhear a conversation where you could be helpful, the best thing to do is to ask to join.
 
 ## No subtle -isms
 
@@ -91,4 +91,3 @@ RA's Code of Conduct states:
 
 1. Be respectful of others.
 2. Only submit your own work.
-

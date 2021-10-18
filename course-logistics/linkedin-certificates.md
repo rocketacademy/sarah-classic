@@ -1,5 +1,5 @@
 ---
-description: "\U0001F469‍\U0001F393\U0001F468‍\U0001F393"
+description: 👩‍🎓👨‍🎓
 ---
 
 # 🎓 LinkedIn Certificates
@@ -14,7 +14,7 @@ At the end of Coding Basics, you will be eligible to add the course as a certifi
 
 ![](../.gitbook/assets/jie-ping-20210222-18.14.10.png)
 
-## 3. Fill in the course name, organisation, ****issue date, and URL
+## 3. Fill in the course name, organisation,** **issue date, and URL
 
 1. Name
    1. Coding Basics
@@ -26,11 +26,10 @@ At the end of Coding Basics, you will be eligible to add the course as a certifi
 5. Credential URL
    1. Your section leader will generate a unique URL for your certificate. Please let us know if you don't have one!
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](<../.gitbook/assets/image (2).png>)
 
 ## 4. Admire your hard-earned certification 🚀
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](<../.gitbook/assets/image (3).png>)
 
-![](../.gitbook/assets/image%20%281%29.png)
-
+![](<../.gitbook/assets/image (1).png>)

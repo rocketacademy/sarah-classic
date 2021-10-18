@@ -5,23 +5,23 @@
 ## Course Logistics
 
 * [📅 Batch 10 Schedule](course-logistics/batch-10-schedule.md)
-* [📅 Batch 11 \(Mon - Thu\) Schedule](course-logistics/batch-11-mon-thu-schedule.md)
-* [📅 Batch 11 \(Tue - Sat\) Schedule](course-logistics/batch-11-tue-sat-schedule.md)
-* [📅 Batch 11 \(Thu - Sun\) Schedule](course-logistics/batch-11-thu-sun-schedule.md)
+* [📅 Batch 11 (Mon - Thu) Schedule](course-logistics/batch-11-mon-thu-schedule.md)
+* [📅 Batch 11 (Tue - Sat) Schedule](course-logistics/batch-11-tue-sat-schedule.md)
+* [📅 Batch 11 (Thu - Sun) Schedule](course-logistics/batch-11-thu-sun-schedule.md)
 * [👫 Pairing Assignments](course-logistics/section-and-pairing-assignments.md)
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
-* [✍🏽 Course Methodology](course-logistics/course-methodology.md)
-* [❤️ Social Rules](course-logistics/love-social-rules.md)
-* [👩‍💻 Coding Strategies](course-logistics/coding-strategies.md)
+* [🧑🏫 Course Methodology](course-logistics/course-methodology.md)
+* [❤ Social Rules](course-logistics/social-rules.md)
+* [📒 Coding Strategies](course-logistics/coding-strategies.md)
 * [💡 Tooling Pro Tips](course-logistics/tooling-pro-tips.md)
 * [🎓 LinkedIn Certificates](course-logistics/linkedin-certificates.md)
-* [🧑‍🏫 Bootcamp Video Application](course-logistics/bootcamp-video-application.md)
+* [📹 Bootcamp Video Application](course-logistics/bootcamp-video-application.md)
 
 ## Projects
 
 * [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone/README.md)
-  * [Project 1: Scissors Paper Stone \(Part 1\)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
-  * [Project 1: Scissors Paper Stone \(Part 2\)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
+  * [Project 1: Scissors Paper Stone (Part 1)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
+  * [Project 1: Scissors Paper Stone (Part 2)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 * [Project 2: Beat That!](projects/project-2-beat-that.md)
 * [Project 3: Blackjack](projects/project-3-blackjack.md)
 
@@ -129,4 +129,3 @@
 * [Day 10: Coding Strategies](teaching-resources/day-10.md)
 * [Day 11: Debugger](teaching-resources/day-11.md)
 * [Day 12: DOM, Project Presentations](teaching-resources/day-12.md)
-

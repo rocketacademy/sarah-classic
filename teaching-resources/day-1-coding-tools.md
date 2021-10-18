@@ -12,7 +12,7 @@ This day has a heavier section of content than the other days so be prepared for
 
 **Running on time is important.** Respect people's time- begin the session on time and don't end after 9.
 
-**Sorting out setup problems from students \(with VSCode or the terminal or folders\) will be an issue on the first meeting.** Unless you know for sure that it is a quick fix, don't spend any time in front of everyone to fix one person's problem. Either wait until the pairing or, even better, wait to meet with them after the session.
+**Sorting out setup problems from students (with VSCode or the terminal or folders) will be an issue on the first meeting.** Unless you know for sure that it is a quick fix, don't spend any time in front of everyone to fix one person's problem. Either wait until the pairing or, even better, wait to meet with them after the session.
 
 {% hint style="warning" %}
 Before the meeting, ask the students to put their [4.2 Our First Program](../4-getting-started-with-code/4.2-our-first-program.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
@@ -20,7 +20,7 @@ Before the meeting, ask the students to put their [4.2 Our First Program](../4-g
 
 ## Pre-Class Material
 
-Total Video Watch Time: **~48 mins**
+Total Video Watch Time: **\~48 mins**
 
 ### [1.1: What is Coding?](../1-introduction/1.1-what-is-coding.md)
 
@@ -46,7 +46,7 @@ Input: a change of temperature inside. Output: run AC at higher or lower level.
 
 Car engine
 
-Input: Readings from engine sensors. Output: instructions to the engine parts \(i.e., fuel injectors, etc.\)
+Input: Readings from engine sensors. Output: instructions to the engine parts (i.e., fuel injectors, etc.)
 
 ### [1.2: Web Browsers](../1-introduction/1.2-web-browsers.md)
 
@@ -136,7 +136,7 @@ A: Git is a version control program. GitHub is a web application for keeping Git
 
 #### Q: What does a GitHub fork do?
 
-A: It copies a cloud \(remote\) repo from one GitHub account into your own account.
+A: It copies a cloud (remote) repo from one GitHub account into your own account.
 
 ### [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md)
 
@@ -190,7 +190,7 @@ var main = function (input) {
 
 _**This is the first pairing exercise the students will do.**_ Set the tone for the exercise because this is the first time students have heard of pairing. It's important to emphasize the ideal pairing culture we want to build in Basics.
 
-This will be reviewed again next week when the [Social Rules](../course-logistics/love-social-rules.md) are covered.
+This will be reviewed again next week when the [Social Rules](../course-logistics/social-rules.md) are covered.
 
 #### You might touch on the following points:
 
@@ -215,4 +215,3 @@ Keep note of any students who already seem lost or confused.
 ## **Look Ahead / Wrap-up**
 
 Our code doesn't do too much yet, we've named some values and done some calculations. This is just the beginning. Next we'll see functions- which is a kind of control flow- a way to specify which groups of lines of code runs. We'll use this to build up our programs in pieces. After that we'll begin to talk about program logic with conditionals.
-

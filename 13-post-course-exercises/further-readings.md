@@ -20,7 +20,7 @@ Khan Academy also has some fun lessons that are more focused around programming 
 
 For a broader Computer Science overview of the field, **Harvard's CS50** is a good choice. This course is quite a bit more difficult than Basics and uses the C programming language, among others.
 
-You can take the course through a MOOC \(Massive Open Online Course\) at EdX: [https://www.edx.org/course/introduction-computer-science-harvardx-cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) or, use the course materials separately: [https://cs50.harvard.edu/](https://cs50.harvard.edu/)
+You can take the course through a MOOC (Massive Open Online Course) at EdX: [https://www.edx.org/course/introduction-computer-science-harvardx-cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) or, use the course materials separately: [https://cs50.harvard.edu/](https://cs50.harvard.edu)
 
 ## Building Real World Projects
 
@@ -28,8 +28,8 @@ If you're interested in how real-world software systems are built you can begin 
 
 ### Front-end
 
-This Code Academy course is the closest to the material we've already covered that will show you how modern Front-end apps are built: [https://www.codecademy.com/learn/paths/front-end-engineer-career-path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)  
-  
+This Code Academy course is the closest to the material we've already covered that will show you how modern Front-end apps are built: [https://www.codecademy.com/learn/paths/front-end-engineer-career-path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)\
+\
 Note: Front-end here, refers to the browser, where we ran all of the code in Basics.
 
 ### Back-end
@@ -37,4 +37,3 @@ Note: Front-end here, refers to the browser, where we ran all of the code in Bas
 This Code Academy course covers the basics of Back-end JavaScript servers that you would need to know to deal with the internet, requests and handling data, like with the SQL language.
 
 [https://www.codecademy.com/learn/paths/back-end-engineer-career-path](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
-

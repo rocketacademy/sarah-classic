@@ -24,11 +24,11 @@ Sometimes we want to change the name of a variable in our code, a common practic
 
 #### Across Multiple Files
 
-VSCode has a [search and replace feature](https://code.visualstudio.com/docs/editor/codebasics#_search-across-files) that allows us to edit all instances of a given string in multiple files at once.
+VSCode has a [search and replace feature](https://code.visualstudio.com/docs/editor/codebasics#\_search-across-files) that allows us to edit all instances of a given string in multiple files at once.
 
 ### Hide Minimap
 
-The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in Coding Basics and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View &gt; Show Minimap in the menu bar.
+The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#\_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in Coding Basics and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View > Show Minimap in the menu bar.
 
 ## Troubleshooting the Terminal Editor
 
@@ -40,15 +40,14 @@ The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface
 4. the above characters should appear at the bottom of your terminal as you are typing
 5. Then hit enter
 
-2. How to change the default editor to VSCode instead
+2\. How to change the default editor to VSCode instead
 
-1. run the following command on your terminal \(you can run this command regardless of what folder you may be in\): `git config --global core.editor "code --wait"`
+1. run the following command on your terminal (you can run this command regardless of what folder you may be in): `git config --global core.editor "code --wait"`
 2. This basically configures git to make VSCode your default editor should you ever forgot to use the ‘-m’ flag when committing.
 3. If you ever do forget to use the ‘-m’ flag, a normal text file will open automatically on VSCode and you can simply type your message in that file and then close it.
 
-> Don’t worry if this doesn’t make sense now\(: But feel free to use this as a reference if you ever face that issue!
+> Don’t worry if this doesn’t make sense now(: But feel free to use this as a reference if you ever face that issue!
 
 ## Watching YouTube Videos at Different Speeds
 
-If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop&hl=en).
-
+If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop\&hl=en).

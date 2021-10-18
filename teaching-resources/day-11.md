@@ -10,7 +10,7 @@ Today is the last course day before the final project presentation. Unlike other
 
 ## Pre-Class Material
 
-Total Video Watch Time: **~18 mins**
+Total Video Watch Time: **\~18 mins**
 
 ### [11.1: Advanced Debugging with Sources Tab](../11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
 
@@ -48,9 +48,9 @@ var main = function (input) {
 
 A: Two loops create a square emoji figure. The condition evaluates if the loops are at an edge. An edge is defined as: Beginning of either loop. End of either loop. 
 
-#### Q: \(_Enter the number 3_\) What is the value of `outerCounter` and `innerCounter` when the program draws the top middle fist? Use the debugger to find that value.
+#### Q: (_Enter the number 3_) What is the value of `outerCounter` and `innerCounter` when the program draws the top middle fist? Use the debugger to find that value.
 
-#### Q: \(_Enter the number 5_\) What is the result of each conditional statement the first time the loop runs? \(_Use the debugger to find the value._\)
+#### Q: (_Enter the number 5_) What is the result of each conditional statement the first time the loop runs? (_Use the debugger to find the value._)
 
 A: 
 
@@ -65,8 +65,8 @@ innerCounter == sideLength - 1 // false
 
 The starter code is setup in such a way that it can easily be put on the real internet. Encourage the students to share their game with their friends.
 
-Use your own project as an example of where to find the GitHub repository settings.  
-  
+Use your own project as an example of where to find the GitHub repository settings.\
+\
 Another example of a deployed project is on the base blackjack repository: [https://rocketacademy.github.io/basics-blackjack/](https://rocketacademy.github.io/basics-blackjack/)
 
 ## In-Class Material
@@ -77,11 +77,10 @@ This exercise should prioritize getting those students who are stuck without a b
 
 ## Post-Class: Begin Project
 
-### [Project 3: Blackjack \(More Comfortable\)](../projects/project-3-blackjack.md#more-comfortable)
+### [Project 3: Blackjack (More Comfortable)](../projects/project-3-blackjack.md#more-comfortable)
 
 There is a bit more time to continue working on the project. It's not required to switch to working on the more comfortable tasks if the base version is not yet done.
 
 ## Look Ahead / Wrap-up
 
 The next set of pre-class is a primer to coding outside the starter code. This material won't be reviewed in the next class meeting, but is intended to connect back together JavaScript code that would be written outside the context of the startercode. It also details how the starter code works.
-

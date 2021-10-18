@@ -2,8 +2,8 @@
 
 ## **Overview**
 
-This is the last class meeting!  
-  
+This is the last class meeting!\
+\
 Mention to the students that this day isn't meant as a full review of the pre-class material. The pre-class material is meant as a look ahead into what is possible with JavaScript given the tools that have already been covered.
 
 ### Class Schedule
@@ -16,13 +16,13 @@ Mention to the students that this day isn't meant as a full review of the pre-cl
 
 ## **Project Due**
 
-#### [Project 3: Blackjack \(More Comfortable\)](../projects/project-3-blackjack.md#more-comfortable)
+#### [Project 3: Blackjack (More Comfortable)](../projects/project-3-blackjack.md#more-comfortable)
 
 Deploy Blackjack to the internet with instructions from [Module 12.3: Deployment](../12-next-steps/12.3-deployment.md)
 
 ## Pre-Class Material
 
-Total Video Watch Time: **~22 mins**
+Total Video Watch Time: **\~22 mins**
 
 ### [12.1: Browser Applications with DOM](../12-next-steps/12.1-browser-applications-with-dom.md)
 
@@ -34,9 +34,9 @@ A: The DOM is two variables called `window` and `document`.  They are created by
 
 A: Almost every website now uses the DOM to display things on the screen.
 
-Example: Google Sheets: [https://docs.google.com/spreadsheets/d/1LjRxTu0E9lwAPRYc\_WFYsFEAA4WAEjAP65igIHm\_PwY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LjRxTu0E9lwAPRYc_WFYsFEAA4WAEjAP65igIHm_PwY/edit?usp=sharing)  
-  
-Google sheets uses the DOM in combination with all of the data in Google's Sheets database to create and update the screen that users see. The data that is displayed on the page is represented as arrays and strings and objects inside the google system \(among other representations\) and is displayed on the screen of the browser using the DOM.
+Example: Google Sheets: [https://docs.google.com/spreadsheets/d/1LjRxTu0E9lwAPRYc_WFYsFEAA4WAEjAP65igIHm_PwY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LjRxTu0E9lwAPRYc_WFYsFEAA4WAEjAP65igIHm_PwY/edit?usp=sharing)\
+\
+Google sheets uses the DOM in combination with all of the data in Google's Sheets database to create and update the screen that users see. The data that is displayed on the page is represented as arrays and strings and objects inside the google system (among other representations) and is displayed on the screen of the browser using the DOM.
 
 #### index.html
 
@@ -184,8 +184,8 @@ Ask the students to reflect on their level of knowledge six weeks ago.
 
 #### Review links
 
-1. SwitchUp: [https://www.switchup.org/bootcamps/rocket-academy](https://www.google.com/url?q=https://www.switchup.org/bootcamps/rocket-academy&sa=D&source=editors&ust=1625291865969000&usg=AFQjCNH39J3LKDV1-38Sls050tRr9zEBXg)
-2. Google Business: [https://g.page/rocket-academy-co/review?rc](https://www.google.com/url?q=https://g.page/rocket-academy-co/review?rc&sa=D&source=editors&ust=1625291865970000&usg=AFQjCNGvwlXotNRLE7I9jMmGmHgWjp76dA)
+1. SwitchUp: [https://www.switchup.org/bootcamps/rocket-academy](https://www.google.com/url?q=https://www.switchup.org/bootcamps/rocket-academy\&sa=D\&source=editors\&ust=1625291865969000\&usg=AFQjCNH39J3LKDV1-38Sls050tRr9zEBXg)
+2. Google Business: [https://g.page/rocket-academy-co/review?rc](https://www.google.com/url?q=https://g.page/rocket-academy-co/review?rc\&sa=D\&source=editors\&ust=1625291865970000\&usg=AFQjCNGvwlXotNRLE7I9jMmGmHgWjp76dA)
 
 ### **LinkedIn Certificate Presentations**
 
@@ -196,4 +196,3 @@ Share with students how they can add Rocket Academy's Coding Basics Certificate 
 Please take a screenshot in Zoom gallery view that we can use as the profile photo for the section alumni group chat in Telegram! 
 
 After the photo, class is officially over, but please encourage students to use the remaining class time to help RA by sharing feedback and public reviews of our course.
-

@@ -10,9 +10,9 @@ Before the meeting, ask the students to put their [5.1 Functions](../5-structuri
 
 ## Pre-Class Material
 
-Total Video Watch Time: **~25 mins**
+Total Video Watch Time: **\~25 mins**
 
-## Review[ Social Rules](../course-logistics/love-social-rules.md)
+## Review[ Social Rules](../course-logistics/social-rules.md)
 
 In the previous session the students were introduced to the idea of pairing and got to experience it for themselves. Now that they have some context for the experience we want to talk about the optimal pairing experience, and to emphasize how their behaviour is key to the experience for themselves and others.
 
@@ -31,7 +31,7 @@ The rules are just a reminder because they are behaviors that commonly arise whe
 
 #### Q: Have you ever felt dumb or uncomfortable or unknowledgeable when speaking with someone who is an "expert" in a topic? Give an example you feel comfortable sharing.
 
-A: In a lot of situations in everyday life people can  inadvertently \(or sometimes even purposefully\) make you feel bad for not understanding something. We hope the social rules can help everyone avoid these kinds of situations by being more kind and thoughtful.
+A: In a lot of situations in everyday life people can  inadvertently (or sometimes even purposefully) make you feel bad for not understanding something. We hope the social rules can help everyone avoid these kinds of situations by being more kind and thoughtful.
 
 ## [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md)
 
@@ -41,8 +41,8 @@ The Basics curriculum is trying to emphasize functions as the most important uni
 
 There are a few key ideas that students should take away:
 
-* functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value \(the return value\). Clear naming is key to writing a good function.
-* writing code that decomposes into input \(parameters\) and output \(return value\) is much easier to reason about than code that deals with multiple global values. Therefore, we should try to emphasize writing functions that take input and return values.
+* functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value (the return value). Clear naming is key to writing a good function.
+* writing code that decomposes into input (parameters) and output (return value) is much easier to reason about than code that deals with multiple global values. Therefore, we should try to emphasize writing functions that take input and return values.
 
 #### Discussion Questions
 
@@ -59,7 +59,7 @@ var result = add(1,2);
 
 A: The sum of `a` and `b`.
 
-#### Q: What happens when we omit the `return` keyword? \(leaving in the addition operation\)
+#### Q: What happens when we omit the `return` keyword? (leaving in the addition operation)
 
 A: variable `result` will hold the value `undefined`.
 
@@ -69,7 +69,7 @@ A: Yes, a function parameter _**name**_ is defined, like a variable, inside the 
 
 #### Q: What happens when we give a variable to the function? What happens to the variable? `var num = 99; var result2 = add(num,6);`
 
-A: Nothing happens to the variable. We can call a function and pass in any kind of value. In the first example we were passing in **literal** values, we can also pass in variable values. A third option would be to pass in function return values. \(_shown in another example below_\)
+A: Nothing happens to the variable. We can call a function and pass in any kind of value. In the first example we were passing in **literal** values, we can also pass in variable values. A third option would be to pass in function return values. (_shown in another example below_)
 
 #### Q: What happens if we call the function a second time below line 4? `var result3 = add(5,6);`
 
@@ -152,7 +152,7 @@ A: Refactoring or recognizing a pattern that repeats itself within the code is s
 
 ### Overview
 
-A common misconception with coding is that all the time spent learning to code or doing coding is spent actually typing out the code. It is important to emphasize to students that the learning process is 80% about identifying and fixing errors. \(And also that the professional coding process is also 80% fixing errors\).
+A common misconception with coding is that all the time spent learning to code or doing coding is spent actually typing out the code. It is important to emphasize to students that the learning process is 80% about identifying and fixing errors. (And also that the professional coding process is also 80% fixing errors).
 
 In this sense the idea of errors and the strategies for approaching them are as important or more important than any other subject covered in Basics.
 
@@ -164,7 +164,7 @@ Reinforce and continue to reinforce the idea that the students should always **i
 
 #### Q: What is the difference between a compile-time error and a run-time error?
 
-A: _Be ready to code out both errors. Have the example code ready._ One happens when the page loads, the other happens when the code is run- that is, a function's code isn't necessarily run right away, for example the code inside the main function.
+A: _Be ready to code out both errors. Have the example code ready. _One happens when the page loads, the other happens when the code is run- that is, a function's code isn't necessarily run right away, for example the code inside the main function.
 
 #### Q: What is the difference between a syntax error and a logical error?
 
@@ -198,7 +198,6 @@ Check for understanding by looking for well formed functions that use multiple a
 
 ## **Look Ahead / Wrap-up**
 
-After functions are covered students can make basic calculations and format strings. We've introduced another wrinkle into naming things, which is to name functions as action \(verb\) that also expresses some data value. Clear representation is more important than ever.
+After functions are covered students can make basic calculations and format strings. We've introduced another wrinkle into naming things, which is to name functions as action (verb) that also expresses some data value. Clear representation is more important than ever.
 
 It's still early days and the programs are still very simple. Next we add in another kind of control flow, conditions. This is the point at which the code can actually make decisions. When we add in this branching logic things become a lot more complex. In fact logic as a topic on it's own is huge, but we'll be able to apply some simple concepts that are very intuitive for our purposes.
-

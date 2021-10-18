@@ -39,7 +39,7 @@ Note that for the `main` function to perform different logic on user input, for 
 
 ### How to Prioritise Work
 
-Given the above \*final\* action sequence to play a full game, how do we break these down into sub-features that we can work on \(and verify they are working\) one at a time? We want to work on features in small parts, but not have to redo any work as we expand the capability of the game, so we want to plan ahead to make sure we can start small and scaffold in the later features at the same time.
+Given the above \*final\* action sequence to play a full game, how do we break these down into sub-features that we can work on (and verify they are working) one at a time? We want to work on features in small parts, but not have to redo any work as we expand the capability of the game, so we want to plan ahead to make sure we can start small and scaffold in the later features at the same time.
 
 If you already have an effective strategy for creating your game, you can skip ahead. If you're not sure how to approach the game, try applying the following strategies to get started. The following are strategies for breaking down larger projects into smaller tasks to keep up progress, momentum, and motivation on the project. Please read to the end before starting.
 
@@ -70,10 +70,10 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ### Interface
 
-Improve the look and feel of the game.  
-  
-See a deployed example here: [https://awongh.github.io/basics-blackjack/index.html](https://awongh.github.io/basics-blackjack/index.html)  
-  
+Improve the look and feel of the game.\
+\
+See a deployed example here: [https://awongh.github.io/basics-blackjack/index.html](https://awongh.github.io/basics-blackjack/index.html)\
+\
 [https://github.com/awongh/basics-blackjack](https://github.com/awongh/basics-blackjack) 
 
 #### User Instructions
@@ -82,8 +82,8 @@ Make the game intuitive and fun to use by adding explicit instructions for each 
 
 #### Starting Instructions
 
-Add instructions on how to start the game by editing the `index.html`.  
-  
+Add instructions on how to start the game by editing the `index.html`.\
+\
 Simply add your instructions into [line 134](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L134). These instructions will appear when the game loads and will be erased as soon as the user clicks the submit button.
 
 ```javascript
@@ -111,7 +111,7 @@ var myImage = '<img src="COPIED_URL_OF_IMAGE"/>';
 
 #### Using images
 
-1. Go to a site like [tenor.com](https://tenor.com/) for gifs \(although _any_ website with images will work\)
+1. Go to a site like [tenor.com](https://tenor.com) for gifs (although _any_ website with images will work)
 2. Right-click on an image and copy the url by selecting "Copy Image Address".
 3. Paste this value into your code as shown above.
 
@@ -138,13 +138,13 @@ var myImage = '<img src="/COPIED_RELATIVE_IMAGE_PATH"/>';
 
 #### Colors
 
-Set your own custom colors in the CSS. Find the color values in `index.html` \(for example lines 57 or 77\) and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
+Set your own custom colors in the CSS. Find the color values in `index.html` (for example lines 57 or 77) and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 
 Find matching color sets using this design tool: [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
 
 #### Fonts
 
-Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp](https://www.w3schools.com/css/css_font_google.asp)
+Set your own custom fonts: [https://www.w3schools.com/css/css_font_google.asp](https://www.w3schools.com/css/css_font_google.asp)
 
 ### Betting
 
@@ -156,13 +156,13 @@ Enable multiple players to play against the dealer, where players can take turns
 
 ### Splits
 
-Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_%28blackjack%29#Splitting). Dealer is not allowed to split.
+Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_\(blackjack\)#Splitting). Dealer is not allowed to split.
 
 ## Submit
 
 1. [Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
 2. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
-3. Please leave your name and _**section number**_ in the _**title**_ of the pull request.
+3. Please leave your name and _**section number **_in the _**title**_ of the pull request.
 4. Please fill in the questionnaire in the pull request comments when you submit.
 
 ## Reference Solution
@@ -175,4 +175,3 @@ Add hand-splitting functionality to the game. If the player has two of the same 
 {% hint style="danger" %}
 **Rocket Academy does not endorse gambling.** We chose Blackjack as a project because of its complex rules that help facilitate coding instruction.
 {% endhint %}
-

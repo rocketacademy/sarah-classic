@@ -1,4 +1,4 @@
-# ✍🏽 Course Methodology
+# 🧑🏫 Course Methodology
 
 ## Class Organisation
 
@@ -28,7 +28,7 @@ Live classes will generally follow this outline:
 
 ### Pair Programming
 
-Pair programming is a common software engineering activity that involves 2 engineers working on the same computer, on the same problem together. Typically, 1 engineer acts as the "driver", controlling the keyboard and writing the code. The other engineer acts as the "navigator", helping to guide the overall strategy and look up documentation \(on a separate computer\).
+Pair programming is a common software engineering activity that involves 2 engineers working on the same computer, on the same problem together. Typically, 1 engineer acts as the "driver", controlling the keyboard and writing the code. The other engineer acts as the "navigator", helping to guide the overall strategy and look up documentation (on a separate computer).
 
 Pair programming is commonly used for the following purposes:
 
@@ -49,7 +49,7 @@ In order to keep each presentation relatively brief, the presentation should be 
 
 ## Slack
 
-Slack is the app we use to communicate within a section. It provides real-time but asynchronous messaging that should feel casual and fun. **The aim is for a good portion of the course** _**not composed of this website, videos or live meetings**_ **happens in your section Slack channel.**
+Slack is the app we use to communicate within a section. It provides real-time but asynchronous messaging that should feel casual and fun. **The aim is for a good portion of the course **_**not composed of this website, videos or live meetings**_** happens in your section Slack channel.**
 
 ### Slack House Rules
 
@@ -57,7 +57,7 @@ The following are a set of guidelines to follow when using Slack at RA. By setti
 
 ### Ask Questions in the Channel
 
-During RA's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel \(including about installing required software\). _Therefore, please refrain from DMing \(direct messaging\) instructors with questions about course material._
+During RA's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel (including about installing required software). _Therefore, please refrain from DMing (direct messaging) instructors with questions about course material._
 
 ### Provide Context for Questions
 
@@ -65,7 +65,7 @@ To get help effectively, we need to provide context. One of the biggest differen
 
 Questions **without context** usually sound like: "_It doesn't work. Could you help?_" A question with **relevant** context might be more like: "_Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system._" 
 
-Contextual questions help the answerer by filling in the details needed to fully understand the question. In the field of programming \(not just for students\) it is well known that simply formulating the question often leads directly to the answer. [This is called rubber-duck programming.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+Contextual questions help the answerer by filling in the details needed to fully understand the question. In the field of programming (not just for students) it is well known that simply formulating the question often leads directly to the answer. [This is called rubber-duck programming.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 #### How to ask contextual questions
 
@@ -73,7 +73,7 @@ Try to answer the following when asking questions. What is the problem? Include 
 
 ### Format Code in Slack
 
-When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates code blocks with monospaced text for easier reading. For single-line code like variables or files/folders in regular text, we can use a single backtick \(\`\) at the start and end of the code to format it.
+When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates code blocks with monospaced text for easier reading. For single-line code like variables or files/folders in regular text, we can use a single backtick (\`) at the start and end of the code to format it.
 
 ### Slack Code Snippets
 
@@ -111,7 +111,7 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 ### Individual Review
 
-#### 1\) Clone Partner's Code
+#### 1) Clone Partner's Code
 
 You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's. If you have forked the repo but haven't pushed your latest code to GitHub, take a moment now to `git push`. Let your partner know you're updating the repo. Run a `git clone <REPO_URL> <NEW_FOLDER_NAME>` to get a copy of your partner's code.
 
@@ -119,11 +119,11 @@ You'll be paired up so that you can exchange the links for your repos via Slack.
 Note: You need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone.
 {% endhint %}
 
-#### 2\) Run Partner's Code
+#### 2) Run Partner's Code
 
 Open the code in the browser and test it. What does it do? If you're not sure what it does look inside `script.js` to see.
 
-#### 3\) Read Partner's Code
+#### 3) Read Partner's Code
 
 Read the code and answer the following questions.
 
@@ -132,23 +132,22 @@ Read the code and answer the following questions.
 3. Does it implement something that you were trying to do?
 4. Does it implement a feature that you haven't started yet? How does the code work?
 
-#### 4\) Play with Partner's Code
+#### 4) Play with Partner's Code
 
 It may be helpful to make changes to the code to help you understand it better. Write some `console.log` that would help you figure out what the code does. Break the code in a certain way to prove how it works or doesn't work.
 
-#### 5\) Discuss
+#### 5) Discuss
 
-Once both partners are done with \#1-4, discuss what you saw.
+Once both partners are done with #1-4, discuss what you saw.
 
 ### Peer Review
 
-You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.** 
+You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code. **
 
-Once done with one person's code, send the code to your pair \(it's their project\) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
+Once done with one person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
 
 {% hint style="info" %}
 Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
 {% endhint %}
 
 If you both have working versions, implement a new feature in one of the projects together.
-
