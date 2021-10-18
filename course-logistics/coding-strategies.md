@@ -2,29 +2,26 @@
 
 ## Getting Started / How to Break a Problem Down
 
-{% embed url="https://www.youtube.com/watch?v=wO2CSWgf1Xw" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=wO2CSWgf1Xw" %}
 
 One of the biggest challenges when beginning a project is to know where to start.
 
 There are two main aspects to this process:
 
-### 1\) Understand your problem using language.
+### 1) Understand your problem using language.
 
 * Do you understand the problem from a programatic perspective?
 * Do you understand what its purpose is?
-* Do you understand the logic of the application itself? \(i.e., a recipe app understands what a liter of liquid is\)
+* Do you understand the logic of the application itself? 
 
-### 2\) Strategize which part to concentrate on
+### 2) Strategize which part to concentrate on
 
-Start with the beginning of the program first.
+* Start with the beginning of the program first.
+* Start with the "Minimum Viable Product"
+* Leave aside the features of the overall program that are not core to its purpose.
+* Strategize about how you can fake other parts of the program. (Can you fake a random dice roll by starting with a value that is always 4?)
 
-Start with the "Minimum Viable Product"
-
-Leave aside the features of the overall program that are not core to its purpose.
-
-Strategize about how you can fake other parts of the program. \(Can you fake a random dice roll by starting with a value that is always 4?\)
-
-### 3\) Translate the problem into the appropriate JavaScript syntax.
+### 3) Translate the problem into the appropriate JavaScript syntax.
 
 **Processes and logic require control flow.**
 
@@ -38,13 +35,13 @@ Strategize about how you can fake other parts of the program. \(Can you fake a r
 
 ## Building Mental Models
 
-{% embed url="https://www.youtube.com/watch?v=C7zIy38my94" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=C7zIy38my94" %}
 
 A program is a sum of its parts.
 
 A modern computer system is incredibly complex and it's impossible to understand what goes on at every level.
 
-\(See this description of [what happens when you search on google\)](https://github.com/alex/what-happens-when).
+_(See this description of _[_what happens when you search on google)_](https://github.com/alex/what-happens-when).
 
 _**However**_ the task of writing a program is to build a contextually complete mental model of what is happening when the program runs.
 
@@ -62,7 +59,7 @@ Before you write any code strategize about what the next smallest bit you can wr
 
 **Write code with the purpose of testing your hypotheses.**
 
-Your mental model is one of the most important things you are building as you build the program. \(Just as important if not more important than the program itself\). You are the one using your personal knowledge to encode the behavior of the code. If you don't understand how it works, no one else will either.
+Your mental model is one of the most important things you are building as you build the program. (Just as important if not more important than the program itself). You are the one using your personal knowledge to encode the behavior of the code. If you don't understand how it works, no one else will either.
 
 Don't write code in order to fix your errors, write code to prove or disprove your hypotheses, then write correct code.
 
@@ -73,11 +70,11 @@ Don't write code in order to fix your errors, write code to prove or disprove yo
 
 ## Learning Strategies
 
-{% embed url="https://www.youtube.com/watch?v=ax7Yf1RcEns" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=ax7Yf1RcEns" %}
 
 **Mental models are the key to building your computational thinking skills.**
 
-Use each error as an opportunity to understand the system better. \(But also know when to strategically move on - you won't achieve perfect knowledge - see "what happens when" link above\).
+Use each error as an opportunity to understand the system better. (But also know when to strategically move on - you won't achieve perfect knowledge - see "what happens when" link above).
 
 **Expect lots of errors.**
 
@@ -91,13 +88,13 @@ Practice asking questions when you are working on a problem.
 * What is the context of the error? When do you see it, what is the incoming data and how does it affect the output?
 * What do you think is happening based on the facts?
 
-_\(Note that this doesn't mean that during this course a question like- "I dunno what's happening." is not acceptable. Any question is acceptable\)._
+_(Note that this doesn't mean that during this course a question like- "I dunno what's happening." is not acceptable. Any question is acceptable)._
 
-**Talk to yourself. -This is called**[ **rubber duck programming**](https://rubberduckdebugging.com/)**.**
+**Talk to yourself. -This is called**[ **rubber duck programming**](https://rubberduckdebugging.com)**.**
 
 ## Pro Tips
 
-{% embed url="https://www.youtube.com/watch?v=IYDRNvVP0w0" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=IYDRNvVP0w0" %}
 
 Optimize your programming and learning process by implementing some best practices.
 
@@ -141,7 +138,6 @@ Don't spend a lot of time on a result that is not relevant enough to your proble
 
 Learning to code is less like learning things like English and history, and more like learning the piano. There is some theory involved but it also heavily involves practice.
 
-[Deliberate practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) means quality of hours over quantity. \(Although mastery also involves quantity of hours\).
+[Deliberate practice](https://en.wikipedia.org/wiki/Practice_\(learning_method\)#Deliberate_practice) means quality of hours over quantity. (Although mastery also involves quantity of hours).
 
 Many of the principles stated above have to do with your meta-awareness of your own process. We believe that the more awareness you have of your own process the more effective your learning will be.
-
