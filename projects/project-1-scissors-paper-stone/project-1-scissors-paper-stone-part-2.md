@@ -1,12 +1,12 @@
 ---
-description: "✂️\U0001F4C3\U0001F48E\U0001F929"
+description: ✂️📃💎🤩
 ---
 
-# Project 1: Scissors Paper Stone \(Part 2\)
+# Project 1: Scissors Paper Stone (Part 2)
 
 ## Introduction
 
-Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use globals as game modes. We'll now update our SPS Part 1 to support game state.
+Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [globals](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game state](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md#global-state-for-app-modes).
 
 If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to complete More Comfortable for both parts.
 
@@ -27,11 +27,11 @@ To make this game more personal, add a feature to collect the user's name as the
 
 ### Formatting
 
-Make the output of your game look nice. You can use string `'<br>'` to create new lines in the output. Add the user name and the win/loss record. If the player's win/loss record suggests they are doing well, format a message for them \(and another message if they are not doing well\).
+Make the output of your game look nice. You can use string `'<br>'` to create new lines in the output. Add the user name and the win/loss record. If the player's win/loss record suggests they are doing well, format a message for them (and another message if they are not doing well).
 
 Your output might look something like this:
 
-```text
+```
 The computer chose scissors ✂️.
 You chose paper 🗒.
 
@@ -50,7 +50,7 @@ You decide to prank your friends and create an SPS game mode where the rules are
 
 The following is adapted from [Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors#Adapted_rules):
 
-> In Korea, a two-player upgraded version exists by the name [muk-jji-ppa](https://en.wikipedia.org/wiki/Muk-jji-ppa). After showing their hands, the player with the winning throw shouts "muk-jji-ppa!" upon which both players throw again. If they throw differently \(for example, rock and paper, or paper and scissors\), whoever wins this second round shouts "muk-jji-ppa!" and thus the play continues until both players throw the same item \(for example, rock and rock\), at which point whoever was the last winner becomes the actual winner.
+> In Korea, a two-player upgraded version exists by the name [muk-jji-ppa](https://en.wikipedia.org/wiki/Muk-jji-ppa). After showing their hands, the player with the winning throw shouts "muk-jji-ppa!" upon which both players throw again. If they throw differently (for example, rock and paper, or paper and scissors), whoever wins this second round shouts "muk-jji-ppa!" and thus the play continues until both players throw the same item (for example, rock and rock), at which point whoever was the last winner becomes the actual winner.
 
 Update your program state such that it can keep track of the most recent winner, and update the program logic to declare the most recent winner the ultimate winner when there is a draw.
 
@@ -64,14 +64,14 @@ Add a mode that lets the computer choose for you on each turn.
 
 ### Further Variations
 
-Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock\_paper\_scissors\#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
+Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
 
 ## Submit
 
 [Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
 
 1. Any subsequent commits you push will be added to your previous pull request automatically.
-2. Please leave your name and _**section number**_ in the _**title**_ of the pull request.
+2. Please leave your name and _**section number **_in the _**title**_ of the pull request.
 3. Please make a copy of the questionnaire and create a _**new pull request comment**_.
 4. Fill in the survey questions.
 
@@ -81,5 +81,4 @@ The reference solution implements the Base functionality for both SPS Parts 1 an
 
 [https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files)
 
-[View the reference solution ](https://github.com/rocketacademy/basics-scissors-paper-stone/tree/part2-inclMoreComfortable)for SPS-Part2 \(up till More Comfortable\). Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
-
+[View the reference solution ](https://github.com/rocketacademy/basics-scissors-paper-stone/tree/part2-inclMoreComfortable)for SPS-Part2 (up till More Comfortable). Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
