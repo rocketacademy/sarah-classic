@@ -43,7 +43,7 @@ Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating
 
 Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
 
-At line 21 of index.html, try changing `background-color: pink; `to`  background-color: lightblue;  `or any [colour ](https://www.w3schools.com/colors/colors_names.asp)of your choice!
+At line 21 of index.html, try changing `background-color: pink; `to`  background-color: lightblue;  `or any [colour ](https://www.w3schools.com/colors/colors\_names.asp)of your choice!
 
 ```
       #container {
@@ -54,7 +54,7 @@ At line 21 of index.html, try changing `background-color: pink; `to`  background
       }
 ```
 
-Add 1 or more [paragraphs](https://www.w3schools.com/html/html_paragraphs.asp) after line 53 with instructions on how to play Beat That! It can look something like this:
+Add 1 or more [paragraphs](https://www.w3schools.com/html/html\_paragraphs.asp) after line 53 with instructions on how to play Beat That! It can look something like this:
 
 ```
 ...
@@ -125,7 +125,7 @@ Create a mode where if there are more than 2 players, the game can match players
 
 Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
-1. [Base](https://github.com/rocketacademy/basics-beat-that/pull/10/files)
+1. [Base](https://github.com/kai-rocket/basics-beat-that/blob/bd90e52df1a88ef308c439085315bf060720f19d/script.js)
 2. [Auto-Generate Combined Number](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-autoGenerateCombinedNum/script.js) (includes Score, Leaderboard, and Lowest Combined Number Mode)
 3. [Variable Number of Dice](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-variableNumDice/script.js)
 4. [Variable Number of Players](https://github.com/rocketacademy/basics-beat-that/blob/moreComfortable-variableNumPlayers/script.js)

@@ -48,7 +48,7 @@ You decide to prank your friends and create an SPS game mode where the rules are
 
 ### Korean Scissors Paper Stone
 
-The following is adapted from [Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors#Adapted_rules):
+The following is adapted from [Wikipedia](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Adapted\_rules):
 
 > In Korea, a two-player upgraded version exists by the name [muk-jji-ppa](https://en.wikipedia.org/wiki/Muk-jji-ppa). After showing their hands, the player with the winning throw shouts "muk-jji-ppa!" upon which both players throw again. If they throw differently (for example, rock and paper, or paper and scissors), whoever wins this second round shouts "muk-jji-ppa!" and thus the play continues until both players throw the same item (for example, rock and rock), at which point whoever was the last winner becomes the actual winner.
 
@@ -64,7 +64,7 @@ Add a mode that lets the computer choose for you on each turn.
 
 ### Further Variations
 
-Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations) the user can select which variation they would like to play.
+Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Variations](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Variations) the user can select which variation they would like to play.
 
 ## Submit
 
@@ -78,7 +78,5 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 ## Reference Solution
 
 The reference solution implements the Base functionality for both SPS Parts 1 and 2. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
-
-[https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files](https://github.com/rocketacademy/basics-scissors-paper-stone/pull/24/files)
 
 [View the reference solution ](https://github.com/rocketacademy/basics-scissors-paper-stone/tree/part2-inclMoreComfortable)for SPS-Part2 (up till More Comfortable). Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
