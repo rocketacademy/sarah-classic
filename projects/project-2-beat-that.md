@@ -4,6 +4,8 @@
 
 Create a version of the Beat That dice game, where players create the largest number they can by concatenating random dice roll digits. Read the rules for Beat That [here](https://www.activityvillage.co.uk/beat-that).
 
+Have a look a s&#x20;
+
 ## Setup
 
 Begin by forking the [Coding Basics Beat That repo](https://github.com/rocketacademy/basics-beat-that). Once forked, clone your fork of the repo and work on that copy.
