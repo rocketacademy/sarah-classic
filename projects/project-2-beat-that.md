@@ -4,7 +4,11 @@
 
 Create a version of the Beat That dice game, where players create the largest number they can by concatenating random dice roll digits. Read the rules for Beat That [here](https://www.activityvillage.co.uk/beat-that).
 
-Have a look a s&#x20;
+Have a look a some past student's project to visualise the game - and for inspiration :)
+
+1. [Base](https://eggcodes.github.io/basics-beat-that/)
+2. [Comfortable](https://averygan.github.io/basics-beat-that/)
+3. [Super Comfortable](https://lim-jiahao.github.io/basics-beat-that/)
 
 ## Setup
 
