@@ -52,6 +52,7 @@ Note that for the `main` function to perform different logic on user input, for 
 1. Creating helper functions can be a powerful way to refactor your code and keep it neat.
 2. Don't be afraid to throw away code, especially if you already know how you would write it better.
 3. Commit your code often, whenever you have a small working version. For example, each action listed above would be a commit. Make concise and precise commit messages so that you can reference your old changes later.
+4. Review [Coding Strategies](../course-logistics/coding-strategies.md)
 
 ### How to Prioritise Work
 
@@ -81,6 +82,14 @@ If you already have an effective strategy for creating your game, you can skip a
 
 1. Add logic to determine whether Aces should have value of 1 or 11 for a given hand.
 2. Test your code.
+
+## Walkthrough
+
+If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution:
+
+{% embed url="https://www.youtube.com/watch?v=SccCe9_qU2Q" %}
+Please attempt the project once yourself before watching the walkthrough!
+{% endembed %}
 
 ## More Comfortable
 
