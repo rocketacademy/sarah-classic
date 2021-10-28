@@ -86,10 +86,10 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ## Walkthrough
 
-If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution:
+If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution. Please try to attempt the project once yourself before referencing the walkthrough, and do note that the video uses template code straight from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md).
 
 {% embed url="https://www.youtube.com/watch?v=SccCe9_qU2Q" %}
-Please attempt the project once yourself before watching the walkthrough!
+Blackjack Base Walkthrough
 {% endembed %}
 
 ## Comfortable
