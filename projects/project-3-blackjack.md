@@ -4,9 +4,25 @@
 
 Implement a simplified version of Blackjack. If you're not familiar with Blackjack, refer to [this video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) for game rules. Our simplified rules are the following. Please read all the requirements before starting it!
 
-1. There will be only two players. One human and one computer.
-2. The computer will always be the dealer. The dealer has to hit if their hand is below 17.
-3. The player who is closer to 21 wins the hand. Aces can be 1 or 11.
+1. There will be only two players. One human and one computer _(for the Base solution)._
+2. The computer will always be the dealer.
+3. Each player gets dealt two cards to start, the dealer's has one card face-up (known to the player) and one card face-down _(unknown)._
+4. The player goes first, and decides if they want to hit _(draw a card)_ or stand _(end their turn)._
+5. The dealer has to hit if their hand is below 17.
+6. Each players' score is the total of their card ranks. Jacks/Queen/Kings are 10. Aces can be 1 or 11.
+7. The player who is closer to 21 wins the hand.
+
+## Past Projects
+
+* [Base](https://eggcodes.github.io/basics-blackjack/)
+* [More Comfortable](https://lim-jiahao.github.io/basics-blackjack/)
+
+Basics 10 Most Creative _(as voted by students)_:
+
+1. [SouthPark Casino](https://averygan.github.io/basics-blackjack/)
+2. [Cat-sino](https://thereselyr.github.io/basics-blackjack/)
+3. [Simple and Green](https://liangtcode.github.io/basics-blackjack/)
+4. [90's Night](https://yap83.github.io/basics-blackjack/)
 
 ## Setup
 
@@ -74,7 +90,7 @@ Improve the look and feel of the game.\
 \
 See a deployed example here: [https://awongh.github.io/basics-blackjack/index.html](https://awongh.github.io/basics-blackjack/index.html)\
 \
-[https://github.com/awongh/basics-blackjack](https://github.com/awongh/basics-blackjack) 
+[https://github.com/awongh/basics-blackjack](https://github.com/awongh/basics-blackjack)&#x20;
 
 #### User Instructions
 
@@ -138,13 +154,13 @@ var myImage = '<img src="/COPIED_RELATIVE_IMAGE_PATH"/>';
 
 #### Colors
 
-Set your own custom colors in the CSS. Find the color values in `index.html` (for example lines 57 or 77) and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
+Set your own custom colors in the CSS. Find the color values in `index.html` (for example lines 57 or 77) and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors\_picker.asp)
 
 Find matching color sets using this design tool: [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
 
 #### Fonts
 
-Set your own custom fonts: [https://www.w3schools.com/css/css_font_google.asp](https://www.w3schools.com/css/css_font_google.asp)
+Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp](https://www.w3schools.com/css/css\_font\_google.asp)
 
 ### Betting
 
@@ -156,7 +172,7 @@ Enable multiple players to play against the dealer, where players can take turns
 
 ### Splits
 
-Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces_and_eights_\(blackjack\)#Splitting). Dealer is not allowed to split.
+Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces\_and\_eights\_\(blackjack\)#Splitting). Dealer is not allowed to split.
 
 ## Submit
 
@@ -167,7 +183,7 @@ Add hand-splitting functionality to the game. If the player has two of the same 
 
 ## Reference Solution
 
- Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
+&#x20;Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
 1. [Base](https://github.com/rocketacademy/basics-blackjack/tree/base)
 2. [Multiplayer](https://github.com/rocketacademy/basics-blackjack/tree/moreComfortable-Multiplayer)
