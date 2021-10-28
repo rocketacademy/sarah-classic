@@ -64,15 +64,32 @@ If you already have an effective strategy for creating your game, you can skip a
 
 #### First Version: Compare Initial Hands to Determine Winner
 
-1. Aim for a playable game. A minimal version of Blackjack could just compare the ranks of the player's and dealer's cards. For now, we can leave out features such as Aces being 1 or 11, and the player and dealer choosing to hit or stand. Write pseudocode to guide your logic.
-2. Compare the initially-drawn cards to determine a winner. Code with the understanding that your code will expand later to encompass other Blackjack functionality.
+1.  Aim for a playable game. The essence of blackjack requires:
+
+    1. Two players - a player and a dealer _(computer)._
+    2. A deck of cards.
+    3. A starting hand of 2 cards for each player.
+    4. Comparing both hands and determining a winner. The possible scenarios are:
+       * A tie. When both the player and dealer have the same total hand values - or if both draw Blackjack
+       * A Blackjack win. When either player or dealer draw Blackjack.
+       * A normal win. When neither draw Blackjack, the winner is decided by whomever has the higher hand total.
+
+
+2.  Return appropriate messages. For example:
+
+    ```markdown
+    Player hand: Ace of Hearts, King of Spades
+    Dealer hand: 8 of Clubs, 8 of Spades
+    Player wins by black jack! 
+    ```
 3. Test your code.
 
 #### Second Version: Add Player Hit or Stand
 
 1. The player hitting or standing is different from the dealer hitting or standing. The rules state that the dealer hits or stands after all players are done, so let's work on the players hitting or standing first.
-2. The player hitting or standing is a new mode in the game that allows the player to enter their choice. Add the logic for when the player busts.
+2. The player hitting or standing is a new mode in the game that allows the player to enter their choice. Add the logic for when the player busts _(has a total score of >21)_.
 3. Refactor your logic to wait until the player is done to evaluate the game-winning condition.
+   * The player should not immediately lose if he busts - there is a possibility he will tie with the dealer if the dealer also busts.
 4. Test your code.
 
 #### Third Version: Add Dealer Hit or Stand
@@ -83,6 +100,13 @@ If you already have an effective strategy for creating your game, you can skip a
 #### Fourth Version: Add Variable Ace Values
 
 1. Add logic to determine whether Aces should have value of 1 or 11 for a given hand.
+   *   For example, if a player draws cards in the following order:
+
+       1. "Ace" and "2"
+       2. "Ace"
+       3. "8".
+
+       The total hand value should be 18, as only ONE of the aces will be counted as 11.
 2. Test your code.
 
 ## Walkthrough
