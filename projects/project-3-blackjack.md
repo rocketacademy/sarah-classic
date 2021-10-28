@@ -15,7 +15,8 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 ## Past Projects
 
 * [Base](https://eggcodes.github.io/basics-blackjack/)
-* [More Comfortable](https://lim-jiahao.github.io/basics-blackjack/)
+* [Comfortable](https://awongh.github.io/basics-blackjack/index.html)
+* [Super Comfortable](https://lim-jiahao.github.io/basics-blackjack/)
 
 Basics 10 Most Creative _(as voted by students)_:
 
@@ -91,15 +92,11 @@ If you are still unsure how to start, or find yourself stuck for too long, Bryan
 Please attempt the project once yourself before watching the walkthrough!
 {% endembed %}
 
-## More Comfortable
+## Comfortable
 
 ### Interface
 
-Improve the look and feel of the game.\
-\
-See a deployed example here: [https://awongh.github.io/basics-blackjack/index.html](https://awongh.github.io/basics-blackjack/index.html)\
-\
-[https://github.com/awongh/basics-blackjack](https://github.com/awongh/basics-blackjack)&#x20;
+Improve the look and feel of your game - if you did not  attempt the Comfortable version of _Beat That!, _you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
 
 #### User Instructions
 
@@ -171,6 +168,16 @@ Find matching color sets using this design tool: [https://color.adobe.com/create
 
 Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp](https://www.w3schools.com/css/css\_font\_google.asp)
 
+## More Comfortable
+
+### Additional HTML Elements
+
+Look ahead to [12.1 Browser Application with DOM](../12-next-steps/12.1-browser-applications-with-dom.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
+
+### Additional Game Logic
+
+Try adding one or more additional game features _(you can also have different versions with different features if implementing all features in one version is too complicated)_:
+
 ### Betting
 
 The player starts with 100 points. Each round the player wagers a number of points before their hand is dealt. Keep track of the player's points throughout the game.
@@ -182,6 +189,8 @@ Enable multiple players to play against the dealer, where players can take turns
 ### Splits
 
 Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces\_and\_eights\_\(blackjack\)#Splitting). Dealer is not allowed to split.
+
+
 
 ## Submit
 
