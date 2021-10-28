@@ -6,16 +6,17 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 
 1. There will be only two players. One human and one computer _(for the Base solution)._
 2. The computer will always be the dealer.
-3. Each player gets dealt two cards to start, the dealer's has one card face-up (known to the player) and one card face-down _(unknown)._
+3. Each player gets dealt two cards to start.
 4. The player goes first, and decides if they want to hit _(draw a card)_ or stand _(end their turn)._
 5. The dealer has to hit if their hand is below 17.
 6. Each players' score is the total of their card ranks. Jacks/Queen/Kings are 10. Aces can be 1 or 11.
-7. The player who is closer to 21 wins the hand.
+7. The player who is closer to, but not above 21 wins the hand.
 
 ## Past Projects
 
-* [Base](https://eggcodes.github.io/basics-blackjack/)
-* [Comfortable](https://awongh.github.io/basics-blackjack/index.html)
+* [Base](https://rocketacademy.github.io/basics-blackjack/)
+* [Comfortable 1](https://awongh.github.io/basics-blackjack/index.html)
+* [Comfortable 2](https://eggcodes.github.io/basics-blackjack/)
 * [Super Comfortable](https://lim-jiahao.github.io/basics-blackjack/)
 
 Basics 10 Most Creative _(as voted by students)_:
@@ -170,6 +171,10 @@ Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp]
 
 ## More Comfortable
 
+### Hide Dealer's First Card
+
+In most casinos, all cards are face-up except the dealer's first card. This injects a dimension of strategy into the game, as the player does not have perfect information to begin with. Edit your game logic such that the player is only told one of the dealer's first two cards.
+
 ### Additional HTML Elements
 
 Look ahead to [12.1 Browser Application with DOM](../12-next-steps/12.1-browser-applications-with-dom.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
@@ -178,15 +183,15 @@ Look ahead to [12.1 Browser Application with DOM](../12-next-steps/12.1-browser-
 
 Try adding one or more additional game features _(you can also have different versions with different features if implementing all features in one version is too complicated)_:
 
-### Betting
+#### Betting
 
 The player starts with 100 points. Each round the player wagers a number of points before their hand is dealt. Keep track of the player's points throughout the game.
 
-### Multiplayer
+#### Multiplayer
 
 Enable multiple players to play against the dealer, where players can take turns. The game hides and shows relevant hand according to the turn.
 
-### Splits
+#### Splits
 
 Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces\_and\_eights\_\(blackjack\)#Splitting). Dealer is not allowed to split.
 
