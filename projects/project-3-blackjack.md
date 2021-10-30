@@ -102,9 +102,9 @@ If you already have an effective strategy for creating your game, you can skip a
 1. Add logic to determine whether Aces should have value of 1 or 11 for a given hand.
    *   For example, if a player draws cards in the following order:
 
-       1. "Ace" and "2"
-       2. "Ace"
-       3. "8".
+       1. "Ace" and "2"  _(total 13)_
+       2. "4"                   _(total 17)_
+       3. "Ace".              _(total 18)_
 
        The total hand value should be 18, as only ONE of the aces will be counted as 11.
 2. Test your code.
