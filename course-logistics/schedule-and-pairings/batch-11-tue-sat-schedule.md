@@ -2,21 +2,19 @@
 description: What and when we will learn
 ---
 
-# 📅 Batch 11 (Thu - Sun) Schedule
-
-## 📅 Batch 11 (Mon - Thu) Schedule
+# 📅 Batch 11 (Tue - Sat) Schedule
 
 ## Course Dates
 
-| Week | Monday |                       Thursday                       |                      Saturday                      |                        Sunday                        |
-| :--: | :----: | :--------------------------------------------------: | :------------------------------------------------: | :--------------------------------------------------: |
-|   0  |    -   |                           -                          | [2 Oct](batch-11-thu-sun-schedule.md#course-day-0) |  [3 Oct](batch-11-thu-sun-schedule.md#course-day-1)  |
-|   1  |    -   |  [7 Oct](batch-11-thu-sun-schedule.md#course-day-2)  |                          -                         |  [10 Oct](batch-11-thu-sun-schedule.md#course-day-3) |
-|   2  |    -   |  [14 Oct](batch-11-thu-sun-schedule.md#course-day-4) |                          -                         |  [17 Oct](batch-11-thu-sun-schedule.md#course-day-5) |
-|   3  |    -   |  [21 Oct](batch-11-thu-sun-schedule.md#course-day-6) |                          -                         |  [24 Oct](batch-11-thu-sun-schedule.md#course-day-7) |
-|   4  |    -   |  [28 Oct](batch-11-thu-sun-schedule.md#course-day-8) |                          -                         |  [31 Oct](batch-11-thu-sun-schedule.md#course-day-9) |
-|   5  |    -   |                  public holiday (SG)                 |                          -                         |  [7 Nov](batch-11-thu-sun-schedule.md#course-day-10) |
-|   6  |    -   | [11 Nov](batch-11-thu-sun-schedule.md#course-day-11) |                          -                         | [14 Nov](batch-11-thu-sun-schedule.md#course-day-12) |
+| Week |                       Tuesday                       |                       Saturday                       |
+| :--: | :-------------------------------------------------: | :--------------------------------------------------: |
+|   0  |                          -                          |  [2 Oct](batch-11-tue-sat-schedule.md#course-day-0)  |
+|   1  |  [5 Oct](batch-11-tue-sat-schedule.md#course-day-1) |  [9 Oct](batch-11-tue-sat-schedule.md#course-day-2)  |
+|   2  | [12 Oct](batch-11-tue-sat-schedule.md#course-day-3) |  [16 Oct](batch-11-tue-sat-schedule.md#course-day-4) |
+|   3  | [19 Oct](batch-11-tue-sat-schedule.md#course-day-5) |  [23 Oct](batch-11-tue-sat-schedule.md#course-day-6) |
+|   4  | [26 Oct](batch-11-tue-sat-schedule.md#course-day-7) |  [30 Oct](batch-11-tue-sat-schedule.md#course-day-8) |
+|   5  |  [2 Nov](batch-11-tue-sat-schedule.md#course-day-9) |  [6 Nov](batch-11-tue-sat-schedule.md#course-day-10) |
+|   6  | [9 Nov](batch-11-tue-sat-schedule.md#course-day-11) | [13 Nov](batch-11-tue-sat-schedule.md#course-day-12) |
 
 ## Sat 2 Oct, Week 0, Course Day 0: Pre-Course Briefing <a href="course-day-0" id="course-day-0"></a>
 
@@ -29,10 +27,10 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
 1. Instructor introductions
 2. Learning goals
 3. Learning format
-   1. [Pre-Class vs In-Class material](course-methodology.md#self-learning)
-   2. [Base vs More Comfortable](course-methodology.md#base-more-comfortable)
+   1. [Pre-Class vs In-Class material](../course-methodology.md#self-learning)
+   2. [Base vs More Comfortable](../course-methodology.md#base-more-comfortable)
 4. Deliverables for Day 1
-   1. [Required Hardware and Software](required-hardware-and-software.md)
+   1. [Required Hardware and Software](../required-hardware-and-software.md)
    2. Pre-Class Material
 5. Slack tutorial
    1. How to send monospaced code and code snippets in Slack
@@ -44,9 +42,9 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    3. What are your career goals?
    4. Fun fact?
 
-## Sun 3 Oct, Week 1, Course Day 1: Coding Tools <a href="course-day-1" id="course-day-1"></a>
+## Tue 5 Oct, Week 1, Course Day 1: Coding Tools <a href="course-day-1" id="course-day-1"></a>
 
-Meeting time: 7:00 PM SGT (GMT+8)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -75,9 +73,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 1: Basic File and Data Manipulation](https://basics.rocketacademy.co/in-class-exercises/day-1-basic-file-and-data-manipulation)
 
-## Thu 7 Oct, Week 1, Course Day 2: Functions <a href="course-day-2" id="course-day-2"></a>
+## Sat 9 Oct, Week 1, Course Day 2: Functions <a href="course-day-2" id="course-day-2"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -91,9 +89,9 @@ Total Video Watch Time: **\~25 mins**
 
 * [Day 2: Functions](https://basics.rocketacademy.co/in-class-exercises/day-2-functions)
 
-## Sun 10 Oct, Week 2, Course Day 3: Logic 1 <a href="course-day-3" id="course-day-3"></a>
+## Tue 12 Oct, Week 2, Course Day 3: Logic 1 <a href="course-day-3" id="course-day-3"></a>
 
-Meeting time: 7:00 PM SGT (GMT+8)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -111,9 +109,9 @@ Total Video Watch Time: **\~40 mins**
 
 [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 
-## Thu 14 Oct, Week 2, Course Day 4: Logic 2, State 1 <a href="course-day-4" id="course-day-4"></a>
+## Sat 16 Oct, Week 2, Course Day 4: Logic 2, State 1 <a href="course-day-4" id="course-day-4"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
 
@@ -135,9 +133,9 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
 
-## Sun 17 Oct, Week 3, Course Day 5: State 2 <a href="course-day-5" id="course-day-5"></a>
+## Tue 19 Oct, Week 3, Course Day 5: State 2 <a href="course-day-5" id="course-day-5"></a>
 
-Meeting time: 7:00 PM SGT (GMT+8)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
@@ -158,9 +156,9 @@ Total Video Watch Time: **\~17 mins**
 
 [Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
 
-## Thu 21 Oct, Week 3, Course Day 6: Arrays, Loops 1 <a href="course-day-6" id="course-day-6"></a>
+## Sat 23 Oct, Week 3, Course Day 6: Arrays, Loops 1 <a href="course-day-6" id="course-day-6"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -174,9 +172,9 @@ Total Video Watch Time: **\~41 mins**
 
 * [Loops](https://basics.rocketacademy.co/in-class-exercises/day-6-loops)
 
-## Sun 24 Oct, Week 4, Course Day 7: Loops 2 <a href="course-day-7" id="course-day-7"></a>
+## Tue 26 Oct, Week 4, Course Day 7: Loops 2 <a href="course-day-7" id="course-day-7"></a>
 
-Meeting time: 7:00 PM SGT (GMT+8)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -188,9 +186,9 @@ Total Video Watch Time: **\~11 mins**
 
 * [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
 
-## Thu 28 Oct, Week 4, Course Day 8: Objects <a href="course-day-8" id="course-day-8"></a>
+## Sat 30 Oct, Week 4, Course Day 8: Objects <a href="course-day-8" id="course-day-8"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
 
@@ -210,11 +208,9 @@ Total Video Watch Time: **\~15 mins**
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
+## Tue 2 Nov, Week 5, Course Day 9: Card Logic <a href="course-day-9" id="course-day-9"></a>
 
-
-## Sun 31 Oct, Week 5, Course Day 9: Card Logic <a href="course-day-9" id="course-day-9"></a>
-
-Meeting time: 7:00 PM SGT (GMT+8)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -226,11 +222,9 @@ Total Video Watch Time: **\~16 mins**
 
 * [Day 9: Moar Cards](https://basics.rocketacademy.co/in-class-exercises/day-9-moar-cards)
 
-## Thu, 4 Nov: Singapore public holiday, Deepavali
+## Sat 6 Nov, Week 5, Course Day 10: Coding Strategies <a href="course-day-10" id="course-day-10"></a>
 
-## Sun 7 Nov, Week 6, Course Day 10: Coding Strategies <a href="course-day-10" id="course-day-10"></a>
-
-Meeting time: 7:00 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -242,7 +236,7 @@ Total Video Watch Time: **\~60 mins**
 
 * [Day 10: Chat Bot](https://basics.rocketacademy.co/in-class-exercises/day-10-chat-bot)
 
-## Thu 11 Nov, Week 6, Course Day 11: Debugger <a href="course-day-11" id="course-day-11"></a>
+## Tue 9 Nov, Week 6, Course Day 11: Debugger <a href="course-day-11" id="course-day-11"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -265,9 +259,9 @@ Total Video Watch Time: **\~18 mins**
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-## Sun 14 Nov, Week 7, Course Day 12: Project Presentations <a href="course-day-12" id="course-day-12"></a>
+## Sat 13 Nov, Week 6, Course Day 12: Project Presentations <a href="course-day-12" id="course-day-12"></a>
 
-Meeting time: 7:00 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
 
