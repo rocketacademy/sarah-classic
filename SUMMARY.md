@@ -8,7 +8,7 @@
   * [📅 Batch 11 (Mon - Thu) Schedule](course-logistics/schedule-and-pairings/batch-11-mon-thu-schedule.md)
   * [📅 Batch 11 (Tue - Sat) Schedule](course-logistics/schedule-and-pairings/batch-11-tue-sat-schedule.md)
   * [📅 Batch 11 (Thu - Sun) Schedule](course-logistics/schedule-and-pairings/batch-11-thu-sun-schedule.md)
-  * [👫 Pairing Assignments](course-logistics/schedule-and-pairings/section-and-pairing-assignments.md)
+  * [👫 Batch 11 Pairings](course-logistics/schedule-and-pairings/section-and-pairing-assignments.md)
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
   * [Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
   * [Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
