@@ -16,7 +16,7 @@ Basics is focused on project-based learning, so does not cover theoretical compu
 
 ## Software Engineering Bootcamp Acceptance Criteria
 
-Coding Basics (CB) is a pre-requisite for Software Engineering Bootcamp (SEB). CB section leaders will share feedback with students each class on their progress. By the end of CB, students should know whether they have met the criteria to join SEB.
+Coding Basics is a pre-requisite for Software Engineering Bootcamp (SEB). Basics section leaders will share feedback with students each class on their progress. By the end of Basics, students should know whether they have met the criteria to join SEB.
 
 In general, the criteria to pass Basics and join Bootcamp are the following.
 
@@ -34,4 +34,4 @@ Typically we look for the following attributes in evaluating projects.
    3. Abstraction: Re-use helper functions with varying parameter values when possible
    4. Algorithms: Construct stepwise logic to accomplish tasks
 
-Through the above criteria, RA is essentially asking the question: Would I hire this person as a software engineer if I had their attention for 6 months full time or 12 months part time to teach them coding. If the answer is yes, welcome to Bootcamp! If the answer is currently no, let's have a conversation and see how we can help you get where you want to be! 
+Through the above criteria, RA is essentially asking the question: Would I hire this person as a software engineer if I had their attention for 6 months full time or 12 months part time to teach them coding. If the answer is yes, welcome to Bootcamp! If the answer is currently no, let's have a conversation and see how we can help you get where you want to be!&#x20;

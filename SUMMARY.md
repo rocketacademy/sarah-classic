@@ -4,7 +4,6 @@
 
 ## Course Logistics
 
-* [📅 Batch 10 Schedule](course-logistics/batch-10-schedule.md)
 * [📅 Batch 11 (Mon - Thu) Schedule](course-logistics/batch-11-mon-thu-schedule.md)
 * [📅 Batch 11 (Tue - Sat) Schedule](course-logistics/batch-11-tue-sat-schedule.md)
 * [📅 Batch 11 (Thu - Sun) Schedule](course-logistics/batch-11-thu-sun-schedule.md)
