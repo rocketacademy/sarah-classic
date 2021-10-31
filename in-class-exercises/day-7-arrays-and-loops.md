@@ -18,7 +18,7 @@ Mad Libs is a word game where players fill in the blanks with random words, such
 For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
 
 {% hint style="warning" %}
-When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software/#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
 ## Base

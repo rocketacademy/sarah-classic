@@ -35,7 +35,7 @@ The user will enter their words-per-minute typing speed. The app will calculate 
 
 ## File Manipulation with Command Line and Git
 
-You may wish to refer to the [command line cheatsheet](../2-organising-and-managing-code-files/2.1-command-line.md#cheat-sheet) and [Git cheatsheet](../2-organising-and-managing-code-files/2.2-git.md#cheat-sheet), and use [window snapping](../course-logistics/required-hardware-and-software/#window-snapping-software) to position 3 windows on your screen simultaneously: VSCode, the relevant cheatsheet, and these instructions.
+You may wish to refer to the [command line cheatsheet](../2-organising-and-managing-code-files/2.1-command-line.md#cheat-sheet) and [Git cheatsheet](../2-organising-and-managing-code-files/2.2-git.md#cheat-sheet), and use [window snapping](../course-logistics/required-hardware-and-software.md#window-snapping-software) to position 3 windows on your screen simultaneously: VSCode, the relevant cheatsheet, and these instructions.
 
 ### Create a Haiku
 

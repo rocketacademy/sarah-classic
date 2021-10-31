@@ -23,7 +23,7 @@ _**When copying any commands from the Git website, do not copy the dollar sign (
 1. Navigate to the Git website download page and click the download link: [https://git-scm.com/download/win](https://git-scm.com/download/win)
 2. Open the downloaded file.
 3. The Git install dialog will open. We'll need to set a few options here. The rest will be the default options.
-4. Follow [command line setup instructions below](./#windows-command-line-setup) to set Bash as the terminal language.
+4. Follow [command line setup instructions below](../required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
 5. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
 
 {% embed url="https://www.youtube.com/watch?v=7Dq_e90LqTU" %}
@@ -32,7 +32,7 @@ _**When copying any commands from the Git website, do not copy the dollar sign (
 Dialog Options: (just click _**next**_ for default options)
 
 * Information (_default_)
-* Select Destination Location (**Copy this or write it down, **[**you will need it for VSCode setup**](./#vscode-settings-windows))
+* Select Destination Location (**Copy this or write it down, **[**you will need it for VSCode setup**](../required-hardware-and-software.md#vscode-settings-windows))
 * Select Components (_default_)
 * Select Start Menu Folder (_default_)
 * Choose the default editor used by Git (**Choose VSCode**)
@@ -75,7 +75,7 @@ The following instructions are adapted from [Stack Overflow](https://stackoverfl
 {% hint style="warning" %}
 If we don't see "bash" or "Git Bash" from the Select Default Profile dropdown, it's possible VSCode isn't sure where to find our Bash installation. In this case, we can manually tell Git where to find it by adding settings to our VSCode settings.
 
-If you have this issue, follow instructions in the [VSCode Formatting Settings section below](./#vscode-formatting-settings) to tell VSCode to look for Bash where you installed it. Remember to update the file paths to the location of your Bash installation.
+If you have this issue, follow instructions in the [VSCode Formatting Settings section below](../required-hardware-and-software.md#vscode-formatting-settings) to tell VSCode to look for Bash where you installed it. Remember to update the file paths to the location of your Bash installation.
 {% endhint %}
 
 We shouldn't need to, but if we need to, we can toggle between different terminal languages from the dropdown in our VSCode terminal.
@@ -230,7 +230,7 @@ On Windows computers it may not be clear where a given folder is. Some Windows c
 When working with code, it's often necessary to switch between different files in the same repository, or even across repositories. Instead of using File > Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File > Open Folder, or on Mac with File > Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to switch quickly between files in that folder without having to File > Open every time.
 
 {% hint style="info" %}
-For Coding Basics, we recommend storing all of your code in a folder called `basics` as per the [recommended folder structure](./#folder-structure-for-coding-basics), and keeping that folder open in VSCode for the duration of the course.
+For Coding Basics, we recommend storing all of your code in a folder called `basics` as per the [recommended folder structure](../required-hardware-and-software.md#folder-structure-for-coding-basics), and keeping that folder open in VSCode for the duration of the course.
 {% endhint %}
 
 ![Sample basics folder in VSCode](../../.gitbook/assets/jie-ping-20210302-15.52.14.png)
@@ -274,7 +274,7 @@ Command-line software is software primarily operated from the command line (we w
 
 Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects. We'll cover more about Git in [2.2](../../2-organising-and-managing-code-files/2.2-git.md), [4.1](../../4-getting-started-with-code/4.1-intro-to-github.md) and [7.1](../../7-github/7.1-github-fork-and-pull-request.md).
 
-On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands (and command line software) on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way on both Windows and Mac. A version of Bash called Zsh (pronounced "zoosh") is installed by default on MacOS.
+
 
 {% hint style="warning" %}
 _**When copying any commands from the Git website, do not copy the dollar sign ($) in front of the command.**_ The dollar signs in their commands denote the start of command lines, and are not part of the commands.
@@ -429,7 +429,7 @@ When cloning the starter code, choose to [name the target folder](../../4-gettin
 When working with code, it's often necessary to switch between different files in the same repository, or even across repositories. Instead of using File > Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File > Open Folder, or on Mac with File > Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to switch quickly between files in that folder without having to File > Open every time.
 
 {% hint style="info" %}
-For Coding Basics, we recommend storing all of your code in a folder called `basics` as per the [recommended folder structure](./#folder-structure-for-coding-basics), and keeping that folder open in VSCode for the duration of the course.
+For Coding Basics, we recommend storing all of your code in a folder called `basics` as per the [recommended folder structure](../required-hardware-and-software.md#folder-structure-for-coding-basics), and keeping that folder open in VSCode for the duration of the course.
 {% endhint %}
 
 ![Sample basics folder in VSCode](../../.gitbook/assets/jie-ping-20210302-15.52.14.png)

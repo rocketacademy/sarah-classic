@@ -30,7 +30,7 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    1. [Pre-Class vs In-Class material](course-methodology.md#self-learning)
    2. [Base vs More Comfortable](course-methodology.md#base-more-comfortable)
 4. Deliverables for Day 1
-   1. [Required Hardware and Software](required-hardware-and-software/)
+   1. [Required Hardware and Software](required-hardware-and-software.md)
    2. Pre-Class Material
 5. Slack tutorial
    1. How to send monospaced code and code snippets in Slack
