@@ -2,24 +2,24 @@
 description: What and when we will learn
 ---
 
-# 📅 Batch 11 \(Mon - Thu\) Schedule
+# 📅 Batch 11 (Mon - Thu) Schedule
 
 ## Course Dates
 
-| Week | Monday | Thursday | Saturday |
-| :---: | :---: | :---: | :---: |
-| 0 | - | - | [2 Oct](batch-11-mon-thu-schedule.md#course-day-0) |
-| 1 | [4 Oct](batch-11-mon-thu-schedule.md#course-day-1) | [7 Oct](batch-11-mon-thu-schedule.md#course-day-2) | - |
-| 2 | [11 Oct](batch-11-mon-thu-schedule.md#course-day-3) | [14 Oct](batch-11-mon-thu-schedule.md#course-day-4) | - |
-| 3 | [18 Oct](batch-11-mon-thu-schedule.md#course-day-5) | [21 Oct](batch-11-mon-thu-schedule.md#course-day-6) | - |
-| 4 | [25 Oct](batch-11-mon-thu-schedule.md#course-day-7) | [28 Oct](batch-11-mon-thu-schedule.md#course-day-8) | - |
-| 5 | [1 Nov](batch-11-mon-thu-schedule.md#course-day-9) | public holiday \(SG\) | - |
-| 6 | [8 Nov](batch-11-mon-thu-schedule.md#course-day-10) | [11 Nov](batch-11-mon-thu-schedule.md#course-day-11) | - |
-| 7 | [15 Nov](batch-11-mon-thu-schedule.md#course-day-12) | - | - |
+| Week |                        Monday                        |                       Thursday                       |                      Saturday                      |
+| :--: | :--------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: |
+|   0  |                           -                          |                           -                          | [2 Oct](batch-11-mon-thu-schedule.md#course-day-0) |
+|   1  |  [4 Oct](batch-11-mon-thu-schedule.md#course-day-1)  |  [7 Oct](batch-11-mon-thu-schedule.md#course-day-2)  |                          -                         |
+|   2  |  [11 Oct](batch-11-mon-thu-schedule.md#course-day-3) |  [14 Oct](batch-11-mon-thu-schedule.md#course-day-4) |                          -                         |
+|   3  |  [18 Oct](batch-11-mon-thu-schedule.md#course-day-5) |  [21 Oct](batch-11-mon-thu-schedule.md#course-day-6) |                          -                         |
+|   4  |  [25 Oct](batch-11-mon-thu-schedule.md#course-day-7) |  [28 Oct](batch-11-mon-thu-schedule.md#course-day-8) |                          -                         |
+|   5  |  [1 Nov](batch-11-mon-thu-schedule.md#course-day-9)  |                  public holiday (SG)                 |                          -                         |
+|   6  |  [8 Nov](batch-11-mon-thu-schedule.md#course-day-10) | [11 Nov](batch-11-mon-thu-schedule.md#course-day-11) |                          -                         |
+|   7  | [15 Nov](batch-11-mon-thu-schedule.md#course-day-12) |                           -                          |                          -                         |
 
-## Sat 2 Oct, Week 0, Course Day 0: Pre-Course Briefing <a id="course-day-0"></a>
+## Sat 2 Oct, Week 0, Course Day 0: Pre-Course Briefing <a href="course-day-0" id="course-day-0"></a>
 
-Meeting time: 4:00 PM SGT \(GMT+8\)
+Meeting time: 4:00 PM SGT (GMT+8)
 
 {% hint style="warning" %}
 Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This is because the previous batch will be having their last class session from 1-3pm. Thank you for your understanding!
@@ -31,7 +31,7 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    1. [Pre-Class vs In-Class material](course-methodology.md#self-learning)
    2. [Base vs More Comfortable](course-methodology.md#base-more-comfortable)
 4. Deliverables for Day 1
-   1. [Required Hardware and Software](required-hardware-and-software.md)
+   1. [Required Hardware and Software](required-hardware-and-software/)
    2. Pre-Class Material
 5. Slack tutorial
    1. How to send monospaced code and code snippets in Slack
@@ -43,13 +43,13 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    3. What are your career goals?
    4. Fun fact?
 
-## Mon 4 Oct, Week 1, Course Day 1: Coding Tools <a id="course-day-1"></a>
+## Mon 4 Oct, Week 1, Course Day 1: Coding Tools <a href="course-day-1" id="course-day-1"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **~48 mins**
+Total Video Watch Time: **\~48 mins**
 
 {% hint style="warning" %}
 Coding Basics used to be called SWE101 and some of our videos were made before the name change and still reference the old name of SWE101. Please take note!
@@ -66,7 +66,7 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 
 ### In Class
 
-Total Video Watch Time: **~48 mins**
+Total Video Watch Time: **\~48 mins**
 
 {% hint style="warning" %}
 Please **do not** attempt in-class material before class for all course days, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.
@@ -74,13 +74,13 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 1: Basic File and Data Manipulation](https://basics.rocketacademy.co/in-class-exercises/day-1-basic-file-and-data-manipulation)
 
-## Thu 7 Oct, Week 1, Course Day 2: Functions <a id="course-day-2"></a>
+## Thu 7 Oct, Week 1, Course Day 2: Functions <a href="course-day-2" id="course-day-2"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **~25 mins**
+Total Video Watch Time: **\~25 mins**
 
 * [Review Social Rules](https://basics.rocketacademy.co/course-logistics/love-social-rules)
 * [5.1: Functions](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.1-functions)
@@ -90,13 +90,13 @@ Total Video Watch Time: **~25 mins**
 
 * [Day 2: Functions](https://basics.rocketacademy.co/in-class-exercises/day-2-functions)
 
-## Mon 11 Oct, Week 2, Course Day 3: Logic 1 <a id="course-day-3"></a>
+## Mon 11 Oct, Week 2, Course Day 3: Logic 1 <a href="course-day-3" id="course-day-3"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **~40 mins**
+Total Video Watch Time: **\~40 mins**
 
 * [6.1: Introduction to Logic](https://basics.rocketacademy.co/6-conditional-logic/6.1-intro-to-logic)
 * [6.2: Pseudo Code, Boolean "Or" ](https://basics.rocketacademy.co/6-conditional-logic/6.2-pseudo-code-boolean-or)
@@ -108,19 +108,19 @@ Total Video Watch Time: **~40 mins**
 
 ### Project Start
 
-[Project 1: Scissors Paper Stone \(Part 1\)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
+[Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 
-## Thu 14 Oct, Week 2, Course Day 4: Logic 2, State 1 <a id="course-day-4"></a>
+## Thu 14 Oct, Week 2, Course Day 4: Logic 2, State 1 <a href="course-day-4" id="course-day-4"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
-[Project 1: Scissors Paper Stone \(Part 1\)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
+[Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 
 ### Pre Class
 
-Total Video Watch Time: **~41 mins**
+Total Video Watch Time: **\~41 mins**
 
 * [7.1: Github Fork and Pull Request](https://basics.rocketacademy.co/7-github/7.1-github-fork-and-pull-request)
 * [7.2: Github Navigation](https://basics.rocketacademy.co/7-github/7.2-github-repo-browsing)
@@ -132,19 +132,19 @@ Total Video Watch Time: **~41 mins**
 
 ### Project Start
 
-[Project 1: Scissors Paper Stone \(Part 2\)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
+[Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
 
-## Mon 18 Oct, Week 3, Course Day 5: State 2 <a id="course-day-5"></a>
+## Mon 18 Oct, Week 3, Course Day 5: State 2 <a href="course-day-5" id="course-day-5"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
-[Project 1: Scissors Paper Stone \(Part 2\)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
+[Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
 
 ### Pre Class
 
-Total Video Watch Time: **~17 mins**
+Total Video Watch Time: **\~17 mins**
 
 * [8.2: Program State for Game Modes](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.2-program-state-for-game-modes)
 * [8.3: Input Validation](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.3-input-validation)
@@ -157,13 +157,13 @@ Total Video Watch Time: **~17 mins**
 
 [Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
 
-## Thu 21 Oct, Week 3, Course Day 6: Arrays, Loops 1 <a id="course-day-6"></a>
+## Thu 21 Oct, Week 3, Course Day 6: Arrays, Loops 1 <a href="course-day-6" id="course-day-6"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **~41 mins**
+Total Video Watch Time: **\~41 mins**
 
 * [Coding Strategies](https://basics.rocketacademy.co/course-logistics/coding-strategies)
 * [9.1: Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.1-arrays)
@@ -173,13 +173,13 @@ Total Video Watch Time: **~41 mins**
 
 * [Loops](https://basics.rocketacademy.co/in-class-exercises/day-6-loops)
 
-## Mon 25 Oct, Week 4, Course Day 7: Loops 2 <a id="course-day-7"></a>
+## Mon 25 Oct, Week 4, Course Day 7: Loops 2 <a href="course-day-7" id="course-day-7"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **~11 mins**
+Total Video Watch Time: **\~11 mins**
 
 * [9.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
 
@@ -187,9 +187,9 @@ Total Video Watch Time: **~11 mins**
 
 * [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
 
-## Thu 28 Oct, Week 4, Course Day 8: Objects <a id="course-day-8"></a>
+## Thu 28 Oct, Week 4, Course Day 8: Objects <a href="course-day-8" id="course-day-8"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
@@ -197,7 +197,7 @@ Meeting time: 7:30 PM SGT \(GMT+8\)
 
 ### Pre Class
 
-Total Video Watch Time: **~15 mins**
+Total Video Watch Time: **\~15 mins**
 
 * [10.1: Javascript Objects](https://basics.rocketacademy.co/10-javascript-objects/10.1-javascript-objects)
 
@@ -209,13 +209,13 @@ Total Video Watch Time: **~15 mins**
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Mon 1 Nov, Week 5, Course Day 9: Card Logic <a id="course-day-9"></a>
+## Mon 1 Nov, Week 5, Course Day 9: Card Logic <a href="course-day-9" id="course-day-9"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **~16 mins**
+Total Video Watch Time: **\~16 mins**
 
 * [10.2: Card Deck Generation with Loops ](https://basics.rocketacademy.co/10-javascript-objects/10.2-card-deck-generation-with-loops)
 
@@ -225,13 +225,13 @@ Total Video Watch Time: **~16 mins**
 
 ## Thu, 4 Nov: Singapore public holiday, Deepavali
 
-## Mon 8 Nov, Week 6, Course Day 10: Coding Strategies <a id="course-day-10"></a>
+## Mon 8 Nov, Week 6, Course Day 10: Coding Strategies <a href="course-day-10" id="course-day-10"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **~60 mins**
+Total Video Watch Time: **\~60 mins**
 
 * [10.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/10-javascript-objects/10.3-card-game-example-war)
 
@@ -239,9 +239,9 @@ Total Video Watch Time: **~60 mins**
 
 * [Day 10: Chat Bot](https://basics.rocketacademy.co/in-class-exercises/day-10-chat-bot)
 
-## Thu 11 Nov, Week 6, Course Day 11: Debugger <a id="course-day-11"></a>
+## Thu 11 Nov, Week 6, Course Day 11: Debugger <a href="course-day-11" id="course-day-11"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
@@ -249,7 +249,7 @@ Meeting time: 7:30 PM SGT \(GMT+8\)
 
 ### Pre Class
 
-Total Video Watch Time: **~18 mins**
+Total Video Watch Time: **\~18 mins**
 
 * [11.1: Advanced Debugging with Sources Tab](https://basics.rocketacademy.co/11-advanced-debugging/11.1-advanced-debugging-with-sources-tab)
 * [12.3: Project Deployment](https://basics.rocketacademy.co/12-next-steps/12.3-deployment)
@@ -260,19 +260,19 @@ Total Video Watch Time: **~18 mins**
 
 ### Project Start
 
-[Project 3: Blackjack \(More Comfortable\)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
+[Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-## Mon 15 Nov, Week 7, Course Day 12: Project Presentations <a id="course-day-12"></a>
+## Mon 15 Nov, Week 7, Course Day 12: Project Presentations <a href="course-day-12" id="course-day-12"></a>
 
-Meeting time: 7:30 PM SGT \(GMT+8\)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
-[Project 3: Blackjack \(More Comfortable\)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
+[Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
 ### Pre Class
 
-Total Video Watch Time: **~22 mins**
+Total Video Watch Time: **\~22 mins**
 
 * [12.1: Browser Applications with DOM](https://basics.rocketacademy.co/12-next-steps/12.1-browser-applications-with-dom)
 * [12.2: HTML, CSS Review](https://basics.rocketacademy.co/12-next-steps/12.2-html-css-review)
@@ -290,4 +290,3 @@ Total Video Watch Time: **~22 mins**
 
 * [Drawing With Emojis](https://basics.rocketacademy.co/past-projects/drawing-with-emojis)
 * [Guess The Word](https://basics.rocketacademy.co/past-projects/guess-the-word)
-

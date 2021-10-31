@@ -5,7 +5,7 @@
 Today we will practise if statements and logical OR operators. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Please switch driver and navigator each exercise.
 
 {% hint style="warning" %}
-When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software/#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
 ## Base
@@ -40,7 +40,7 @@ Create an app that uses random numbers to help Uncle decide which dish to cook. 
 
 ### 4D with Winning Range
 
-Create a version of 4D where the player wins if they guess within 1000 \(above or below\) of the winning 4-digit number. Consider using comparison operators such as less than \(`<`\) and greater than \(`>`\).
+Create a version of 4D where the player wins if they guess within 1000 (above or below) of the winning 4-digit number. Consider using comparison operators such as less than (`<`) and greater than (`>`).
 
 ### Hawker Food Omakase
 
@@ -59,7 +59,7 @@ Uncle has decided to serve an omakase option, and output a menu based on custome
 
 The customer inputs "rice" and the app chooses 2 random rice dishes, nasi lemak and bak kut teh. Roti prata is randomly not chosen. Sambal is included because nasi lemak typically comes with sambal.
 
-```text
+```
 Uncle has prepared a selection of dishes for you!
 
 To begin, Nasi Lemak, a fragrant coconut rice. Accompanied by Korean-style fried chicken wing, organic ikan bilis and free-range egg.
@@ -72,4 +72,3 @@ Chilli sambal will be included.
 ## Reference Solution
 
 [Here](https://github.com/rocketacademy/basics-starter-code/blob/day3/script.js) is a reference solution for Day 3 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
-

@@ -5,7 +5,7 @@
 Today we will practise JavaScript Objects. For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For subsequent exercises, feel free to comment out your previous exercise code and create a new `main` function for the new exercise. Please switch driver and navigator each app.
 
 {% hint style="warning" %}
-When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software/#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
 ## Base
@@ -30,11 +30,11 @@ The player can input how many cards they want. The lowest of the player's cards 
 
 ### Low Card Suit Output
 
-Implement a nice-looking output for Low Card. Use a helper function to display each card nicely with emoji \(♠️, ♥️, etc.\). Try to avoid repeating code if possible.
+Implement a nice-looking output for Low Card. Use a helper function to display each card nicely with emoji (♠️, ♥️, etc.). Try to avoid repeating code if possible.
 
 Example:
 
-```text
+```
 Player 1 drew:
 1 of ♦️.
 
@@ -49,7 +49,7 @@ Player 2 wins!
 
 ### **Low Card with Wild Card**
 
-Update our latest Low Card implementation with the following twist. At the beginning of the game, pick \(but do not draw\) a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins.
+Update our latest Low Card implementation with the following twist. At the beginning of the game, pick (but do not draw) a random card in the deck to be the Wild Card. If either player draws the Wild Card, that player automatically wins.
 
 ### Low Card with Player-Chosen Wild Card
 
@@ -70,4 +70,3 @@ Update the previous game logic such that if any player gets a pair in their hand
 ## Reference Solutions
 
 [Here](https://github.com/rocketacademy/basics-starter-code/blob/day9/script.js) is a reference solution for Day 9 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
-

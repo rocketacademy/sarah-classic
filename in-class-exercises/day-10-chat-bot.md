@@ -5,7 +5,7 @@
 Today we will practise more complex code logic with nested objects and arrays. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Please switch driver and navigator each app.
 
 {% hint style="warning" %}
-When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software/#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
 We will make a chat bot that asks questions when the submit button is clicked. The user can respond by typing and submitting input and the bot can respond further. Please read all exercises before beginning to see how the chat bot can become more complex.
@@ -18,7 +18,7 @@ We will make a chat bot that asks questions when the submit button is clicked. T
 
 The following is a sample conversation between Bot and User.
 
-```text
+```
 Bot: Hey, wow you seem happy today! Have you been coding? (yes/no/maybe)
 ---
 User: Yes.
@@ -107,7 +107,7 @@ Add a new chat bot question that asks for the user's name and responds with a se
 
 #### Sample Chat Bot Conversation
 
-```text
+```
 Bot: Hey! I'm Robocop. What's your name?
 ---
 User: Kai
@@ -121,7 +121,7 @@ Use the user's name in the bot's subsequent output. You may want to store the us
 
 #### Sample Subsequent Bot Output
 
-```text
+```
 Bot: Kai! Hey, wow you seem happy today! Have you been coding? (yes/no/maybe).
 ```
 
@@ -131,7 +131,7 @@ Update the chat bot to ask for the user's age after their name. The chat bot's r
 
 #### Sample Chat Bot Conversation
 
-```text
+```
 Bot: Hey! I'm Robocop. What's your name?
 ---
 User: Kai
@@ -242,9 +242,8 @@ var questionAndAnswerSets = {
 
 Add questions to our chat bot that are purportedly for fortune telling, but where the bot always provides standard responses that anyone might believe are individualised. For example, the bot might ask "Let me tell your fortune. If you have a birthmark, where is it on your body?" and respond with "You have a great need for other people to like and admire you."
 
-Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum_effect#Early_research).
+Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum\_effect#Early\_research).
 
 ## Reference Solutions
 
 [Here](https://github.com/rocketacademy/basics-starter-code/blob/day10/script.js) is a reference solution for Day 10 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
-

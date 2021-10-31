@@ -5,7 +5,7 @@
 Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md#exercises). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For some exercises you may need to google for information. Please switch driver and navigator each exercise.
 
 {% hint style="warning" %}
-When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
+When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software/#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
 {% endhint %}
 
 ## Knowledge Check
@@ -60,7 +60,7 @@ Create an app for a bar to calculate how many kegs they need. The user will ente
 
 Create an app for the $19.99 50GB post-paid plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB. Assume that if the user exceeds 50GB, they will automatically purchase an additional 50GB plan. You may find the built-in function `Math.ceil` helpful for this (can google how to use it).
 
-For example if the user only used 1GB this month, the app would calculate $19.99 per GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month assume the user bought 2 plans and the app would calculate $0.78 per GB. 
+For example if the user only used 1GB this month, the app would calculate $19.99 per GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month assume the user bought 2 plans and the app would calculate $0.78 per GB.&#x20;
 
 ### Mortgage Calculator
 
@@ -75,16 +75,16 @@ Output several values including:
 {% hint style="warning" %}
 #### Concatenating Strings and Numbers
 
-Sometimes when trying to add 2 numbers you may find that your numbers concatenate instead of add. For example, when adding '1' + 1 in your code, the result may be '11' instead of 2. This is because one of your numbers may be represented in JS as a string, most commonly when the number comes from the `input` variable in our programs. 
+Sometimes when trying to add 2 numbers you may find that your numbers concatenate instead of add. For example, when adding '1' + 1 in your code, the result may be '11' instead of 2. This is because one of your numbers may be represented in JS as a string, most commonly when the number comes from the `input` variable in our programs.&#x20;
 
-To resolve similar issues, try converting `input` to a number with [JS' built-in Number function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number) before using it, e.g. `const loanAmt = Number(input)`.
+To resolve similar issues, try converting `input` to a number with [JS' built-in Number function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Number) before using it, e.g. `const loanAmt = Number(input)`.
 
 The following is a more detailed breakdown of JS behaviour when concatenating strings and numbers.
 
 1. String + String
    1. 'hello' + 'hi'  will return 'hellohi'
    2. '2' + '2' will return '22'
-2. Number + Number 
+2. Number + Number&#x20;
    1. 2 + 2 will return 4
 3. Number + String
    1. 2 + '2' will return '22'
