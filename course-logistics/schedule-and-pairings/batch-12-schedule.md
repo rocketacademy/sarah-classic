@@ -15,7 +15,7 @@ Description: What and when we will learn
 | 6 | [21 Dec](#course-day-11) | [23 Dec](#course-day-12) |
 
 
-# Sat 13 Nov, Week 0, Course Day 0{#course-day-0}: Pre-Course Briefing
+# Sat 13 Nov, Week 0, [Course Day 0](#course-day-0): Pre-Course Briefing
 Meeting time: 4:00 PM SGT (GMT+8)
 
 {% hint style="warning" %}
