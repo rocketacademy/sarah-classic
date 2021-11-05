@@ -189,7 +189,7 @@ Ask the students to reflect on their level of knowledge six weeks ago.
 
 ### **LinkedIn Certificate Presentations**
 
-Share with students how they can add Rocket Academy's Coding Basics Certificate badge to their LinkedIns. [Instructions here](../course-logistics/linkedin-certificates.md).
+Share with students how they can add Rocket Academy's Coding Basics Certificate badge to their LinkedIns. [Instructions here](../course-logistics/post-course/linkedin-certificates.md).
 
 ### **Class Photo 🥳**
 

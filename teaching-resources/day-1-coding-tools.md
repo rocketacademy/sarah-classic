@@ -190,7 +190,7 @@ var main = function (input) {
 
 _**This is the first pairing exercise the students will do.**_ Set the tone for the exercise because this is the first time students have heard of pairing. It's important to emphasize the ideal pairing culture we want to build in Basics.
 
-This will be reviewed again next week when the [Social Rules](../course-logistics/course-methodology/social-rules.md) are covered.
+This will be reviewed again next week when the [Social Rules](../course-logistics/social-rules.md) are covered.
 
 #### You might touch on the following points:
 

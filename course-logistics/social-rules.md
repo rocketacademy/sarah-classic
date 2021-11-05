@@ -8,7 +8,7 @@ In Rocket Academy, even though we don't meet physically in person, a significant
 
 You will be asked to complete exercises collaboratively with another person who might know more than you or who might know less than you about the task at hand. This is by design, since we think that a great learning environment is one in which the clear communication of your own understanding of a concept is a great way to cement your knowledge. This doesn't just refer to teaching someone who knows less, but also to summarize and clarify your thinking to someone who understands more.
 
-We hope to create a culture of intellectual honesty and curiosity where people are not afraid to ask "stupid" questions and posit theories based on their own current level of understanding without feeling afraid. We feel that most people understand how vulnerable and scary this can feel, and therefore want to make people in RA as comfortable as possible to express themselves and what their thought process is. 
+We hope to create a culture of intellectual honesty and curiosity where people are not afraid to ask "stupid" questions and posit theories based on their own current level of understanding without feeling afraid. We feel that most people understand how vulnerable and scary this can feel, and therefore want to make people in RA as comfortable as possible to express themselves and what their thought process is.&#x20;
 
 Our goal for every student is empathetic communication that makes everyone feel safe to ask anything they need to in order to maximize their learning.
 

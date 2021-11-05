@@ -7,7 +7,7 @@
 * [🧑🏫 Course Methodology](course-logistics/course-methodology/README.md)
   * [🧩 Projects](course-logistics/course-methodology/projects.md)
   * [💬 Slack](course-logistics/course-methodology/slack.md)
-  * [❤ Social Rules](course-logistics/course-methodology/social-rules.md)
+  * [❤ Social Rules](course-logistics/social-rules.md)
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
   * [Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
   * [Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
@@ -19,9 +19,10 @@
   * [📅 Batch 12 Schedule](course-logistics/schedule-and-pairings/batch-12-schedule.md)
 * [📒 Coding Strategies](course-logistics/coding-strategies.md)
 * [💡 Tooling Pro Tips](course-logistics/tooling-pro-tips.md)
-* [🎓 LinkedIn Certificates](course-logistics/linkedin-certificates.md)
-* [🚂 Bootcamp Admission Criteria](course-logistics/bootcamp-admission-criteria.md)
-* [📹 Bootcamp Video Application](course-logistics/bootcamp-video-application.md)
+* [🎓 Post-Course](course-logistics/post-course/README.md)
+  * [🎓 LinkedIn Certificates](course-logistics/post-course/linkedin-certificates.md)
+  * [🚂 Bootcamp Admission Criteria](course-logistics/post-course/bootcamp-admission-criteria.md)
+  * [📹 Bootcamp Video Application](course-logistics/post-course/bootcamp-video-application.md)
 
 ## Projects
 
