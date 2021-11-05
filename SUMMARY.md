@@ -5,8 +5,9 @@
 ## Course Logistics
 
 * [🧑🏫 Course Methodology](course-logistics/course-methodology/README.md)
+  * [🧩 Projects](course-logistics/course-methodology/projects.md)
   * [💬 Slack](course-logistics/course-methodology/slack.md)
-* [❤ Social Rules](course-logistics/social-rules.md)
+  * [❤ Social Rules](course-logistics/course-methodology/social-rules.md)
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
   * [Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
   * [Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)

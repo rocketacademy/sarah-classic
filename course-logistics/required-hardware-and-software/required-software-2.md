@@ -434,7 +434,7 @@ For Coding Basics, we recommend storing all of your code in a folder called `bas
 
 ![Sample basics folder in VSCode](../../.gitbook/assets/jie-ping-20210302-15.52.14.png)
 
-## Recommended: Window-Snapping Software
+## \[Recommended] Window-Snapping Software
 
 On both Windows and Mac there are features to snap windows to standard sizes and places on our screen using keyboard shortcuts. This is especially helpful when coding and we want to view code on one side and documentation on another. The alternative is to manually drag windows and resize them.
 
