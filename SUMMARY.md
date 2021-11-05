@@ -12,7 +12,7 @@
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
   * [Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
   * [Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
-* [🧑🏫 🧑🏫 Course Methodology](course-logistics/course-methodology.md)
+* [🧑🏫 Course Methodology](course-logistics/course-methodology.md)
 * [❤ Social Rules](course-logistics/social-rules.md)
 * [📒 Coding Strategies](course-logistics/coding-strategies.md)
 * [💡 Tooling Pro Tips](course-logistics/tooling-pro-tips.md)
