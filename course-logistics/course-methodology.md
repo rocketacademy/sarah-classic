@@ -2,7 +2,7 @@
 
 ## Class Organisation
 
-Each cohort will be split into sections of no more than 10 students. Each section will be led by a section leader from RA, who will be the primary point of contact for that section during Coding Basics. Sections are assigned randomly and fixed for the duration of the course. Students will meet with their respective sections for classes to maximise interaction and learning. Students will be able to interact with students from other sections via Slack.
+Each cohort will be split into sections of no more than 20 students. Each section will be led by a section leader from RA, who will be the primary point of contact for that section during Coding Basics, and assisted by an Assistant Section Leader. Sections are assigned randomly and fixed for the duration of the course. Students will meet with their respective sections for classes to maximise interaction and learning. Students will be able to interact with students from other sections via Slack.
 
 ## Course Components
 
@@ -63,9 +63,9 @@ During RA's courses you will have questions about the material. To ensure your q
 
 To get help effectively, we need to provide context. One of the biggest differences between junior and senior engineers is the amount of relevant context they provide with their questions.
 
-Questions **without context** usually sound like: "_It doesn't work. Could you help?_" A question with **relevant** context might be more like: "_Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system._" 
+Questions **without context** usually sound like: "_It doesn't work. Could you help?_" A question with **relevant** context might be more like: "_Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system._"&#x20;
 
-Contextual questions help the answerer by filling in the details needed to fully understand the question. In the field of programming (not just for students) it is well known that simply formulating the question often leads directly to the answer. [This is called rubber-duck programming.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+Contextual questions help the answerer by filling in the details needed to fully understand the question. In the field of programming (not just for students) it is well known that simply formulating the question often leads directly to the answer. [This is called rubber-duck programming.](https://en.wikipedia.org/wiki/Rubber\_duck\_debugging)
 
 #### How to ask contextual questions
 
