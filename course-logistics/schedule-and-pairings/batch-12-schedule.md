@@ -53,11 +53,8 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 
 * [1.1: What is coding?](https://basics.rocketacademy.co/1-introduction/1.1-what-is-coding)
 * [1.2: Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers)
-* [2.1: Command Line](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.1-command-line)
-* [2.2: Git](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.2-git)
 * [3.1: Operations](https://basics.rocketacademy.co/3-basic-data-manipulation/3.1-operations)
 * [3.2: Variables](https://basics.rocketacademy.co/3-basic-data-manipulation/3.2-variables)
-* [4.1: Introduction to Github](https://basics.rocketacademy.co/4-getting-started-with-code/4.1-intro-to-github)
 * [4.2: Our First Program](https://basics.rocketacademy.co/4-getting-started-with-code/4.2-our-first-program)
 
 ### In Class
@@ -78,7 +75,6 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~25 mins**
 
-* [Review Social Rules](https://basics.rocketacademy.co/course-logistics/love-social-rules)
 * [5.1: Functions](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.1-functions)
 * [5.2: Errors](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.2-errors)
 
@@ -114,9 +110,9 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~41 mins**
 
-* [7.1: Github Fork and Pull Request](https://basics.rocketacademy.co/7-github/7.1-github-fork-and-pull-request)
-* [7.2: Github Navigation](https://basics.rocketacademy.co/7-github/7.2-github-repo-browsing)
 * [8.1: Program Lifecycle and Global State](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.1-program-lifecycle-and-state)
+* [2.1: Command Line](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.1-command-line)
+* [2.2: Git](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.2-git)
 
 ### In Class
 
@@ -140,6 +136,9 @@ Total Video Watch Time: **\~17 mins**
 
 * [8.2: Program State for Game Modes](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.2-program-state-for-game-modes)
 * [8.3: Input Validation](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.3-input-validation)
+* [4.1: Introduction to Github](https://basics.rocketacademy.co/4-getting-started-with-code/4.1-intro-to-github)
+* [7.1: Github Fork and Pull Request](https://basics.rocketacademy.co/7-github/7.1-github-fork-and-pull-request)
+* [7.2: Github Navigation](https://basics.rocketacademy.co/7-github/7.2-github-repo-browsing)
 
 ### In Class
 
