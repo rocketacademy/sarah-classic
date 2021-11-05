@@ -12,7 +12,7 @@ Description: What and when we will learn
 | 3 | [30 Nov](#course-day-5) | [4 Dec](#course-day-6) |
 | 4 | [7 Dec](#course-day-7) | [11 Dec](#course-day-8) |
 | 5 | [14 Dec](#course-day-9) | [18 Dec](#course-day-10) |
-| 6 | [21 Dec](#course-day-11) | [23 Dec](#course-day-12) |
+| 6 | [21 Dec](#course-day-11) | [23 Dec (Thurs)](#course-day-12) |
 
 
 # Sat 13 Nov, Week 0, Course Day 0: Pre-Course Briefing <a href="course-day-0" id="course-day-0"></a>
