@@ -14,7 +14,7 @@ Slack is a chat software and RA's primary mode of communication. It allows us to
 2. Download the Slack desktop app for your relevant operating system [here](https://slack.com/intl/en-sg/help/categories/360000049043-Getting-started).
 
 {% hint style="warning" %}
-Slack is one of the cornerstone mediums on which this course operates! Look through the [quick-start guide](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide) if new to slack, and please read through the [Slack House Rules](../course-methodology.md#slack-house-rules) before the course begins.
+Slack is one of the cornerstone mediums on which this course operates! Look through the [quick-start guide](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide) if new to slack, and please read through the [Slack House Rules](../course-methodology/#slack-house-rules) before the course begins.
 {% endhint %}
 
 ### Zoom
