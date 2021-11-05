@@ -45,7 +45,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~48 mins**
+Total Video Watch Time: **\~35 mins**
 
 {% hint style="warning" %}
 Coding Basics used to be called SWE101 and some of our videos were made before the name change and still reference the old name of SWE101. Please take note!
@@ -59,13 +59,11 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 
 ### In Class
 
-Total Video Watch Time: **\~48 mins**
-
 {% hint style="warning" %}
 Please **do not** attempt in-class material before class for all course days, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.
 {% endhint %}
 
-\* \[Day 1: Basic File and Data Manipulation]\(https://basics.rocketacademy.co/in-class-exercises/day-1-basic-file-and-data-manipulation)
+* [Day 1: Basic File and Data Manipulation](../../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
 
 ## Sat 20 Nov, Week 1, Course Day 2: Functions <a href="course-day-2" id="course-day-2"></a>
 
