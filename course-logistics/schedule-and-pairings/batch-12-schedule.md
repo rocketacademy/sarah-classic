@@ -4,16 +4,16 @@
 Description: What and when we will learn
 ---
 # Course Dates
-| Week | Monday | Tuesday | Saturday |
-| :---: | :---: | :---: | :---: |
-| 0 | - | - | [13 Nov](#course-day-0) |
-| 1 | - | [16 Nov](#course-day-1) | [20 Nov](#course-day-2) |
-| 2 | - | [23 Nov](#course-day-3) | [27 Nov](#course-day-4) |
-| 3 | - | [30 Nov](#course-day-5) | [4 Dec](#course-day-6) |
-| 4 | - | [7 Dec](#course-day-7) | [11 Dec](#course-day-8) |
-| 5 | - | [14 Dec](#course-day-9) | [18 Dec](#course-day-10) |
-| 6 | - | [21 Dec](#course-day-11) | public holiday (SG) |
-| 7 | company holiday (SG) | [4 Jan](#course-day-12) | - |
+| Week | Tuesday | Saturday |
+| :---: | :---: | :---: |
+| 0 | - | [13 Nov](#course-day-0) |
+| 1 | [16 Nov](#course-day-1) | [20 Nov](#course-day-2) |
+| 2 | [23 Nov](#course-day-3) | [27 Nov](#course-day-4) |
+| 3 | [30 Nov](#course-day-5) | [4 Dec](#course-day-6) |
+| 4 | [7 Dec](#course-day-7) | [11 Dec](#course-day-8) |
+| 5 | [14 Dec](#course-day-9) | [18 Dec](#course-day-10) |
+| 6 | [21 Dec](#course-day-11) | public holiday (SG) |
+| 7 | [4 Jan](#course-day-12) | - |
 
 
 # Sat 13 Nov, Week 0, Course Day 0{#course-day-0}: Pre-Course Briefing
