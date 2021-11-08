@@ -14,7 +14,7 @@ description: What and when we will learn
 |   3  | [18 Oct](batch-11-mon-thu-schedule.md#course-day-5) | [21 Oct](batch-11-mon-thu-schedule.md#course-day-6) |                           -                          |
 |   4  | [25 Oct](batch-11-mon-thu-schedule.md#course-day-7) | [28 Oct](batch-11-mon-thu-schedule.md#course-day-8) |                           -                          |
 |   5  |  [1 Nov](batch-11-mon-thu-schedule.md#course-day-9) |                 public holiday (SG)                 |                           -                          |
-|   6  | [8 Nov](batch-11-mon-thu-schedule.md#course-day-10) |                          -                          | [13 Nov](batch-11-mon-thu-schedule.md#course-day-11) |
+|   6  | [8 Nov](batch-11-mon-thu-schedule.md#course-day-10) |                          -                          | [13 Nov](batch-11-mon-thu-schedule.md#course-day-12) |
 
 ## Sat 2 Oct, Week 0, Course Day 0: Pre-Course Briefing <a href="course-day-0" id="course-day-0"></a>
 
@@ -242,7 +242,7 @@ Total Video Watch Time: **\~60 mins**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
-### Project Due
+### Project Check-in
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
@@ -257,11 +257,11 @@ Total Video Watch Time: **\~18 mins**
 
 * [Day 11: Blackjack Redux and Debugger](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
 
-### Project Start
+### Project Continuation
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-## Mon 15 Nov, Week 7, Course Day 12: Project Presentations <a href="course-day-12" id="course-day-12"></a>
+## Sat 13 Nov, Week 7, Course Day 12: Project Presentations <a href="course-day-12" id="course-day-12"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -269,7 +269,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-### Pre Class
+### Pre Class (Optional)
 
 Total Video Watch Time: **\~22 mins**
 
@@ -282,6 +282,7 @@ Total Video Watch Time: **\~22 mins**
 * [Project presentations](https://basics.rocketacademy.co/course-logistics/course-methodology#project-presentations)
 * LinkedIn certificate presentations
 * Class Photo 🥳
+* Closing Ceremony
 
 ## Further Reading
 
