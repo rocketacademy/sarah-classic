@@ -6,16 +6,15 @@ description: What and when we will learn
 
 ## Course Dates
 
-| Week |                        Monday                        |                       Thursday                       |                      Saturday                      |
-| :--: | :--------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: |
-|   0  |                           -                          |                           -                          | [2 Oct](batch-11-mon-thu-schedule.md#course-day-0) |
-|   1  |  [4 Oct](batch-11-mon-thu-schedule.md#course-day-1)  |  [7 Oct](batch-11-mon-thu-schedule.md#course-day-2)  |                          -                         |
-|   2  |  [11 Oct](batch-11-mon-thu-schedule.md#course-day-3) |  [14 Oct](batch-11-mon-thu-schedule.md#course-day-4) |                          -                         |
-|   3  |  [18 Oct](batch-11-mon-thu-schedule.md#course-day-5) |  [21 Oct](batch-11-mon-thu-schedule.md#course-day-6) |                          -                         |
-|   4  |  [25 Oct](batch-11-mon-thu-schedule.md#course-day-7) |  [28 Oct](batch-11-mon-thu-schedule.md#course-day-8) |                          -                         |
-|   5  |  [1 Nov](batch-11-mon-thu-schedule.md#course-day-9)  |                  public holiday (SG)                 |                          -                         |
-|   6  |  [8 Nov](batch-11-mon-thu-schedule.md#course-day-10) | [11 Nov](batch-11-mon-thu-schedule.md#course-day-11) |                          -                         |
-|   7  | [15 Nov](batch-11-mon-thu-schedule.md#course-day-12) |                           -                          |                          -                         |
+| Week |                        Monday                       |                       Thursday                      |                       Saturday                       |
+| :--: | :-------------------------------------------------: | :-------------------------------------------------: | :--------------------------------------------------: |
+|   0  |                          -                          |                          -                          |  [2 Oct](batch-11-mon-thu-schedule.md#course-day-0)  |
+|   1  |  [4 Oct](batch-11-mon-thu-schedule.md#course-day-1) |  [7 Oct](batch-11-mon-thu-schedule.md#course-day-2) |                           -                          |
+|   2  | [11 Oct](batch-11-mon-thu-schedule.md#course-day-3) | [14 Oct](batch-11-mon-thu-schedule.md#course-day-4) |                           -                          |
+|   3  | [18 Oct](batch-11-mon-thu-schedule.md#course-day-5) | [21 Oct](batch-11-mon-thu-schedule.md#course-day-6) |                           -                          |
+|   4  | [25 Oct](batch-11-mon-thu-schedule.md#course-day-7) | [28 Oct](batch-11-mon-thu-schedule.md#course-day-8) |                           -                          |
+|   5  |  [1 Nov](batch-11-mon-thu-schedule.md#course-day-9) |                 public holiday (SG)                 |                           -                          |
+|   6  | [8 Nov](batch-11-mon-thu-schedule.md#course-day-10) |                          -                          | [13 Nov](batch-11-mon-thu-schedule.md#course-day-11) |
 
 ## Sat 2 Oct, Week 0, Course Day 0: Pre-Course Briefing <a href="course-day-0" id="course-day-0"></a>
 
