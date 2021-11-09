@@ -267,7 +267,7 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-### Pre Class
+### Pre Class (Optional)
 
 Total Video Watch Time: **\~22 mins**
 
@@ -280,6 +280,7 @@ Total Video Watch Time: **\~22 mins**
 * [Project presentations](https://basics.rocketacademy.co/course-logistics/course-methodology#project-presentations)
 * LinkedIn certificate presentations
 * Class Photo 🥳
+* Closing Ceremony
 
 ## Further Reading
 
