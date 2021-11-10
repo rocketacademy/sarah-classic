@@ -61,7 +61,7 @@
 
 * [3.1: Operations](3-basic-data-manipulation/3.1-operations.md)
 * [3.2: Variables](3-basic-data-manipulation/3.2-variables.md)
-* [4.2: Our First Program](4-getting-started-with-code/4.2-our-first-program.md)
+* [2.3: Our First Program](4-getting-started-with-code/4.2-our-first-program.md)
 
 ## 4: Getting Started with Code
 
