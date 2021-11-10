@@ -48,6 +48,7 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 
 * [1.1: What is coding?](https://basics.rocketacademy.co/1-introduction/1.1-what-is-coding)
 * [1.2: Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers)
+* [1.3: Command Line](../../2-organising-and-managing-code-files/2.1-command-line.md)
 
 **Module 2: Basic Data Manipulation**
 
@@ -177,10 +178,9 @@ Total Video Watch Time: **\~11 mins**
 
 * [6.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
 
-**Module 7: Command Line and Version Control**
+**Module 7:  Version Control**
 
-* [7.1: Command Line](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.1-command-line)
-* [7.2: Git](../../2-organising-and-managing-code-files/2.2-git.md)
+* [7.1: Git](../../2-organising-and-managing-code-files/2.2-git.md)
 
 ### In Class
 
