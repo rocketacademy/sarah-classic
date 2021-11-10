@@ -44,12 +44,12 @@ Total Video Watch Time: **\~35 mins**
 Coding Basics used to be called SWE101 and some of our videos were made before the name change and still reference the old name of SWE101. Please take note!
 {% endhint %}
 
-Module 1: Introduction
+**Module 1: Introduction**
 
 * [1.1: What is coding?](https://basics.rocketacademy.co/1-introduction/1.1-what-is-coding)
 * [1.2: Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers)
 
-Module 2: Basic Data Manipulation
+**Module 2: Basic Data Manipulation**
 
 * [2.1: Operations](https://basics.rocketacademy.co/3-basic-data-manipulation/3.1-operations)
 * [2.2: Variables](https://basics.rocketacademy.co/3-basic-data-manipulation/3.2-variables)
@@ -71,7 +71,7 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~25 mins**
 
-Module 3: Structuring and Debugging Code
+**Module 3: Structuring and Debugging Code**
 
 * [3.1: Functions](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.1-functions)
 * [3.2: Errors](../../5-structuring-and-debugging-code/5.2-errors.md)
