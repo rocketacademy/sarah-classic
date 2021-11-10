@@ -1,4 +1,4 @@
-# 🧩 Projects
+# 🎲 Projects
 
 ## Project Presentations and Review
 
