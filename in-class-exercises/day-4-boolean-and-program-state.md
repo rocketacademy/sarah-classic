@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will practise the GitHub fork and pull request workflow, and program state. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../3-basic-data-manipulation/4.2-our-first-program.md#setup). Please switch driver and navigator each exercise.
+Today we will practise the GitHub fork and pull request workflow, and program state. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Please switch driver and navigator each exercise.
 
 {% hint style="warning" %}
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.

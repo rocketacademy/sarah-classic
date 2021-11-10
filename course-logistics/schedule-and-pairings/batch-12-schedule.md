@@ -74,7 +74,8 @@ Total Video Watch Time: **\~25 mins**
 Module 3: Structuring and Debugging Code
 
 * [3.1: Functions](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.1-functions)
-* [3.2: Errors](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.2-errors)
+* 3.2: Psuedo Code And Comments
+* [3.3: Errors](../../5-structuring-and-debugging-code/5.2-errors.md)
 
 ### In Class
 
@@ -150,8 +151,6 @@ Total Video Watch Time: **\~17 mins**
 
 * [Day 5: Scissors Paper Stone Redux](https://basics.rocketacademy.co/in-class-exercises/day-5-scissors-paper-stone-redux)
 
-###
-
 ## Sat 4 Dec, Week 3, Course Day 6: Arrays, Loops 1 <a href="course-day-6" id="course-day-6"></a>
 
 Meeting time: 1:00 PM SGT (GMT+8)
@@ -159,6 +158,8 @@ Meeting time: 1:00 PM SGT (GMT+8)
 ### Pre Class
 
 Total Video Watch Time: **\~41 mins**
+
+**Module 9: Arrays and Iteration**
 
 * [9.1: Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.1-arrays)
 * [9.2: Loops](https://basics.rocketacademy.co/9-arrays-and-iteration/9.2-loops)
@@ -179,11 +180,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~11 mins**
 
-**Module 4: Logic**
-
-* [4.4: Input Validation](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.3-input-validation)
-
-**Module  : Arrays **
+**Module 9: Arrays and Iteration**
 
 * [9.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
 
@@ -272,7 +269,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-### Pre Class
+### Pre Class (Optional)
 
 Total Video Watch Time: **\~22 mins**
 
