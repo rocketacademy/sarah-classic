@@ -74,8 +74,7 @@ Total Video Watch Time: **\~25 mins**
 Module 3: Structuring and Debugging Code
 
 * [3.1: Functions](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.1-functions)
-* 3.2: Psuedo Code And Comments
-* [3.3: Errors](../../5-structuring-and-debugging-code/5.2-errors.md)
+* [3.2: Errors](../../5-structuring-and-debugging-code/5.2-errors.md)
 
 ### In Class
 
@@ -89,7 +88,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~40 mins**
 
-Module 4: Logic
+**Module 4: Logic**
 
 * [4.1: Introduction to Logic](https://basics.rocketacademy.co/6-conditional-logic/6.1-intro-to-logic)
 * [4.2: Pseudo Code, Boolean "Or"](https://basics.rocketacademy.co/6-conditional-logic/6.2-pseudo-code-boolean-or)
@@ -116,11 +115,6 @@ Total Video Watch Time: **\~41 mins**
 
 * [5.1: Program Lifecycle and Global State](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.1-program-lifecycle-and-state)
 
-**Module 6: Command Line and Version Control**
-
-* [6.1: Command Line](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.1-command-line)
-* [6.2: Git](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.2-git)
-
 ### In Class
 
 * [Day 4: Boolean "And", Program State](https://basics.rocketacademy.co/in-class-exercises/day-4-boolean-and-program-state)
@@ -141,11 +135,10 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~17 mins**
 
-**Module 7: GitHub**
+**Module 5: Global State**
 
-* [7.1: Introduction to GitHub](https://basics.rocketacademy.co/4-getting-started-with-code/4.1-intro-to-github)
-* [7.2: GitHub Fork and Pull Request](https://basics.rocketacademy.co/7-github/7.1-github-fork-and-pull-request)
-* [7.3: GitHub Navigation](https://basics.rocketacademy.co/7-github/7.2-github-repo-browsing)
+* [5.2: Program State for Game Modes](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+* [5.3: Input Validation](../../8-managing-state-and-input-validation/8.3-input-validation.md)
 
 ### In Class
 
@@ -184,6 +177,10 @@ Total Video Watch Time: **\~11 mins**
 
 * [9.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
 
+**Module 6: Command Line and Version Control**
+
+* [6.1: Command Line](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.1-command-line)
+
 ### In Class
 
 * [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
@@ -200,7 +197,7 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~15 mins**
 
-* [10.1: Javascript Objects](https://basics.rocketacademy.co/10-javascript-objects/10.1-javascript-objects)
+* [10.1: JavaScript Objects](https://basics.rocketacademy.co/10-javascript-objects/10.1-javascript-objects)
 
 ### In Class
 
