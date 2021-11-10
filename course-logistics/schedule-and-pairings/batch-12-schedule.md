@@ -198,7 +198,9 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~15 mins**
 
-* [10.1: JavaScript Objects](https://basics.rocketacademy.co/10-javascript-objects/10.1-javascript-objects)
+**Module 9: Objects**
+
+* [9.1: JavaScript Objects](https://basics.rocketacademy.co/10-javascript-objects/10.1-javascript-objects)
 
 ### In Class
 
@@ -216,7 +218,9 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~16 mins**
 
-* [10.2: Card Deck Generation with Loops](https://basics.rocketacademy.co/10-javascript-objects/10.2-card-deck-generation-with-loops)
+**Module 9: Objects**
+
+* [9.2: Card Deck Generation with Loops](https://basics.rocketacademy.co/10-javascript-objects/10.2-card-deck-generation-with-loops)
 
 ### In Class
 
@@ -230,7 +234,9 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~60 mins**
 
-* [10.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/10-javascript-objects/10.3-card-game-example-war)
+**Module 9: Objects**
+
+* [9.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/10-javascript-objects/10.3-card-game-example-war)
 
 ### In Class
 
@@ -248,8 +254,8 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~18 mins**
 
-* [11.1: Advanced Debugging with Sources Tab](https://basics.rocketacademy.co/11-advanced-debugging/11.1-advanced-debugging-with-sources-tab)
-* [12.3: Project Deployment](https://basics.rocketacademy.co/12-next-steps/12.3-deployment)
+* [10.1: Advanced Debugging with Sources Tab](https://basics.rocketacademy.co/11-advanced-debugging/11.1-advanced-debugging-with-sources-tab)
+* [8.4: Project Deployment](https://basics.rocketacademy.co/12-next-steps/12.3-deployment)
 
 ### In Class
 
@@ -271,8 +277,8 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~22 mins**
 
-* [12.1: Browser Applications with DOM](https://basics.rocketacademy.co/12-next-steps/12.1-browser-applications-with-dom)
-* [12.2: HTML, CSS Review](https://basics.rocketacademy.co/12-next-steps/12.2-html-css-review)
+* [10.2: HTML, CSS Review](https://basics.rocketacademy.co/12-next-steps/12.2-html-css-review)
+* [10.3: Browser Applications with DOM](https://basics.rocketacademy.co/12-next-steps/12.1-browser-applications-with-dom)
 
 ### In Class
 
