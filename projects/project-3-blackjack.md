@@ -111,7 +111,7 @@ If you already have an effective strategy for creating your game, you can skip a
 
 ## Walkthrough
 
-If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution. Please try to attempt the project once yourself before referencing the walkthrough, and do note that the video uses template code straight from [10.2: Card Deck Generation](../9-javascript-objects/10.2-card-deck-generation-with-loops.md). If you would like to follow along exactly, you can start with the [base code](https://github.com/rocketacademy/basics-blackjack/tree/walkthrough-base) used in the walkthrough.
+If you are still unsure how to start, or find yourself stuck for too long, Bryan can walk you through how to get to the Base solution. Please try to attempt the project once yourself before referencing the walkthrough, and do note that the video uses template code straight from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md). If you would like to follow along exactly, you can start with the [base code](https://github.com/rocketacademy/basics-blackjack/tree/walkthrough-base) used in the walkthrough.
 
 {% embed url="https://www.youtube.com/watch?v=SccCe9_qU2Q" %}
 Blackjack Base Walkthrough
@@ -203,7 +203,7 @@ In most casinos, all cards are face-up except the dealer's first card. This inje
 
 ### Additional HTML Elements
 
-Look ahead to [12.1 Browser Application with DOM](../10-advanced/12.1-browser-applications-with-dom.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
+Look ahead to [12.1 Browser Application with DOM](../12-next-steps/12.1-browser-applications-with-dom.md) to see how additional HTML elements can be referenced and manipulated; add a button for 'Hit' and 'Stand'.
 
 ### Additional Game Logic
 
@@ -225,8 +225,8 @@ Add hand-splitting functionality to the game. If the player has two of the same 
 
 ## Submit
 
-1. [Push](../8-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
-2. [Create a pull request](../8-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
+1. [Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
+2. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
 3. Please leave your name and _**section number **_in the _**title**_ of the pull request.
 4. Please fill in the questionnaire in the pull request comments when you submit.
 

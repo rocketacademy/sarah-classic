@@ -12,7 +12,7 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 
 ### GitHub Fork and Pull Request
 
-Follow the ["fork and pull request" workflow](../8-github/7.1-github-fork-and-pull-request.md#cheatsheet) for the following Secret Word app. This is to practise this workflow for the current Scissors Paper Stone project, so everyone knows how to set up and submit their assignment. This is the same workflow that developers use when submitting changes to open source (publicly-developed) projects.
+Follow the ["fork and pull request" workflow](../7-github/7.1-github-fork-and-pull-request.md#cheatsheet) for the following Secret Word app. This is to practise this workflow for the current Scissors Paper Stone project, so everyone knows how to set up and submit their assignment. This is the same workflow that developers use when submitting changes to open source (publicly-developed) projects.
 
 1. Fork the [`basics-github-practice` repo](https://github.com/rocketacademy/basics-github-practice) into your own GitHub account
 2. Clone the `basics-github-practice` repo from your own account
@@ -41,7 +41,7 @@ Update Secret Word with an additional rule: The player must guess correctly twic
 
 Update Secret Word game such that the number of times the player needs to guess correctly in a row changes between rounds.
 
-We define "round" as all gameplay until a player wins. The number of times the player needs to guess correctly is a number from 2 to 4, randomly chosen at the start of the round. When the player wins, the computer updates the number of times the player needs to guess correctly in a row for the upcoming round. Consider using [input control from Module 6.3](../4-conditional-logic/6.3-boolean-and-not.md#code-control) to test your logic.
+We define "round" as all gameplay until a player wins. The number of times the player needs to guess correctly is a number from 2 to 4, randomly chosen at the start of the round. When the player wins, the computer updates the number of times the player needs to guess correctly in a row for the upcoming round. Consider using [input control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to test your logic.
 
 ## More Comfortable
 
@@ -57,7 +57,7 @@ Update our dice game to include an additional dice. With each player guess, the 
 
 ### Dice 4D
 
-Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 6.3](../4-conditional-logic/6.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
+Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
 
 ### Secret Word Twice in a Row 2
 

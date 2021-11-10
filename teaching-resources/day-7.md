@@ -14,7 +14,7 @@ Students who had a difficult time understanding the action of loops repeating ov
 
 Total Video Watch Time: **\~11 mins**
 
-### [9.3: Loops with Arrays](../6-arrays-and-iteration/9.3-loops-with-arrays.md)
+### [9.3: Loops with Arrays](../9-arrays-and-iteration/9.3-loops-with-arrays.md)
 
 ```javascript
 var main = function (input) {

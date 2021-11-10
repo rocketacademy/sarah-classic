@@ -32,7 +32,7 @@ A: 1) Understand the problem through language. 2) Strategize to prioritize probl
 
 #### Q: What does deliberate practice mean to you? How are you implementing it in this course?
 
-### [9.1: Arrays](../6-arrays-and-iteration/9.1-arrays.md)
+### [9.1: Arrays](../9-arrays-and-iteration/9.1-arrays.md)
 
 #### Discussion Questions
 
@@ -86,7 +86,7 @@ var main = function (input) {
 
 A: `pop`
 
-### [9.2: Loops](../6-arrays-and-iteration/9.2-loops.md)
+### [9.2: Loops](../9-arrays-and-iteration/9.2-loops.md)
 
 ```javascript
 // Initialise a counter to 0.

@@ -74,7 +74,7 @@ Total Video Watch Time: **\~25 mins**
 **Module 3: Structuring and Debugging Code**
 
 * [3.1: Functions](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.1-functions)
-* [3.2: Errors](../../3-structuring-and-debugging-code/5.2-errors.md)
+* [3.2: Errors](../../5-structuring-and-debugging-code/5.2-errors.md)
 
 ### In Class
 
@@ -137,8 +137,8 @@ Total Video Watch Time: **\~17 mins**
 
 **Module 5: Global State**
 
-* [5.2: Program State for Game Modes](../../5-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
-* [5.3: Input Validation](../../5-managing-state-and-input-validation/8.3-input-validation.md)
+* [5.2: Program State for Game Modes](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+* [5.3: Input Validation](../../8-managing-state-and-input-validation/8.3-input-validation.md)
 
 ### In Class
 
@@ -180,7 +180,7 @@ Total Video Watch Time: **\~11 mins**
 **Module 7: Command Line and Version Control**
 
 * [7.1: Command Line](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.1-command-line)
-* [7.2: Git](../../7-version-control/2.2-git.md)
+* [7.2: Git](../../2-organising-and-managing-code-files/2.2-git.md)
 
 ### In Class
 

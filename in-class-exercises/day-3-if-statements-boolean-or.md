@@ -15,7 +15,7 @@ When cloning the starter code, put each exercise in a separate folder, like the 
 Create a dice game that rolls 2 dice when a user clicks Submit. The user wins if either of their guesses is correct, or the total dice roll is 11.
 
 {% hint style="info" %}
-To test your winning logic, consider using [code control logic from Module 6.3](../4-conditional-logic/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
+To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
 {% endhint %}
 
 ### Hawker Food Categorisation

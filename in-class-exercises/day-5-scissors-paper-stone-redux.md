@@ -13,7 +13,7 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 ### 0. Push Your Code
 
-Refer to the [push section](../8-github/7.1-github-fork-and-pull-request.md#git-push) for the commands needed for this.&#x20;
+Refer to the [push section](../7-github/7.1-github-fork-and-pull-request.md#git-push) for the commands needed for this.&#x20;
 
 ### 1. Clone Partner's Code
 
@@ -76,11 +76,11 @@ If there are any errors or bugs in a project, pair to fix those problems.
 
 #### A) Super Game - Guess the Word
 
-Your pair will turn the Scissors Paper Stone game into a super game. Add a mode for a new guess the secret word game. The user will type in "word game" to switch to this mode. The game itself will be the same as the game in the code example in [6.1](../4-conditional-logic/6.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
+Your pair will turn the Scissors Paper Stone game into a super game. Add a mode for a new guess the secret word game. The user will type in "word game" to switch to this mode. The game itself will be the same as the game in the code example in [6.1](../6-conditional-logic/6.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
 
 #### B) Dice Game
 
-Add a third mode to the super game, a guess the dice roll game. The user will enter "dice game" to switch to this mode. (The dice game is the same dice game as the original basic version in [6.1](../4-conditional-logic/6.1-intro-to-logic.md#dice-game)).
+Add a third mode to the super game, a guess the dice roll game. The user will enter "dice game" to switch to this mode. (The dice game is the same dice game as the original basic version in [6.1](../6-conditional-logic/6.1-intro-to-logic.md#dice-game)).
 
 ### 3. Comfortable
 

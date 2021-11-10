@@ -64,7 +64,7 @@ A: HTML is a file with words and characters in it. HTML specifies what appears i
 
 A: After HTML is loaded by the browser, if the HTML contains JavaScript or a reference to some JavaScript, that JavaScript code is run in the context of that page.
 
-### [2.1: Command Line](../1-introduction/2.1-command-line.md)
+### [2.1: Command Line](../2-organising-and-managing-code-files/2.1-command-line.md)
 
 #### Overview
 
@@ -84,7 +84,7 @@ A: Some programs only run in the context of either, for example, the Git program
 
 A: We need to use the command line to use Git. The command line is the most programmer-focused way to interact with your computer.
 
-### [2.2: Git](../7-version-control/2.2-git.md)
+### [2.2: Git](../2-organising-and-managing-code-files/2.2-git.md)
 
 #### Overview
 
@@ -104,7 +104,7 @@ A: Git is a program you use \*inside\* the terminal. The terminal is the compute
 
 #### Q: How do I get a previous version back?
 
-A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section [7.2 on browsing GitHub](../8-github/7.2-github-repo-browsing.md) we'll see how we can navigate and copy and paste a previous version.
+A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section [7.2 on browsing GitHub](../7-github/7.2-github-repo-browsing.md) we'll see how we can navigate and copy and paste a previous version.
 
 ### [3.1: Operations](../3-basic-data-manipulation/3.1-operations.md)
 
@@ -122,7 +122,7 @@ From operations we add in variables. Here it is important to re-emphasise the co
 
 A: Accurate representation is just as important as correct calculation.
 
-### [4.1: Intro to GitHub](../8-github/4.1-intro-to-github.md)
+### [4.1: Intro to GitHub](../4-getting-started-with-code/4.1-intro-to-github.md)
 
 #### Overview
 

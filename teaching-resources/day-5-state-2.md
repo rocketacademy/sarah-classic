@@ -16,7 +16,7 @@ For this day, instead of an in-class exercise that explicitly deals with the pre
 
 Total Video Watch Time: **\~17 mins**
 
-### [8.3: Input Validation](../5-managing-state-and-input-validation/8.3-input-validation.md)
+### [8.3: Input Validation](../8-managing-state-and-input-validation/8.3-input-validation.md)
 
 ### Number
 
@@ -74,7 +74,7 @@ A: This "early return" code might be easier to read because the logical flow of 
 
 In the version with the else you have to indent the main part of the program. In general it's easier to read code that is refactored to be less indented (for instance in an extreme example you might have to nest 10 times. one condition inside another, inside another, etc.)
 
-### [8.2: Program State for Game Modes](../5-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+### [8.2: Program State for Game Modes](../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
 
 #### Example 1
 

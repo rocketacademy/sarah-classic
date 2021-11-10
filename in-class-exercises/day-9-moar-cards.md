@@ -10,7 +10,7 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 
 ## Base
 
-Feel free to copy the card deck generation function from [10.2: Card Deck Generation](../9-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling functions from [10.1: JavaScript Objects](../9-javascript-objects/10.1-javascript-objects.md#card-shuffling) into your `script.js` file.
+Feel free to copy the card deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling functions from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) into your `script.js` file.
 
 ### Display Single Card
 
@@ -18,7 +18,7 @@ Build an app using the Basics Starter Code and the deck functions from Modules 1
 
 ### Low Card
 
-Implement the High Card game from [10.1: Objects](../9-javascript-objects/10.1-javascript-objects.md#high-card) with 1 difference: the winner is the person with the lowest card. Feel free to start with the code from Module 10.1 and modify it if that's easier. You may wish
+Implement the High Card game from [10.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with 1 difference: the winner is the person with the lowest card. Feel free to start with the code from Module 10.1 and modify it if that's easier. You may wish
 
 ### Low Card with Queen Winner
 

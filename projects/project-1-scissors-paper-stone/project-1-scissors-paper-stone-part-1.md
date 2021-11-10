@@ -13,7 +13,7 @@ Part 1 works with the technologies we have learned so far in Basics, and Part 2 
 ## Setup
 
 1. Create a `project` directory in your `basics` code folder to host your projects if you haven't already.
-2. [Fork](../../8-github/7.1-github-fork-and-pull-request.md) the [Coding Basics Scissors Paper Stone repository](https://github.com/rocketacademy/basics-scissors-paper-stone) into your own GitHub account.
+2. [Fork](../../7-github/7.1-github-fork-and-pull-request.md) the [Coding Basics Scissors Paper Stone repository](https://github.com/rocketacademy/basics-scissors-paper-stone) into your own GitHub account.
 3. Clone the newly-forked SPS repo from your own GitHub account into a new folder in your `project` directory. You will notice that the SPS repository should look similar to the starter code repository. We made separate repositories for each project so that student Pull Request submissions can be better organised by project.
 
 ## Base
@@ -37,7 +37,7 @@ Unsure how to start? Try these steps:
    * It's unwise to attempt to build the entire program in one go before testing.
    * Know that the final shape and form of your program will look different from when you are building it.
    * You can write new lines of code within main first, check that the code works as intended, and then "relocate" / refactor your code as a helper function.&#x20;
-   * Utilise `console.log()` sensibly to check for the right [control flow](../../3-structuring-and-debugging-code/5.2-errors.md#control-flow-checking-is-our-code-running) and [values](../../3-structuring-and-debugging-code/5.2-errors.md#value-checking-are-the-values-correct).
+   * Utilise `console.log()` sensibly to check for the right [control flow](../../5-structuring-and-debugging-code/5.2-errors.md#control-flow-checking-is-our-code-running) and [values](../../5-structuring-and-debugging-code/5.2-errors.md#value-checking-are-the-values-correct).
    * Try to test as frequently as you can, and whenever you make a significant change. It builds confidence that things are working as they should and you will catch bugs as soon as they pop up.
 {% endhint %}
 
@@ -66,8 +66,8 @@ You decide to prank your friends and create an SPS game where the rules are reve
 
 ## Submit
 
-1. [Push](../../8-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
-2. [Create a pull request](../../8-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
+1. [Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
+2. [Create a pull request](../../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
 3. Please leave your name and _**section number **_in the _**title**_ of the pull request.
 4. Please fill in the questionnaire in the pull request comments when you submit.
 
