@@ -74,7 +74,7 @@ Total Video Watch Time: **\~25 mins**
 **Module 3: Structuring and Debugging Code**
 
 * [3.1: Functions](https://basics.rocketacademy.co/5-structuring-and-debugging-code/5.1-functions)
-* [3.2: Errors](../../5-structuring-and-debugging-code/5.2-errors.md)
+* [3.2: Errors](../../3-structuring-and-debugging-code/5.2-errors.md)
 
 ### In Class
 
@@ -88,7 +88,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~40 mins**
 
-**Module 4: Logic**
+**Module 4: Conditional Logic**
 
 * [4.1: Introduction to Logic](https://basics.rocketacademy.co/6-conditional-logic/6.1-intro-to-logic)
 * [4.2: Pseudo Code, Boolean "Or"](https://basics.rocketacademy.co/6-conditional-logic/6.2-pseudo-code-boolean-or)
@@ -137,8 +137,8 @@ Total Video Watch Time: **\~17 mins**
 
 **Module 5: Global State**
 
-* [5.2: Program State for Game Modes](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
-* [5.3: Input Validation](../../8-managing-state-and-input-validation/8.3-input-validation.md)
+* [5.2: Program State for Game Modes](../../5-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+* [5.3: Input Validation](../../5-managing-state-and-input-validation/8.3-input-validation.md)
 
 ### In Class
 
@@ -152,10 +152,10 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~41 mins**
 
-**Module 9: Arrays and Iteration**
+**Module 6: Arrays and Iteration**
 
-* [9.1: Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.1-arrays)
-* [9.2: Loops](https://basics.rocketacademy.co/9-arrays-and-iteration/9.2-loops)
+* [6.1: Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.1-arrays)
+* [6.2: Loops](https://basics.rocketacademy.co/9-arrays-and-iteration/9.2-loops)
 
 ### In Class
 
@@ -173,13 +173,14 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~11 mins**
 
-**Module 9: Arrays and Iteration**
+**Module 6: Arrays and Iteration**
 
-* [9.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
+* [6.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
 
-**Module 6: Command Line and Version Control**
+**Module 7: Command Line and Version Control**
 
-* [6.1: Command Line](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.1-command-line)
+* [7.1: Command Line](https://basics.rocketacademy.co/2-organising-and-managing-code-files/2.1-command-line)
+* [7.2: Git](../../7-version-control/2.2-git.md)
 
 ### In Class
 

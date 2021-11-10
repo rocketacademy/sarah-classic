@@ -18,7 +18,7 @@ Remind the students to continue working on the Beat That project and submit a pu
 
 ## Pre-Class Material
 
-Total Video Watch Time: **~41 mins**
+Total Video Watch Time: **\~41 mins**
 
 ### [Coding Strategies](../course-logistics/coding-strategies.md)
 
@@ -26,13 +26,13 @@ Total Video Watch Time: **~41 mins**
 
 #### Q: What are the three ways to approach a problem? Describe which step you get stuck on the most so far.
 
-A: 1\) Understand the problem through language. 2\) Strategize to prioritize problems. 3\) Translate problem to JavaScript, use pseudocode.
+A: 1) Understand the problem through language. 2) Strategize to prioritize problems. 3) Translate problem to JavaScript, use pseudocode.
 
 #### Q: Describe one time that fixing an error updated your mental model / helped you understand your code and/or JavaScript better.
 
 #### Q: What does deliberate practice mean to you? How are you implementing it in this course?
 
-### [9.1: Arrays](../9-arrays-and-iteration/9.1-arrays.md)
+### [9.1: Arrays](../6-arrays-and-iteration/9.1-arrays.md)
 
 #### Discussion Questions
 
@@ -48,7 +48,7 @@ A: It is valid syntax to put any kind of type into an array. But the concept of 
 var letters = ['a', 'b', 'c'];
 ```
 
-#### Q: \(Paste the above code into the console\). How would we access 'b'?
+#### Q: (Paste the above code into the console). How would we access 'b'?
 
 ```javascript
 letters[9];
@@ -80,13 +80,13 @@ var main = function (input) {
 
 #### Q: What does this code do?
 
-\(Note this code doesn't do a lot yet without a loop to get the data back out. Remind the students we'll be doing this next\).
+(Note this code doesn't do a lot yet without a loop to get the data back out. Remind the students we'll be doing this next).
 
 #### Q: `push` is the way we can put values in the array. How do we take them out?
 
 A: `pop`
 
-### [9.2: Loops](../9-arrays-and-iteration/9.2-loops.md)
+### [9.2: Loops](../6-arrays-and-iteration/9.2-loops.md)
 
 ```javascript
 // Initialise a counter to 0.
@@ -100,7 +100,7 @@ while (counter < 10) {
 }
 ```
 
-#### Q: What does the above code do? \(Have the student answer before pasting this code into the dev tools console\).
+#### Q: What does the above code do? (Have the student answer before pasting this code into the dev tools console).
 
 ```javascript
 var main = function (input) {
@@ -120,9 +120,9 @@ var main = function (input) {
 
 #### Q: How can we have the above code example run the `console.log` 100 times?
 
-#### Q: \(Starting from the original code\) What if we set the starting value of `counter` to two instead of zero? What happens if the user types in a value above two?
+#### Q: (Starting from the original code) What if we set the starting value of `counter` to two instead of zero? What happens if the user types in a value above two?
 
-#### Q: \(Starting from the original code\) What if we increment the value of `counter` by three instead of one? On line 8: `counter = counter + 3;`
+#### Q: (Starting from the original code) What if we increment the value of `counter` by three instead of one? On line 8: `counter = counter + 3;`
 
 ```javascript
 var main = function (input) {
@@ -179,7 +179,7 @@ A:0,1.
 
 A: `x % 2 == 0` means it's divisible by 2 and therefore even.
 
-**Q: Can we call a function inside a loop? \(refer to the example code\)**
+**Q: Can we call a function inside a loop? (refer to the example code)**
 
 A: Yes. All the control flow syntax is combinable. A loop can call a function. A function can have a loop inside. A conditional can be inside a loop.
 
@@ -196,4 +196,3 @@ Next we'll put the loop and array together. The integer location of the index an
 _We want to plant the idea of the equivalence of the loop counter and the array index in students minds so that they have some time to wrap their head around the ideas. If students are struggling with the idea of their code manipulating data, this concept of a loop that adjusts dynamically for the size of the array is one of the more difficult concepts for them to use in their code._
 
 In the next meeting we'll also review the completed dice project.
-

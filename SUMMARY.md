@@ -12,6 +12,7 @@
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
   * [1⃣ Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
   * [2⃣ Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
+  * [👍 Recommended Set-up](course-logistics/required-hardware-and-software/recommended-set-up.md)
 * [🗓 Schedule & Pairings](course-logistics/schedule-and-pairings/README.md)
   * [📅 Batch 11 (Tue - Sat) Schedule](course-logistics/schedule-and-pairings/batch-11-tue-sat-schedule.md)
   * [📅 Batch 11 (Mon - Thu) Schedule](course-logistics/schedule-and-pairings/batch-11-mon-thu-schedule.md)
@@ -25,13 +26,68 @@
   * [🚂 Bootcamp Admission Criteria](course-logistics/post-course/bootcamp-admission-criteria.md)
   * [📹 Bootcamp Video Application](course-logistics/post-course/bootcamp-video-application.md)
 
-## Projects
+## 1: Introduction
 
-* [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone/README.md)
-  * [Project 1: Scissors Paper Stone (Part 1)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
-  * [Project 1: Scissors Paper Stone (Part 2)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
-* [Project 2: Beat That!](projects/project-2-beat-that.md)
-* [Project 3: Blackjack](projects/project-3-blackjack.md)
+* [1.1: What is Coding?](1-introduction/1.1-what-is-coding.md)
+* [1.2: Web Browsers](1-introduction/1.2-web-browsers.md)
+* [1.3: Command Line](1-introduction/2.1-command-line.md)
+
+## 2: Basic Data Manipulation
+
+* [2.1: Operations](3-basic-data-manipulation/3.1-operations.md)
+* [2.2: Variables](3-basic-data-manipulation/3.2-variables.md)
+* [2.3: Our First Program](4-getting-started-with-code/4.2-our-first-program.md)
+
+## 3: Structuring and Debugging Code
+
+* [3.1: Functions](3-structuring-and-debugging-code/5.1-functions.md)
+* [3.2: Errors](3-structuring-and-debugging-code/5.2-errors.md)
+
+## 4: Conditional Logic
+
+* [4.1: Intro to Logic](4-conditional-logic/6.1-intro-to-logic.md)
+* [4.2: Pseudo-Code, Boolean Or](4-conditional-logic/6.2-pseudo-code-boolean-or.md)
+* [4.3: Boolean And, Not](4-conditional-logic/6.3-boolean-and-not.md)
+
+## 5: Managing State and Input Validation
+
+* [5.1: Program Lifecycle and State](5-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
+* [5.2: Program State for Game Modes](5-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+* [5.3: Input Validation](5-managing-state-and-input-validation/8.3-input-validation.md)
+
+## 6: Arrays and Iteration
+
+* [6.1: Arrays](6-arrays-and-iteration/9.1-arrays.md)
+* [6.2: Loops](6-arrays-and-iteration/9.2-loops.md)
+* [6.3: Loops with Arrays](6-arrays-and-iteration/9.3-loops-with-arrays.md)
+
+## 7: Version Control
+
+* [7.1: Git](7-version-control/2.2-git.md)
+
+## 8: GitHub
+
+* [8.1: Intro to GitHub](8-github/4.1-intro-to-github.md)
+* [8.2: GitHub Fork and Pull Request](8-github/7.1-github-fork-and-pull-request.md)
+* [8.3: GitHub Repo Browsing](8-github/7.2-github-repo-browsing.md)
+* [8.4: Deployment](8-github/12.3-deployment.md)
+
+## 9: JavaScript Objects
+
+* [9.1: JavaScript Objects](9-javascript-objects/10.1-javascript-objects.md)
+* [9.2: Card Deck Generation with Loops](9-javascript-objects/10.2-card-deck-generation-with-loops.md)
+* [9.3: Card Game Example: War](9-javascript-objects/10.3-card-game-example-war.md)
+
+## 10: Advanced
+
+* [10.1: Advanced Debugging with Sources Tab](10-advanced/11.1-advanced-debugging-with-sources-tab.md)
+* [10.2: HTML, CSS Review](10-advanced/12.2-html-css-review.md)
+* [10.3: Browser Applications with DOM](10-advanced/12.1-browser-applications-with-dom.md)
+
+## 11: POST COURSE EXERCISES
+
+* [DOM](11-post-course-exercises/pce-dom.md)
+* [Further Readings](11-post-course-exercises/further-readings.md)
 
 ## In-Class Exercises
 
@@ -47,74 +103,13 @@
 * [Day 10: Chat Bot](in-class-exercises/day-10-chat-bot.md)
 * [Day 11: Blackjack Redux, Debugger](in-class-exercises/day-11-blackjack-redux-debugger.md)
 
-## 1: Introduction
+## Projects
 
-* [1.1: What is Coding?](1-introduction/1.1-what-is-coding.md)
-* [1.2: Web Browsers](1-introduction/1.2-web-browsers.md)
-
-## 2: Organising and Managing Code Files
-
-* [2.1: Command Line](2-organising-and-managing-code-files/2.1-command-line.md)
-* [2.2: Git](2-organising-and-managing-code-files/2.2-git.md)
-
-## 2: Basic Data Manipulation
-
-* [2.1: Operations](2-basic-data-manipulation/3.1-operations.md)
-* [2.2: Variables](2-basic-data-manipulation/3.2-variables.md)
-* [2.3: Our First Program](2-basic-data-manipulation/4.2-our-first-program.md)
-
-## 4: Getting Started with Code
-
-* [4.1: Intro to GitHub](4-getting-started-with-code/4.1-intro-to-github.md)
-
-## 5: Structuring and Debugging Code
-
-* [5.1: Functions](5-structuring-and-debugging-code/5.1-functions.md)
-* [5.2: Errors](5-structuring-and-debugging-code/5.2-errors.md)
-
-## 6: Conditional Logic
-
-* [6.1: Intro to Logic](6-conditional-logic/6.1-intro-to-logic.md)
-* [6.2: Pseudo-Code, Boolean Or](6-conditional-logic/6.2-pseudo-code-boolean-or.md)
-* [6.3: Boolean And, Not](6-conditional-logic/6.3-boolean-and-not.md)
-
-## 7: GitHub
-
-* [7.1: GitHub Fork and Pull Request](7-github/7.1-github-fork-and-pull-request.md)
-* [7.2: GitHub Repo Browsing](7-github/7.2-github-repo-browsing.md)
-
-## 8: Managing State and Input Validation
-
-* [8.1: Program Lifecycle and State](8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
-* [8.2: Program State for Game Modes](8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
-* [8.3: Input Validation](8-managing-state-and-input-validation/8.3-input-validation.md)
-
-## 9: Arrays and Iteration
-
-* [9.1: Arrays](9-arrays-and-iteration/9.1-arrays.md)
-* [9.2: Loops](9-arrays-and-iteration/9.2-loops.md)
-* [9.3: Loops with Arrays](9-arrays-and-iteration/9.3-loops-with-arrays.md)
-
-## 10: JavaScript Objects
-
-* [10.1: JavaScript Objects](10-javascript-objects/10.1-javascript-objects.md)
-* [10.2: Card Deck Generation with Loops](10-javascript-objects/10.2-card-deck-generation-with-loops.md)
-* [10.3: Card Game Example: War](10-javascript-objects/10.3-card-game-example-war.md)
-
-## 11: ADVANCED DEBUGGING
-
-* [11.1: Advanced Debugging with Sources Tab](11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
-
-## 12: NEXT STEPS
-
-* [12.1: Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
-* [12.2: HTML, CSS Review](12-next-steps/12.2-html-css-review.md)
-* [12.3: Deployment](12-next-steps/12.3-deployment.md)
-
-## 13: POST COURSE EXERCISES
-
-* [DOM](13-post-course-exercises/pce-dom.md)
-* [Further Readings](13-post-course-exercises/further-readings.md)
+* [Project 1: Scissors Paper Stone](projects/project-1-scissors-paper-stone/README.md)
+  * [Project 1: Scissors Paper Stone (Part 1)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
+  * [Project 1: Scissors Paper Stone (Part 2)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
+* [Project 2: Beat That!](projects/project-2-beat-that.md)
+* [Project 3: Blackjack](projects/project-3-blackjack.md)
 
 ## Past Projects
 

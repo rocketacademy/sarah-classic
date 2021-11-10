@@ -34,7 +34,7 @@ For example, if the user enters 4 they will see this:
 
 ## Modes
 
-Add modes to the program so that the user can create any shape- first the user will enter the shape they want, \(this is a shape entering mode\), e.g., square, triangle, etc. Then the user will enter the dimensions they want.
+Add modes to the program so that the user can create any shape- first the user will enter the shape they want, (this is a shape entering mode), e.g., square, triangle, etc. Then the user will enter the dimensions they want.
 
 ## More Comfortable
 
@@ -68,9 +68,8 @@ The user will enter the dimensions of a square to display on the screen. The cha
 
 ## Submit
 
-[Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit.
+[Push](../8-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub. [Create a pull request](../8-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment. Please fill in the questionnaire in the pull request comments when you submit.
 
 ## Reference Solution
 
 Please find a reference solution [here](https://github.com/rocketacademy/basics-drawing/pull/9/files). Note that there are many ways to code solutions to these problems and the reference solution is only 1 way.
-

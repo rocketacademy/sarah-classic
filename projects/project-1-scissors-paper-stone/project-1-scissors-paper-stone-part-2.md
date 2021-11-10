@@ -6,7 +6,7 @@ description: ✂️📃💎🤩
 
 ## Introduction
 
-Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [globals](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game state](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md#global-state-for-app-modes).
+Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [globals](../../5-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game state](../../5-managing-state-and-input-validation/8.2-program-state-for-game-modes.md#global-state-for-app-modes).
 
 If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to complete More Comfortable for both parts.
 
@@ -19,7 +19,7 @@ If you completed the [Base features of SPS Part 1](project-1-scissors-paper-ston
 
 ### Win-Loss Record
 
-Add [state](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
+Add [state](../../5-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
 
 ### User Name
 
@@ -68,7 +68,7 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 
 ## Submit
 
-[Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
+[Push](../../8-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
 
 1. Any subsequent commits you push will be added to your previous pull request automatically.
 2. Please leave your name and _**section number **_in the _**title**_ of the pull request.

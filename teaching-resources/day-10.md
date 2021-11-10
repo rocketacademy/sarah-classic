@@ -8,9 +8,9 @@ Reiterate to the students how important the process and approach to the code and
 
 ## Pre-Class Material
 
-Total Video Watch Time: **~60 mins**
+Total Video Watch Time: **\~60 mins**
 
-### [10.3: War Card Game Sample Implementation](../10-javascript-objects/10.3-card-game-example-war.md)
+### [10.3: War Card Game Sample Implementation](../9-javascript-objects/10.3-card-game-example-war.md)
 
 #### Q: Why do we want to control which cards get dealt from the deck?
 
@@ -26,7 +26,7 @@ A:
 
 #### Q: What are the two things to look for with console.log?
 
-A: 
+A:&#x20;
 
 1. Does the program reach that line?
 2. What is the value at that line?
@@ -139,4 +139,3 @@ A: `undefined`.
 ### Wrap-Up / Look Ahead
 
 We've gone deeper with cards, coding processes and objects. Next we'll cover one last thing, which is the ability to see _**into**_ our code with the Chrome dev tools with the debugger. The debugger is the most granular tool we can use to analyze what our code is doing. As we covered in [Coding Strategies](../course-logistics/coding-strategies.md), building a correct mental model of how the code works during debugging is the key task to fixing errors. Sometimes we may need to look at a particular value in order to do that.
-

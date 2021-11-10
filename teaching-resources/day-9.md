@@ -6,15 +6,15 @@ This day ties together everything we've learned to create a data structure that 
 
 The `makeDeck` function takes the specific patterns in a deck of cards- 4 repeating suits, 15 ranked numbers, and the special exception of face card names instead of numbers- and turns them into loops, conditionals and arrays of objects.
 
-This idea of connecting together a pattern and data representation \(a deck of cards\) and JavaScript data structures and syntax \(arrays, object, conditionals and loops\) is at the heart of coding and writing algorithms. In this example code we've created a card deck creation algorithm. Certainly there are many more possible card deck creation algorithms that will give us the same result.
+This idea of connecting together a pattern and data representation (a deck of cards) and JavaScript data structures and syntax (arrays, object, conditionals and loops) is at the heart of coding and writing algorithms. In this example code we've created a card deck creation algorithm. Certainly there are many more possible card deck creation algorithms that will give us the same result.
 
 Remind the students that in order to move forward with the blackjack game, it's not strictly necessary to implement the `makeDeck` function or write it from scratch. Making a deck is just a demonstration of how to put together all the syntaxes we've seen so far.
 
 ## Pre-Class Material
 
-Total Video Watch Time: **~16 mins**
+Total Video Watch Time: **\~16 mins**
 
-### [10.2: Card Deck Generation with Loops](../10-javascript-objects/10.2-card-deck-generation-with-loops.md)
+### [10.2: Card Deck Generation with Loops](../9-javascript-objects/10.2-card-deck-generation-with-loops.md)
 
 ```javascript
 var makeDeck = function () {
@@ -109,7 +109,7 @@ var card2 = {
 cardDeck.push(card2);
 ```
 
-#### Q: For this code how would an emoji be added for each suit? \(Don't change the suit name- add onto the object so it also has a `suitEmoji` key\).
+#### Q: For this code how would an emoji be added for each suit? (Don't change the suit name- add onto the object so it also has a `suitEmoji` key).
 
 A:
 
@@ -143,5 +143,4 @@ This in-class exercise creates different variations of high card. This will hope
 
 ## Wrap-up / Look Ahead
 
-Day 10 pre-class material is a longer video \(~60 minutes\)- a walk through of building a simple card game, and how to think through all of the logic involved with moving the cards around given the game rules. Hopefully hearing some of the syntax and logic decisions needed to implement a game will help refine the students' own decision making process. Encourage students to watch it at half or double speed or more than once if it helps.
-
+Day 10 pre-class material is a longer video (\~60 minutes)- a walk through of building a simple card game, and how to think through all of the logic involved with moving the cards around given the game rules. Hopefully hearing some of the syntax and logic decisions needed to implement a game will help refine the students' own decision making process. Encourage students to watch it at half or double speed or more than once if it helps.

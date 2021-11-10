@@ -12,9 +12,9 @@ Students who had a difficult time understanding the action of loops repeating ov
 
 ## Pre-Class Material
 
-Total Video Watch Time: **~11 mins**
+Total Video Watch Time: **\~11 mins**
 
-### [9.3: Loops with Arrays](../9-arrays-and-iteration/9.3-loops-with-arrays.md)
+### [9.3: Loops with Arrays](../6-arrays-and-iteration/9.3-loops-with-arrays.md)
 
 ```javascript
 var main = function (input) {
@@ -122,4 +122,3 @@ var main = function (input) {
 ## Wrap-Up / Look Ahead
 
 Each new syntax and concept we see the amount of data our progams are capable are handing grows. Next we'll see the last new JavaScript syntax we'll cover in Basics. This is a new kind of data that, similar to arrays is a collection of single pieces of data- objects. Objects are special because they are a collection of _**different**_ types of data.
-

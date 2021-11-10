@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md#exercises). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../2-basic-data-manipulation/4.2-our-first-program.md#setup). For some exercises you may need to google for information. Please switch driver and navigator each exercise.
+Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../3-structuring-and-debugging-code/5.1-functions.md#exercises). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For some exercises you may need to google for information. Please switch driver and navigator each exercise.
 
 {% hint style="warning" %}
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.

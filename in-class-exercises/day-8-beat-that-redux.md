@@ -8,7 +8,7 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 #### 0) Push Your Own Code
 
-Refer to the [push section](../7-github/7.1-github-fork-and-pull-request.md#git-push) for the commands needed for this. 
+Refer to the [push section](../8-github/7.1-github-fork-and-pull-request.md#git-push) for the commands needed for this.&#x20;
 
 #### 1) Clone Partner's Code
 
@@ -35,7 +35,7 @@ Read the code:
 
 While you are reading, note down the answers to the following questions: No need to be comprehensive, but pick out parts of the code you found notable.
 
-1. Note a line of code (or multiple lines) that you think works well. This could be the logic of the code, or just a well-named variable. Explain why it works well. 
+1. Note a line of code (or multiple lines) that you think works well. This could be the logic of the code, or just a well-named variable. Explain why it works well.&#x20;
 2. Note a line of code (or multiple lines) that you thought was unclear or you can't figure out. How would you explain why is it unclear or hard to figure out?
 3. Note a line of code (or multiple lines) where you found a bug. Why is it a bug? Do you have a solution?
 
@@ -65,4 +65,4 @@ Implement [More Comfortable exercises](../projects/project-2-beat-that.md#more-c
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-beat-that/pull/10/files) is a reference solution for Beat That. Please review the reference solution to see how we can improve our solutions! 
+[Here](https://github.com/rocketacademy/basics-beat-that/pull/10/files) is a reference solution for Beat That. Please review the reference solution to see how we can improve our solutions!&#x20;

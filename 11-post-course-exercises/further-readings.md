@@ -2,7 +2,7 @@
 
 ## JavaScript with DOM
 
-Khan Academy has a good set of follow-on lessons that will dovetail with the DOM material we covered here in [12.1](../12-next-steps/12.1-browser-applications-with-dom.md) and [13](pce-dom.md).
+Khan Academy has a good set of follow-on lessons that will dovetail with the DOM material we covered here in [12.1](../10-advanced/12.1-browser-applications-with-dom.md) and [13](pce-dom.md).
 
 {% embed url="https://www.khanacademy.org/computing/computer-programming/html-css-js" %}
 

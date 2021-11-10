@@ -16,9 +16,9 @@ Sometimes assignment into a given key can look confusing: `card.rank = newRank;`
 
 ## Pre-Class Material
 
-Total Video Watch Time: **~15 mins**
+Total Video Watch Time: **\~15 mins**
 
-### [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md)
+### [10.1: JavaScript Objects](../9-javascript-objects/10.1-javascript-objects.md)
 
 ```javascript
 var cardDeck = ['nine of hearts', 'ten of hearts', 'jack of hearts'];
@@ -28,7 +28,7 @@ var cardDeck = ['nine of hearts', 'ten of hearts', 'jack of hearts'];
 
 A:
 
-```text
+```
 // loop over the array
     // break apart the string to get the first word
     // evaluate the first word
@@ -60,7 +60,7 @@ var cardDeck = [
 ];
 ```
 
-#### Q: \(Run the above code to create the array\). How can the name of the second card be accessed?
+#### Q: (Run the above code to create the array). How can the name of the second card be accessed?
 
 A: `cardDeck[1].name`
 
@@ -68,7 +68,7 @@ A: `cardDeck[1].name`
 
 A: `cardDeck[0].suit = 'diamonds';`
 
-#### Q: How can we add a '`temperature`' key that equals `99` to the first card? \(this is just an example of adding a new random key\).
+#### Q: How can we add a '`temperature`' key that equals `99` to the first card? (this is just an example of adding a new random key).
 
 A: `cardDeck[0].temperature = 99;`
 
@@ -382,9 +382,9 @@ var main = function (input) {
 
 A: Reverse the comparison operators.
 
-#### Q: What would need to be changed so that an emoji \(♣️\) could be displayed in addition to the suit name?
+#### Q: What would need to be changed so that an emoji (♣️) could be displayed in addition to the suit name?
 
-A: Add each emoji to each card object. \(This is inefficient but would make sense if the cards are being created in a loop\).
+A: Add each emoji to each card object. (This is inefficient but would make sense if the cards are being created in a loop).
 
 ```javascript
 {
@@ -414,4 +414,3 @@ Note that we've structures the schedule so that there is a peer-review code sess
 This section is the end of the main JavaScript syntaxes we'll cover. There are some others we haven't touched on, but the ones we have covered are the ones present in almost all programming languages, and are the most important. We now have all the most important tools needed to build almost any program.
 
 Moving forward from here we'll be covering more details on how to build our programs, doing some more complex example programs and more on how to debug, but we won't be introducing any new major JavaScript syntaxes.
-
