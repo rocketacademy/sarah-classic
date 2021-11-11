@@ -4,7 +4,7 @@
 
 {% embed url="https://youtu.be/7Bx4LTD9guo" %}
 
-[Coding Basics](https://rocketacademy.co/courses/basics) is Rocket Academy (RA)'s intro course in software programming, also known as coding. It is the first course in RA's software engineering curriculum, teaching basic coding syntax and concepts through building simple programs. Students interested in software engineering careers can join RA's [Software Engineering Bootcamp](https://rocketacademy.co/courses/bootcamp) after Basics to build more complex software systems and get a software engineering job.
+[Coding Basics](https://rocketacademy.co/courses/basics) is Rocket Academy's intro course in software programming, also known as coding. It is the first course in Rocket's software engineering curriculum, teaching basic coding syntax and concepts through building simple programs. Students interested in software engineering careers can join Rocket's [Software Engineering Bootcamp](https://rocketacademy.co/courses/bootcamp) after Basics to build more complex software systems and get a software engineering job.
 
 ### What is Basics About?
 
