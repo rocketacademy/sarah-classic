@@ -8,11 +8,10 @@ Mention to the students that this day isn't meant as a full review of the pre-cl
 
 ### Class Schedule
 
-1. 1-1:30pm: Review DOM
-2. 1:30-2:15pm: BJ presentations
-3. 2:15-2:45pm: Post-Course Feedback Form and reviews
-4. 2:45-2:50pm: LinkedIn Certs
-5. 2:50-3:00pm: Photo and goodbye!
+1. 1:00-2:00pm: Blackjack presentations
+2. 2:00-2:15pm: Post-Course Feedback Form and reviews
+3. 2:15-2:30pm: LinkedIn Certs
+4. 2:30-3:00pm: Closing Ceremony in Main Zoom Room
 
 ## **Project Due**
 
@@ -188,6 +187,12 @@ Ask the students to reflect on their level of knowledge six weeks ago.
 2. Google Business: [https://g.page/rocket-academy-co/review?rc](https://www.google.com/url?q=https://g.page/rocket-academy-co/review?rc\&sa=D\&source=editors\&ust=1625291865970000\&usg=AFQjCNGvwlXotNRLE7I9jMmGmHgWjp76dA)
 
 ### **LinkedIn Certificate Presentations**
+
+Invite the RACert Bot into your Slack Channel by mentioning it for the first time: @RACertBot.
+
+Generate certificates for each student by mentioning @RACertBot followed by each student's @username in Slack
+
+
 
 Share with students how they can add Rocket Academy's Coding Basics Certificate badge to their LinkedIns. [Instructions here](../course-logistics/post-course/linkedin-certificates.md).
 
