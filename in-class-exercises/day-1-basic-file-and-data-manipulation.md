@@ -46,7 +46,9 @@ The user will enter a number of trips to the ice cream station (picking up **1 c
 
 ### **Time to Type Sonnets**
 
-The user will enter their words-per-minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours. For simplicity, assume 17,677 words in all of Shakespeare's sonnets.
+The user will enter their words-per-minute typing speed. The app will calculate how long it will take them to type all of Shakespeare's sonnets in hours.&#x20;
+
+For simplicity, assume 17,677 words in all of Shakespeare's sonnets.
 
 
 
