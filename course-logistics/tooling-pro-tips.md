@@ -14,7 +14,7 @@ Rather than adding `//` to the start of each line manually, VSCode has a shortcu
 
 ### Editing a Variable Name in Multiple Places Concurrently
 
-Sometimes we want to change the name of a variable in our code, a common practice in [refactoring](https://en.wikipedia.org/wiki/Code_refactoring). If that variable is used in multiple places, we may be tempted to edit each instance individually. Luckily VSCode has a convenient feature that allows us to edit all instances of the same variable simultaneously, saving time and our fingers.
+Sometimes we want to change the name of a variable in our code, a common practice in [refactoring](https://en.wikipedia.org/wiki/Code\_refactoring). If that variable is used in multiple places, we may be tempted to edit each instance individually. Luckily VSCode has a convenient feature that allows us to edit all instances of the same variable simultaneously, saving time and our fingers.
 
 #### Within a Single File
 
@@ -50,4 +50,6 @@ The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface
 
 ## Watching YouTube Videos at Different Speeds
 
-If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop\&hl=en).
+If the course videos are too fast or too slow for you, you can watch them at slower or faster speeds by [toggling a speed setting in YouTube](https://support.google.com/youtube/answer/7509567?co=GENIE.Platform%3DDesktop\&hl=en) or you can use the [Video Speed Controller Extension](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
+
+##
