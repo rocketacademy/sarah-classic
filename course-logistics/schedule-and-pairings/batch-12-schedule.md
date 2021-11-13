@@ -22,11 +22,18 @@ Meeting time: **4:00 PM SGT** (GMT+8)
 Day 0's pre-course briefing will run from 4-6pm instead of the usual 1-3pm. This is because the previous batch will be having their last class session from 1-3pm. Thank you for your understanding!
 {% endhint %}
 
-1. Opening Brief
+### Pre Class
+
+1. [Course Overview](../../)
 2. [Course Methodology](../course-methodology/)
    1. [Course Components](../course-methodology/course-components.md)
    2. [Slack Tutorial](../course-methodology/slack.md)
    3. [Social Rules](../social-rules.md)
+
+### In Class
+
+1. Opening Brief
+2. Introductions
 3. Look ahead: Deliverables for **Day 1**
    1. [Required Hardware and Software](../required-hardware-and-software.md)
    2. [Pre-Class Material](batch-12-schedule.md#pre-class)
