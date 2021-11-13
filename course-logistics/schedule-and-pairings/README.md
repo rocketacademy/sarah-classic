@@ -1,4 +1,4 @@
-# 🗓 Schedule & Pairings
+# 🗓 Schedule
 
 ## Batch 11
 
@@ -14,8 +14,8 @@
 [batch-11-thu-sun-schedule.md](batch-11-thu-sun-schedule.md)
 {% endcontent-ref %}
 
-{% content-ref url="section-and-pairing-assignments.md" %}
-[section-and-pairing-assignments.md](section-and-pairing-assignments.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Batch 12
