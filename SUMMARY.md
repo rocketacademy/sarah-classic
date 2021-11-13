@@ -30,6 +30,7 @@
 * [1.1: What is Coding?](1-introduction/1.1-what-is-coding.md)
 * [1.2: Web Browsers](1-introduction/1.2-web-browsers.md)
 * [1.3: Command Line](2-organising-and-managing-code-files/2.1-command-line.md)
+* [Additional Resources 1](1-introduction/additional-resources-1.md)
 
 ## 2: Basic Data Manipulation
 
