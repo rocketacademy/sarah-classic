@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Course Overview](README.md)
+* [🚀 Course Overview](README.md)
 
 ## Course Logistics
 
