@@ -1,4 +1,4 @@
-# Course Overview
+# 🚀 Course Overview
 
 ## Welcome to Coding Basics!
 

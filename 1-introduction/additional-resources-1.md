@@ -20,6 +20,7 @@ If you'd like to learn more, this page contains a non-exhaustive, unordered list
 
 1. [Keybr](https://www.keybr.com)
 2. [Monkey Type](https://monkeytype.com)
+3. [TypeRacer](https://play.typeracer.com) - Race your section mates, maybe?
 
 ## Web Browsers
 
