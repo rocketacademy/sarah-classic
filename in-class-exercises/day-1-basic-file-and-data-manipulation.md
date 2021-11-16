@@ -16,7 +16,7 @@ When you run into a bug, talk out loud with your partner what you _expected_ to 
 
 ## Data Manipulation with Operations and Variables
 
-
+See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day1/index.html).
 
 ### **Minutes in Weeks**
 
