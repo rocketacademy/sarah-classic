@@ -146,7 +146,6 @@ Total Video Watch Time: **\~17 mins**
 **Module 5: Global State**
 
 * [5.2: Program State for Game Modes](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
-* [5.3: Input Validation](../../8-managing-state-and-input-validation/8.3-input-validation.md)
 
 ### In Class
 
@@ -205,17 +204,16 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~15 mins**
 
-**Module 9: Objects**
+**Module 8: Objects**
 
-* [9.1: JavaScript Objects](https://basics.rocketacademy.co/10-javascript-objects/10.1-javascript-objects)
+* [8.1: Intro to GitHub](../../4-getting-started-with-code/4.1-intro-to-github.md)
+* [8.2: GitHub Fork and Pull Request](../../7-github/7.1-github-fork-and-pull-request.md)
+* [8.3 GitHub Repo Browsing](../../7-github/7.2-github-repo-browsing.md)
+* [8.4 Deployment](../../12-next-steps/12.3-deployment.md)
 
 ### In Class
 
 * [Day 8: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
-
-### Project Start: Blackjack
-
-[Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
 ## Tue 14 Dec, Week 5, Course Day 9: Card Logic <a href="course-day-9" id="course-day-9"></a>
 
@@ -227,11 +225,16 @@ Total Video Watch Time: **\~16 mins**
 
 **Module 9: Objects**
 
+* [9.1: Objects](../../10-javascript-objects/10.1-javascript-objects.md)
 * [9.2: Card Deck Generation with Loops](https://basics.rocketacademy.co/10-javascript-objects/10.2-card-deck-generation-with-loops)
 
 ### In Class
 
 * [Day 9: Moar Cards](https://basics.rocketacademy.co/in-class-exercises/day-9-moar-cards)
+
+### Project Start: Blackjack
+
+[Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
 ## Sat 18 Dec, Week 5, Course Day 10: Coding Strategies <a href="course-day-10" id="course-day-10"></a>
 
@@ -259,10 +262,12 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~18 mins**
+Total Video Watch Time: \~22 mins
 
-* [10.1: Advanced Debugging with Sources Tab](https://basics.rocketacademy.co/11-advanced-debugging/11.1-advanced-debugging-with-sources-tab)
-* [8.4: Project Deployment](https://basics.rocketacademy.co/12-next-steps/12.3-deployment)
+**Module 10: Advanced**
+
+* [10.1: HTML, CSS Review](../../12-next-steps/12.2-html-css-review.md)
+* [10.2: Browser Applications with DOM](../../13-post-course-exercises/pce-dom.md)
 
 ### In Class
 
@@ -280,19 +285,13 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-### Pre Class (Optional)
-
-Total Video Watch Time: **\~22 mins**
-
-* [10.2: HTML, CSS Review](https://basics.rocketacademy.co/12-next-steps/12.2-html-css-review)
-* [10.3: Browser Applications with DOM](https://basics.rocketacademy.co/12-next-steps/12.1-browser-applications-with-dom)
-
 ### In Class
 
-* Course Feedback and Reviews
 * [Project presentations](https://basics.rocketacademy.co/course-logistics/course-methodology#project-presentations)
+* Course Feedback and Reviews
 * LinkedIn certificate presentations
 * Class Photo 🥳
+* Closing Ceremony 🎓
 
 ## Further Reading
 

@@ -1,23 +1,10 @@
-# Day 4: GitHub, Program State
+# Day 4: Program State
 
 ## Introduction
 
 Today we will practise the GitHub fork and pull request workflow, and program state. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Please switch driver and navigator each exercise.
 
-{% hint style="warning" %}
-When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
-{% endhint %}
-
 ## Base
-
-### GitHub Fork and Pull Request
-
-Follow the ["fork and pull request" workflow](../7-github/7.1-github-fork-and-pull-request.md#cheatsheet) for the following Secret Word app. This is to practise this workflow for the current Scissors Paper Stone project, so everyone knows how to set up and submit their assignment. This is the same workflow that developers use when submitting changes to open source (publicly-developed) projects.
-
-1. Fork the [`basics-github-practice` repo](https://github.com/rocketacademy/basics-github-practice) into your own GitHub account
-2. Clone the `basics-github-practice` repo from your own account
-3. Complete the following Secret Word app
-4. Once done, submit the app by committing your code, pushing changes to your repo, and submitting a pull request.
 
 ### Secret Word
 

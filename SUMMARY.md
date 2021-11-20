@@ -47,12 +47,12 @@
 * [4.1: Intro to Logic](6-conditional-logic/6.1-intro-to-logic.md)
 * [4.2: Pseudo-Code, Boolean Or](6-conditional-logic/6.2-pseudo-code-boolean-or.md)
 * [4.3: Boolean And, Not](6-conditional-logic/6.3-boolean-and-not.md)
+* [4.4: Input Validation](4-conditional-logic/8.3-input-validation.md)
 
 ## 5: Managing State and Input Validation
 
 * [5.1: Program Lifecycle and State](8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
 * [5.2: Program State for Game Modes](8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
-* [5.3: Input Validation](8-managing-state-and-input-validation/8.3-input-validation.md)
 
 ## 6: Arrays and Iteration
 
@@ -79,9 +79,9 @@
 
 ## 10: Advanced
 
-* [10.1: Advanced Debugging with Sources Tab](11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
-* [10.2: HTML, CSS Review](12-next-steps/12.2-html-css-review.md)
-* [10.3: Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
+* [10.1: HTML, CSS Review](12-next-steps/12.2-html-css-review.md)
+* [10.2: Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
+* [10.3: Advanced Debugging with Sources Tab](11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
 
 ## 11: POST COURSE EXERCISES
 
@@ -93,7 +93,7 @@
 * [Day 1: Basic File and Data Manipulation](in-class-exercises/day-1-basic-file-and-data-manipulation.md)
 * [Day 2: Functions](in-class-exercises/day-2-functions.md)
 * [Day 3: If Statements, Boolean Or, Boolean And](in-class-exercises/day-3-if-statements-boolean-or.md)
-* [Day 4: GitHub, Program State](in-class-exercises/day-4-boolean-and-program-state.md)
+* [Day 4: Program State](in-class-exercises/day-4-boolean-and-program-state.md)
 * [Day 5: Scissors Paper Stone Redux](in-class-exercises/day-5-scissors-paper-stone-redux.md)
 * [Day 6: Loops](in-class-exercises/day-6-loops.md)
 * [Day 7: Arrays and Loops](in-class-exercises/day-7-arrays-and-loops.md)

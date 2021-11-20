@@ -16,7 +16,7 @@ For this day, instead of an in-class exercise that explicitly deals with the pre
 
 Total Video Watch Time: **\~17 mins**
 
-### [8.3: Input Validation](../8-managing-state-and-input-validation/8.3-input-validation.md)
+### [8.3: Input Validation](../4-conditional-logic/8.3-input-validation.md)
 
 ### Number
 
