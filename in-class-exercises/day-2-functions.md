@@ -6,10 +6,6 @@ Today we will write functions to perform data transformations, similar to exampl
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
-{% hint style="warning" %}
-When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
-{% endhint %}
-
 ## Knowledge Check
 
 Before you begin, check that you and your partner can answer the following:
