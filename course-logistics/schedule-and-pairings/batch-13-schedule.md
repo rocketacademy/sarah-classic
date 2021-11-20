@@ -5,12 +5,12 @@ description: What and when we will learn
 | Week | Monday | Tuesday | Saturday |
 | :---: | :---: | :---: | :---: |
 | 0 | - | - | [22 Jan](#course-day-0) |
-| 1 | - | [25 Jan](#course-day-2) | [29 Jan](#course-day-1) |
+| 1 | - | [25 Jan](#course-day-1) | [29 Jan](#course-day-2) |
 | 2 | - | public holiday (SG) | [5 Feb](#course-day-3) |
-| 3 | - | [8 Feb](#course-day-5) | [12 Feb](#course-day-4) |
-| 4 | - | [15 Feb](#course-day-7) | [19 Feb](#course-day-6) |
-| 5 | - | [22 Feb](#course-day-9) | [26 Feb](#course-day-8) |
-| 6 | - | [1 Mar](#course-day-11) | [5 Mar](#course-day-10) |
+| 3 | - | [8 Feb](#course-day-4) | [12 Feb](#course-day-5) |
+| 4 | - | [15 Feb](#course-day-6) | [19 Feb](#course-day-7) |
+| 5 | - | [22 Feb](#course-day-8) | [26 Feb](#course-day-9) |
+| 6 | - | [1 Mar](#course-day-10) | [5 Mar](#course-day-11) |
 | 7 | [7 Mar](#course-day-12) | - | - |
 
 # Sat 22 Jan, Week 0, Course Day 0<a href="course-day-0" id="course-day-0"></a>: Pre-Course Briefing
@@ -38,7 +38,7 @@ Day 0's pre-course briefing will run from 4-5pm instead of the usual 1-3pm. This
    4. Fun fact?
 
 
-# Sat 29 Jan, Week 1, Course Day 1<a href="course-day-1" id="course-day-1"></a>: Coding Tools 
+# Tue 25 Jan, Week 1, Course Day 1<a href="course-day-1" id="course-day-1"></a>: Coding Tools 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -63,7 +63,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 
 
-# Tue 25 Jan, Week 1, Course Day 2<a href="course-day-2" id="course-day-2"></a>: Functions
+# Sat 29 Jan, Week 1, Course Day 2<a href="course-day-2" id="course-day-2"></a>: Functions
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
@@ -77,8 +77,10 @@ Total Video Watch Time: **~25 mins**
 
 
 
+# Tue, 1 Feb: Singapore public holiday, Chinese New Year Day 1
+
 # Sat 5 Feb, Week 2, Course Day 3<a href="course-day-3" id="course-day-3"></a>: Logic 1
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 Total Video Watch Time: **~40 mins**
@@ -94,9 +96,7 @@ Total Video Watch Time: **~40 mins**
 
 
 
-# Tue, 1 Feb: Singapore public holiday, Chinese New Year Day 1
-
-# Sat 12 Feb, Week 3, Course Day 4<a href="course-day-4" id="course-day-4"></a>: Logic 2, State 1
+# Tue 8 Feb, Week 3, Course Day 4<a href="course-day-4" id="course-day-4"></a>: Logic 2, State 1
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
@@ -116,7 +116,7 @@ Total Video Watch Time: **~41 mins**
 
 
 
-# Tue 8 Feb, Week 3, Course Day 5<a href="course-day-5" id="course-day-5"></a>: State 2
+# Sat 12 Feb, Week 3, Course Day 5<a href="course-day-5" id="course-day-5"></a>: State 2
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
@@ -135,7 +135,7 @@ Total Video Watch Time: **~17 mins**
 
 
 
-# Sat 19 Feb, Week 4, Course Day 6<a href="course-day-6" id="course-day-6"></a>: Arrays, Loops 1
+# Tue 15 Feb, Week 4, Course Day 6<a href="course-day-6" id="course-day-6"></a>: Arrays, Loops 1
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -149,7 +149,7 @@ Total Video Watch Time: **~41 mins**
 
 
 
-# Tue 15 Feb, Week 4, Course Day 7<a href="course-day-7" id="course-day-7"></a>: Loops 2
+# Sat 19 Feb, Week 4, Course Day 7<a href="course-day-7" id="course-day-7"></a>: Loops 2
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
@@ -161,7 +161,7 @@ Total Video Watch Time: **~11 mins**
 
 
 
-# Sat 26 Feb, Week 5, Course Day 8<a href="course-day-8" id="course-day-8"></a>: Objects
+# Tue 22 Feb, Week 5, Course Day 8<a href="course-day-8" id="course-day-8"></a>: Objects
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
@@ -179,7 +179,7 @@ Total Video Watch Time: **~15 mins**
 
 
 
-# Tue 22 Feb, Week 5, Course Day 9<a href="course-day-9" id="course-day-9"></a>: Card Logic
+# Sat 26 Feb, Week 5, Course Day 9<a href="course-day-9" id="course-day-9"></a>: Card Logic
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
@@ -191,7 +191,7 @@ Total Video Watch Time: **~16 mins**
 
 
 
-# Sat 5 Mar, Week 6, Course Day 10<a href="course-day-10" id="course-day-10"></a>: Coding Strategies
+# Tue 1 Mar, Week 6, Course Day 10<a href="course-day-10" id="course-day-10"></a>: Coding Strategies
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -203,7 +203,7 @@ Total Video Watch Time: **~60 mins**
 
 
 
-# Tue 1 Mar, Week 6, Course Day 11<a href="course-day-11" id="course-day-11"></a>: Debugger
+# Sat 5 Mar, Week 6, Course Day 11<a href="course-day-11" id="course-day-11"></a>: Debugger
 Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
