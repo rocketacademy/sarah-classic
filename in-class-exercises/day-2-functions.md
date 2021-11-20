@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Today we will write functions to perform data transformations, similar to examples in [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md#exercises). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For some exercises you may need to google for information. Please switch driver and navigator each exercise.
+Today we will write functions to perform data transformations, similar to examples in [3.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](../course-logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.&#x20;
+
+**Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
 {% hint style="warning" %}
 When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
@@ -28,39 +30,49 @@ Before you begin, check that you and your partner can answer the following:
 
 ## Base
 
+See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day2/).
+
 ### Cost of Air Con
 
-Create an app where the user enters a number of hours they use aircon, and the app tells them the cost. An aircon machine uses 2 kilowatts of electricity. Electricity costs $0.20 per kilowatt-hour.
+The user enters the number of hours of air-con use, and the app tells them the cost.&#x20;
+
+An aircon machine uses 2 kilowatts of electricity.&#x20;
+
+Electricity costs $0.20 per kilowatt-hour.
 
 ### Screen Time
 
-Create an app that takes a number of hours per day spent on your favourite app, and renders how many days you will spend in your lifetime on this app. Assume an average life expectancy of 82 years.
+The user will enter the number of hours spent per day on their favourite app, and the program renders how many days you will spend in your lifetime on this app.&#x20;
+
+Assume an average life expectancy of 82 years.
 
 On [Android 10](https://wellbeing.google/tools/), [iOS 12](https://support.apple.com/en-us/HT208982), and later versions, we can see how many hours per day we spend on each app. Find the number of hours you spend per day on the app you use most. If you're not able to find this, you can google for common statistics.
 
-For example, if I spend 2 hours per day on WhatsApp and I live an average lifetime, how many days will I spend in my lifetime on WhatsApp?
-
-### Papayas Supply Budget
-
-Create an app that will tell the user how much they'll pay for their Papaya supply this month.
-
-This app is only for one particular user who always eats 2 kilos of Papayas each month. This user will enter in the price of Papayas per kilo this month, and the app will calculate and display how much they should budget.
+For example, if I spend 2 hours per day on WhatsApp and I live an average lifetime, how many total days will I spend on WhatsApp in my lifetime?
 
 ### Ice Machine
 
-Create an app that calculates how many hours a hotel needs to run their ice machine to make enough ice for a given event. The user will input the number of guests for the event. Each guest needs 2 drinks. Each drink has 4 ice cubes. Each cube weights 1.5 grams. There are 454 grams per pound. The hotel's ice machine produces 5 pounds of ice per hour.
+A hotel uses an ice machine to prepare ice for guests. They want to start the ice machine as close to each event as possible, so that the ice doesn't melt. In order to do this, they need to estimate how long they will need to run the ice machine.
+
+Create a program that estimates the duration the ice machine needs to run. The user will input the number of guests for the event.&#x20;
+
+Assume each guest needs 2 drinks. Each drink has 4 ice cubes. Each cube weights 1.5 grams. The hotel's American-made ice machine produces 5 pounds of ice per hour.&#x20;
 
 ### Beer Order
 
-Create an app for a bar to calculate how many kegs they need. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter. Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
+Create a program for a bar to calculate how many kegs of beer they will need every day. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter.&#x20;
+
+Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
 
 ## More Comfortable
 
 ### Cost of Cellular Data
 
-Create an app for the $19.99 50GB post-paid plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB. Assume that if the user exceeds 50GB, they will automatically purchase an additional 50GB plan. You may find the built-in function `Math.ceil` helpful for this (can google how to use it).
+Create a program to calculate how much a user will pay for their the $19.99 50GB post-paid data plan. The user will enter how many GB they use per month, and the app will tell them how much they are paying per GB of data used.
 
-For example if the user only used 1GB this month, the app would calculate $19.99 per GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month assume the user bought 2 plans and the app would calculate $0.78 per GB.&#x20;
+Assume that if the user exceeds 50GB, they will automatically purchase an additional 50GB plan. You may find the built-in function `Math.ceil` helpful for this _(you can google how to use it)_.
+
+For example, if the user only used 1GB this month, the app would calculate $19.99 per GB as the user paid $19.99 for the 50GB plan but only used 1GB. If the user used 2GB this month, the app would calculate $9.98 per GB. If the user used 51GB this month the user would have automatically been billed for 2 plans and the app would calculate $0.78 per GB.&#x20;
 
 ### Mortgage Calculator
 
