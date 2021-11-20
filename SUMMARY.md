@@ -4,18 +4,18 @@
 
 ## Course Logistics
 
-* [🧑🏫 Course Methodology](course-logistics/course-methodology/README.md)
+* [🧑🏫 🧑🏫 Course Methodology](course-logistics/course-methodology/README.md)
   * [🧩 Course Components](course-logistics/course-methodology/course-components.md)
   * [💬 Slack](course-logistics/course-methodology/slack.md)
   * [❤ Social Rules](course-logistics/social-rules.md)
   * [🎲 Projects](course-logistics/course-methodology/projects.md)
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
-  * [1⃣ Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
-  * [2⃣ Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
+  * [1⃣ 1⃣ Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
+  * [2⃣ 2⃣ Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
   * [👍 Recommended Set-up](course-logistics/required-hardware-and-software/recommended-set-up.md)
 * [🗓 Schedule](course-logistics/schedule-and-pairings/README.md)
   * [📅 Batch 12 Schedule](course-logistics/schedule-and-pairings/batch-12-schedule.md)
-  * [📅 Batch 13 Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
+  * [Batch 13 Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
 * [📒 Coding Strategies](course-logistics/coding-strategies.md)
 * [💡 Tooling Pro Tips](course-logistics/tooling-pro-tips.md)
 * [🎓 Post-Course](course-logistics/post-course/README.md)

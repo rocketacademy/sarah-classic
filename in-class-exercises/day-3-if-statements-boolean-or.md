@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Today we will practise if statements and logical OR operators. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Please switch driver and navigator each exercise.
+Today we will practise if statements and logical OR operators.&#x20;
 
-{% hint style="warning" %}
-When cloning the starter code, put each exercise in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
-{% endhint %}
+For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](../course-logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.&#x20;
+
+**Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
 ## Base
 
