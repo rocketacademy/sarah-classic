@@ -119,6 +119,10 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 Total Video Watch Time: **\~41 mins**
 
+**Module 4: Conditional Logic**
+
+* [4.4: Input Validation](../../4-conditional-logic/8.3-input-validation.md)
+
 **Module 5: Global State**
 
 * [5.1: Program Lifecycle and Global State](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.1-program-lifecycle-and-state)
