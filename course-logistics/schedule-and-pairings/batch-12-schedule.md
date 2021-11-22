@@ -105,7 +105,7 @@ Total Video Watch Time: **\~40 mins**
 ### In Class
 
 * [Day 3: If Statements, Boolean "Or", Boolean "And"](https://basics.rocketacademy.co/in-class-exercises/day-3-if-statements-boolean-or)
-* Project Planning: Scissors Paper Stone
+* [Project Planning: Scissors Paper Stone](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
 
 ### Project Start: Scissors Paper Stone
 

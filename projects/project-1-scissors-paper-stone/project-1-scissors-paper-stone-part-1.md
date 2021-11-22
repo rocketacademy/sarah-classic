@@ -13,8 +13,7 @@ Part 1 works with the technologies we have learned so far in Basics, and Part 2 
 ## Setup
 
 1. Create a `project` directory in your `basics` code folder to host your projects if you haven't already.
-2. [Fork](../../7-github/7.1-github-fork-and-pull-request.md) the [Coding Basics Scissors Paper Stone repository](https://github.com/rocketacademy/basics-scissors-paper-stone) into your own GitHub account.
-3. Clone the newly-forked SPS repo from your own GitHub account into a new folder in your `project` directory. You will notice that the SPS repository should look similar to the starter code repository. We made separate repositories for each project so that student Pull Request submissions can be better organised by project.
+2. Make a copy of the [basics starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) for your Scissors Paper Stone project.
 
 ## Base
 
@@ -32,7 +31,7 @@ Unsure how to start? Try these steps:
    * What should the output be?
    * How will the computer's option be randomly generated?
    * How many different cases are there?
-2. Draw a simple flowchart to help you visualise the overall flow of the program.
+2. Draw a simple flowchart to help you visualise the overall control flow of the program.
 3. Start small, test while you build and be ready to debug.
    * It's unwise to attempt to build the entire program in one go before testing.
    * Know that the final shape and form of your program will look different from when you are building it.
@@ -66,10 +65,17 @@ You decide to prank your friends and create an SPS game where the rules are reve
 
 ## Submit
 
-1. [Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
-2. [Create a pull request](../../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
-3. Please leave your name and _**section number **_in the _**title**_ of the pull request.
-4. Please fill in the questionnaire in the pull request comments when you submit.
+Share your work with your Section mates for peer-learning, and with your SLs for review. In your Section Slack channel:
+
+1. Title a new code snipper "SPS Part 1"
+2. Copy code from `script.js` into the code snippet
+3. Include the following message, filled in:
+   1. How many hours did you spend on this assignment?
+      1. What part of the assignment did you spend the most time on?
+   2. What is one error and/or error message you received while working on this assignment, and how did you solve the error?
+   3. How comfortable did you feel with this assignment? (1-5):
+   4. Is there anything in this code that you feel pleased about?
+   5. What's one aspect of your code you would like specific, elaborate feedback on?
 
 ## Reference Solution
 

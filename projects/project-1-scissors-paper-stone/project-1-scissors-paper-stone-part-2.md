@@ -68,12 +68,17 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 
 ## Submit
 
-[Push](../../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
+Share your work with your Section mates for peer-learning, and with your SLs for review. In your Section Slack channel:
 
-1. Any subsequent commits you push will be added to your previous pull request automatically.
-2. Please leave your name and _**section number **_in the _**title**_ of the pull request.
-3. Please make a copy of the questionnaire and create a _**new pull request comment**_.
-4. Fill in the survey questions.
+1. Title a new code snipper "SPS Part 1"
+2. Copy code from `script.js` into the code snippet
+3. Include the following message, filled in:
+   1. How many hours did you spend on this assignment?
+      1. What part of the assignment did you spend the most time on?
+   2. What is one error and/or error message you received while working on this assignment, and how did you solve the error?
+   3. How comfortable did you feel with this assignment? (1-5):
+   4. Is there anything in this code that you feel pleased about?
+   5. What's one aspect of your code you would like specific, elaborate feedback on?
 
 ## Reference Solution
 
