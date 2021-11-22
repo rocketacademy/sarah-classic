@@ -6,16 +6,16 @@ description: What and when we will learn
 
 ## Course Dates
 
-| Week |                    Monday                   |                   Tuesday                   |                   Saturday                  |
-| :--: | :-----------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
-|   0  |                      -                      |                      -                      | [22 Jan](batch-13-schedule.md#course-day-0) |
-|   1  |                      -                      | [25 Jan](batch-13-schedule.md#course-day-1) | [29 Jan](batch-13-schedule.md#course-day-2) |
-|   2  |                      -                      |             public holiday (SG)             |  [5 Feb](batch-13-schedule.md#course-day-3) |
-|   3  |                      -                      |  [8 Feb](batch-13-schedule.md#course-day-4) | [12 Feb](batch-13-schedule.md#course-day-5) |
-|   4  |                      -                      | [15 Feb](batch-13-schedule.md#course-day-6) | [19 Feb](batch-13-schedule.md#course-day-7) |
-|   5  |                      -                      | [22 Feb](batch-13-schedule.md#course-day-8) | [26 Feb](batch-13-schedule.md#course-day-9) |
-|   6  |                      -                      | [1 Mar](batch-13-schedule.md#course-day-10) | [5 Mar](batch-13-schedule.md#course-day-11) |
-|   7  | [7 Mar](batch-13-schedule.md#course-day-12) |                      -                      |                      -                      |
+| Week |                   Tuesday                   |                   Saturday                  |
+| :--: | :-----------------------------------------: | :-----------------------------------------: |
+|   0  |                      -                      | [22 Jan](batch-13-schedule.md#course-day-0) |
+|   1  | [25 Jan](batch-13-schedule.md#course-day-1) | [29 Jan](batch-13-schedule.md#course-day-2) |
+|   2  |             public holiday (SG)             |  [5 Feb](batch-13-schedule.md#course-day-3) |
+|   3  |  [8 Feb](batch-13-schedule.md#course-day-4) | [12 Feb](batch-13-schedule.md#course-day-5) |
+|   4  | [15 Feb](batch-13-schedule.md#course-day-6) | [19 Feb](batch-13-schedule.md#course-day-7) |
+|   5  | [22 Feb](batch-13-schedule.md#course-day-8) | [26 Feb](batch-13-schedule.md#course-day-9) |
+|   6  | [1 Mar](batch-13-schedule.md#course-day-10) | [5 Mar](batch-13-schedule.md#course-day-11) |
+|   7  | [8 Mar](batch-13-schedule.md#course-day-12) |                      -                      |
 
 ## Sat 22 Jan, Week 0, Course Day 0: Pre-Course Briefing <a href="course-day-0" id="course-day-0"></a>
 
@@ -262,7 +262,7 @@ Total Video Watch Time: **\~18 mins**
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-## Mon 7 Mar, Week 7, Course Day 12: Project Presentations <a href="course-day-12" id="course-day-12"></a>
+## Tue 8 Mar, Week 7, Course Day 12: Project Presentations <a href="course-day-12" id="course-day-12"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
