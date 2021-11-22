@@ -46,13 +46,9 @@ Once both partners are done with #1-4, discuss what you saw. Read out and review
 
 You'll be pair programming on one person's project at a time.&#x20;
 
-**The driver will be the person who is \*not\* working on their own code. **
+**The driver will be the person who is _not_ working on their own code.**
 
 Once done with one person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
-
-{% hint style="info" %}
-Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.
-{% endhint %}
 
 Work on the game in the following order:
 
@@ -64,11 +60,11 @@ If there are any errors or bugs in a project, pair to fix those problems.
 
 #### A) Super Game - Guess the Word
 
-Your pair will turn the Scissors Paper Stone game into a super game. Add a mode for a new guess the secret word game. The user will type in "word game" to switch to this mode. The game itself will be the same as the game in the code example in [6.1](../6-conditional-logic/6.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
+Your pair will turn the Scissors Paper Stone game into a super game. Add a mode for a new guess the secret word game. The user will type in "word game" to switch to this mode. The game itself will be the same as the game in the code example in [4.1](../6-conditional-logic/6.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
 
 #### B) Dice Game
 
-Add a third mode to the super game, a guess the dice roll game. The user will enter "dice game" to switch to this mode. (The dice game is the same dice game as the original basic version in [6.1](../6-conditional-logic/6.1-intro-to-logic.md#dice-game)).
+Add a third mode to the super game, a guess the dice roll game. The user will enter "dice game" to switch to this mode. (The dice game is the same dice game as the original basic version in [4.1](../6-conditional-logic/6.1-intro-to-logic.md#dice-game)).
 
 ### 3. Comfortable
 
