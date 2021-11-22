@@ -20,7 +20,7 @@ Remind the students to continue working on the Beat That project and submit a pu
 
 Total Video Watch Time: **\~41 mins**
 
-### [Coding Strategies](../course-logistics/coding-strategies.md)
+### [Coding Strategies](../course-logistics/tips-and-tricks/coding-strategies.md)
 
 #### Discussion Questions
 

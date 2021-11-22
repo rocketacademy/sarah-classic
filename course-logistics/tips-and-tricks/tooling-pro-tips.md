@@ -2,7 +2,7 @@
 description: Tips for using programming tools
 ---
 
-# 💡 Tooling Pro Tips
+# 🛠 Tooling Pro Tips
 
 ## Using VSCode Effectively
 

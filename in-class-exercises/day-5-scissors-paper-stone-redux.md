@@ -28,11 +28,9 @@ Read the code:
 
 While you are reading, note down the answers to the following questions: No need to be comprehensive, but pick out parts of the code you found notable.
 
-1. Note a line of code (or multiple lines) that you think works well. This could be the logic of the code, or just a well-named variable. Explain why it works well.&#x20;
+1. Note a line of code (or multiple lines) that you think works well. This could be the logic of the code, or just a well-named variable. Explain why it works well.
 2. Note a line of code (or multiple lines) that you thought was unclear or you can't figure out. How would you explain why is it unclear or hard to figure out?
 3. Note a line of code (or multiple lines) where you found a bug. Why is it a bug? Do you have a solution?
-
-   &#x20;
 
 ### 3. Edit Partner's Code
 
@@ -44,9 +42,9 @@ Once both partners are done with #1-4, discuss what you saw. Read out and review
 
 ## Improve Project Together
 
-You'll be pair programming on one person's project at a time.&#x20;
+You'll be pair programming on one person's project at a time.
 
-**The driver will be the person who is _not_ working on their own code.**
+**The driver will be the person who is **_**not**_** working on their own code.**
 
 Once done with one person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
 

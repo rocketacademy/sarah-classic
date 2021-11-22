@@ -54,7 +54,7 @@ Note that for the `main` function to perform different logic on user input, for 
 1. Creating helper functions can be a powerful way to refactor your code and keep it neat.
 2. Don't be afraid to throw away code, especially if you already know how you would write it better.
 3. Commit your code often, whenever you have a small working version. For example, each action listed above would be a commit. Make concise and precise commit messages so that you can reference your old changes later.
-4. Review [Coding Strategies](../course-logistics/coding-strategies.md)
+4. Review [Coding Strategies](../course-logistics/tips-and-tricks/coding-strategies.md)
 
 ### How to Prioritise Work
 
