@@ -4,7 +4,7 @@
 
 Today we will practise arrays with occasional loops through the game of Mad Libs. Note that loops may not be necessary for every exercise.
 
-Mad Libs is a word game where players fill in the blanks with random words, such that the final sentence is usually funny. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad\_Libs).
+Mad Libs is a word game where players fill in the blanks with random words, such that the final sentence is usually funny. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad_Libs).
 
 #### Example "Mad Lib" Sentence from Wikipedia
 
@@ -17,10 +17,6 @@ Mad Libs is a word game where players fill in the blanks with random words, such
 
 For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
 
-{% hint style="warning" %}
-When cloning, put each app in a separate folder, like the folder structure in [Required Hardware and Software](../course-logistics/required-hardware-and-software.md#folder-structure-for-coding-basics). This is to avoid Git repos inside Git repos, which can cause problems with Git.
-{% endhint %}
-
 ## Base
 
 ### Mad Libs Adjectives
@@ -30,7 +26,10 @@ When cloning, put each app in a separate folder, like the folder structure in [R
 The following code is the above example Mad Lib written in JavaScript, where the exclamation, adverb, and noun have been hard-coded and `randomAdj` refers to the random adjective our program will randomly select to complete the Mad Lib.
 
 ```javascript
-var madLib = '"WOW!" he said EXCITEDLY as he jumped into his convertible PAPAYA and drove off with his '+randomAdj+' wife.';
+var madLib =
+  '"WOW!" he said EXCITEDLY as he jumped into his convertible PAPAYA and drove off with his ' +
+  randomAdj +
+  ' wife.';
 ```
 
 #### Instructions
@@ -45,11 +44,11 @@ _Please read all instructions before getting started._
 In order to get a random value from an array we can generate a random integer in the range of: zero to the last index of the array.
 
 ```javascript
-var getRandomIndex = function(arrayLength){
+var getRandomIndex = function (arrayLength) {
   // create a random number from zero to array length minus one.
   // this number is in the range from the first
   // index (zero) to the last index (array length minus one)
-  var randomIndex = Math.floor( Math.random() * arrayLength );
+  var randomIndex = Math.floor(Math.random() * arrayLength);
   return randomIndex;
 };
 ```
@@ -64,7 +63,7 @@ When the user inputs "create", change the game mode to create mode. In create mo
 
 ### Input Multiple Words
 
-When the Basics Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref\_split.asp) for details.
+When the Basics Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref_split.asp) for details.
 
 ### Mad Libs Multiple Word Types
 
@@ -92,7 +91,7 @@ Mad Lib 2 might be:
 
 Update create mode to pick a random Mad Lib sentence and set of words and output the completed Mad Lib in the grey box on Submit.
 
-Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+examples\&tbm=isch) for potential Mad Lib inspiration.
+Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+examples&tbm=isch) for potential Mad Lib inspiration.
 
 ## Reference Solution
 
