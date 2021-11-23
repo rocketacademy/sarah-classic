@@ -20,6 +20,8 @@ Before you begin, check that you and your partner can answer the following:
 
 ## Base
 
+See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day3).
+
 ### Lucky 11
 
 Create a dice game that rolls 2 dice when a user clicks Submit. The user wins if either of their guesses is correct, or if the total dice roll is 11.
