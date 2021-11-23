@@ -65,7 +65,7 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 
 Share your work with your Section mates for peer-learning, and with your SLs for review. In your Section Slack channel:
 
-1. Title a new code snipper "SPS Part 2"
+1. Title a new code snippet "SPS Part 2"
 2. Copy code from `script.js` into the code snippet
 3. Include the following message, filled in:
    1. How many hours did you spend on this assignment?
