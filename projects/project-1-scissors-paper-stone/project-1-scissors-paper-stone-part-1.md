@@ -48,7 +48,7 @@ Sometimes the user types something other than "scissors", "paper", or "stone" du
 
 ### Formatting
 
-Make the output of your game look nice. You can use string `'<br>'` to create new lines in the output. Your output might look something like this:
+Make the output of your game look nice. You can use string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag\_br.asp) in the output. Your output might look something like this:
 
 ```
 The computer chose scissors ✂️.
