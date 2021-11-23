@@ -24,10 +24,12 @@ See an example of all problems [here](https://rocketacademy.github.io/basics-sta
 
 ### Lucky 11
 
-Create a dice game that allows a user to rolls 2 dice and submit a guess when the Submit button is clicked. The user wins if either&#x20;
+Create a dice game that allows a user to roll 2 dice and submit a guess when the Submit button is clicked. The user wins if either&#x20;
 
 1. One of the dice roll matches their guess, or
 2. If the total dice roll is 11.
+
+Otherwise the user loses.
 
 {% hint style="info" %}
 To test your winning logic, consider using [code control logic from Module 4.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
