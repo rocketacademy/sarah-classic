@@ -8,6 +8,16 @@ For each exercise, make a copy of the [starter code](https://github.com/rocketac
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
+## Knowledge Check
+
+Before you begin, check that you and your partner can answer the following:
+
+* [ ] Why use logic in our programs?
+* [ ] What is an if statement?
+* [ ] What is a code block? What marks the start and end of a block of code?
+* [ ] What is a Boolean value? What is a Boolean variable?
+* [ ] What is a Boolean operator? What are the different kinds of Boolean operators?
+
 ## Base
 
 ### Lucky 11
@@ -15,7 +25,7 @@ For each exercise, make a copy of the [starter code](https://github.com/rocketac
 Create a dice game that rolls 2 dice when a user clicks Submit. The user wins if either of their guesses is correct, or the total dice roll is 11.
 
 {% hint style="info" %}
-To test your winning logic, consider using [code control logic from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
+To test your winning logic, consider using [code control logic from Module 4.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
 {% endhint %}
 
 ### Hawker Food Categorisation
