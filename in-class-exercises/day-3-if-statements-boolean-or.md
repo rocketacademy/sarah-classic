@@ -20,7 +20,7 @@ Before you begin, check that you and your partner can answer the following:
 
 ## Base
 
-See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day3).
+See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day3/index.html).
 
 ### Lucky 11
 
