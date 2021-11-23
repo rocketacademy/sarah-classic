@@ -24,9 +24,7 @@ To make this game more personal, add a feature to collect the user's name as the
 
 ### Formatting
 
-Make the output of your game look nice. You can use string `'<br>'` to create new lines in the output. Add the user name and the win/loss record. If the player's win/loss record suggests they are doing well, format a message for them (and another message if they are not doing well).
-
-Your output might look something like this:
+Make the output of your game look nice. You can use the string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag\_br.asp) in the output. Add the user name and the win/loss record. Format a message depending on how well the player is doing:
 
 ```
 The computer chose scissors ✂️.
@@ -41,7 +39,7 @@ So far Kai, you've been winning 5/7 turns. Pretty good!
 
 ### Reverse Game Mode
 
-You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create _**a game mode**_ where if a user types in "reverse", it reverses the SPS rules. Once done, push your code and update your pull request in GitHub.
+You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create _**a game mode**_ where if a user types in "reverse", it reverses the SPS rules.&#x20;
 
 ### Korean Scissors Paper Stone
 
