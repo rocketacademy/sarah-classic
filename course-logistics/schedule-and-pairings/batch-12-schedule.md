@@ -105,7 +105,9 @@ Total Video Watch Time: **\~40 mins**
 ### In Class
 
 * [Day 3: If Statements, Boolean "Or", Boolean "And"](https://basics.rocketacademy.co/in-class-exercises/day-3-if-statements-boolean-or)
-* [Project Planning: Scissors Paper Stone](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
+* Project Planning: Scissors Paper Stone
+  * [Coding Strategies: Getting Started](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
+  * [Scissors Paper Stone: Base](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md#base)
 
 ### Project Start: Scissors Paper Stone
 
@@ -176,7 +178,7 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
 
-## Tue 7 Dec, Week 4, Course Day 7: Loops 2 <a href="course-day-7" id="course-day-7"></a>
+## Tue 7 Dec, Week 4, Course Day 7: Loops 2, Git <a href="course-day-7" id="course-day-7"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -196,7 +198,7 @@ Total Video Watch Time: **\~11 mins**
 
 * [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
 
-## Sat 11 Dec, Week 4, Course Day 8: Objects <a href="course-day-8" id="course-day-8"></a>
+## Sat 11 Dec, Week 4, Course Day 8: GitHub <a href="course-day-8" id="course-day-8"></a>
 
 Meeting time: 1:00 PM SGT (GMT+8)
 
@@ -219,7 +221,7 @@ Total Video Watch Time: **\~15 mins**
 
 * [Day 8: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
 
-## Tue 14 Dec, Week 5, Course Day 9: Card Logic <a href="course-day-9" id="course-day-9"></a>
+## Tue 14 Dec, Week 5, Course Day 9: Objects, Card Logic <a href="course-day-9" id="course-day-9"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -256,7 +258,7 @@ Total Video Watch Time: **\~60 mins**
 
 * [Day 10: Chat Bot](https://basics.rocketacademy.co/in-class-exercises/day-10-chat-bot)
 
-## Tue 21 Dec, Week 6, Course Day 11: Debugger <a href="course-day-11" id="course-day-11"></a>
+## Tue 21 Dec, Week 6, Course Day 11: Advanced <a href="course-day-11" id="course-day-11"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
