@@ -1,5 +1,9 @@
 # Further Readings
 
+## More JavaScript Practice
+
+[https://www.asmarterwaytolearn.com/js/index-of-exercises.html](https://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
 ## JavaScript with DOM
 
 Khan Academy has a good set of follow-on lessons that will dovetail with the DOM material we covered here in [12.1](../12-next-steps/12.1-browser-applications-with-dom.md) and [13](pce-dom.md).
