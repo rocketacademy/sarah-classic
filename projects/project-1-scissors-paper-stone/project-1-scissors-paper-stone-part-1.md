@@ -38,11 +38,15 @@ Unsure how to start? Try these steps:
    * You can write new lines of code within main first, check that the code works as intended, and then "relocate" / refactor your code as a helper function.&#x20;
    * Utilise `console.log()` sensibly to check for the right [control flow](../../5-structuring-and-debugging-code/5.2-errors.md#control-flow-checking-is-our-code-running) and [values](../../5-structuring-and-debugging-code/5.2-errors.md#value-checking-are-the-values-correct).
    * Try to test as frequently as you can, and whenever you make a significant change. It builds confidence that things are working as they should and you will catch bugs as soon as they pop up.
+4. [Refactor ](https://en.wikipedia.org/wiki/Code\_refactoring)your code:
+   1. Is all of your logic in `main()`? Can more lines of code be in helper functions?
+   2. Are there any unwieldy or long helper functions? Should they be sub-routines which call helper functions instead?
+   3. Can any of the logic be streamlined?
 {% endhint %}
 
 ### Input Validation
 
-Sometimes the user types something other than "scissors", "paper", or "stone" during gameplay. Add _input validation_ to check if what the user types is a valid choice, and if not, kindly let the user know that there are only 3 input options, and ask them to try again.
+Sometimes the user types something other than "scissors", "paper", or "stone" during gameplay. Add [_input validation_](../../4-conditional-logic/8.3-input-validation.md) to check if what the user types is a valid choice, and if not, kindly let the user know that there are only 3 input options, and ask them to try again.
 
 ## More Comfortable
 
