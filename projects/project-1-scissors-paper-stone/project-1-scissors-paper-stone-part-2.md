@@ -12,11 +12,6 @@ If you completed the [Base features of SPS Part 1](project-1-scissors-paper-ston
 
 Take a look at a [past project](https://averygan.github.io/basics-scissors-paper-stone/) by a previous Basics student to visualise the full game, and for some inspiration.&#x20;
 
-## Setup
-
-1. Add onto the pull request you already opened for the last version. In fact, _**you don't have to do anything else for this.**_ When you push your commits, they will automatically be added to your pull request.
-2. Copy the pull request survey you filled out for the first part of the project and answer the questions for this part of the project. You can just copy and paste your answers into the same pull request description box.
-
 ## Base
 
 ### Win-Loss Record
@@ -72,7 +67,7 @@ Implement other variations to the game as described here: [https://en.wikipedia.
 
 Share your work with your Section mates for peer-learning, and with your SLs for review. In your Section Slack channel:
 
-1. Title a new code snipper "SPS Part 1"
+1. Title a new code snipper "SPS Part 2"
 2. Copy code from `script.js` into the code snippet
 3. Include the following message, filled in:
    1. How many hours did you spend on this assignment?
