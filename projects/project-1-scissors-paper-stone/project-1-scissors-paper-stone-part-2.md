@@ -10,7 +10,7 @@ Part 2 assumes we have learned about global variables, and the More Comfortable 
 
 If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to complete More Comfortable for both parts.
 
-Take a look at a [past project](https://averygan.github.io/basics-scissors-paper-stone/) by a previous Basics student to visualise the full game, and for some inspiration.&#x20;
+Take a look at a [**past project**](https://averygan.github.io/basics-scissors-paper-stone/) by a previous Basics student to visualise the full game, and for some inspiration.&#x20;
 
 ## Base
 
