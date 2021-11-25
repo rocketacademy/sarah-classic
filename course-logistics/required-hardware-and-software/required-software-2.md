@@ -1,4 +1,4 @@
-# 2⃣ Required Software 2
+# ✌ Required Software 2
 
 ## Required Command-Line Software: Git
 

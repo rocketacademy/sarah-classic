@@ -14,17 +14,39 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 
 ## Past Projects
 
+Take a look at some past project as references, and student-voted most-creative projects from previous Batches for inspiration :)
+
+
+
+{% tabs %}
+{% tab title="General" %}
 * [Base](https://rocketacademy.github.io/basics-blackjack/)
 * [Comfortable 1](https://awongh.github.io/basics-blackjack/index.html)
 * [Comfortable 2](https://eggcodes.github.io/basics-blackjack/)
 * [Super Comfortable](https://lim-jiahao.github.io/basics-blackjack/)
+{% endtab %}
 
-Basics 10 Most Creative _(as voted by students)_:
+{% tab title="Basics 11" %}
+1. [Wall St. Casino](https://supershazwi.github.io/basics-blackjack/)
+2. [MCU BlackJack](https://aqifsariman.github.io/basics-blackjack/)
+3. [BlackJack 99](https://liztanyl.github.io/basics-blackjack/)
+4. [Kawaii BlackJack](https://yingdan7.github.io/basics-blackjack/)
+5. [Real Cards™ BlackJack](https://waynerbee.github.io/basics-blackjack/)
+6. [SouthPark Casino](https://ahshawngoh.github.io/basics-blackjack/)
+7. [Edwin's Casino](https://edwinyxt.github.io/basics-blackjack/)
+8. [Cheok's Lounge](https://cheoklate.github.io/basics-blackjack/)
+9. ## [来玩·万辣](https://sherman168.github.io/basics-blackjack/)
+{% endtab %}
+
+{% tab title="Basics 10" %}
+
 
 1. [SouthPark Casino](https://averygan.github.io/basics-blackjack/)
 2. [Cat-sino](https://thereselyr.github.io/basics-blackjack/)
 3. [Simple and Green](https://liangtcode.github.io/basics-blackjack/)
 4. [90's Night](https://yap83.github.io/basics-blackjack/)
+{% endtab %}
+{% endtabs %}
 
 ## Setup
 

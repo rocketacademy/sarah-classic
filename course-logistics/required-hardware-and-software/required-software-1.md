@@ -1,4 +1,4 @@
-# Required Software 1
+# ☝ Required Software 1
 
 ## Required GUI-Application Software
 
