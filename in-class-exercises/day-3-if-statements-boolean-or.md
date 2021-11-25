@@ -43,10 +43,6 @@ For example, if a user enters "laksa", the program should output "noodle". If a 
 
 Please use the `||` operator.
 
-{% hint style="info" %}
-Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to move on to [Project Planning: Scissors Paper Stone](../course-logistics/schedule-and-pairings/batch-12-schedule.md#in-class-3). You can always come back and attempt the additional problems when you are feeling _more comfortable._
-{% endhint %}
-
 ## Comfortable
 
 ### 4D with Single-Digit Comparison
@@ -62,6 +58,10 @@ In addition to the win/loss result, output the player guess and all randomly-gen
 The uncle at your favourite hawker stall has decided to challenge himself and serve a random hawker dish to each customer. The dishes in his repertoire are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa". Customers that correctly guess Uncle's dish receive a free meal.
 
 Create an app that uses random numbers to help Uncle decide which dish to cook. The customer can only input dish names. If the customer correctly guesses Uncle's dish, let her know that she gets a free meal!
+
+{% hint style="info" %}
+Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to move on to [Project Planning: Scissors Paper Stone](../course-logistics/schedule-and-pairings/batch-12-schedule.md#in-class-3). You can always come back and attempt the additional problems when you are feeling _more comfortable._
+{% endhint %}
 
 ## More Comfortable
 

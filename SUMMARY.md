@@ -60,14 +60,15 @@
 
 ## 6: Arrays and Iteration
 
-* [Additional Resources 6](6-arrays-and-iteration/additional-resources-6.md)
 * [6.1: Arrays](9-arrays-and-iteration/9.1-arrays.md)
 * [6.2: Loops](9-arrays-and-iteration/9.2-loops.md)
 * [6.3: Loops with Arrays](9-arrays-and-iteration/9.3-loops-with-arrays.md)
+* [Additional Resources 6](6-arrays-and-iteration/additional-resources-6.md)
 
 ## 7: Version Control
 
 * [7.1: Git](2-organising-and-managing-code-files/2.2-git.md)
+* [Additional Resources 7](7-version-control/additional-resources-7.md)
 
 ## 8: GitHub
 
@@ -75,6 +76,7 @@
 * [8.2: GitHub Fork and Pull Request](7-github/7.1-github-fork-and-pull-request.md)
 * [8.3: GitHub Repo Browsing](7-github/7.2-github-repo-browsing.md)
 * [8.4: Deployment](12-next-steps/12.3-deployment.md)
+* [Additional Resources 8](8-github/additional-resources-8.md)
 
 ## 9: JavaScript Objects
 
