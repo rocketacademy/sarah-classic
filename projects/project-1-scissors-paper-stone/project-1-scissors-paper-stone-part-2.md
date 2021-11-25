@@ -6,9 +6,9 @@ description: ✂️📃💎🤩
 
 ## Introduction
 
-Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [globals](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game state](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md#global-state-for-app-modes).
+Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [global varaibles](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game states](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md#global-state-for-app-modes).
 
-If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to complete More Comfortable for both parts.
+If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to attempting More Comfortable for both parts.
 
 ## Past Projects
 
@@ -66,7 +66,7 @@ Add a mode that lets the computer choose for you on each turn.
 
 ### Further Variations
 
-Implement other variations to the game as described here: [https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Variations](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Variations) the user can select which variation they would like to play.
+Implement other variations to the game as described [here](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Variations). The user can select which variation they would like to play.
 
 ## Submit
 
@@ -86,4 +86,4 @@ Share your work with your Section mates for peer-learning, and with your SLs for
 
 The reference solution implements the Base functionality for both SPS Parts 1 and 2. Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
 
-[View the reference solution ](https://github.com/rocketacademy/basics-scissors-paper-stone/tree/part2-inclMoreComfortable)for SPS-Part2 (up till More Comfortable). Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
+[View the reference solution ](https://github.com/rocketacademy/basics-scissors-paper-stone/tree/part2-inclMoreComfortable)for SPS-Part2 (up till More Comfortable).
