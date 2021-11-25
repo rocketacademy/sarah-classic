@@ -42,6 +42,8 @@ So far Kai, you've been winning 5/7 turns. Pretty good!
 
 ## More Comfortable
 
+There is no need to implement all the different features sequentially in one version of your game. Feel free to choose what you find interesting and appropriately challenging and implementing only that.
+
 ### Reverse Game Mode
 
 You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create _**a game mode**_ where if a user types in "reverse", it reverses the SPS rules.&#x20;
