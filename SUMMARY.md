@@ -60,6 +60,7 @@
 
 ## 6: Arrays and Iteration
 
+* [Additional Resources 6](6-arrays-and-iteration/additional-resources-6.md)
 * [6.1: Arrays](9-arrays-and-iteration/9.1-arrays.md)
 * [6.2: Loops](9-arrays-and-iteration/9.2-loops.md)
 * [6.3: Loops with Arrays](9-arrays-and-iteration/9.3-loops-with-arrays.md)
