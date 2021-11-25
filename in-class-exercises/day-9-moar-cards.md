@@ -6,15 +6,15 @@ Today we will practise JavaScript Objects. For the 1st exercise, make a copy of 
 
 ## Base
 
-Feel free to copy the card deck generation function from [10.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling functions from [10.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) into your `script.js` file.
+Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) into your `script.js` file.
 
 ### Display Single Card
 
-Build an app using the Basics Starter Code and the deck functions from Modules 10.1 and 10.2 such that when the user clicks Submit, draw a single card from a shuffled deck and show it to them.
+Build an app using the Basics Starter Code and the pre-class deck functions such that when the user clicks Submit, draw a single card from a shuffled deck and show it to them.
 
 ### Low Card
 
-Implement the High Card game from [10.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with 1 difference: the winner is the person with the lowest card. Feel free to start with the code from Module 10.1 and modify it if that's easier. You may wish
+Implement the High Card game from [9.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with 1 difference: the winner is the person with the _lowest _card.
 
 ### Low Card with Queen Winner
 
@@ -22,7 +22,7 @@ Alter the Low Card game such that if any player draws a Queen, they win.
 
 ### Low Card Hands
 
-The player can input how many cards they want. The lowest of the player's cards is compared against the computer card. Show the player all the cards that she drew. Rules from above exercises continue to apply.
+The player can input how many cards they want. The lowest of the player's cards is compared against the computer's 1 card. Show the player all the cards that they drew. Rules from above exercises continue to apply.
 
 ### Low Card Suit Output
 

@@ -8,6 +8,10 @@ description: For the curious and the hungry
 
 If you'd like to learn more, this page contains a non-exhaustive, unordered list of useful resources. These resources are primarily related to Module 2, but also expand the scope of what has been covered, and touch on concepts and fundamentals that we will cover in future modules. You will see some of these resources repeated in other pages
 
+## JavaScript
+
+1. [FreeCodeCamp: Basic JavaScript Exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+
 ## Operations and Variables
 
 1. [MDN: Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First\_steps/Math)

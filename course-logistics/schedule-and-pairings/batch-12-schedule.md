@@ -236,7 +236,7 @@ Total Video Watch Time: **\~16 mins**
 
 ### In Class
 
-* [Day 9: Moar Cards](https://basics.rocketacademy.co/in-class-exercises/day-9-moar-cards)
+* [Day 9: Moar Cards](../../in-class-exercises/day-9-moar-cards.md)
 
 ### Project Start: Blackjack
 
