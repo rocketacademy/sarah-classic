@@ -2,9 +2,20 @@
 
 ## Introduction
 
-For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](../course-logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.&#x20;
+Today we will practice using global variables to store and change the state of the program..&#x20;
+
+See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day4/index.html).
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
+
+## Knowledge Check
+
+Before you begin, check that you and your partner can answer the following:
+
+* [ ] Why use global variables?
+* [ ] What is the difference between global and local variables?
+* [ ] Can a global variable be accessed or manipulated within a function?
+* [ ] Can a variable declared in `main` be accessed or manipulated in a different helper function?
 
 ## Base
 
@@ -12,27 +23,33 @@ For each exercise, make a copy of the [starter code](https://github.com/rocketac
 
 Create a game where a player must correctly guess secret words to win.
 
-There is 1 secret word for each guess, and the computer randomly chooses that secret word from a set of 3 words: "banana", "chisel" and "faucet".
+The computer chooses a random word from a set of three words. Feel free to use whatever words you'd like, but we will be using the words _"banana"_, _"chisel"_, and _"faucet"_.
 
-To win the game the player must guess correctly twice in total, e.g. the player still wins if she guesses wrongly 1 or more times between her 2 correct guesses. For each guess, output all information such as the guessed word, the secret word, and how many correct guesses the player still needs until she wins.
+To win the game the player must guess correctly **twice **in **total;** but is allowed to guess wrongly in between their two correct guesses.
 
-{% hint style="info" %}
-Please complete the Github Fork and Pull Request exercise before updating Secret Word in the Comfortable section below.
-{% endhint %}
+For each guess, output all information such as the guessed word, the secret word, and how many correct guesses the player still needs until she wins.
 
 ## Comfortable
 
 ### Secret Word Twice in a Row
 
-Update Secret Word with an additional rule: The player must guess correctly twice in a row to win.
+Update Secret Word with an additional rule: The player must guess correctly twice _in a row _to win.
 
 ### Secret Word X in a Row
 
 Update Secret Word game such that the number of times the player needs to guess correctly in a row changes between rounds.
 
-We define "round" as all gameplay until a player wins. The number of times the player needs to guess correctly is a number from 2 to 4, randomly chosen at the start of the round. When the player wins, the computer updates the number of times the player needs to guess correctly in a row for the upcoming round. Consider using [input control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to test your logic.
+We define "round" as all gameplay until a player wins. The number of times the player needs to guess correctly is a number from 2 to 4, randomly chosen at the start of the round.&#x20;
+
+When the player wins, the computer updates the number of times the player needs to guess correctly in a row for the next round.&#x20;
+
+Consider using [input control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to test your logic.
 
 ## More Comfortable
+
+{% hint style="info" %}
+Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to move on to [Scissors Paper Stone: Part 2](../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md) You can always come back and attempt the additional problems when you are feeling _more comfortable._
+{% endhint %}
 
 ### Dice Within
 
@@ -46,7 +63,7 @@ Update our dice game to include an additional dice. With each player guess, the 
 
 ### Dice 4D
 
-Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
+Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 4.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
 
 ### Secret Word Twice in a Row 2
 
