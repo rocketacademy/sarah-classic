@@ -18,3 +18,12 @@ If you'd like to learn more, this page contains a non-exhaustive, unordered list
 6. [MDN: Making Decisions in Your Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building\_blocks/conditionals)
 7. [W3S: JavaScript Switch Statement](https://www.w3schools.com/js/js\_switch.asp)
 8. [Digital Ocean: How to Use the Switch Statement in JavaScript](https://www.digitalocean.com/community/tutorials/how-to-use-the-switch-statement-in-javascript)
+
+## Input Validation
+
+1. JavaScript String Methods:
+   1. [.toLowerCase()](https://www.w3schools.com/jsref/jsref\_tolowercase.asp)
+   2. [.toUpperCase()](https://www.w3schools.com/jsref/jsref\_touppercase.asp)
+   3. [.trim()](https://www.w3schools.com/jsref/jsref\_trim\_string.asp)
+   4. [.includes()](https://www.w3schools.com/jsref/jsref\_includes.asp)
+   5. [.split()](https://www.w3schools.com/jsref/jsref\_split.asp)

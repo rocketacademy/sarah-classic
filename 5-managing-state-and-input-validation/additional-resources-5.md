@@ -18,11 +18,3 @@ If you'd like to learn more, this page contains a non-exhaustive, unordered list
 3. [Understanding Scope in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-scope-in-javascript)
 4. [Everything You Wanted to Know About JavaScript Scope](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope)
 
-## Input Validation
-
-1. JavaScript String Methods:
-   1. [.toLowerCase()](https://www.w3schools.com/jsref/jsref\_tolowercase.asp)
-   2. [.toUpperCase()](https://www.w3schools.com/jsref/jsref\_touppercase.asp)
-   3. [.trim()](https://www.w3schools.com/jsref/jsref\_trim\_string.asp)
-   4. [.includes()](https://www.w3schools.com/jsref/jsref\_includes.asp)
-   5. [.split()](https://www.w3schools.com/jsref/jsref\_split.asp)
