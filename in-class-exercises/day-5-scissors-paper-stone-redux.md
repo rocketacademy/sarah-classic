@@ -56,9 +56,15 @@ If there are any errors or bugs in a project, pair to fix those problems.
 
 ### 2. Add Features
 
-#### A) Super Game - Guess the Word
+If there were any features you wanted to implement but couldn't, use this time to pair-program your desired features, or anything else you'd like to see in your game.
 
-Your pair will turn the Scissors Paper Stone game into a super game. Add a mode for a new guess the secret word game. The user will type in "word game" to switch to this mode. The game itself will be the same as the game in the code example in [4.1](../6-conditional-logic/6.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
+If you have nothing else to add, here are some ideas:
+
+#### A) Multi Game - Guess the Word
+
+Your pair will turn the Scissors Paper Stone game into a Multi game app. Add a mode for a new "guess the secret word" game. The user will type in "word game" (or any secret phrase of your choice) to switch to this mode.&#x20;
+
+The game itself will be the same as the game in the code example in [4.1](../6-conditional-logic/6.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
 
 #### B) Dice Game
 
