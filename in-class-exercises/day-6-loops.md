@@ -28,8 +28,6 @@ For example, if the user enters 4 they will see this:
 
 ![](../.gitbook/assets/screen-shot-2020-08-26-at-12.35.12-am.png)
 
-## More Comfortable Exercises
-
 ### Triangle
 
 The user will enter the dimensions of a triangle to display on the screen.‌
@@ -40,6 +38,8 @@ For example, if the user enters 4 they will see this:
 
 ![](../.gitbook/assets/screen-shot-2020-08-26-at-12.37.35-am.png)
 
+## Comfortable&#x20;
+
 ### Outline Square
 
 The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character.
@@ -47,6 +47,16 @@ The user will enter the dimensions of a square to display on the screen. The squ
 For example, if the user enters 4 they will see this:
 
 ![](../.gitbook/assets/screen-shot-2020-08-26-at-12.54.56-am.png)
+
+## More Comfortable
+
+### Center Square
+
+The user will enter the dimensions of a square to display on the screen. The square is outlined by a different character and there is another different character in the center. The app doesn't allow dimensions that will not allow the center character.
+
+For example, if the user enters 5 they will see this:
+
+![](../.gitbook/assets/screen-shot-2020-08-26-at-12.58.34-am.png)
 {% endtab %}
 
 {% tab title="Multi-Dice Game" %}
@@ -81,6 +91,10 @@ For example, if the user enters 4 they will see this:
 Change the game to ask how many players are playing the game. Players will take turns playing the game as above.
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 ## Reference Solution
 
