@@ -42,7 +42,7 @@ So far Kai, you've been winning 5/7 turns. Pretty good!
 
 ## More Comfortable
 
-There is no need to implement all the different features sequentially in one version of your game. Feel free to choose what you find interesting and appropriately challenging and implementing only that.
+There is no need to implement all the different features sequentially in one version of your game. Feel free to choose what you find interesting and appropriately challenging and implement only that.
 
 ### Reverse Game Mode
 
