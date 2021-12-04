@@ -90,6 +90,10 @@ Having fun making your game look good? Feel free to explore more HTML and CSS on
 
 ## More Comfortable
 
+Try implementing some, or a combination of, the following feature groups. Feel free to include any other additional features you think of.
+
+{% tabs %}
+{% tab title="Score" %}
 ### Score
 
 Keep score for each player. The score is the running sum of all numbers that player has generated so far. This means there is no permanent winner, only a temporary leader.
@@ -97,7 +101,9 @@ Keep score for each player. The score is the running sum of all numbers that pla
 ### Leaderboard
 
 When outputting game results in the output box, also output a leaderboard that lists the 2 players and their scores in decreasing order.
+{% endtab %}
 
+{% tab title="Lowest Combined" %}
 ### Lowest Combined Number Mode
 
 Add a game mode such that the player with the lowest combined number is the winner.
@@ -105,7 +111,9 @@ Add a game mode such that the player with the lowest combined number is the winn
 ### Auto-Generate Combined Number
 
 Update the game to auto-generate the highest (or lowest) combined number from dice rolls. For example, for dice rolls `[6, 3]` in Lowest Combined Number mode, the game would auto-generate the combined number `36`.
+{% endtab %}
 
+{% tab title="Variable Dice and Players" %}
 ### Variable Number of Dice
 
 1. Create a new version of Beat That that rolls two or more dice per player.
@@ -116,10 +124,14 @@ Update the game to auto-generate the highest (or lowest) combined number from di
 ### Variable Number of Players
 
 Allow more than 2 players at a time to play Beat That. At the beginning of the game, ask how many players would like to play. For a variable number of players, feel free to output the leaderboard in any order, because implementing the leaderboard in decreasing order requires advanced logic.
+{% endtab %}
 
+{% tab title="Knockout" %}
 ### Knockout Mode
 
 Create a mode where if there are more than 2 players, the game can match players against each other 1 at a time until there is 1 final winner. For example, if there are 4 players, the game might first match players 1 and 2. If player 1 wins, the game might then match players 1 and 3. The winner of that match would then play player 4, and the winner of that final round would be the ultimate winner.
+{% endtab %}
+{% endtabs %}
 
 ## Submit
 
