@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Today we will practice arrays and loops. For each exercise except Infinite Loop, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup).
+Today we will practice arrays and loops. For each exercise except Infinite Loop, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code).
+
+Pick either one of the Emoji Drawing or Multi-Dice Game exercise and work through from Base to your preferred level of comfort, before attempting the other exercise.
 
 {% tabs %}
 {% tab title="Emoji Drawing" %}
