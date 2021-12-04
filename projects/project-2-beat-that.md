@@ -50,7 +50,7 @@ Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating
 
 Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
 
-At line 21 of index.html, try changing `background-color: pink;` to `background-color: lightblue;` or any [colour ](https://www.w3schools.com/colors/colors\_names.asp)of your choice!
+At line 29 of index.html, try changing `background-color: pink;` to `background-color: lightblue;` or any [colour ](https://www.w3schools.com/colors/colors\_names.asp)of your choice!
 
 ```
       #container {
@@ -61,7 +61,7 @@ At line 21 of index.html, try changing `background-color: pink;` to `background-
       }
 ```
 
-Add 1 or more [paragraphs](https://www.w3schools.com/html/html\_paragraphs.asp) after line 53 with instructions on how to play Beat That! It can look something like this:
+Add 1 or more [paragraphs](https://www.w3schools.com/html/html\_paragraphs.asp) after line 64 with instructions on how to play Beat That! It can look something like this:
 
 ```
 ...
