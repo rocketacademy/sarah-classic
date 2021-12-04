@@ -12,7 +12,8 @@ Have a look a some past student's project to visualise the game - and for inspir
 
 ## Setup
 
-Begin by forking the [Coding Basics Beat That repo](https://github.com/rocketacademy/basics-beat-that). Once forked, clone your fork of the repo and work on that copy.
+1. Create a `project` directory in your `basics` code folder to host your projects if you haven't already.
+2. Make a copy of the [basics starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) for your _Beat That!_ project.
 
 ## Base
 
@@ -49,7 +50,7 @@ Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating
 
 Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
 
-At line 21 of index.html, try changing `background-color: pink; `to`  background-color: lightblue;  `or any [colour ](https://www.w3schools.com/colors/colors\_names.asp)of your choice!
+At line 21 of index.html, try changing `background-color: pink;` to `background-color: lightblue;` or any [colour ](https://www.w3schools.com/colors/colors\_names.asp)of your choice!
 
 ```
       #container {
