@@ -12,6 +12,10 @@ Pick either one of the Emoji Drawing or Multi-Dice Game exercise and work throug
 
 Use loops to create an app that draws emojis into the grey box. See [here](https://support.microsoft.com/en-us/windows/windows-10-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942) for how to input Emoji on Windows and [here](https://support.apple.com/en-sg/guide/mac-help/mchlp1560/mac) for how to input emoji on Mac.
 
+
+
+See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day5/drawingemoji/index.html)**.**
+
 ### Number of Characters
 
 The user will enter a number of characters to display on the screen.
@@ -63,6 +67,12 @@ For example, if the user enters 5 they will see this:
 
 {% tab title="Multi-Dice Game" %}
 ## Base
+
+
+
+More dice rolling and guessing! See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day5/dicegame/index.html).
+
+
 
 1. Create a dice-guessing game with a variable number of dice rolls determined by the user.
 2. The game will have 2 modes.
