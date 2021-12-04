@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Today we will practise arrays with occasional loops through the game of Mad Libs. Note that loops may not be necessary for every exercise.
+Today we will practice arrays with occasional loops through the game of Mad Libs. Note that loops may not be necessary for every exercise.
 
-Mad Libs is a word game where players fill in the blanks with random words, such that the final sentence is usually funny. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad_Libs).
+Mad Libs is a word game where players fill in the blanks with random words, such that the final sentence is usually funny. If you're unfamiliar with Mad Libs, please read the Wikipedia description [here](https://en.wikipedia.org/wiki/Mad\_Libs).
 
 #### Example "Mad Lib" Sentence from Wikipedia
 
@@ -15,7 +15,7 @@ Mad Libs is a word game where players fill in the blanks with random words, such
 
 ## Getting Started
 
-For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
+For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
 
 ## Base
 
@@ -53,7 +53,7 @@ var getRandomIndex = function (arrayLength) {
 };
 ```
 
-## More Comfortable
+## Comfortable
 
 ### Input and Create Mode
 
@@ -63,7 +63,13 @@ When the user inputs "create", change the game mode to create mode. In create mo
 
 ### Input Multiple Words
 
-When the Basics Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref_split.asp) for details.
+When the Basics Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref\_split.asp) for details.
+
+{% hint style="info" %}
+Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to work on Project 2: _Beat That!_ as a pair, or go back and solve or refactor previous _More Comfortable_ exercises like [_Hawker Food Omakase_](day-3-if-statements-boolean-or.md#hawker-food-omakase) with your newly learnt skills.
+{% endhint %}
+
+## More Comfortable
 
 ### Mad Libs Multiple Word Types
 
@@ -91,7 +97,7 @@ Mad Lib 2 might be:
 
 Update create mode to pick a random Mad Lib sentence and set of words and output the completed Mad Lib in the grey box on Submit.
 
-Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+examples&tbm=isch) for potential Mad Lib inspiration.
+Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+examples\&tbm=isch) for potential Mad Lib inspiration.
 
 ## Reference Solution
 
