@@ -55,6 +55,10 @@ var getRandomIndex = function (arrayLength) {
 
 ## Comfortable
 
+### Popular Mad Libs
+
+Keep track of which words are selected. Create and allow the user to switch to a new game mode that always shows a completed Mad Lib on Submit using the set of words (verb, adjective, etc.) that the app has (randomly) selected most often so far.
+
 ### Input and Create Mode
 
 When the Basics Starter Code app loads it starts in "input", or normal mode. In input mode, the user can add adjectives to their adjectives list with each Submit.
@@ -66,7 +70,7 @@ When the user inputs "create", change the game mode to create mode. In create mo
 When the Basics Starter Code app loads, the user can input 1 or more adjectives to store in the app with each Submit. To input more than 1 word for each Submit, the user would give each word separated by a space, e.g., "_green nice silly_". We can use JavaScript's string `split` method to split the input string into an array of substrings. See W3Schools docs [here](https://www.w3schools.com/jsref/jsref\_split.asp) for details.
 
 {% hint style="info" %}
-Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to work on Project 2: _Beat That!_ as a pair, or go back and solve or refactor previous _More Comfortable_ exercises like [_Hawker Food Omakase_](day-3-if-statements-boolean-or.md#hawker-food-omakase) with your newly learnt skills.
+Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to work on Project 2: _Beat That!_ as a pair, or go back and solve / refactor previous _More Comfortable_ exercises like [_Hawker Food Omakase_](day-3-if-statements-boolean-or.md#hawker-food-omakase) with your newly learnt skills.
 {% endhint %}
 
 ## More Comfortable
@@ -80,10 +84,6 @@ var madLib = `${randomExclamation}! he said ${randomAdverb} as he jumped into hi
 ```
 
 Create modes to input words from different word types, e.g. exclamation, adverb, noun, and adjective. For each type, prompt the user what type of word they should be entering. If it's too tedious to support 4 word types, considering starting with 2 word types.
-
-### Popular Mad Libs
-
-Keep track of which words are selected. Create and allow the user to switch to a new game mode that always shows a completed Mad Lib on Submit using the set of words (verb, adjective, etc.) that the app has (randomly) selected most often so far.
 
 ### Sets of Mad Libs
 
