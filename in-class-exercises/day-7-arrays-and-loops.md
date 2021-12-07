@@ -17,6 +17,10 @@ Mad Libs is a word game where players fill in the blanks with random words, such
 
 For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
 
+
+
+See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day7/index.html).
+
 ## Base
 
 ### Mad Libs Adjectives
