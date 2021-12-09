@@ -44,6 +44,12 @@ It is now Player 2's turn.
 
 Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating the combined number 63. Player 2 then rolls 2 dice and tries to generate a number greater than 63.
 
+## Walkthrough
+
+&#x20;If you get stuck, or are unsure on how to start, Bryan will walk you through how to go from breaking down the problem to completion of the Base version of Beat That!
+
+{% embed url="https://www.youtube.com/watch?v=JODUe_H0kmM" %}
+
 ## Comfortable
 
 ### Add some polish!
