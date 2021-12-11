@@ -164,7 +164,7 @@ Reinforce and continue to reinforce the idea that the students should always **i
 
 #### Q: What is the difference between a compile-time error and a run-time error?
 
-A: _Be ready to code out both errors. Have the example code ready. _One happens when the page loads, the other happens when the code is run- that is, a function's code isn't necessarily run right away, for example the code inside the main function.
+A: _Be ready to code out both errors. Have the example code ready._ One happens when the page loads, the other happens when the code is run- that is, a function's code isn't necessarily run right away, for example the code inside the main function.
 
 #### Q: What is the difference between a syntax error and a logical error?
 

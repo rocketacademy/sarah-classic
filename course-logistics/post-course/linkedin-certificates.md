@@ -14,7 +14,7 @@ At the end of Coding Basics, you will be eligible to add the course as a certifi
 
 ![](../../.gitbook/assets/jie-ping-20210222-18.14.10.png)
 
-## 3. Fill in the course name, organisation,** **issue date, and URL
+## 3. Fill in the course name, organisation, **** issue date, and URL
 
 1. Name
    1. Coding Basics

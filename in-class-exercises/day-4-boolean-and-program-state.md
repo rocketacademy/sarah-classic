@@ -25,7 +25,7 @@ Create a game where a player must correctly guess secret words to win.
 
 The computer chooses a random word from a set of three words. Feel free to use whatever words you'd like, but we will be using the words _"banana"_, _"chisel"_, and _"faucet"_.
 
-To win the game the player must guess correctly **twice **in **total;** but is allowed to guess wrongly in between their two correct guesses.
+To win the game the player must guess correctly **twice** in **total;** but is allowed to guess wrongly in between their two correct guesses.
 
 For each guess, output all information such as the guessed word, the secret word, and how many correct guesses the player still needs until she wins.
 
@@ -33,7 +33,7 @@ For each guess, output all information such as the guessed word, the secret word
 
 ### Secret Word Twice in a Row
 
-Update Secret Word with an additional rule: The player must guess correctly twice _in a row _to win.
+Update Secret Word with an additional rule: The player must guess correctly twice _in a row_ to win.
 
 ### Secret Word X in a Row
 

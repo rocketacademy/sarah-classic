@@ -31,7 +31,7 @@ To install the Git Credential Manager you may need to allow "unidentified develo
 
 **To override your security settings and open the app, follow these steps:**
 
-1. _In the Finder _![](https://help.apple.com/assets/605932B4A1B7A93F492858E8/605932C0A1B7A93F492858FF/en\_US/058e4af8e726290f491044219d2eee73.png)_ on your Mac, locate the download file._
+1. _In the Finder_ ![](https://help.apple.com/assets/605932B4A1B7A93F492858E8/605932C0A1B7A93F492858FF/en\_US/058e4af8e726290f491044219d2eee73.png) _on your Mac, locate the download file._
 2. _Control-click the app icon, then choose Open from the shortcut menu._
 3.  _Click Open._\
     __
@@ -60,7 +60,7 @@ Note: If you are using a company computer for this course you may not be able to
 Dialog Options: (just click _**next**_ for default options)
 
 * Information (_default_)
-* Select Destination Location (**Copy this or write it down, **[**you will need it for VSCode setup**](../required-hardware-and-software.md#vscode-settings-windows))
+* Select Destination Location (**Copy this or write it down,** [**you will need it for VSCode setup**](../required-hardware-and-software.md#vscode-settings-windows))
 * Select Components (_default_)
 * Select Start Menu Folder (_default_)
 * Choose the default editor used by Git (**Choose VSCode**)
@@ -151,7 +151,7 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 {% endtab %}
 
 {% tab title="Windows" %}
-### VSCode Settings -** Windows**
+### VSCode Settings - **Windows**
 
 {% hint style="warning" %}
 Windows users: The following code assumes we installed our Git folder at the root of our C drive. Some students' installers install the Git folder elsewhere, for example in `C:\\Program Files (x86)`.  You should have noted the installation location of Git when you installed it, as per the instructions above.
@@ -193,7 +193,7 @@ Go to [https://github.com/](https://github.com), click the Sign Up button and fo
 
 #### **Git and GitHub Credential Configuration**
 
-Add your GitHub account credentials to your computer through the command line. Please replace `<YOUR_GITHUB_USERNAME>` AND `<YOUR_GITHUB_EMAIL>` with your own GitHub user name and the email you used to sign up to GitHub with. _Note to replace the _`<>`_ characters and keep the _`"`_ characters in the commands._
+Add your GitHub account credentials to your computer through the command line. Please replace `<YOUR_GITHUB_USERNAME>` AND `<YOUR_GITHUB_EMAIL>` with your own GitHub user name and the email you used to sign up to GitHub with. _Note to replace the_ `<>` _characters and keep the_ `"` _characters in the commands._
 
 ```
 git config --global user.name "<YOUR_GITHUB_USERNAME>"

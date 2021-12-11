@@ -145,7 +145,7 @@ The completed base version as per the walkthrough can be viewed [here](https://g
 
 ### Interface
 
-Improve the look and feel of your game - if you did not  attempt the Comfortable version of _Beat That!, _you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
+Improve the look and feel of your game - if you did not  attempt the Comfortable version of _Beat That!,_ you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
 
 #### User Instructions
 
@@ -205,11 +205,9 @@ Image variable template: Fill in the `COPIED_RELATIVE_IMAGE_PATH` with the image
 var myImage = '<img src="/COPIED_RELATIVE_IMAGE_PATH"/>';
 ```
 
-#### More Fun
-
 #### Colors
 
-Set your own custom colors in the CSS. Find the color values in `index.html` (for example lines 57 or 77) and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors\_picker.asp)
+Set your own custom colors in the CSS. Find the color values in `index.html` and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors\_picker.asp)
 
 Find matching color sets using this design tool: [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
 
@@ -249,8 +247,55 @@ Add hand-splitting functionality to the game. If the player has two of the same 
 
 1. [Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
 2. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
-3. Please leave your name and _**section number **_in the _**title**_ of the pull request.
+3. Please leave your name and _**section number**_ in the _**title**_ of the pull request.
 4. Please fill in the questionnaire in the pull request comments when you submit.
+
+## Sharing
+
+The cloned BlackJack repo has built-in sharing code. When you share your project with friends on major platforms it will have a nice looking share image.
+
+![Twitter Sharing Example](../.gitbook/assets/tweet-share.png)
+
+### Setting the Share Link
+
+Edit the index.html to match the GitHub Pages URL you created in the instructions above.
+
+To have your share link properly link to your page, find your GitHub Pages URL:
+
+![](../.gitbook/assets/github-pages-url.png)
+
+Replace the url in the URL section of the meta tags in index.html:
+
+Facebook Share URL: line [30](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L30)
+
+```
+<meta property="og:url" content="<PUT YOUR URL HERE>index.html">
+```
+
+Twitter Share URL: line [37](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L37)
+
+```
+<meta name="twitter:url" content="<PUT YOUR URL HERE>index.html">
+```
+
+#### Sharing text: Put your name and some fun text in the share!
+
+For Facebook / Slack / Whatsapp Shares: edit lines [31 & 32](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L31-L32) in the index.html
+
+```
+<meta property="og:title" content="YOURNAME's BlackJack Game!">
+<meta property="og:description" content="A fun card game I made myself! 😄💪🌈">
+```
+
+For Twitter Shares: edit lines [38-42](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L38-L42) in the index.html
+
+```
+<meta name="twitter:title" content="YOURNAME's BlackJack Game!">
+<meta name="twitter:description" content="A fun card game I made myself! 😄💪🌈">
+<meta name="twitter:image" content="https://ra-web-files.s3.ap-southeast-1.amazonaws.com/basics/basics-blackjack-share-small.jpeg">
+<meta name="twitter:site" content="@rocketacademyco">
+<meta name="twitter:creator" content="@rocketacademyco">
+```
 
 ## Reference Solution
 

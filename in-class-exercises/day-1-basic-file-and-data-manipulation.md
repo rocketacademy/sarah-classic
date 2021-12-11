@@ -10,7 +10,7 @@ We will now put to use what we have learned so far. Before you attempt a problem
    2. How it can be implemented.
 3. Write or type, in plain English, the instructions you and your partner want your program to follow.
 
-For some problems you may need to google for information. Remember that as pairs, you are also googling together. **Please switch driver and navigator for each problem statement. **
+For some problems you may need to google for information. Remember that as pairs, you are also googling together. **Please switch driver and navigator for each problem statement.**&#x20;
 
 When you run into a bug, talk out loud with your partner what you _expected_ to happen, and what happened instead, before attempting to find a solution. If needed, use the 'ask host for help' function in Zoom.
 

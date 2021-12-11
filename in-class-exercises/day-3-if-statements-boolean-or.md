@@ -47,7 +47,7 @@ Please use the `||` operator.
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. Rocket Academy does not endorse gambling.
 
-Create a version of 4D where the player wins if their guess matches **any** of the 4 digits. The player will input a **single **digit, and the computer generates 4 random digits between 0 and 9. If the player-inputted digit matches **any **of the randomly-generated digits, the player wins.&#x20;
+Create a version of 4D where the player wins if their guess matches **any** of the 4 digits. The player will input a **single** digit, and the computer generates 4 random digits between 0 and 9. If the player-inputted digit matches **any** of the randomly-generated digits, the player wins.&#x20;
 
 In addition to the win/loss result, output the player guess and all randomly-generated digits so the player can see how close they were.
 

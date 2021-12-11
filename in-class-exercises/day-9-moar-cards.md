@@ -14,7 +14,7 @@ Build an app using the Basics Starter Code and the pre-class deck functions such
 
 ### Low Card
 
-Implement the High Card game from [9.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with 1 difference: the winner is the person with the _lowest _card.
+Implement the High Card game from [9.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with 1 difference: the winner is the person with the _lowest_ card.
 
 ### Low Card with Queen Winner
 

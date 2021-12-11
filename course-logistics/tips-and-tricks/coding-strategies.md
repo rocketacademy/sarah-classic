@@ -12,7 +12,7 @@ There are two main aspects to this process:
 
 * Do you understand the problem from a programatic perspective?
 * Do you understand what its purpose is?
-* Do you understand the logic of the application itself? 
+* Do you understand the logic of the application itself?&#x20;
 
 ### 2) Strategize which part to concentrate on
 
@@ -41,7 +41,7 @@ A program is a sum of its parts.
 
 A modern computer system is incredibly complex and it's impossible to understand what goes on at every level.
 
-_(See this description of _[_what happens when you search on google)_](https://github.com/alex/what-happens-when).
+_(See this description of_ [_what happens when you search on google)_](https://github.com/alex/what-happens-when).
 
 _**However**_ the task of writing a program is to build a contextually complete mental model of what is happening when the program runs.
 
@@ -138,6 +138,6 @@ Don't spend a lot of time on a result that is not relevant enough to your proble
 
 Learning to code is less like learning things like English and history, and more like learning the piano. There is some theory involved but it also heavily involves practice.
 
-[Deliberate practice](https://en.wikipedia.org/wiki/Practice_\(learning_method\)#Deliberate_practice) means quality of hours over quantity. (Although mastery also involves quantity of hours).
+[Deliberate practice](https://en.wikipedia.org/wiki/Practice\_\(learning\_method\)#Deliberate\_practice) means quality of hours over quantity. (Although mastery also involves quantity of hours).
 
 Many of the principles stated above have to do with your meta-awareness of your own process. We believe that the more awareness you have of your own process the more effective your learning will be.
