@@ -280,7 +280,7 @@ Total Video Watch Time: \~22 mins
 **Module 10: Advanced**
 
 * [10.1: HTML, CSS Review](../../12-next-steps/12.2-html-css-review.md)
-* [10.2: Browser Applications with DOM](../../13-post-course-exercises/pce-dom.md)
+* [10.2: Browser Applications with DOM](../../12-next-steps/12.1-browser-applications-with-dom.md)
 
 ### In Class
 
