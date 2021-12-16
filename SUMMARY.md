@@ -15,7 +15,7 @@
   * [👍 Recommended Set-up](course-logistics/required-hardware-and-software/recommended-set-up.md)
 * [🗓 Schedule](course-logistics/schedule-and-pairings/README.md)
   * [📅 Batch 12 Schedule](course-logistics/schedule-and-pairings/batch-12-schedule.md)
-  * [📅 Batch 13 Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
+  * [📅 Draft Batch 13 Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
 * [💡 Tips and Tricks](course-logistics/tips-and-tricks/README.md)
   * [📒 Coding Strategies](course-logistics/tips-and-tricks/coding-strategies.md)
   * [🛠 Tooling Pro Tips](course-logistics/tips-and-tricks/tooling-pro-tips.md)
@@ -73,9 +73,10 @@
 ## 8: GitHub
 
 * [8.1: Intro to GitHub](4-getting-started-with-code/4.1-intro-to-github.md)
-* [8.2: GitHub Fork and Pull Request](7-github/7.1-github-fork-and-pull-request.md)
-* [8.3: GitHub Repo Browsing](7-github/7.2-github-repo-browsing.md)
-* [8.4: Deployment](12-next-steps/12.3-deployment.md)
+* [8.2: GitHub Fork and Clone](7-github/7.1-github-fork-and-pull-request.md)
+* [8.3: GitHub Pull Request](8-github/8.3-github-pull-request.md)
+* [8.4: GitHub Repo Browsing](7-github/7.2-github-repo-browsing.md)
+* [8.5: Deployment](12-next-steps/12.3-deployment.md)
 * [Additional Resources 8](8-github/additional-resources-8.md)
 
 ## 9: JavaScript Objects
