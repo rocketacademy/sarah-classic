@@ -129,14 +129,7 @@ Total Video Watch Time: **\~41 mins**
 **Module 5: Global State**
 
 * [5.1: Program Lifecycle and Global State](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.1-program-lifecycle-and-state)
-
-**Module 6: Arrays and Iteration**
-
-* [6.1: Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.1-arrays)
-
-**Module 7:  Version Control**
-
-* [7.1: Git](../../2-organising-and-managing-code-files/2.2-git.md)
+* [5.2: Program State for Game Modes](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
 
 ### In Class
 
@@ -156,11 +149,13 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~17 mins**
+**Module 6: Arrays and Iteration**
 
-**Module 5: Global State**
+* [6.1: Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.1-arrays)
 
-* [5.2: Program State for Game Modes](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+**Module 7:  Version Control**
+
+* [7.1: Git](../../2-organising-and-managing-code-files/2.2-git.md)
 
 ### In Class
 
