@@ -229,7 +229,7 @@ git config --global init.defaultBranch main
 
 ### **Introduction**
 
-Use some of the new software you've installed. Open Slack and send your first message to your new course mates. Please include the following in your message:
+_Once you have been added to a section in Slack_, send your first message to your new section mates. Please include the following in your message:
 
 1. Where are you based?
 2. What do you do for work?
@@ -242,7 +242,7 @@ Use some of the new software you've installed. Open Slack and send your first me
 
 ### Retrieve Your OS Version
 
-These commands are for the intro above. Don't worry about exactly what's happening in these commands yet. This exercise is just to get you started with typing in the Command Line interface and sending Slack messages. We'll learn more about the command line in [2.1 Command Line.](../../2-organising-and-managing-code-files/2.1-command-line.md)
+These commands are for the intro above. Don't worry about exactly what's happening in these commands yet. This exercise is just to get you started with typing in the Command Line interface and sending Slack messages. We'll learn more about the command line in [1.3 Command Line.](../../2-organising-and-managing-code-files/2.1-command-line.md)
 
 #### Windows
 
