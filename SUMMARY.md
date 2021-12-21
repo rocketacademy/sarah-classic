@@ -108,7 +108,7 @@
 * [Day 8: Beat That Redux](in-class-exercises/day-8-beat-that-redux.md)
 * [Day 9: Moar Cards](in-class-exercises/day-9-moar-cards.md)
 * [Day 10: Chat Bot](in-class-exercises/day-10-chat-bot.md)
-* [Day 11: Blackjack Redux, Debugger](in-class-exercises/day-11-blackjack-redux-debugger.md)
+* [Day 11: Blackjack Redux, DOM](in-class-exercises/day-11-blackjack-redux-debugger.md)
 
 ## Projects
 
