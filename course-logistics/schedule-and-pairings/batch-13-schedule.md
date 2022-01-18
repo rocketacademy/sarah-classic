@@ -2,7 +2,7 @@
 description: What and when we will learn
 ---
 
-# 📅 Draft Batch 13 Schedule
+# 📅 Batch 13 Schedule
 
 ## Course Dates
 
@@ -114,7 +114,7 @@ Total Video Watch Time: **\~40 mins**
 
 [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 
-## Tue 5 Feb, Week 2, Course Day 4: Logic 2, State 1 <a href="#course-day-4" id="course-day-4"></a>
+## Tue 5 Feb, Week 2, Course Day 4: Logic 2, State <a href="#course-day-4" id="course-day-4"></a>
 
 Meeting time: 1:00 PM SGT (GMT+8)
 
@@ -135,7 +135,7 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
 
-## Sat 12 Feb, Week 3, Course Day 5: State 2 <a href="#course-day-5" id="course-day-5"></a>
+## Sat 12 Feb, Week 3, Course Day 5: Arrays, Git <a href="#course-day-5" id="course-day-5"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -194,11 +194,11 @@ Total Video Watch Time: **\~11 mins**
 
 * [6.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
 
-Module 8: GitHub
+**Module 8: GitHub**
 
 * [8.3 GitHub Pull Request](../../8-github/8.3-github-pull-request.md)
 
-### In Class
+### In Classc
 
 * [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
 

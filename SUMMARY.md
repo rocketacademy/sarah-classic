@@ -15,7 +15,7 @@
   * [👍 Recommended Set-up](course-logistics/required-hardware-and-software/recommended-set-up.md)
 * [🗓 Schedule](course-logistics/schedule-and-pairings/README.md)
   * [📅 Batch 12 Schedule](course-logistics/schedule-and-pairings/batch-12-schedule.md)
-  * [📅 Draft Batch 13 Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
+  * [📅 Batch 13 Schedule](course-logistics/schedule-and-pairings/batch-13-schedule.md)
 * [💡 Tips and Tricks](course-logistics/tips-and-tricks/README.md)
   * [📒 Coding Strategies](course-logistics/tips-and-tricks/coding-strategies.md)
   * [🛠 Tooling Pro Tips](course-logistics/tips-and-tricks/tooling-pro-tips.md)
