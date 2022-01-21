@@ -67,20 +67,6 @@ Now you can type "scissors" "paper" or "stone" to play another round!
 
 You decide to prank your friends and create an SPS game where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create a version where the rules are reversed. The user can choose to try their luck at reversed mode by adding the word "reversed" to their choice. For example: "reversed stone".
 
-## Submit
-
-Share your work with your Section mates for peer-learning, and with your SLs for review. In your Section Slack channel:
-
-1. Title a new code snippet "SPS Part 1"
-2. Copy code from `script.js` into the code snippet
-3. Include the following message, filled in:
-   1. How many hours did you spend on this assignment?
-      1. What part of the assignment did you spend the most time on?
-   2. What is one error and/or error message you received while working on this assignment, and how did you solve the error?
-   3. How comfortable did you feel with this assignment? (1-5):
-   4. Is there anything in this code that you feel pleased about?
-   5. What's one aspect of your code you would like specific, elaborate feedback on?
-
 ## Reference Solution
 
 [View the reference solution ](https://github.com/rocketacademy/basics-scissors-paper-stone/tree/part1-inclMoreComfortable)for SPS-Part1 (up till More Comfortable). Please only refer to the reference solution after you have attempted the project. Note that there are many ways to implement the project and the reference solution is only 1 way.
