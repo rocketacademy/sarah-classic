@@ -14,17 +14,19 @@ Before you begin, check that you and your partner can answer the following:
 * [ ] How do you execute a function?
 * [ ] Where can you execute a function?
 * [ ] How many times can you use a function?
-* [ ] What is the purpose of the `return `keyword? What happens if we omit the `return `keyword from a function?
+* [ ] What is the purpose of the `return` keyword? What happens if we omit the `return` keyword from a function?
 
 
 
 ## Learning Outcomes
 
-* Practice writing helper functions _(and not just solve for the correct calculation)_
+* Practice **writing helper functions** _(and not just solve for the correct calculation)_
 * Executing multiple helper functions as part of the overall program.
 * Practice creating contextual, meaningful variables.
 
 ## Base
+
+_If you have attempted these problems as part of More Comfortable in Day 1, today re-write the code such that all of the logic is in helper functions and not solely in_ `main.`
 
 See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day2/).
 

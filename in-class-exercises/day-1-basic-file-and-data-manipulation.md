@@ -14,7 +14,7 @@ For some problems you may need to google for information. Remember that as pairs
 
 When you run into a bug, talk out loud with your partner what you _expected_ to happen, and what happened instead, before attempting to find a solution. If needed, use the 'ask host for help' function in Zoom.
 
-## Data Manipulation with Operations and Variables
+## Base
 
 See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day1/index.html).
 
@@ -50,7 +50,41 @@ The user will enter their words-per-minute typing speed. The app will calculate 
 
 For simplicity, assume 17,677 words in all of Shakespeare's sonnets.
 
+## Comfortable
 
+See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day2/).
+
+### Cost of Air Con
+
+The user enters the number of hours of air-con use, and the app tells them the cost.&#x20;
+
+An aircon machine uses 2 kilowatts of electricity.&#x20;
+
+Electricity costs $0.20 per kilowatt-hour.
+
+### Screen Time
+
+The user will enter the number of hours spent per day on their favourite app, and the program renders how many days you will spend in your lifetime on this app.&#x20;
+
+Assume an average life expectancy of 82 years.
+
+On [Android 10](https://wellbeing.google/tools/), [iOS 12](https://support.apple.com/en-us/HT208982), and later versions, we can see how many hours per day we spend on each app. Find the number of hours you spend per day on the app you use most. If you're not able to find this, you can google for common statistics.
+
+For example, if I spend 2 hours per day on WhatsApp and I live an average lifetime, how many total days will I spend on WhatsApp in my lifetime?
+
+### Ice Machine
+
+A hotel uses an ice machine to prepare ice for guests. They want to start the ice machine as close to each event as possible, so that the ice doesn't melt. In order to do this, they need to estimate how long they will need to run the ice machine.
+
+Create a program that estimates the duration the ice machine needs to run. The user will input the number of guests for the event.&#x20;
+
+Assume each guest needs 2 drinks. Each drink has 4 ice cubes. Each cube weights 1.5 grams. The hotel's American-made ice machine produces 5 pounds of ice per hour.&#x20;
+
+### Beer Order
+
+Create a program for a bar to calculate how many kegs of beer they will need every day. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter.&#x20;
+
+Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
 
 ## Reference Solution
 
