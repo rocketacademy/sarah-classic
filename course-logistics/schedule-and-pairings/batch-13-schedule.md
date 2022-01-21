@@ -258,7 +258,7 @@ Total Video Watch Time: **\~60 mins**
 
 ### In Class
 
-* [Day 10: Chat Bot](https://basics.rocketacademy.co/in-class-exercises/day-10-chat-bot)
+* [Day 10: Chat Bot](../../in-class-exercises/day-10-chat-bot.md)
 * Pair Programming: [BlackJack](../../projects/project-3-blackjack.md)
 
 ## Sat 5 Mar, Week 6, Course Day 11: Advanced <a href="#course-day-11" id="course-day-11"></a>

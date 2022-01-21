@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will practise more complex code logic with nested objects and arrays. For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code) as per instructions in [4.2: Our First Program](../4-getting-started-with-code/4.2-our-first-program.md#setup). Please switch driver and navigator each app.
+Today we will practice more complex code logic with nested objects and arrays.&#x20;
 
 We will make a chat bot that asks questions when the submit button is clicked. The user can respond by typing and submitting input and the bot can respond further. Please read all exercises before beginning to see how the chat bot can become more complex.
 
@@ -235,7 +235,7 @@ var questionAndAnswerSets = {
 
 Add questions to our chat bot that are purportedly for fortune telling, but where the bot always provides standard responses that anyone might believe are individualised. For example, the bot might ask "Let me tell your fortune. If you have a birthmark, where is it on your body?" and respond with "You have a great need for other people to like and admire you."
 
-Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum_effect#Early_research).
+Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum\_effect#Early\_research).
 
 ## Reference Solutions
 
