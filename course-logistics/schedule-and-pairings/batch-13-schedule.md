@@ -91,7 +91,7 @@ Total Video Watch Time: **\~25 mins**
 
 ## Sat 5 Feb, Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -116,7 +116,7 @@ Total Video Watch Time: **\~40 mins**
 
 ## Tue 5 Feb, Week 2, Course Day 4: Logic 2, State <a href="#course-day-4" id="course-day-4"></a>
 
-Meeting time: 1:00 PM SGT (GMT+8)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -137,7 +137,7 @@ Total Video Watch Time: **\~41 mins**
 
 ## Sat 12 Feb, Week 3, Course Day 5: Arrays, Git <a href="#course-day-5" id="course-day-5"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due: SPS 2
 
@@ -159,7 +159,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Tue 15 Feb, Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
-Meeting time: 1:00 PM SGT (GMT+8)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -184,7 +184,7 @@ Total Video Watch Time: **\~41 mins**
 
 ## Sat 19 Feb, Week 4, Course Day 7: Loops 2, Git <a href="#course-day-7" id="course-day-7"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -204,7 +204,7 @@ Total Video Watch Time: **\~11 mins**
 
 ## Tues 22 Feb, Week 4, Course Day 8: GitHub <a href="#course-day-8" id="course-day-8"></a>
 
-Meeting time: 1:00 PM SGT (GMT+8)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due: Beat That!
 
@@ -225,7 +225,7 @@ Total Video Watch Time: **\~15 mins**
 
 ## Sat 26 Feb, Week 5, Course Day 9: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -246,7 +246,7 @@ Total Video Watch Time: **\~16 mins**
 
 ## Tue 1 Mar, Week 5, Course Day 10: Coding Strategies <a href="#course-day-10" id="course-day-10"></a>
 
-Meeting time: 1:00 PM SGT (GMT+8)
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -262,7 +262,7 @@ Total Video Watch Time: **\~60 mins**
 
 ## Sat 5 Mar, Week 6, Course Day 11: Advanced <a href="#course-day-11" id="course-day-11"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
 
@@ -287,7 +287,7 @@ Total Video Watch Time: \~22 mins
 
 ## Sat 8 Mar: Course Day 12: Project Presentations <a href="#course-day-12" id="course-day-12"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 1:00 PM SGT (GMT+8)
 
 ### Project Due
 
