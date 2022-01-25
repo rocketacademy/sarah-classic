@@ -19,7 +19,7 @@ Slack is one of the cornerstone mediums on which this course operates! Look thro
 
 ### Zoom
 
-Zoom is RA's video conferencing software for class. Each section will have its own Zoom room. The link to this room can be found at the top of each section's Slack channel.
+Zoom is Rocket's chosen video conferencing software for class. Each section will have its own Zoom room. The link to this room can be found at the top of each section's Slack channel.
 
 #### **Installation**
 

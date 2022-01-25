@@ -6,11 +6,11 @@ Slack is the app we use to communicate within a section. It provides real-time b
 
 ### Slack House Rules
 
-The following are a set of guidelines to follow when using Slack at RA. By setting strong culture of messaging on this platform for questions and discussion we hope to further enhance the RA Basics experience.
+The following are a set of guidelines to follow when using Slack at Rocket. By setting strong culture of messaging on this platform for questions and discussion we hope to further enhance the Rocket Basics experience.
 
 ### Ask Questions in the Channel
 
-During RA's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel (including about installing required software). _**Therefore, please refrain from DMing (direct messaging) instructors with questions about course material.**_
+During Rocket's courses you will have questions about the material. To ensure your questions get answered soonest and so others can help and learn, please ask questions in the batch-wide or section-wide channel (including about installing required software). _**Therefore, please refrain from DMing (direct messaging) instructors with questions about course material.**_
 
 ### Provide Context for Questions
 
