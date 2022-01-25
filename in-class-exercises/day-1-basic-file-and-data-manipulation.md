@@ -70,7 +70,9 @@ Assume an average life expectancy of 82 years.
 
 On [Android 10](https://wellbeing.google/tools/), [iOS 12](https://support.apple.com/en-us/HT208982), and later versions, we can see how many hours per day we spend on each app. Find the number of hours you spend per day on the app you use most. If you're not able to find this, you can google for common statistics.
 
-For example, if I spend 2 hours per day on WhatsApp and I live an average lifetime, how many total days will I spend on WhatsApp in my lifetime?
+For example, if I spend 2 hours per day on WhatsApp and I live an average lifetime of 82 years, how many total days will I spend on WhatsApp during my life?
+
+## More Comfortable
 
 ### Ice Machine
 
