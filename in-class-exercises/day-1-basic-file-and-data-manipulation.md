@@ -12,9 +12,13 @@ We will now put to use what we have learned so far. Before you attempt a problem
 
 For some problems you may need to google for information. Remember that as pairs, you are also googling together. **Please switch driver and navigator for each problem statement.**&#x20;
 
-When you run into a bug, talk out loud with your partner what you _expected_ to happen, and what happened instead, before attempting to find a solution. If needed, use the 'ask host for help' function in Zoom.
+When you run into a bug, talk out loud with your partner what you _expected_ to happen, and what happened instead, before attempting to find a solution.&#x20;
+
+If needed, use the **'ask host for help'** function in Zoom. You may also find the **"annotate" feature** in Zoom useful when pair programming.
 
 ## Base
+
+For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Basics](../course-logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.&#x20;
 
 See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day1/index.html).
 
