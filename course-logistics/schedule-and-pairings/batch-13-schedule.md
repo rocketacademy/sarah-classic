@@ -198,7 +198,7 @@ Total Video Watch Time: **\~11 mins**
 
 * [8.3 GitHub Pull Request](../../8-github/8.3-github-pull-request.md)
 
-### In Classc
+### In Class
 
 * [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
 
