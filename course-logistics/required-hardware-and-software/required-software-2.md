@@ -6,7 +6,7 @@
 
 Command-line software is software primarily operated from the command line (we will explain this in a video) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is not stored in a computer's Applications folder. We'll cover [more about the command line in 1.3.](../../2-organising-and-managing-code-files/2.1-command-line.md)
 
-Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects. We'll cover more about Git in [Module 7](../../2-organising-and-managing-code-files/2.2-git.md).
+Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects. We'll cover more about Git in [Module 7](broken-reference).
 
 On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands (and command line software) on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way on both Windows and Mac. A version of Bash called Zsh (pronounced "zoosh") is installed by default on MacOS.
 

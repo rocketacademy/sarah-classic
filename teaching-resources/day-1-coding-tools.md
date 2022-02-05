@@ -84,7 +84,7 @@ A: Some programs only run in the context of either, for example, the Git program
 
 A: We need to use the command line to use Git. The command line is the most programmer-focused way to interact with your computer.
 
-### [2.2: Git](../2-organising-and-managing-code-files/2.2-git.md)
+### [2.2: Git](broken-reference)
 
 #### Overview
 

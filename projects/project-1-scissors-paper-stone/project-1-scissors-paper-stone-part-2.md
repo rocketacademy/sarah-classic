@@ -70,17 +70,32 @@ Implement other variations to the game as described [here](https://en.wikipedia.
 
 ## Submit
 
-Share your work with your Section mates for peer-learning, and with your SLs for review. In your Section Slack channel:
+Share your work with your Section mates for peer-learning, and with your SLs for review.&#x20;
 
-1. Title a new code snippet "SPS Part 2"
-2. Copy code from `script.js` into the code snippet
-3. Include the following message, filled in:
-   1. How many hours did you spend on this assignment?
-      1. What part of the assignment did you spend the most time on?
-   2. What is one error and/or error message you received while working on this assignment, and how did you solve the error?
-   3. How comfortable did you feel with this assignment? (1-5):
-   4. Is there anything in this code that you feel pleased about?
-   5. What's one aspect of your code you would like specific, elaborate feedback on?
+1. Go to [gist.github.com](https://gist.github.com) and login with your GitHub account.
+2. Copy code from `script.js` into a new gist.
+   1. Title the Gist and the file as you wish
+   2.
+3. Include the following questions, along with your answers, at the top of your gist:
+
+```
+/*
+How many hours did you spend on this assignment?:
+
+What part of the assignment did you spend the most time on?:
+
+How comfortable did you feel with this assignment? (1-5):
+
+Is there anything in this code that you feel pleased about?:
+
+What's one aspect of your code you would like specific, elaborate feedback on?:
+
+*/
+```
+
+![GitHub gist](<../../.gitbook/assets/Screenshot 2022-02-05 102013.png>)
+
+Share the link to your gist with your Section in Slack!
 
 ## Reference Solution
 
