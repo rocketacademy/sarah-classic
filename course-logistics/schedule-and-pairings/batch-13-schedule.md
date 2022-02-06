@@ -113,7 +113,7 @@ Total Video Watch Time: **\~40 mins**
 
 [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 
-## Tue 5 Feb, Week 2, Course Day 4: Logic 2, State <a href="#course-day-4" id="course-day-4"></a>
+## Tue 8 Feb, Week 2, Course Day 4: Logic 2, State <a href="#course-day-4" id="course-day-4"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
