@@ -12,7 +12,7 @@ Before the meeting, ask the students to put their [5.1 Functions](../5-structuri
 
 Total Video Watch Time: **\~25 mins**
 
-## Review[ Social Rules](../course-logistics/social-rules.md)
+## Review[ Social Rules](broken-reference)
 
 In the previous session the students were introduced to the idea of pairing and got to experience it for themselves. Now that they have some context for the experience we want to talk about the optimal pairing experience, and to emphasize how their behaviour is key to the experience for themselves and others.
 
