@@ -28,7 +28,6 @@ Day 0's pre-course briefing will run from 4-6pm instead of the usual 1-3pm. This
 2. [Course Methodology](../course-methodology/)
    1. [Course Components](../course-methodology/course-components.md)
    2. [Slack Tutorial](../course-methodology/slack.md)
-   3. [Social Rules](broken-reference)
 
 ### In Class
 

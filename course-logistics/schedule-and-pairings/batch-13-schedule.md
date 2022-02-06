@@ -29,7 +29,6 @@ Meeting time: **1:00 PM SGT** (GMT+8)
 2. [Course Methodology](../course-methodology/)
    1. [Course Components](../course-methodology/course-components.md)
    2. [Slack Tutorial](../course-methodology/slack.md)
-   3. [Social Rules](broken-reference)
 
 ### In Class
 
