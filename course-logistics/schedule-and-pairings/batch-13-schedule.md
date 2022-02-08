@@ -150,7 +150,7 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 **Module 7:  Version Control**
 
-* [7.1: Git](broken-reference)
+* [7.1: Git](../../2-organising-and-managing-code-files/2.2-git.md)
 
 ### In Class
 
