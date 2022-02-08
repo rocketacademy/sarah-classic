@@ -12,8 +12,7 @@ Have a look a some past student's project to visualise the game - and for inspir
 
 ## Setup
 
-1. Create a `project` directory in your `basics` code folder to host your projects if you haven't already.
-2. Make a copy of the [basics starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) for your _Beat That!_ project.
+1. Fork and Clone the [Basics _Beat That!_ repo](https://github.com/rocketacademy/basics-beat-that).
 
 ## Base
 

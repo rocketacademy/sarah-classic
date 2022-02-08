@@ -179,7 +179,7 @@ Total Video Watch Time: **\~41 mins**
 
 ### Project Start: Beat That!
 
-[Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
+[Project 2: Beat That!](../../projects/project-2-beat-that.md)
 
 ## Sat 19 Feb, Week 4, Course Day 7: Loops 2, Git <a href="#course-day-7" id="course-day-7"></a>
 
