@@ -86,6 +86,7 @@
 
 ## 10: Advanced
 
+* [10.1 HTML, CSS](10-advanced/10.1-html-css.md)
 * [10.1: HTML, CSS Referencing](12-next-steps/12.2-html-css-review.md)
 * [10.2: Browser Applications with DOM](12-next-steps/12.1-browser-applications-with-dom.md)
 * [10.3: Advanced Debugging with Sources Tab](11-advanced-debugging/11.1-advanced-debugging-with-sources-tab.md)
