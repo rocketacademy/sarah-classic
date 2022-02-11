@@ -243,17 +243,16 @@ Total Video Watch Time: **\~16 mins**
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Tue 1 Mar, Week 5, Course Day 10: Coding Strategies <a href="#course-day-10" id="course-day-10"></a>
+## Tue 1 Mar, Week 5, Course Day 10 <a href="#course-day-10" id="course-day-10"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~60 mins**
+**Module 10: Advanced**
 
-**Module 9: Objects**
-
-* [9.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/10-javascript-objects/10.3-card-game-example-war)
+* [10.1 HTML, CSS](../../10-advanced/10.1-html-css.md)
+* [10.2 HTML, CSS Referencing](../../10-advanced/10.2-html-css-review.md)
 
 ### In Class
 
@@ -273,8 +272,8 @@ Total Video Watch Time: \~22 mins
 
 **Module 10: Advanced**
 
-* [10.1: HTML, CSS Review](../../10-advanced/10.2-html-css-review.md)
-* [10.2: Browser Applications with DOM](../../10-advanced/10.3-browser-applications-with-dom.md)
+* [10.3: Browser Applications with DOM](../../10-advanced/10.3-browser-applications-with-dom.md)
+* [10.4: Advance Debugging with Sources Tab](../../10-advanced/10.4-advanced-debugging-with-sources-tab.md)
 
 ### In Class
 
