@@ -251,8 +251,8 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 **Module 10: Advanced**
 
-* [10.1 HTML, CSS](../../10-advanced/10.1-html-css.md)
-* [10.2 HTML, CSS Referencing](../../10-advanced/10.2-html-css-review.md)
+* [10.1 HTML](../../10-advanced/10.1-html.md)
+* [10.2 CSS](../../10-advanced/10.2-html-css-review.md)
 
 ### In Class
 
@@ -272,8 +272,9 @@ Total Video Watch Time: \~22 mins
 
 **Module 10: Advanced**
 
-* [10.3: Browser Applications with DOM](../../10-advanced/10.3-browser-applications-with-dom.md)
-* [10.4: Advance Debugging with Sources Tab](../../10-advanced/10.4-advanced-debugging-with-sources-tab.md)
+* [10.3: Document Object Model](../../10-advanced/10.3-browser-applications-with-dom.md)
+* [10.4: DOM Manipulation](../../10-advanced/10.4-dom-manipulation.md)
+* [10.5 Advanced Debugger](../../10-advanced/10.5-advanced-debugging-with-sources-tab.md)
 
 ### In Class
 
