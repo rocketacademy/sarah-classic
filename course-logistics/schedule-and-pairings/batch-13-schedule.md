@@ -284,7 +284,7 @@ Total Video Watch Time: \~22 mins
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
-## Sat 8 Mar: Course Day 12: Project Presentations <a href="#course-day-12" id="course-day-12"></a>
+## Tue 8 Mar: Course Day 12: Project Presentations <a href="#course-day-12" id="course-day-12"></a>
 
 Meeting time: 1:00 PM SGT (GMT+8)
 
