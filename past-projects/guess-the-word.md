@@ -4,13 +4,13 @@ This is a game where the player must guess a secret word.‌
 
 Begin the app by **forking** this repo: [https://github.com/rocketacademy/basics-guess-the-word](https://github.com/rocketacademy/basics-guess-the-word)​‌
 
-For each wrong guess the program adds to the figure: \(凸 ಠ 益 ಠ\)凸 ‌
+For each wrong guess the program adds to the figure: (凸 ಠ 益 ಠ)凸 ‌
 
-The player can only guess wrong 7 times before the game ends. \(the number of characters in the figure\)‌
+The player can only guess wrong 7 times before the game ends. (the number of characters in the figure)‌
 
 Before you start read through the advice on how to start and the more comfortable sections to see what the basic and advanced versions of the game include.‌
 
-## How to Start <a id="how-to-start"></a>
+## How to Start <a href="#how-to-start" id="how-to-start"></a>
 
 The first version of this game you can have a single, hard-coded secret word- `cat`.‌
 
@@ -20,7 +20,15 @@ This will allow you to guess letters and find each letter guessed and the positi
 
 A word array would look like this: `var word = ['c','a','t'];`.‌
 
+<<<<<<< HEAD
+
 ### Game Play <a id="game-play"></a>
+
+=======
+
+### Game Play <a href="#game-play" id="game-play"></a>
+
+> > > > > > > 383a48e... GitBook: [#1362] No subject
 
 When the user guesses a letter, you have to have the program look through the word array and determine if the user guessed correctly.
 
@@ -31,13 +39,20 @@ When the user guesses there are two possibilities:‌
 1. The user guesses incorrectly. Add a character to the figure that marks when they lose the game.
 2. The user guesses correctly, add the letter to the word they are trying to complete.
 
+<<<<<<< HEAD
 \(In the first version you can just do basic output like how many guesses the user has left, and how many letters they have correct.\)‌
+=======
+(In the first version you can just do basic output like how many guesses the user has left, and how many letters they have correct.)‌
+
+> > > > > > > 383a48e... GitBook: [#1362] No subject
 
 After checking the guess for the individual user guess, check for the state of the entire game:‌
 
 If the user has guessed all the letters in the word, tell them they have won.‌
 
 If the user has completed the figure tell them they lost.‌
+
+<<<<<<< HEAD
 
 ## More Comfortable <a id="more-comfortable"></a>
 
@@ -47,11 +62,25 @@ When the user types a correct guess show the correct guess in the location of th
 
 ### Easier / Harder Mode <a id="easier-harder-mode"></a>
 
+=======
+
+## More Comfortable <a href="#more-comfortable" id="more-comfortable"></a>
+
+### Output Formatting <a href="#output-formatting" id="output-formatting"></a>
+
+When the user types a correct guess show the correct guess in the location of the secret word. Show the number of letters in the secret word.‌
+
+### Easier / Harder Mode <a href="#easier-harder-mode" id="easier-harder-mode"></a>
+
+> > > > > > > 383a48e... GitBook: [#1362] No subject
+
 Add different modes to the game. Change the secret word to a word with the same letter more than once.‌
 
 The easy mode is when the word is like "guess" and the user guesses 's', then the game fills in both 's'.‌
 
 The hard mode is where the user has to guess each letter.‌
+
+<<<<<<< HEAD
 
 ### Name <a id="name"></a>
 
@@ -67,9 +96,31 @@ When the user has played one game with one word, allow them to continue playing 
 
 ## Reference Solution <a id="reference-solution"></a>
 
+=======
+
+### Name <a href="#name" id="name"></a>
+
+Let the user enter their name at the beginning of the game.‌
+
+### More words <a href="#more-words" id="more-words"></a>
+
+Add a list of words to the game. When it starts the game selects one random word.‌
+
+### Continue Play <a href="#continue-play" id="continue-play"></a>
+
+When the user has played one game with one word, allow them to continue playing with another word.‌
+
+## Reference Solution <a href="#reference-solution" id="reference-solution"></a>
+
+> > > > > > > 383a48e... GitBook: [#1362] No subject
+
 Please only refer to the reference solution after you have attempted the project. Thank you!‌
 
 Note that there are many ways to implement the project and the reference solution is only 1 way.‌
 
 ​[https://github.com/rocketacademy/basics-guess-the-word/pull/5/files](https://github.com/rocketacademy/basics-guess-the-word/pull/5/files)​
+<<<<<<< HEAD
 
+=======
+
+> > > > > > > 383a48e... GitBook: [#1362] No subject

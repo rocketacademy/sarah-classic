@@ -14,12 +14,11 @@ On Windows, Git installation also enables us to run our terminal in the Bash pro
 _**When copying any commands from the Git website, do not copy the dollar sign ($) in front of the command.**_ The dollar signs in their commands denote the start of command lines, and are not part of the commands.
 {% endhint %}
 
-
-
 ### **Git - Installation**
 
 {% tabs %}
 {% tab title="Mac OS" %}
+
 ### Installing Git for Mac OS
 
 1. Download and install Git for Mac OS by downloading it here: [https://sourceforge.net/projects/git-osx-installer/](https://sourceforge.net/projects/git-osx-installer/)
@@ -31,21 +30,21 @@ To install the Git Credential Manager you may need to allow "unidentified develo
 
 **To override your security settings and open the app, follow these steps:**
 
-1. _In the Finder_ ![](https://help.apple.com/assets/605932B4A1B7A93F492858E8/605932C0A1B7A93F492858FF/en\_US/058e4af8e726290f491044219d2eee73.png) _on your Mac, locate the download file._
+1. _In the Finder_ ![](https://help.apple.com/assets/605932B4A1B7A93F492858E8/605932C0A1B7A93F492858FF/en_US/058e4af8e726290f491044219d2eee73.png) _on your Mac, locate the download file._
 2. _Control-click the app icon, then choose Open from the shortcut menu._
-3.  _Click Open._\
-    __
+3. _Click Open._\
+   \_\_
 
-    _The app is saved as an exception to your security settings, and you use it in the future just as you can any registered app._\
-    __
+   _The app is saved as an exception to your security settings, and you use it in the future just as you can any registered app._\
+   \_\_
 
 Note: If you are using a company computer for this course you may not be able to override the security settings- you may need to [create a personal token as described here.](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 {% endhint %}
 
-
 {% endtab %}
 
 {% tab title="Windows" %}
+
 ### Installing Git for Windows
 
 1. Navigate to the Git website download page and click the download link: [https://git-scm.com/download/win](https://git-scm.com/download/win)
@@ -59,20 +58,20 @@ Note: If you are using a company computer for this course you may not be able to
 {% hint style="info" %}
 Dialog Options: (just click _**next**_ for default options)
 
-* Information (_default_)
-* Select Destination Location (**Copy this or write it down,** [**you will need it for VSCode setup**](../required-hardware-and-software.md#vscode-settings-windows))
-* Select Components (_default_)
-* Select Start Menu Folder (_default_)
-* Choose the default editor used by Git (**Choose VSCode**)
-* Adjusting your PATH environment (_default_)
-* Choosing HTTPS transport backend (**choose Use the native Windows Secure Channel Library**)
-* Configuring the line ending conversions (_default_)
-* Configuring the terminal emulator to use with Git Bash (_default_)
-* Choose the default behaviour of git pull (_default_)
-* Choose a credential helper (_default_)
-* Configuring extra options (_default_)
-* Configuring extra options (_default_)
-{% endhint %}
+- Information (_default_)
+- Select Destination Location (**Copy this or write it down,** [**you will need it for VSCode setup**](../required-hardware-and-software.md#vscode-settings-windows))
+- Select Components (_default_)
+- Select Start Menu Folder (_default_)
+- Choose the default editor used by Git (**Choose VSCode**)
+- Adjusting your PATH environment (_default_)
+- Choosing HTTPS transport backend (**choose Use the native Windows Secure Channel Library**)
+- Configuring the line ending conversions (_default_)
+- Configuring the terminal emulator to use with Git Bash (_default_)
+- Choose the default behaviour of git pull (_default_)
+- Choose a credential helper (_default_)
+- Configuring extra options (_default_)
+- Configuring extra options (_default_)
+  {% endhint %}
 
 {% hint style="warning" %}
 Git needs to be installed on the same drive as VSCode. If you happen to have 2 drives on your computer, e.g. C and D drives, make sure both VSCode and Git are installed on the same drive.
@@ -136,6 +135,7 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 
 {% tabs %}
 {% tab title="Mac OS" %}
+
 ### VSCode Settings - Mac OS
 
 ```
@@ -148,18 +148,18 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 	"editor.defaultFormatter": "esbenp.prettier-vscode"
 }
 ```
+
 {% endtab %}
 
 {% tab title="Windows" %}
+
 ### VSCode Settings - **Windows**
 
 {% hint style="warning" %}
-Windows users: The following code assumes we installed our Git folder at the root of our C drive. Some students' installers install the Git folder elsewhere, for example in `C:\\Program Files (x86)`.  You should have noted the installation location of Git when you installed it, as per the instructions above.
+Windows users: The following code assumes we installed our Git folder at the root of our C drive. Some students' installers install the Git folder elsewhere, for example in `C:\\Program Files (x86)`. You should have noted the installation location of Git when you installed it, as per the instructions above.
 
 If your installed Git folder is not in the location as listed below, please edit line 8 and 12 to the appropriate values when you copy these configurations.
 {% endhint %}
-
-
 
 ```
 {
@@ -178,6 +178,7 @@ If your installed Git folder is not in the location as listed below, please edit
 	}
 }
 ```
+
 {% endtab %}
 {% endtabs %}
 
@@ -223,8 +224,6 @@ Following the convention of all the other Rocket Academy Git repositories and Gi
 git config --global init.defaultBranch main
 ```
 
-
-
 ## Exercise: **Send Your First Slack Message!**
 
 ### **Introduction**
@@ -238,7 +237,7 @@ _Once you have been added to a section in Slack_, send your first message to you
 5. Your specific OS version. This will be the result of running the command below for your specific OS (Windows or Mac)
 6. Anything else you would like to share 😁
 
-![Slack Message from Kai](<../../.gitbook/assets/image (5).png>)
+<img src="../../.gitbook/assets/image (5).png" alt="Slack Message from Kai" data-size="original">
 
 ### Retrieve Your OS Version
 
@@ -255,4 +254,3 @@ cmd /c ver
 ```
 sw_vers
 ```
-

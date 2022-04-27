@@ -10,7 +10,7 @@
 
 ![](../.gitbook/assets/jie-ping-20210724-17.29.20.png)
 
-## General Points \(All Projects\)
+## General Points (All Projects)
 
 ### Formatting
 
@@ -49,4 +49,8 @@
 
 1. Is there a function to calculate the sum of the cards in a player's hand?
 2. Does that function calculate the hand score correctly, including for aces?
+   <<<<<<< HEAD
 
+=======
+
+> > > > > > > 383a48e... GitBook: [#1362] No subject

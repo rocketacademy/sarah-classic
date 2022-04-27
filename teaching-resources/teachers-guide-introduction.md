@@ -20,7 +20,7 @@ Be sure of the context of the current day. Don't jump ahead by demonstrating syn
 
 Consider changing the theme of VSCode for demonstrating code to the _**light theme**_.
 
-```text
+```
 In VS Code, open the Color Theme picker with File > Preferences > Color Theme. (Code > Preferences > Color Theme on macOS).
 ```
 
@@ -37,4 +37,8 @@ Try to remind pairs that don't seem to be working well together what the ideal p
 #### Tips to remember after the session:
 
 Take note of anyone who didn't show up. Attempt to contact them on slack.
+<<<<<<< HEAD
 
+=======
+
+> > > > > > > 383a48e... GitBook: [#1362] No subject
