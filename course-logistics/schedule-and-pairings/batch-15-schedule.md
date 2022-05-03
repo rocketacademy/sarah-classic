@@ -2,15 +2,15 @@
 
 ## 📅 Course Dates
 
-| Week |                    Monday                    |                       Thursday                       |
-| :--: | :------------------------------------------: | :--------------------------------------------------: |
-|   0  |                       -                      |      [19 May](batch-15-schedule.md#course-day-0)     |
-|   1  |  [23 May](batch-15-schedule.md#course-day-1) |      [26 May](batch-15-schedule.md#course-day-2)     |
-|   2  |  [30 May](batch-15-schedule.md#course-day-3) |      [2 Jun](batch-15-schedule.md#course-day-4)      |
-|   3  |  [6 Jun](batch-15-schedule.md#course-day-5)  |      [9 Jun](batch-15-schedule.md#course-day-6)      |
-|   4  |  [13 Jun](batch-15-schedule.md#course-day-7) |      [16 Jun](batch-15-schedule.md#course-day-8)     |
-|   5  |  [20 Jun](batch-15-schedule.md#course-day-9) |     [23 Jun](batch-15-schedule.md#course-day-10)     |
-|   6  | [21 Dec](batch-15-schedule.md#course-day-11) | [23 Dec (Thurs)](batch-15-schedule.md#course-day-12) |
+| Week |                    Monday                    |                   Thursday                   |
+| :--: | :------------------------------------------: | :------------------------------------------: |
+|   0  |                       -                      |  [19 May](batch-15-schedule.md#course-day-0) |
+|   1  |  [23 May](batch-15-schedule.md#course-day-1) |  [26 May](batch-15-schedule.md#course-day-2) |
+|   2  |  [30 May](batch-15-schedule.md#course-day-3) |  [2 Jun](batch-15-schedule.md#course-day-4)  |
+|   3  |  [6 Jun](batch-15-schedule.md#course-day-5)  |  [9 Jun](batch-15-schedule.md#course-day-6)  |
+|   4  |  [13 Jun](batch-15-schedule.md#course-day-7) |  [16 Jun](batch-15-schedule.md#course-day-8) |
+|   5  |  [20 Jun](batch-15-schedule.md#course-day-9) | [23 Jun](batch-15-schedule.md#course-day-10) |
+|   6  | [27 Jun](batch-15-schedule.md#course-day-11) | [30 Jun](batch-15-schedule.md#course-day-12) |
 
 ## Thu 19 May, Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
