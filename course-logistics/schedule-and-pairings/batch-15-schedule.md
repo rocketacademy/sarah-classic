@@ -16,10 +16,6 @@
 
 Meeting time: **07:30 PM SGT** (GMT+8)
 
-{% hint style="warning" %}
-Day 0's pre-course briefing will run from 4-6pm instead of the usual 1-3pm. This is because the previous batch will be having their last class session from 1-3pm. Thank you for your understanding!
-{% endhint %}
-
 ### Pre Class
 
 1. [Course Overview](../../)
