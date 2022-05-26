@@ -58,9 +58,13 @@ Assume each guest needs 2 drinks. Each drink has 4 ice cubes. Each cube weights 
 
 ### Beer Order
 
-Create a program for a bar to calculate how many kegs of beer they will need every day. The user will enter the average number of customers per day, and the app will estimate how many half-barrel-size kegs the bar needs per quarter.&#x20;
+Create a program for a bar to calculate how many kegs of beer they require per quarter based on their average daily customer. \
+\
+The user will input the average number of customers per day, and the app will automate the calculations of how many half-barrel-size kegs the bar needs per quarter.&#x20;
 
-Assume an average customer drinks 2 pints per visit. There are 124 pints of beer in a half-barrel keg.
+The average customer is measured to drink 2 pints per visit.&#x20;
+
+Each keg of beer holds enough for 124 pints.
 
 ## More Comfortable
 
