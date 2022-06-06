@@ -106,13 +106,13 @@ A: Git is a program you use \*inside\* the terminal. The terminal is the compute
 
 A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section [7.2 on browsing GitHub](../7-github/7.2-github-repo-browsing.md) we'll see how we can navigate and copy and paste a previous version.
 
-### [3.1: Operations](../3-basic-data-manipulation/3.1-operations.md)
+### [2.1: Operations](../2-basic-data-manipulation/2.1-operations.md)
 
 #### Overview
 
 This section is relatively intuitive. It is important to establish here that an **operation** is the smallest bit of computation we can start with. All other code we'll write stems from doing operations, though they may not all be with integers.
 
-### [3.2: Variables](../3-basic-data-manipulation/3.2-variables.md)
+### [2.2: Variables](../2-basic-data-manipulation/2.2-variables.md)
 
 #### Overview
 

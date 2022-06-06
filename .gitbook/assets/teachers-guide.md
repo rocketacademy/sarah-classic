@@ -8,19 +8,18 @@
 - [1.2: Web Browsers](1-introduction/1.2-web-browsers.md)
 - [1.3: Command Line](1-introduction/1.3-command-line.md)
 
-## 2: Organising and Managing Code Files
+## 2: Basics Data Manipulation
 
-- [2.2: Git](2-organising-and-managing-code-files/2.2-git.md)
+- [2.1: Operations](2-basic-data-manipulation/2.1-operations.md)
+- [2.2: Variables](2-basic-data-manipulation/2.2-variables.md)
+- [2.3: Our First Program](2-getting-started-with-code/2.3-our-first-program.md)
+- [2.4: Git](2-organising-and-managing-code-files/2.2-git.md)
 
 ## 3: Basic Data Manipulation
-
-- [3.1: Operations](3-basic-data-manipulation/3.1-operations.md)
-- [3.2: Variables](3-basic-data-manipulation/3.2-variables.md)
 
 ## 4: Getting Started with Code
 
 - [4.1: Intro to GitHub](4-getting-started-with-code/4.1-intro-to-github.md)
-- [4.2: Our First Program](4-getting-started-with-code/4.2-our-first-program.md)
 
 # Day 2
 
