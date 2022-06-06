@@ -12,11 +12,11 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 Before you begin, check that you and your partner can answer the following:
 
-* [ ] Why use logic in our programs?
-* [ ] What is an if statement?
-* [ ] What is a code block? What marks the start and end of a block of code?
-* [ ] What is a Boolean value? What is a Boolean variable?
-* [ ] What is a Boolean operator? What are the different kinds of Boolean operators?
+- [ ] Why use logic in our programs?
+- [ ] What is an if statement?
+- [ ] What is a code block? What marks the start and end of a block of code?
+- [ ] What is a Boolean value? What is a Boolean variable?
+- [ ] What is a Boolean operator? What are the different kinds of Boolean operators?
 
 ## Base
 
@@ -30,7 +30,7 @@ Create a dice game that allows a user to roll 2 dice and submit a guess when the
 Otherwise the user loses.
 
 {% hint style="info" %}
-To test your winning logic, consider using [code control logic from Module 4.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
+To test your winning logic, consider using [code control logic from Module 4.3](../4-conditional-logic/4.3-boolean-and-not.md#code-control), where we temporarily return a fixed number at the start of our random number generator function.
 {% endhint %}
 
 ### Hawker Food Categorisation

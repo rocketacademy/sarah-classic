@@ -100,7 +100,7 @@ Total Video Watch Time: **\~40 mins**
 
 - [4.1: Introduction to Logic](https://basics.rocketacademy.co/4-conditional-logic/4.1-intro-to-logic)
 - [4.2: Pseudo Code, Boolean "Or"](https://basics.rocketacademy.co/4-conditional-logic/4.2-pseudo-code-boolean-or)
-- [4.3: Boolean "And", Boolean "Not"](https://basics.rocketacademy.co/6-conditional-logic/6.3-boolean-and-not)
+- [4.3: Boolean "And", Boolean "Not"](https://basics.rocketacademy.co/4-conditional-logic/4.3-boolean-and-not)
 
 ### In Class
 

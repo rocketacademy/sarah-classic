@@ -107,7 +107,7 @@ if (
 
 A: With logical OR it does not matter. In english, \*any\* of the statements can be true in order for the condition block to run.
 
-### [6.3: Boolean And and Not](../6-conditional-logic/6.3-boolean-and-not.md)
+### [4.3: Boolean And and Not](../4-conditional-logic/4.3-boolean-and-not.md)
 
 #### Overview
 

@@ -12,10 +12,10 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 Before you begin, check that you and your partner can answer the following:
 
-* [ ] Why use global variables?
-* [ ] What is the difference between global and local variables?
-* [ ] Can a global variable be accessed or manipulated within a function?
-* [ ] Can a variable declared in `main` be accessed or manipulated in a different helper function?
+- [ ] Why use global variables?
+- [ ] What is the difference between global and local variables?
+- [ ] Can a global variable be accessed or manipulated within a function?
+- [ ] Can a variable declared in `main` be accessed or manipulated in a different helper function?
 
 ## Base
 
@@ -43,7 +43,7 @@ We define "round" as all gameplay until a player wins. The number of times the p
 
 When the player wins, the computer updates the number of times the player needs to guess correctly in a row for the next round.&#x20;
 
-Consider using [input control from Module 6.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to test your logic.
+Consider using [input control from Module 6.3](../4-conditional-logic/4.3-boolean-and-not.md#code-control) to test your logic.
 
 ## More Comfortable
 
@@ -63,7 +63,7 @@ Update our dice game to include an additional dice. With each player guess, the 
 
 ### Dice 4D
 
-Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 4.3](../6-conditional-logic/6.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
+Update our dice game to allow the player to play a round of 4D every 2 times the player wins the dice roll guess. Use [input control from Module 4.3](../4-conditional-logic/4.3-boolean-and-not.md#code-control) to verify our 4D game logic, that it is possible to win this 4D game.
 
 ### Secret Word Twice in a Row 2
 
