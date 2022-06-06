@@ -54,7 +54,7 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 
 - [2.1: Operations](https://basics.rocketacademy.co/2-basic-data-manipulation/2.1-operations)
 - [2.2: Variables](https://basics.rocketacademy.co/2-basic-data-manipulation/2.2-variables)
-- [2.3: Our First Program](https://basics.rocketacademy.co/4-getting-started-with-code/4.2-our-first-program)
+- [2.3: Our First Program](https://basics.rocketacademy.co/2-basic-data-manipulation/2.3-our-first-program)
 
 ### In Class
 
