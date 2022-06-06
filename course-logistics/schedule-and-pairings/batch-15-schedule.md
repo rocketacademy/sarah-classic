@@ -75,7 +75,7 @@ Total Video Watch Time: **\~25 mins**
 **Module 3: Structuring and Debugging Code**
 
 - [3.1: Functions](https://basics.rocketacademy.co/3-structuring-and-debugging-code/3.1-functions)
-- [3.2: Errors](../../5-structuring-and-debugging-code/5.2-errors.md)
+- [3.2: Errors](../../3-structuring-and-debugging-code/3.2-errors.md)
 
 ### In Class
 

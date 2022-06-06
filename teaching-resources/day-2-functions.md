@@ -138,7 +138,7 @@ Q: Students think that in order to run more code, they copy the function and use
 
 A: Refactoring or recognizing a pattern that repeats itself within the code is something that the students should have in mind to practice.
 
-## [5.2: Errors](../5-structuring-and-debugging-code/5.2-errors.md)
+## [3.2: Errors](../3-structuring-and-debugging-code/3.2-errors.md)
 
 ### Overview
 

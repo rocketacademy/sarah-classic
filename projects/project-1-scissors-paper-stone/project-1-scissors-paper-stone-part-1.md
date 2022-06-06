@@ -6,7 +6,7 @@ description: ✂️📃💎😜
 
 ## Introduction
 
-For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock\_paper\_scissors) game. We have split this project into 2 parts to cater to the pace of RA's Basics course. See the [Course Schedule](broken-reference) for when we have assigned each part.
+For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock_paper_scissors) game. We have split this project into 2 parts to cater to the pace of RA's Basics course. See the [Course Schedule](broken-reference) for when we have assigned each part.
 
 Part 1 works with the technologies we have learned so far in Basics, and Part 2 adds additional technologies that we learn in subsequent course days.
 
@@ -27,22 +27,22 @@ Rules: scissors beats paper, paper beats stone, and stone beats scissors. If bot
 Unsure how to start? Try these steps:
 
 1. Write some pseudo code.
-   * What is the input going to be?
-   * What should the output be?
-   * How will the computer's option be randomly generated?
-   * How many different cases are there?
+   - What is the input going to be?
+   - What should the output be?
+   - How will the computer's option be randomly generated?
+   - How many different cases are there?
 2. Draw a simple flowchart to help you visualise the overall control flow of the program.
 3. Start small, test while you build and be ready to debug.
-   * It's unwise to attempt to build the entire program in one go before testing.
-   * Know that the final shape and form of your program will look different from when you are building it.
-   * You can write new lines of code within main first, check that the code works as intended, and then "relocate" / refactor your code as a helper function.&#x20;
-   * Utilise `console.log()` sensibly to check for the right [control flow](../../5-structuring-and-debugging-code/5.2-errors.md#control-flow-checking-is-our-code-running) and [values](../../5-structuring-and-debugging-code/5.2-errors.md#value-checking-are-the-values-correct).
-   * Try to test as frequently as you can, and whenever you make a significant change. It builds confidence that things are working as they should and you will catch bugs as soon as they pop up.
-4. [Refactor ](https://en.wikipedia.org/wiki/Code\_refactoring)your code:
+   - It's unwise to attempt to build the entire program in one go before testing.
+   - Know that the final shape and form of your program will look different from when you are building it.
+   - You can write new lines of code within main first, check that the code works as intended, and then "relocate" / refactor your code as a helper function.&#x20;
+   - Utilise `console.log()` sensibly to check for the right [control flow](../../3-structuring-and-debugging-code/3.2-errors.md#control-flow-checking-is-our-code-running) and [values](../../3-structuring-and-debugging-code/3.2-errors.md#value-checking-are-the-values-correct).
+   - Try to test as frequently as you can, and whenever you make a significant change. It builds confidence that things are working as they should and you will catch bugs as soon as they pop up.
+4. [Refactor ](https://en.wikipedia.org/wiki/Code_refactoring)your code:
    1. Is all of your logic in `main()`? Can more lines of code be in helper functions?
    2. Are there any unwieldy or long helper functions? Should they be sub-routines which call helper functions instead?
    3. Can any of the logic be streamlined?
-{% endhint %}
+      {% endhint %}
 
 ### Input Validation
 
@@ -52,7 +52,7 @@ Sometimes the user types something other than "scissors", "paper", or "stone" du
 
 ### Formatting
 
-Make the output of your game look nice. You can use string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag\_br.asp) in the output. Your output might look something like this:
+Make the output of your game look nice. You can use string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag_br.asp) in the output. Your output might look something like this:
 
 ```
 The computer chose scissors ✂️.

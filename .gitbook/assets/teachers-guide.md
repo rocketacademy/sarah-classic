@@ -18,7 +18,7 @@
 ## 3: Structuring and Debugging Code
 
 - [3.1: Functions](3-structuring-and-debugging-code/3.1-functions.md)
-- [5.2: Errors](5-structuring-and-debugging-code/5.2-errors.md)
+- [3.2: Errors](3-structuring-and-debugging-code/3.2-errors.md)
 
 ## 4: Conditional Logic
 
