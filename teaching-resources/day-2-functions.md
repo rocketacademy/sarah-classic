@@ -5,7 +5,7 @@
 This day introduces two foundational topics: functions and errors.
 
 {% hint style="warning" %}
-Before the meeting, ask the students to put their [5.1 Functions](../5-structuring-and-debugging-code/5.1-functions.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
+Before the meeting, ask the students to put their [5.1 Functions](../3-structuring-and-debugging-code/3.1-functions.md) exercise code as a snippet in a thread in the Slack channel. As part of the message, ask them to rate their own understanding 1-5.
 {% endhint %}
 
 ## Pre-Class Material
@@ -18,12 +18,12 @@ In the previous session the students were introduced to the idea of pairing and 
 
 **To begin, reiterate the big ideas behind pairing because the students only heard them once before:**
 
-* Learning directly from a peer helps with understanding.
-* The best way to fully know something is to have to explain it.
-* Pairing is a collaborative experience that should involve a lot of communicating and talking.
-* Both people are focused on the same task. Not one person typing, another person Googling.
+- Learning directly from a peer helps with understanding.
+- The best way to fully know something is to have to explain it.
+- Pairing is a collaborative experience that should involve a lot of communicating and talking.
+- Both people are focused on the same task. Not one person typing, another person Googling.
 
-## [5.1: Functions](../5-structuring-and-debugging-code/5.1-functions.md)
+## [3.1: Functions](../3-structuring-and-debugging-code/3.1-functions.md)
 
 ### Overview
 
@@ -31,8 +31,8 @@ The Basics curriculum is trying to emphasize functions as the most important uni
 
 There are a few key ideas that students should take away:
 
-* functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value (the return value). Clear naming is key to writing a good function.
-* writing code that decomposes into input (parameters) and output (return value) is much easier to reason about than code that deals with multiple global values. Therefore, we should try to emphasize writing functions that take input and return values.
+- functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value (the return value). Clear naming is key to writing a good function.
+- writing code that decomposes into input (parameters) and output (return value) is much easier to reason about than code that deals with multiple global values. Therefore, we should try to emphasize writing functions that take input and return values.
 
 #### Discussion Questions
 
@@ -64,8 +64,8 @@ A: Nothing happens to the variable. We can call a function and pass in any kind 
 #### Q: What happens if we call the function a second time below line 4? `var result3 = add(5,6);`
 
 ```javascript
-var main = function(input){
-    return "hello " + input;
+var main = function (input) {
+  return 'hello ' + input;
 };
 ```
 
@@ -88,16 +88,16 @@ Because functions and return values are an important topic, be sure to emphasize
 {% endhint %}
 
 ```javascript
-var add = function(a,b){
-    return a + b;
+var add = function (a, b) {
+  return a + b;
 };
 
-var main = function(input){
-    var userTypedInput = 'input is: ' + input;
-    var result1 = userTypedInput + ' plus 5 is: ' + add(input, 5);
-    var result2 = userTypedInput + ' plus 6 is: ' + add(input, 6);
-    var myOutputValue = result1 + ' ' + result2;
-    return myOutputValue;
+var main = function (input) {
+  var userTypedInput = 'input is: ' + input;
+  var result1 = userTypedInput + ' plus 5 is: ' + add(input, 5);
+  var result2 = userTypedInput + ' plus 6 is: ' + add(input, 6);
+  var myOutputValue = result1 + ' ' + result2;
+  return myOutputValue;
 };
 ```
 

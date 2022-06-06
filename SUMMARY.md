@@ -40,7 +40,7 @@
 
 ## 3: Structuring and Debugging Code
 
-- [3.1: Functions](5-structuring-and-debugging-code/5.1-functions.md)
+- [3.1: Functions](3-structuring-and-debugging-code/3.1-functions.md)
 - [3.2: Errors](5-structuring-and-debugging-code/5.2-errors.md)
 - [Additional Resources 3](3-structuring-and-debugging-code/additional-resources-3.md)
 

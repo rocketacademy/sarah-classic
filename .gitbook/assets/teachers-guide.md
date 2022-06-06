@@ -15,7 +15,16 @@
 - [2.3: Our First Program](2-getting-started-with-code/2.3-our-first-program.md)
 - [2.4: Git](2-organising-and-managing-code-files/2.2-git.md)
 
-## 3: Basic Data Manipulation
+## 3: Structuring and Debugging Code
+
+- [3.1: Functions](3-structuring-and-debugging-code/3.1-functions.md)
+- [5.2: Errors](5-structuring-and-debugging-code/5.2-errors.md)
+
+## 4: Conditional Logic
+
+- [6.1: Intro to Logic](6-conditional-logic/6.1-intro-to-logic.md)
+- [6.2: Pseudo-Code, Boolean Or](6-conditional-logic/6.2-pseudo-code-boolean-or.md)
+- [6.3: Boolean And, Not](6-conditional-logic/6.3-boolean-and-not.md)
 
 ## 4: Getting Started with Code
 
@@ -23,18 +32,7 @@
 
 # Day 2
 
-## 5: Structuring and Debugging Code
-
-- [5.1: Functions](5-structuring-and-debugging-code/5.1-functions.md)
-- [5.2: Errors](5-structuring-and-debugging-code/5.2-errors.md)
-
 # Day 3
-
-## 6: Conditional Logic
-
-- [6.1: Intro to Logic](6-conditional-logic/6.1-intro-to-logic.md)
-- [6.2: Pseudo-Code, Boolean Or](6-conditional-logic/6.2-pseudo-code-boolean-or.md)
-- [6.3: Boolean And, Not](6-conditional-logic/6.3-boolean-and-not.md)
 
 # Day 4
 
