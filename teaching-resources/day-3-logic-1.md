@@ -10,7 +10,7 @@ Remember that just logic in and of itself is actually a huge topic. This first d
 
 Total Video Watch Time: **\~40 mins**
 
-### [6.1: Intro to Logic](../6-conditional-logic/6.1-intro-to-logic.md)
+### [4.1: Intro to Logic](../4-conditional-logic/4.1-intro-to-logic.md)
 
 #### Overview
 

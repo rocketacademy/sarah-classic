@@ -46,7 +46,7 @@
 
 ## 4: Conditional Logic
 
-- [4.1: Intro to Logic](6-conditional-logic/6.1-intro-to-logic.md)
+- [4.1: Intro to Logic](4-conditional-logic/4.1-intro-to-logic.md)
 - [4.2: Pseudo-Code, Boolean Or](6-conditional-logic/6.2-pseudo-code-boolean-or.md)
 - [4.3: Boolean And, Not](6-conditional-logic/6.3-boolean-and-not.md)
 - [4.4: Input Validation](4-conditional-logic/8.3-input-validation.md)

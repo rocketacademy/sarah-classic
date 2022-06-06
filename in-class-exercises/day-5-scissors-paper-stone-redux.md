@@ -64,11 +64,11 @@ If you have nothing else to add, here are some ideas:
 
 Your pair will turn the Scissors Paper Stone game into a Multi game app. Add a mode for a new "guess the secret word" game. The user will type in "word game" (or any secret phrase of your choice) to switch to this mode.&#x20;
 
-The game itself will be the same as the game in the code example in [4.1](../6-conditional-logic/6.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
+The game itself will be the same as the game in the code example in [4.1](../4-conditional-logic/4.1-intro-to-logic.md#simple-conditional-example-secret-phrase)
 
 #### B) Dice Game
 
-Add a third mode to the super game, a guess the dice roll game. The user will enter "dice game" to switch to this mode. (The dice game is the same dice game as the original basic version in [4.1](../6-conditional-logic/6.1-intro-to-logic.md#dice-game)).
+Add a third mode to the super game, a guess the dice roll game. The user will enter "dice game" to switch to this mode. (The dice game is the same dice game as the original basic version in [4.1](../4-conditional-logic/4.1-intro-to-logic.md#dice-game)).
 
 ### 3. Comfortable
 
