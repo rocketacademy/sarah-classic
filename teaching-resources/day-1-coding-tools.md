@@ -64,7 +64,7 @@ A: HTML is a file with words and characters in it. HTML specifies what appears i
 
 A: After HTML is loaded by the browser, if the HTML contains JavaScript or a reference to some JavaScript, that JavaScript code is run in the context of that page.
 
-### [2.1: Command Line](../2-organising-and-managing-code-files/2.1-command-line.md)
+### [1.3: Command Line](../1-introduction/1.3-command-line.md)
 
 #### Overview
 
@@ -177,7 +177,7 @@ var main = function (input) {
 ```javascript
 var main = function (input) {
   var result = input * 2;
-  var myOutputValue = "You typed in " + input + ". The result is: " + result;
+  var myOutputValue = 'You typed in ' + input + '. The result is: ' + result;
   return myOutputValue;
 };
 ```
@@ -192,9 +192,9 @@ _**This is the first pairing exercise the students will do.**_ Set the tone for 
 
 #### You might touch on the following points:
 
-* Pairing only works when both people are willing to commit to the experience and be open to learning from the other person and / or patiently explaining what the other person may not be familiar with.
-* Be coachable. Make an effort to listen well when someone wants to explain something.
-* Teaching is the best way to understand something deeply. Try to give the clearest explanations possible. This can be very difficult but will really cement a concept.
+- Pairing only works when both people are willing to commit to the experience and be open to learning from the other person and / or patiently explaining what the other person may not be familiar with.
+- Be coachable. Make an effort to listen well when someone wants to explain something.
+- Teaching is the best way to understand something deeply. Try to give the clearest explanations possible. This can be very difficult but will really cement a concept.
 
 #### Things to look out for in the pairing session:
 
@@ -202,9 +202,9 @@ It's important that everyone is on the same page with the setup and command line
 
 Look out for people who don't have things setup according to the guidelines, such as:
 
-* no folder structure setup ahead of time
-* using a browser other than chrome
-* using some other setup besides the starter code like codepen.io
+- no folder structure setup ahead of time
+- using a browser other than chrome
+- using some other setup besides the starter code like codepen.io
 
 Be clear with the students that it's important to follow along with the setup as outlined so that in pairing everyone begins with the same context.
 
