@@ -34,7 +34,7 @@
 ## 2: Basic Data Manipulation
 
 - [2.1: Operations](2-basic-data-manipulation/2.1-operations.md)
-- [2.2: Variables](3-basic-data-manipulation/3.2-variables.md)
+- [2.2: Variables](2-basic-data-manipulation/2.2-variables.md)
 - [2.3: Our First Program](4-getting-started-with-code/4.2-our-first-program.md)
 - [Additional Resources 2](2-basic-data-manipulation/additional-resources-2.md)
 
