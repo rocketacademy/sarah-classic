@@ -215,7 +215,7 @@ Total Video Watch Time: **\~15 mins**
 
 **Module 8: GitHub**
 
-- [8.4 GitHub Repo Browsing](../../7-github/7.2-github-repo-browsing.md)
+- [8.4 GitHub Repo Browsing](../../8-github/8.4-github-repo-browsing.md)
 - [8.5 Deployment](../../12-next-steps/12.3-deployment.md)
 
 ### In Class

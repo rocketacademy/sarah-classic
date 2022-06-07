@@ -72,7 +72,7 @@ A: 1) Fork the project repo. 2) Clone the project repo. 3) Make local changes to
 
 A: No. All the changes you pushed to your repo will appear in your original pull request.
 
-## [7.2: GitHub Navigation](../7-github/7.2-github-repo-browsing.md)
+## [7.2: GitHub Navigation](../8-github/8.4-github-repo-browsing.md)
 
 ### Overview
 

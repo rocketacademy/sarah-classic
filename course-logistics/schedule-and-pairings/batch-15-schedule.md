@@ -213,9 +213,10 @@ Total Video Watch Time: **\~15 mins**
 **Module 8: GitHub**
 
 - [8.1: Intro to GitHub](../../8-github/8.1-intro-to-github.md)
-- [8.2: GitHub Fork and Pull Request](../../8-github/8.2-github-fork-and-clone.md)
-- [8.3 GitHub Repo Browsing](../../7-github/7.2-github-repo-browsing.md)
-- [8.4 Deployment](../../12-next-steps/12.3-deployment.md)
+- [8.2: GitHub Fork and Clone](../../8-github/8.2-github-fork-and-clone.md)
+- [8.3: GitHub Pull Request](../../8-github/8.3-github-pull-request.md)
+- [8.4 GitHub Repo Browsing](../../8-github/8.4-github-repo-browsing.md)
+- [8.5 Deployment](../../12-next-steps/12.3-deployment.md)
 
 ### In Class
 

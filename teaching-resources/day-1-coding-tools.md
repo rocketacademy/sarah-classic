@@ -104,7 +104,7 @@ A: Git is a program you use \*inside\* the terminal. The terminal is the compute
 
 #### Q: How do I get a previous version back?
 
-A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section [7.2 on browsing GitHub](../7-github/7.2-github-repo-browsing.md) we'll see how we can navigate and copy and paste a previous version.
+A: There are specific Git commands for that, but it is out of the scope of the course. When we cover the section [7.2 on browsing GitHub](../8-github/8.4-github-repo-browsing.md) we'll see how we can navigate and copy and paste a previous version.
 
 ### [2.1: Operations](../2-basic-data-manipulation/2.1-operations.md)
 

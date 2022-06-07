@@ -39,7 +39,7 @@
 ## 8: GitHub
 
 - [8.2: GitHub Fork and Clone](8-github/8.2-github-fork-and-clone.md)
-- [7.2: GitHub Repo Browsing](7-github/7.2-github-repo-browsing.md)
+- [8.4: GitHub Repo Browsing](8-github/8.4-github-repo-browsing.md)
 
 ## 8: Managing State and Input Validation
 
