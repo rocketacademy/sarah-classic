@@ -65,9 +65,9 @@
 
 # Day 8
 
-## 10: JavaScript Objects
+## 9: JavaScript Objects
 
-- [10.1: JavaScript Objects](10-javascript-objects/10.1-javascript-objects.md)
+- [9.1: JavaScript Objects](9-javascript-objects/9.1-javascript-objects.md)
 
 # Day 9
 

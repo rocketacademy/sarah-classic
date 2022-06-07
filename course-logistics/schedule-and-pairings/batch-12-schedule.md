@@ -237,7 +237,7 @@ Total Video Watch Time: **\~16 mins**
 
 **Module 9: Objects**
 
-- [9.1: Objects](../../10-javascript-objects/10.1-javascript-objects.md)
+- [9.1: Objects](../../9-javascript-objects/9.1-javascript-objects.md)
 - [9.2: Card Deck Generation with Loops](https://basics.rocketacademy.co/10-javascript-objects/10.2-card-deck-generation-with-loops)
 
 ### In Class

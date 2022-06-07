@@ -4,13 +4,12 @@
 
 Today we will practise JavaScript Objects. Choose one of the two exercises, _Moar Cards_ or _Chat Bot_, and work your way through up till your preferred level of comfort. You are free to complete the other exercise at your own time.&#x20;
 
-
-
 {% tabs %}
 {% tab title="Moar Cards" %}
+
 ## Base
 
-Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../10-javascript-objects/10.1-javascript-objects.md#card-shuffling) into your `script.js` file.
+Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../9-javascript-objects/9.1-javascript-objects.md#card-shuffling) into your `script.js` file.
 
 ### Display Single Card
 
@@ -18,7 +17,7 @@ Build an app using the Basics Starter Code and the pre-class deck functions such
 
 ### Low Card
 
-Implement the High Card game from [9.1: Objects](../10-javascript-objects/10.1-javascript-objects.md#high-card) with 1 difference: the winner is the person with the _lowest_ card.
+Implement the High Card game from [9.1: Objects](../9-javascript-objects/9.1-javascript-objects.md#high-card) with 1 difference: the winner is the person with the _lowest_ card.
 
 ### Low Card with Queen Winner
 
@@ -73,6 +72,7 @@ Update the previous game logic such that if any player gets a pair in their hand
 {% endtab %}
 
 {% tab title="Chat Bot" %}
+
 ## Introduction
 
 Today we will practice more complex code logic with nested objects and arrays.&#x20;
@@ -308,7 +308,7 @@ var questionAndAnswerSets = {
 
 Add questions to our chat bot that are purportedly for fortune telling, but where the bot always provides standard responses that anyone might believe are individualised. For example, the bot might ask "Let me tell your fortune. If you have a birthmark, where is it on your body?" and respond with "You have a great need for other people to like and admire you."
 
-Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum\_effect#Early\_research).
+Such statements that people might feel are individualised but can apply to everyone are known as Barnum statements. Read more about the Barnum effect and statements [here](https://en.wikipedia.org/wiki/Barnum_effect#Early_research).
 
 ## Reference Solutions
 
