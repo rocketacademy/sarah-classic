@@ -120,7 +120,7 @@ Total Video Watch Time: **\~41 mins**
 
 **Module 5: Global State**
 
-- [5.1: Program Lifecycle and Global State](https://basics.rocketacademy.co/8-managing-state-and-input-validation/8.1-program-lifecycle-and-state)
+- [5.1: Program Lifecycle and Global State](https://basics.rocketacademy.co/5-managing-state-and-input-validation/5.1-program-lifecycle-and-state)
 
 **Module 7: Version Control**
 

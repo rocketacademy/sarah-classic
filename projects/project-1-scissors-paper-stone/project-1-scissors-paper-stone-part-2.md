@@ -6,7 +6,7 @@ description: ✂️📃💎🤩
 
 ## Introduction
 
-Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [global varaibles](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game states](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md#global-state-for-app-modes).
+Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [global varaibles](../../5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game states](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md#global-state-for-app-modes).
 
 If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to attempting More Comfortable for both parts.
 
@@ -21,7 +21,7 @@ Take a look at past projects by previous Basics students to visualise how the fu
 
 ### Win-Loss Record
 
-Add [state](../../8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
+Add [state](../../5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md) to your program such that it keeps track of the number of times the user has won and the number of times the computer has won. Output this win-loss record in a format you like in the program output. You can also output the number of draws and/or each party's winning percentage if you'd like.
 
 ### User Name
 
@@ -29,7 +29,7 @@ To make this game more personal, add a feature to collect the user's name as the
 
 ### Formatting
 
-Make the output of your game look nice. You can use the string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag\_br.asp) in the output. Add the user name and the win/loss record. Format a message depending on how well the player is doing:
+Make the output of your game look nice. You can use the string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag_br.asp) in the output. Add the user name and the win/loss record. Format a message depending on how well the player is doing:
 
 ```
 The computer chose scissors ✂️.
@@ -50,7 +50,7 @@ You decide to prank your friends and create an SPS game mode where the rules are
 
 ### Korean Scissors Paper Stone
 
-The following is adapted from [Wikipedia](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Adapted\_rules):
+The following is adapted from [Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors#Adapted_rules):
 
 > In Korea, a two-player upgraded version exists by the name [muk-jji-ppa](https://en.wikipedia.org/wiki/Muk-jji-ppa). After showing their hands, the player with the winning throw shouts "muk-jji-ppa!" upon which both players throw again. If they throw differently (for example, rock and paper, or paper and scissors), whoever wins this second round shouts "muk-jji-ppa!" and thus the play continues until both players throw the same item (for example, rock and rock), at which point whoever was the last winner becomes the actual winner.
 
@@ -66,7 +66,7 @@ Add a mode that lets the computer choose for you on each turn.
 
 ### Further Variations
 
-Implement other variations to the game as described [here](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Variations). The user can select which variation they would like to play.
+Implement other variations to the game as described [here](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations). The user can select which variation they would like to play.
 
 ## Submit
 

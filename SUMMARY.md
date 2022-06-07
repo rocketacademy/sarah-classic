@@ -54,7 +54,7 @@
 
 ## 5: Managing State and Input Validation
 
-- [5.1: Program Lifecycle and State](8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
+- [5.1: Program Lifecycle and State](5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md)
 - [5.2: Program State for Game Modes](8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
 - [Additional Resources 5](5-managing-state-and-input-validation/additional-resources-5.md)
 

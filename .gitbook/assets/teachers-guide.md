@@ -43,7 +43,7 @@
 
 ## 8: Managing State and Input Validation
 
-- [8.1: Program Lifecycle and State](8-managing-state-and-input-validation/8.1-program-lifecycle-and-state.md)
+- [5.1: Program Lifecycle and State](5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md)
 
 # Day 5
 
