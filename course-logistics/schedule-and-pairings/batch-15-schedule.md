@@ -124,7 +124,7 @@ Total Video Watch Time: **\~41 mins**
 
 **Module 7: Version Control**
 
-- [7.1: Git](../../2-organising-and-managing-code-files/2.2-git.md)
+- [7.1: Git](../../7-organising-and-managing-code-files/7.1-git.md)
 
 ### In Class
 
