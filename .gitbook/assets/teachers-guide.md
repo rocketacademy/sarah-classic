@@ -61,7 +61,7 @@
 
 # Day 7
 
-- [6.3: Loops with Arrays](9-arrays-and-iteration/9.3-loops-with-arrays.md)
+- [6.3: Loops with Arrays](6-arrays-and-iteration/6.3-loops-with-arrays.md)
 
 # Day 8
 

@@ -196,7 +196,7 @@ Total Video Watch Time: **\~11 mins**
 
 **Module 6: Arrays and Iteration**
 
-- [6.3: Loops with Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.3-loops-with-arrays)
+- [6.3: Loops with Arrays](https://basics.rocketacademy.co/6-arrays-and-iteration/6.3-loops-with-arrays)
 
 ---
 

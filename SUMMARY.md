@@ -62,7 +62,7 @@
 
 - [6.1: Arrays](6-arrays-and-iteration/6.1-arrays.md)
 - [6.2: Loops](6-arrays-and-iteration/6.2-loops.md)
-- [6.3: Loops with Arrays](9-arrays-and-iteration/9.3-loops-with-arrays.md)
+- [6.3: Loops with Arrays](6-arrays-and-iteration/6.3-loops-with-arrays.md)
 - [Additional Resources 6](6-arrays-and-iteration/additional-resources-6.md)
 
 ## 7: Version Control
