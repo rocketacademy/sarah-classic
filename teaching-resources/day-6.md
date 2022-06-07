@@ -86,7 +86,7 @@ var main = function (input) {
 
 A: `pop`
 
-### [9.2: Loops](../9-arrays-and-iteration/9.2-loops.md)
+### [6.2: Loops](../6-arrays-and-iteration/6.2-loops.md)
 
 ```javascript
 // Initialise a counter to 0.

@@ -56,12 +56,12 @@
 
 ## 9: Arrays and Iteration
 
-- [9.1: Arrays](6-arrays-and-iteration/6.1-arrays.md)
-- [9.2: Loops](9-arrays-and-iteration/9.2-loops.md)
+- [6.1: Arrays](6-arrays-and-iteration/6.1-arrays.md)
+- [6.2: Loops](6-arrays-and-iteration/6.2-loops.md)
 
 # Day 7
 
-- [9.3: Loops with Arrays](9-arrays-and-iteration/9.3-loops-with-arrays.md)
+- [6.3: Loops with Arrays](9-arrays-and-iteration/9.3-loops-with-arrays.md)
 
 # Day 8
 
