@@ -28,7 +28,7 @@
 
 ## 4: Getting Started with Code
 
-- [4.1: Intro to GitHub](4-getting-started-with-code/4.1-intro-to-github.md)
+- [8.1: Intro to GitHub](8-github/8.1-intro-to-github.md)
 
 # Day 2
 

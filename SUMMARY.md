@@ -72,7 +72,7 @@
 
 ## 8: GitHub
 
-- [8.1: Intro to GitHub](4-getting-started-with-code/4.1-intro-to-github.md)
+- [8.1: Intro to GitHub](8-github/8.1-intro-to-github.md)
 - [8.2: GitHub Fork and Clone](7-github/7.1-github-fork-and-pull-request.md)
 - [8.3: GitHub Pull Request](8-github/8.3-github-pull-request.md)
 - [8.4: GitHub Repo Browsing](7-github/7.2-github-repo-browsing.md)

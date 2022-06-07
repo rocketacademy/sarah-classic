@@ -198,7 +198,7 @@ Keep note of any students who already seem lost or confused.
 
 Our code doesn't do too much yet, we've named some values and done some calculations. This is just the beginning. Next we'll see functions- which is a kind of control flow- a way to specify which groups of lines of code runs. We'll use this to build up our programs in pieces. After that we'll begin to talk about program logic with conditionals.
 
-### [4.1: Intro to GitHub](../4-getting-started-with-code/4.1-intro-to-github.md)
+### [8.1: Intro to GitHub](../8-github/8.1-intro-to-github.md)
 
 #### Overview
 
