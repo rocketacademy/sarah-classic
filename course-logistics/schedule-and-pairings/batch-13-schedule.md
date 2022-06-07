@@ -124,7 +124,7 @@ Total Video Watch Time: **\~41 mins**
 **Module 5: Global State**
 
 - [5.1: Program Lifecycle and Global State](https://basics.rocketacademy.co/5-managing-state-and-input-validation/5.1-program-lifecycle-and-state)
-- [5.2: Program State for Game Modes](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+- [5.2: Program State for Game Modes](../../5-managing-state-and-input-validation/5.2-program-state-for-game-modes.md)
 
 ### In Class
 

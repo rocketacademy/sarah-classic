@@ -6,7 +6,7 @@ description: ✂️📃💎🤩
 
 ## Introduction
 
-Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [global varaibles](../../5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game states](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md#global-state-for-app-modes).
+Part 2 assumes we have learned about global variables, and the More Comfortable section assumes we know how to use [global varaibles](../../5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md#global-variables) as game modes. We'll now update our SPS Part 1 to support [game states](../../5-managing-state-and-input-validation/5.2-program-state-for-game-modes.md#global-state-for-app-modes).
 
 If you completed the [Base features of SPS Part 1](project-1-scissors-paper-stone-part-1.md#base) but didn't finish the More Comfortable section, please complete Base for SPS Part 2 before going back to attempting More Comfortable for both parts.
 

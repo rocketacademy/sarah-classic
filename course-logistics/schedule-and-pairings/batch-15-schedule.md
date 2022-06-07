@@ -148,7 +148,7 @@ Total Video Watch Time: **\~17 mins**
 
 **Module 5: Global State**
 
-- [5.2: Program State for Game Modes](../../8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
+- [5.2: Program State for Game Modes](../../5-managing-state-and-input-validation/5.2-program-state-for-game-modes.md)
 
 **Module 8: GitHub**
 
