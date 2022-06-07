@@ -9,7 +9,7 @@ Today we will practise JavaScript Objects. Choose one of the two exercises, _Moa
 
 ## Base
 
-Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../10-javascript-objects/10.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../9-javascript-objects/9.1-javascript-objects.md#card-shuffling) into your `script.js` file.
+Feel free to copy the card deck generation function from [9.2: Card Deck Generation](../9-javascript-objects/9.2-card-deck-generation-with-loops.md#card-deck-generation-code) and the card shuffling functions from [9.1: JavaScript Objects](../9-javascript-objects/9.1-javascript-objects.md#card-shuffling) into your `script.js` file.
 
 ### Display Single Card
 

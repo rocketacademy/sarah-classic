@@ -14,7 +14,7 @@ Remind the students that in order to move forward with the blackjack game, it's 
 
 Total Video Watch Time: **\~16 mins**
 
-### [10.2: Card Deck Generation with Loops](../10-javascript-objects/10.2-card-deck-generation-with-loops.md)
+### [9.2: Card Deck Generation with Loops](../9-javascript-objects/9.2-card-deck-generation-with-loops.md)
 
 ```javascript
 var makeDeck = function () {
