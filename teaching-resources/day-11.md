@@ -26,8 +26,12 @@ var main = function (input) {
     var innerCounter = 0;
     while (innerCounter < sideLength) {
       // If current iteration represents a border element, draw ✊ instead.
-      if (outerCounter == 0 || outerCounter == sideLength - 1
-        || innerCounter == 0 || innerCounter == sideLength - 1) {
+      if (
+        outerCounter == 0 ||
+        outerCounter == sideLength - 1 ||
+        innerCounter == 0 ||
+        innerCounter == sideLength - 1
+      ) {
         myOutputValue += '✊';
       } else {
         // Add a 👍 to the current row
@@ -55,13 +59,13 @@ A: Two loops create a square emoji figure. The condition evaluates if the loops 
 A:&#x20;
 
 ```javascript
-outerCounter == 0 // true
-outerCounter == sideLength - 1 // false
-innerCounter == 0 // true
-innerCounter == sideLength - 1 // false
+outerCounter == 0; // true
+outerCounter == sideLength - 1; // false
+innerCounter == 0; // true
+innerCounter == sideLength - 1; // false
 ```
 
-### [12.3: Project Deployment](../12-next-steps/12.3-deployment.md)
+### [12.3: Project Deployment](../8-github/8.5-deployment.md)
 
 The starter code is setup in such a way that it can easily be put on the real internet. Encourage the students to share their game with their friends.
 
