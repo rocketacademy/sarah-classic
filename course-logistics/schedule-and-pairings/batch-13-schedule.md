@@ -146,7 +146,7 @@ Meeting time: 1:00 PM SGT (GMT+8)
 
 **Module 6: Arrays and Iteration**
 
-- [6.1: Arrays](https://basics.rocketacademy.co/9-arrays-and-iteration/9.1-arrays)
+- [6.1: Arrays](https://basics.rocketacademy.co/6-arrays-and-iteration/6.1-arrays)
 
 **Module 7: Version Control**
 
