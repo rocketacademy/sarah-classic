@@ -13,7 +13,7 @@
 - [2.1: Operations](2-basic-data-manipulation/2.1-operations.md)
 - [2.2: Variables](2-basic-data-manipulation/2.2-variables.md)
 - [2.3: Our First Program](2-getting-started-with-code/2.3-our-first-program.md)
-- [7.1: Git](7-organising-and-managing-code-files/7.1-git.md)
+- [7.1: Git](7-version-control/7.1-git.md)
 
 ## 3: Structuring and Debugging Code
 

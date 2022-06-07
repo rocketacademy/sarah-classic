@@ -67,7 +67,7 @@
 
 ## 7: Version Control
 
-- [7.1: Git](7-organising-and-managing-code-files/7.1-git.md)
+- [7.1: Git](7-version-control/7.1-git.md)
 - [Additional Resources 7](7-version-control/additional-resources-7.md)
 
 ## 8: GitHub
