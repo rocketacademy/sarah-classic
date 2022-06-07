@@ -122,7 +122,7 @@ Total Video Watch Time: **\~41 mins**
 
 **Module 4: Conditional Logic**
 
-- [4.4: Input Validation](../../4-conditional-logic/8.3-input-validation.md)
+- [4.4: Input Validation](../../4-conditional-logic/4.4-input-validation.md)
 
 **Module 5: Global State**
 

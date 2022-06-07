@@ -50,7 +50,7 @@
 ## 8: Managing State and Input Validation
 
 - [8.2: Program State for Game Modes](8-managing-state-and-input-validation/8.2-program-state-for-game-modes.md)
-- [8.3: Input Validation](8-managing-state-and-input-validation/8.3-input-validation.md)
+- [4.4: Input Validation](8-managing-state-and-input-validation/8.3-input-validation.md)
 
 # Day 6
 
