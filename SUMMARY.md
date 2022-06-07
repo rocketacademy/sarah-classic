@@ -95,8 +95,8 @@
 
 ## 11: POST COURSE EXERCISES
 
-- [DOM](13-post-course-exercises/pce-dom.md)
-- [Further Readings](13-post-course-exercises/further-readings.md)
+- [DOM](11-post-course-exercises/pce-dom.md)
+- [Further Readings](11-post-course-exercises/further-readings.md)
 
 ## In-Class Exercises
 
