@@ -83,7 +83,7 @@
 
 - [9.1: JavaScript Objects](9-javascript-objects/9.1-javascript-objects.md)
 - [9.2: Card Deck Generation with Loops](9-javascript-objects/9.2-card-deck-generation-with-loops.md)
-- [9.3: Card Game Example: War](10-javascript-objects/10.3-card-game-example-war.md)
+- [9.3: Card Game Example: War](9-javascript-objects/9.3-card-game-example-war.md)
 
 ## 10: Advanced
 

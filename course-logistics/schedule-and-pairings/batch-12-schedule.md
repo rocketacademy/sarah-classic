@@ -258,7 +258,7 @@ Total Video Watch Time: **\~60 mins**
 
 **Module 9: Objects**
 
-- [9.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/10-javascript-objects/10.3-card-game-example-war)
+- [9.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/9-javascript-objects/9.3-card-game-example-war)
 
 ### In Class
 

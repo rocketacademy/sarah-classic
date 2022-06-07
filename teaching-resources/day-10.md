@@ -10,7 +10,7 @@ Reiterate to the students how important the process and approach to the code and
 
 Total Video Watch Time: **\~60 mins**
 
-### [10.3: War Card Game Sample Implementation](../10-javascript-objects/10.3-card-game-example-war.md)
+### [9.3: War Card Game Sample Implementation](../9-javascript-objects/9.3-card-game-example-war.md)
 
 #### Q: Why do we want to control which cards get dealt from the deck?
 
@@ -20,9 +20,9 @@ A: Because we would never be able to test all the code if it was random.
 
 A:
 
-* The Lucky 11 exercise from day 2.
-* Testing if cards are equal in High Card.
-* Getting Blackjack.
+- The Lucky 11 exercise from day 2.
+- Testing if cards are equal in High Card.
+- Getting Blackjack.
 
 #### Q: What are the two things to look for with console.log?
 

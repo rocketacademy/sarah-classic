@@ -75,7 +75,7 @@
 
 # Day 10
 
-- [10.3: Card Game Example: War](10-javascript-objects/10.3-card-game-example-war.md)
+- [9.3: Card Game Example: War](9-javascript-objects/9.3-card-game-example-war.md)
 
 # Day 11
 
