@@ -36,9 +36,9 @@
 
 # Day 4
 
-## 7: GitHub
+## 8: GitHub
 
-- [7.1: GitHub Fork and Pull Request](7-github/7.1-github-fork-and-pull-request.md)
+- [8.2: GitHub Fork and Clone](8-github/8.2-github-fork-and-clone.md)
 - [7.2: GitHub Repo Browsing](7-github/7.2-github-repo-browsing.md)
 
 ## 8: Managing State and Input Validation

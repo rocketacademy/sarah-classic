@@ -16,37 +16,36 @@ Implement a simplified version of Blackjack. If you're not familiar with Blackja
 
 Take a look at some past project as references, and student-voted most-creative projects from previous Batches for inspiration :)
 
-
-
 {% tabs %}
 {% tab title="General" %}
-* [Base](https://rocketacademy.github.io/basics-blackjack/)
-* [Comfortable 1](https://awongh.github.io/basics-blackjack/index.html)
-* [Comfortable 2](https://eggcodes.github.io/basics-blackjack/)
-* [Super Comfortable](https://lim-jiahao.github.io/basics-blackjack/)
-{% endtab %}
+
+- [Base](https://rocketacademy.github.io/basics-blackjack/)
+- [Comfortable 1](https://awongh.github.io/basics-blackjack/index.html)
+- [Comfortable 2](https://eggcodes.github.io/basics-blackjack/)
+- [Super Comfortable](https://lim-jiahao.github.io/basics-blackjack/)
+  {% endtab %}
 
 {% tab title="Basics 11" %}
-* [Wall St. Casino](https://supershazwi.github.io/basics-blackjack/)
-* [MCU BlackJack](https://aqifsariman.github.io/basics-blackjack/)
-* [BlackJack 99](https://liztanyl.github.io/basics-blackjack/)
-* [Kawaii BlackJack](https://yingdan7.github.io/basics-blackjack/)
-* [Real Cards™ BlackJack](https://waynerbee.github.io/basics-blackjack/)
-* [SouthPark Casino](https://ahshawngoh.github.io/basics-blackjack/)
-* [Edwin's Casino](https://edwinyxt.github.io/basics-blackjack/)
-* [Cheok's Lounge](https://cheoklate.github.io/basics-blackjack/)
-* ## [来玩·万辣](https://sherman168.github.io/basics-blackjack/)
-{% endtab %}
+
+- [Wall St. Casino](https://supershazwi.github.io/basics-blackjack/)
+- [MCU BlackJack](https://aqifsariman.github.io/basics-blackjack/)
+- [BlackJack 99](https://liztanyl.github.io/basics-blackjack/)
+- [Kawaii BlackJack](https://yingdan7.github.io/basics-blackjack/)
+- [Real Cards™ BlackJack](https://waynerbee.github.io/basics-blackjack/)
+- [SouthPark Casino](https://ahshawngoh.github.io/basics-blackjack/)
+- [Edwin's Casino](https://edwinyxt.github.io/basics-blackjack/)
+- [Cheok's Lounge](https://cheoklate.github.io/basics-blackjack/)
+- ## [来玩·万辣](https://sherman168.github.io/basics-blackjack/)
+  {% endtab %}
 
 {% tab title="Basics 10" %}
 
-
-* [SouthPark Casino](https://averygan.github.io/basics-blackjack/)
-* [Cat-sino](https://thereselyr.github.io/basics-blackjack/)
-* [Simple and Green](https://liangtcode.github.io/basics-blackjack/)
-* [90's Night](https://yap83.github.io/basics-blackjack/)
-{% endtab %}
-{% endtabs %}
+- [SouthPark Casino](https://averygan.github.io/basics-blackjack/)
+- [Cat-sino](https://thereselyr.github.io/basics-blackjack/)
+- [Simple and Green](https://liangtcode.github.io/basics-blackjack/)
+- [90's Night](https://yap83.github.io/basics-blackjack/)
+  {% endtab %}
+  {% endtabs %}
 
 ## Setup
 
@@ -92,26 +91,26 @@ If you already have an effective strategy for creating your game, you can skip a
     2. A deck of cards.
     3. A starting hand of 2 cards for each player.
     4. Comparing both hands and determining a winner. The possible scenarios are:
-       * A tie. When both the player and dealer have the same total hand values - or if both draw Blackjack
-       * A Blackjack win. When either player or dealer draw Blackjack.
-       * A normal win. When neither draw Blackjack, the winner is decided by whomever has the higher hand total.
-
+       - A tie. When both the player and dealer have the same total hand values - or if both draw Blackjack
+       - A Blackjack win. When either player or dealer draw Blackjack.
+       - A normal win. When neither draw Blackjack, the winner is decided by whomever has the higher hand total.
 
 2.  Return appropriate messages. For example:
 
     ```markdown
     Player hand: Ace of Hearts, King of Spades
     Dealer hand: 8 of Clubs, 8 of Spades
-    Player wins by black jack! 
+    Player wins by black jack!
     ```
-3. Test your code.
+
+3.  Test your code.
 
 #### Second Version: Add Player Hit or Stand
 
 1. The player hitting or standing is different from the dealer hitting or standing. The rules state that the dealer hits or stands after all players are done, so let's work on the players hitting or standing first.
 2. The player hitting or standing is a new mode in the game that allows the player to enter their choice. Add the logic for when the player busts _(has a total score of >21)_.
 3. Refactor your logic to wait until the player is done to evaluate the game-winning condition.
-   * The player should not immediately lose if he busts - there is a possibility he will tie with the dealer if the dealer also busts.
+   - The player should not immediately lose if he busts - there is a possibility he will tie with the dealer if the dealer also busts.
 4. Test your code.
 
 #### Third Version: Add Dealer Hit or Stand
@@ -122,13 +121,15 @@ If you already have an effective strategy for creating your game, you can skip a
 #### Fourth Version: Add Variable Ace Values
 
 1. Add logic to determine whether Aces should have value of 1 or 11 for a given hand.
-   *   For example, if a player draws cards in the following order:
 
-       1. "Ace" and "2"  _(total 13)_
-       2. "4"                   _(total 17)_
-       3. "Ace".              _(total 18)_
+   - For example, if a player draws cards in the following order:
 
-       The total hand value should be 18, as only ONE of the aces will be counted as 11.
+     1. "Ace" and "2" _(total 13)_
+     2. "4" _(total 17)_
+     3. "Ace". _(total 18)_
+
+     The total hand value should be 18, as only ONE of the aces will be counted as 11.
+
 2. Test your code.
 
 ## Walkthrough
@@ -145,7 +146,7 @@ The completed base version as per the walkthrough can be viewed [here](https://g
 
 ### Interface
 
-Improve the look and feel of your game - if you did not  attempt the Comfortable version of _Beat That!,_ you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
+Improve the look and feel of your game - if you did not attempt the Comfortable version of _Beat That!,_ you can use the[ instructions there](project-2-beat-that.md#comfortable) as a quick-start guide. If you have, feel free to move on, and add your own creative touches.
 
 #### User Instructions
 
@@ -158,7 +159,9 @@ Add instructions on how to start the game by editing the `index.html`.\
 Simply add your instructions into [line 134](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L134). These instructions will appear when the game loads and will be erased as soon as the user clicks the submit button.
 
 ```javascript
-<div id="output-div">Welcome to Kai's Cards! Click the submit button to get started!</div>
+<div id="output-div">
+  Welcome to Kai's Cards! Click the submit button to get started!
+</div>
 ```
 
 #### Emoji
@@ -207,13 +210,13 @@ var myImage = '<img src="/COPIED_RELATIVE_IMAGE_PATH"/>';
 
 #### Colors
 
-Set your own custom colors in the CSS. Find the color values in `index.html` and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors\_picker.asp)
+Set your own custom colors in the CSS. Find the color values in `index.html` and change them. Use this tool to find the colors you want: [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)
 
 Find matching color sets using this design tool: [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
 
 #### Fonts
 
-Set your own custom fonts: [https://www.w3schools.com/css/css\_font\_google.asp](https://www.w3schools.com/css/css\_font\_google.asp)
+Set your own custom fonts: [https://www.w3schools.com/css/css_font_google.asp](https://www.w3schools.com/css/css_font_google.asp)
 
 ## More Comfortable
 
@@ -239,14 +242,12 @@ Enable multiple players to play against the dealer, where players can take turns
 
 #### Splits
 
-Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](https://en.wikipedia.org/wiki/Aces\_and\_eights\_\(blackjack\)#Splitting). Dealer is not allowed to split.
-
-
+Add hand-splitting functionality to the game. If the player has two of the same kind of card, they can choose to split and get dealt 2 new cards. Full splitting rules [here](<https://en.wikipedia.org/wiki/Aces_and_eights_(blackjack)#Splitting>). Dealer is not allowed to split.
 
 ## Submit
 
-1. [Push](../7-github/7.1-github-fork-and-pull-request.md#git-push) the commits in your local repo to GitHub.
-2. [Create a pull request](../7-github/7.1-github-fork-and-pull-request.md#github-pull-request) to submit your assignment.
+1. [Push](../8-github/8.2-github-fork-and-clone.md#git-push) the commits in your local repo to GitHub.
+2. [Create a pull request](../8-github/8.2-github-fork-and-clone.md#github-pull-request) to submit your assignment.
 3. Please leave your name and _**section number**_ in the _**title**_ of the pull request.
 4. Please fill in the questionnaire in the pull request comments when you submit.
 

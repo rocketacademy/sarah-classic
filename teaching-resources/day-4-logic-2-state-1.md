@@ -12,7 +12,7 @@ We are also introducing the idea that the code can deal with more dynamic values
 
 This day also introduces the GitHub project submission workflow.
 
-## [7.1: GitHub Fork and Pull Request](../7-github/7.1-github-fork-and-pull-request.md)
+## [8.2: GitHub Fork and Clone](../8-github/8.2-github-fork-and-clone.md)
 
 ### Overview
 

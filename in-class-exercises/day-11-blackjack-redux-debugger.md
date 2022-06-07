@@ -12,7 +12,7 @@ On days when projects are due, we will review each others' code in groups of 2 o
 
 #### 0) Push Your Own Code
 
-Refer to the [push section](../7-github/7.1-github-fork-and-pull-request.md#git-push) for the commands needed for this.&#x20;
+Refer to the [push section](../8-github/8.2-github-fork-and-clone.md#git-push) for the commands needed for this.&#x20;
 
 #### 1) Clone Partner's Code
 
@@ -62,8 +62,6 @@ Note: If you are working on your partner's code you can't push to their repo bec
 {% endhint %}
 
 If you both have working versions, implement a new feature in one of the projects together.
-
-
 
 ## More Comfortable
 

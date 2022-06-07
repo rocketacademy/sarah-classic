@@ -171,7 +171,7 @@ Total Video Watch Time: **\~41 mins**
 **Module 8: GitHub**
 
 - [8.1: Introduction to GitHub](../../8-github/8.1-intro-to-github.md)
-- [8.2: GitHub Fork and Clone](../../7-github/7.1-github-fork-and-pull-request.md)
+- [8.2: GitHub Fork and Clone](../../8-github/8.2-github-fork-and-clone.md)
 
 ### In Class
 
