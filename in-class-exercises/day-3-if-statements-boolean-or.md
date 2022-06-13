@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will practice if statements and logical OR operators.&#x20;
+Today we will practice if statements and logical OR operators.
 
 See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day3/index.html).
 
@@ -12,17 +12,17 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 Before you begin, check that you and your partner can answer the following:
 
-- [ ] Why use logic in our programs?
-- [ ] What is an if statement?
-- [ ] What is a code block? What marks the start and end of a block of code?
-- [ ] What is a Boolean value? What is a Boolean variable?
-- [ ] What is a Boolean operator? What are the different kinds of Boolean operators?
+* [ ] Why use logic in our programs?
+* [ ] What is an if statement?
+* [ ] What is a code block? What marks the start and end of a block of code?
+* [ ] What is a Boolean value? What is a Boolean variable?
+* [ ] What is a Boolean operator? What are the different kinds of Boolean operators?
 
 ## Base
 
 ### Lucky 11
 
-Create a dice game that allows a user to roll 2 dice and submit a guess when the Submit button is clicked. The user wins if either&#x20;
+Create a dice game that allows a user to roll 2 dice and submit a guess when the Submit button is clicked. The user wins if either
 
 1. One of the dice roll matches their guess, or
 2. If the total dice roll is 11.
@@ -35,9 +35,9 @@ To test your winning logic, consider using [code control logic from Module 4.3](
 
 ### Hawker Food Categorisation
 
-Hawker food is a convenient and affordable food option in Singapore. To help educate non-Singaporeans about hawker food, create an app that takes a hawker dish name as input, and tells users whether the dish has a "rice", "noodle", or "other" base. Some sample dishes are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa".&#x20;
+Hawker food is a convenient and affordable food option in Singapore. To help educate non-Singaporeans about hawker food, create an app that takes a hawker dish name as input, and tells users whether the dish has a "rice", "noodle", or "other" base. Some sample dishes are: "chicken rice", "roti prata", "nasi lemak", "hokkien mee", "bak kut teh", and "laksa".
 
-For example, if a user enters "laksa", the program should output "noodle". If a user enters "roti prata", the program could output "other".&#x20;
+For example, if a user enters "laksa", the program should output "noodle". If a user enters "roti prata", the program could output "other".
 
 Please use the `||` operator.
 
@@ -47,7 +47,7 @@ Please use the `||` operator.
 
 [4D](http://www.singaporepools.com.sg/en/rules/Pages/4d-game-rules-general.html) is a popular betting game in Singapore run by Singapore Pools. Rocket Academy does not endorse gambling.
 
-Create a version of 4D where the player wins if their guess matches **any** of the 4 digits. The player will input a **single** digit, and the computer generates 4 random digits between 0 and 9. If the player-inputted digit matches **any** of the randomly-generated digits, the player wins.&#x20;
+Create a version of 4D where the player wins if their guess matches **any** of the 4 digits. The player will input a **single** digit, and the computer generates 4 random digits between 0 and 9. If the player-inputted digit matches **any** of the randomly-generated digits, the player wins.
 
 In addition to the win/loss result, output the player guess and all randomly-generated digits so the player can see how close they were.
 
@@ -58,7 +58,7 @@ The uncle at your favourite hawker stall has decided to challenge himself and se
 Create an app that uses random numbers to help Uncle decide which dish to cook. The customer can only input dish names. If the customer correctly guesses Uncle's dish, let her know that she gets a free meal!
 
 {% hint style="info" %}
-Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to move on to [Project Planning: Scissors Paper Stone](../course-logistics/schedule-and-pairings/batch-12-schedule.md#in-class-3). You can always come back and attempt the additional problems when you are feeling _more comfortable._
+Reminder: There is no need to complete all exercises on this page. Once comfortable with the concepts, feel free to move on to 'Project Planning: Scissors Paper Stone'. You can always come back and attempt the additional problems when you are feeling _more comfortable._
 {% endhint %}
 
 ## More Comfortable

@@ -45,7 +45,7 @@ Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating
 
 ## Walkthrough
 
-&#x20;If you get stuck, or are unsure on how to start, Bryan will walk you through how to go from breaking down the problem to completion of the Base version of Beat That!
+If you get stuck, or are unsure on how to start, Bryan will walk you through how to go from breaking down the problem to completion of the Base version of Beat That!
 
 {% embed url="https://www.youtube.com/watch?v=JODUe_H0kmM" %}
 
@@ -55,7 +55,7 @@ Player 1 picked Dice 2 as the 1st numeral and Dice 1 as the 2nd, thus generating
 
 Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
 
-At line 29 of index.html, try changing `background-color: pink;` to `background-color: lightblue;` or any [colour ](https://www.w3schools.com/colors/colors_names.asp)of your choice!
+At line 29 of index.html, try changing `background-color: pink;` to `background-color: lightblue;` or any [colour ](https://www.w3schools.com/colors/colors\_names.asp)of your choice!
 
 ```
       #container {
@@ -66,7 +66,7 @@ At line 29 of index.html, try changing `background-color: pink;` to `background-
       }
 ```
 
-Add 1 or more [paragraphs](https://www.w3schools.com/html/html_paragraphs.asp) after line 64 with instructions on how to play Beat That! It can look something like this:
+Add 1 or more [paragraphs](https://www.w3schools.com/html/html\_paragraphs.asp) after line 64 with instructions on how to play Beat That! It can look something like this:
 
 ```
 ...
@@ -90,8 +90,8 @@ Add 1 or more [paragraphs](https://www.w3schools.com/html/html_paragraphs.asp) a
 
 Having fun making your game look good? Feel free to explore more HTML and CSS on your own! Here are some resources:
 
-- FreeCodeCamp's [basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) and basic [CSS tutorials](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
-- W3School's CSS [Tutorial](https://www.w3schools.com/css/default.asp) and [Reference](https://www.w3schools.com/cssref/default.asp).
+* FreeCodeCamp's [basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) and basic [CSS tutorials](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
+* W3School's CSS [Tutorial](https://www.w3schools.com/css/default.asp) and [Reference](https://www.w3schools.com/cssref/default.asp).
 
 ## More Comfortable
 
@@ -99,44 +99,40 @@ Try implementing some, or a combination of, the following feature groups. Feel f
 
 {% tabs %}
 {% tab title="Score" %}
-
-### Score
+#### Score
 
 Keep score for each player. The score is the running sum of all numbers that player has generated so far. This means there is no permanent winner, only a temporary leader.
 
-### Leaderboard
+#### Leaderboard
 
 When outputting game results in the output box, also output a leaderboard that lists the 2 players and their scores in decreasing order.
 {% endtab %}
 
 {% tab title="Lowest Combined" %}
-
-### Lowest Combined Number Mode
+#### Lowest Combined Number Mode
 
 Add a game mode such that the player with the lowest combined number is the winner.
 
-### Auto-Generate Combined Number
+#### Auto-Generate Combined Number
 
 Update the game to auto-generate the highest (or lowest) combined number from dice rolls. For example, for dice rolls `[6, 3]` in Lowest Combined Number mode, the game would auto-generate the combined number `36`.
 {% endtab %}
 
 {% tab title="Variable Dice and Players" %}
-
-### Variable Number of Dice
+#### Variable Number of Dice
 
 1. Create a new version of Beat That that rolls two or more dice per player.
 2. At the beginning of each round, ask the players how many dice they would like to play with. Both players will roll the same number of dice each round.
 3. Store each player's dice rolls in an array. When each player rolls dice, use a loop to place `n` dice roll values in that player's array, where `n` is the number of dice the players specified at the beginning of the round. Output each player's dice roll values.
 4. Auto-generate the optimal combined number based on each player's dice rolls to determine the winner of that round.
 
-### Variable Number of Players
+#### Variable Number of Players
 
 Allow more than 2 players at a time to play Beat That. At the beginning of the game, ask how many players would like to play. For a variable number of players, feel free to output the leaderboard in any order, because implementing the leaderboard in decreasing order requires advanced logic.
 {% endtab %}
 
 {% tab title="Knockout" %}
-
-### Knockout Mode
+#### Knockout Mode
 
 Create a mode where if there are more than 2 players, the game can match players against each other 1 at a time until there is 1 final winner. For example, if there are 4 players, the game might first match players 1 and 2. If player 1 wins, the game might then match players 1 and 3. The winner of that match would then play player 4, and the winner of that final round would be the ultimate winner.
 {% endtab %}
@@ -146,7 +142,7 @@ Create a mode where if there are more than 2 players, the game can match players
 
 1. [Push](../8-github/8.2-github-fork-and-clone.md#git-push) the commits in your local repo to GitHub.
 2. [Create a pull request](../8-github/8.2-github-fork-and-clone.md#github-pull-request) to submit your assignment.
-3. Please leave your name and **section number **_**in the title**_ of the pull request.
+3. Please leave your name and **section number \_in the title**\_ of the pull request.
 4. Please fill in the questionnaire in the pull request comments when you submit.
 
 ## Reference Solution
