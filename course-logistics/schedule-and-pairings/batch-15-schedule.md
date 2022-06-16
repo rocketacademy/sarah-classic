@@ -235,29 +235,22 @@ Total Video Watch Time: **\~16 mins**
 
 ### In Class
 
-* [Day 9: Moar Cards](../../in-class-exercises/day-9-moar-cards.md)
+* [Day 9: Moar Cards / Chat Bot](../../in-class-exercises/day-9-moar-cards.md)
 
 ### Project Start: Blackjack
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Thu 23 Jun, Week 5, Course Day 10: Coding Strategies <a href="#course-day-10" id="course-day-10"></a>
+## Thu 23 Jun, Week 5, Course Day 10: Blackjack <a href="#course-day-10" id="course-day-10"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
-### Pre Class
-
-Total Video Watch Time: **\~60 mins**
-
-**Module 9: Objects**
-
-* [9.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/9-javascript-objects/9.3-card-game-example-war)
-
 ### In Class
 
-* [Day 10: Chat Bot](https://basics.rocketacademy.co/in-class-exercises/day-10-chat-bot)
+* [Moar Cards / Chat Bot](../../in-class-exercises/day-9-moar-cards.md)
+* [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Mon 27 Jun, Week 6, Course Day 11: Advanced <a href="#course-day-11" id="course-day-11"></a>
+## Mon 27 Jun, Week 6, Course Day 11: HTML, CSS, DOM Manipulation <a href="#course-day-11" id="course-day-11"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 

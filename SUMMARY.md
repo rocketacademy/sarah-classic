@@ -106,7 +106,7 @@
 * [Day 6: Loops](in-class-exercises/day-6-loops.md)
 * [Day 7: Arrays and Loops](in-class-exercises/day-7-arrays-and-loops.md)
 * [Day 8: Beat That Redux](in-class-exercises/day-8-beat-that-redux.md)
-* [Day 9: Moar Cards](in-class-exercises/day-9-moar-cards.md)
+* [Day 9: Moar Cards / Chat Bot](in-class-exercises/day-9-moar-cards.md)
 * [Day 11: Blackjack Redux, DOM](in-class-exercises/day-11-blackjack-redux-debugger.md)
 
 ## Projects
