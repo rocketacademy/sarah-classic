@@ -20,13 +20,13 @@ A: Because we would never be able to test all the code if it was random.
 
 A:
 
-- The Lucky 11 exercise from day 2.
-- Testing if cards are equal in High Card.
-- Getting Blackjack.
+* The Lucky 11 exercise from day 2.
+* Testing if cards are equal in High Card.
+* Getting Blackjack.
 
 #### Q: What are the two things to look for with console.log?
 
-A:&#x20;
+A:
 
 1. Does the program reach that line?
 2. What is the value at that line?
@@ -85,7 +85,7 @@ A: If, during a war, both players draw a six, the human player wins.
 
 ## In-Class Material
 
-### [Day 10: Chat Bot](../in-class-exercises/day-10-chat-bot.md)
+### Day 10: Chat Bot
 
 This exercise introduces one new object syntax that will be needed in order to complete it. Demonstrate this for the students.
 

@@ -12,7 +12,7 @@
 |   5  |  [August 8th](batch-15-schedule-1.md#course-day-10) | [August 11th](batch-15-schedule-1.md#course-day-11) |
 |   6  | [August 15th](batch-15-schedule-1.md#course-day-12) |                          -                          |
 
-## Thu 19 May, Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
+## Week 0, Course Day0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
 Meeting time: **07:30 PM SGT** (GMT+8)
 
@@ -23,6 +23,12 @@ Meeting time: **07:30 PM SGT** (GMT+8)
    1. [Course Components](../course-methodology/course-components.md)
    2. [Slack Tutorial](../course-methodology/slack.md)
 
+**Module 1: Introduction**
+
+* [1.1: What is coding?](../../1-introduction/1.1-what-is-coding.md)
+* [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
+* [1.3: Command Line](../../1-introduction/1.3-command-line.md)
+
 ### In Class
 
 1. Opening Brief
@@ -32,23 +38,15 @@ Meeting time: **07:30 PM SGT** (GMT+8)
    2. [Pre-Class Material](batch-15-schedule-1.md#pre-class)
 4. Section Introductions and Icebreakers
 
-## Mon 23 May, Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
+## Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~35 mins**
-
 {% hint style="warning" %}
 Coding Basics used to be called SWE101 and some of our videos were made before the name change and still reference the old name of SWE101. Please take note!
 {% endhint %}
-
-**Module 1: Introduction**
-
-* [1.1: What is coding?](https://basics.rocketacademy.co/1-introduction/1.1-what-is-coding)
-* [1.2: Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers)
-* [1.3: Command Line](../../1-introduction/1.3-command-line.md)
 
 **Module 2: Basic Data Manipulation**
 
@@ -64,7 +62,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 1: Basic Data Manipulation](../../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
 
-## Thu 26 May, Week 1, Course Day 2: Functions <a href="#course-day-2" id="course-day-2"></a>
+## Thu 26 May, Week 1: Functions <a href="#course-day-2" id="course-day-2"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -74,14 +72,18 @@ Total Video Watch Time: **\~25 mins**
 
 **Module 3: Structuring and Debugging Code**
 
-* [3.1: Functions](https://basics.rocketacademy.co/3-structuring-and-debugging-code/3.1-functions)
+* [3.1: Functions](../../3-structuring-and-debugging-code/3.1-functions.md)
 * [3.2: Errors](../../3-structuring-and-debugging-code/3.2-errors.md)
+
+**Module 4: Conditional Logic**
+
+* [4.1: Introduction to Logic](https://basics.rocketacademy.co/4-conditional-logic/4.1-intro-to-logic)
 
 ### In Class
 
 * [Day 2: Functions](https://basics.rocketacademy.co/in-class-exercises/day-2-functions)
 
-## Mon 30 May, Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
+## Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -106,7 +108,7 @@ Total Video Watch Time: **\~40 mins**
 
 [Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
 
-## Thu 2 Jun, Week 2, Course Day 4: Logic 2, State 1 <a href="#course-day-4" id="course-day-4"></a>
+## Week 2, Course Day 4: Logic 2, State 1 <a href="#course-day-4" id="course-day-4"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -134,7 +136,7 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
 
-## Mon 6 Jun, Week 3, Course Day 5: State 2 <a href="#course-day-5" id="course-day-5"></a>
+## Week 3, Course Day 5: State 2 <a href="#course-day-5" id="course-day-5"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -160,7 +162,7 @@ Total Video Watch Time: **\~17 mins**
 
 * [Day 5: Scissors Paper Stone Redux](https://basics.rocketacademy.co/in-class-exercises/day-5-scissors-paper-stone-redux)
 
-## Thu 9 Jun, Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
+## Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -181,7 +183,7 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
 
-## Mon 13 Jun, Week 4, Course Day 7: Loops 2, Git <a href="#course-day-7" id="course-day-7"></a>
+## Week 4, Course Day 7: Loops 2, Git <a href="#course-day-7" id="course-day-7"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -193,13 +195,11 @@ Total Video Watch Time: **\~11 mins**
 
 * [6.3: Loops with Arrays](https://basics.rocketacademy.co/6-arrays-and-iteration/6.3-loops-with-arrays)
 
-***
-
 ### In Class
 
 * [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
 
-## Thu 16 Jun, Week 4, Course Day 8: GitHub <a href="#course-day-8" id="course-day-8"></a>
+## Week 4, Course Day 8: GitHub, Objects, Card Logic <a href="#course-day-8" id="course-day-8"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -216,18 +216,6 @@ Total Video Watch Time: **\~15 mins**
 * [8.4 GitHub Repo Browsing](../../8-github/8.4-github-repo-browsing.md)
 * [8.5 Deployment](../../8-github/8.5-deployment.md)
 
-### In Class
-
-* [Day 8: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
-
-## Mon 20 Jun, Week 5, Course Day 9: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
-
-Meeting time: 7:30 PM SGT (GMT+8)
-
-### Pre Class
-
-Total Video Watch Time: **\~16 mins**
-
 **Module 9: Objects**
 
 * [9.1: Objects](../../9-javascript-objects/9.1-javascript-objects.md)
@@ -235,29 +223,33 @@ Total Video Watch Time: **\~16 mins**
 
 ### In Class
 
+* [Day 8: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
 * [Day 9: Moar Cards](../../in-class-exercises/day-9-moar-cards.md)
 
 ### Project Start: Blackjack
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Thu 23 Jun, Week 5, Course Day 10: Coding Strategies <a href="#course-day-10" id="course-day-10"></a>
+## Week 5, Course Day 9: Coding Strategies <a href="#course-day-10" id="course-day-10"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~60 mins**
+**Module 10: Advanced**
 
-**Module 9: Objects**
+* [10.1: HTML, CSS Review](../../10-advanced/10.2-html-css-review.md)
+* [10.2: Browser Applications with DOM](../../10-advanced/10.3-browser-applications-with-dom.md)
 
-* [9.3: War Card Game Sample Implementation](https://basics.rocketacademy.co/9-javascript-objects/9.3-card-game-example-war)
+### In Class: Debugging and getting help!
 
-### In Class
+* [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-* [Day 10: Chat Bot](https://basics.rocketacademy.co/in-class-exercises/day-10-chat-bot)
+### Post Class
 
-## Mon 27 Jun, Week 6, Course Day 11: Advanced <a href="#course-day-11" id="course-day-11"></a>
+* [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
+
+## Week 6, Course Day 10: Advanced <a href="#course-day-11" id="course-day-11"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -265,36 +257,14 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-### Pre Class
-
-Total Video Watch Time: \~22 mins
-
-**Module 10: Advanced**
-
-* [10.1: HTML, CSS Review](../../10-advanced/10.2-html-css-review.md)
-* [10.2: Browser Applications with DOM](../../10-advanced/10.3-browser-applications-with-dom.md)
-
 ### In Class
 
 * [Day 11: Blackjack Redux and Debugger](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
+* [Project presentations](../course-methodology/projects.md)
+* Course Feedback and Reviews
+* Class Photo 🥳
 
 ### Project Continuation
 
 [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
-
-## Thu 30 Jun: Course Day 12: Project Presentations <a href="#course-day-12" id="course-day-12"></a>
-
-Meeting time: 7:30 PM SGT (GMT+8)
-
-### Project Due
-
-[Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
-
-### In Class
-
-* [Project presentations](https://basics.rocketacademy.co/course-logistics/course-methodology#project-presentations)
-* Course Feedback and Reviews
-* LinkedIn certificate presentations
-* Class Photo 🥳
-* Closing Ceremony 🎓
 
