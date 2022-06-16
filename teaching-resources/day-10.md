@@ -10,7 +10,7 @@ Reiterate to the students how important the process and approach to the code and
 
 Total Video Watch Time: **\~60 mins**
 
-### [9.3: War Card Game Sample Implementation](../9-javascript-objects/9.3-card-game-example-war.md)
+### [9.3: War Card Game Sample Implementation](broken-reference)
 
 #### Q: Why do we want to control which cards get dealt from the deck?
 

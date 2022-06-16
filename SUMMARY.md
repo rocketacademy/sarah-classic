@@ -82,7 +82,6 @@
 
 * [9.1: JavaScript Objects](9-javascript-objects/9.1-javascript-objects.md)
 * [9.2: Card Deck Generation with Loops](9-javascript-objects/9.2-card-deck-generation-with-loops.md)
-* [9.3: Card Game Example: War](9-javascript-objects/9.3-card-game-example-war.md)
 
 ## 10: Advanced
 
@@ -108,7 +107,6 @@
 * [Day 7: Arrays and Loops](in-class-exercises/day-7-arrays-and-loops.md)
 * [Day 8: Beat That Redux](in-class-exercises/day-8-beat-that-redux.md)
 * [Day 9: Moar Cards](in-class-exercises/day-9-moar-cards.md)
-* [Day 10: Chat Bot](in-class-exercises/day-10-chat-bot.md)
 * [Day 11: Blackjack Redux, DOM](in-class-exercises/day-11-blackjack-redux-debugger.md)
 
 ## Projects
