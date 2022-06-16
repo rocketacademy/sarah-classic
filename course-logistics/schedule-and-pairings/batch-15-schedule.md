@@ -46,15 +46,15 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 
 **Module 1: Introduction**
 
-* [1.1: What is coding?](https://basics.rocketacademy.co/1-introduction/1.1-what-is-coding)
-* [1.2: Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers)
+* [1.1: What is coding?](../../1-introduction/1.1-what-is-coding.md)
+* [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
 * [1.3: Command Line](../../1-introduction/1.3-command-line.md)
 
 **Module 2: Basic Data Manipulation**
 
-* [2.1: Operations](https://basics.rocketacademy.co/2-basic-data-manipulation/2.1-operations)
-* [2.2: Variables](https://basics.rocketacademy.co/2-basic-data-manipulation/2.2-variables)
-* [2.3: Our First Program](https://basics.rocketacademy.co/2-basic-data-manipulation/2.3-our-first-program)
+* [2.1: Operations](../../2-basic-data-manipulation/2.1-operations.md)
+* [2.2: Variables](../../2-basic-data-manipulation/2.2-variables.md)
+* [2.3: Our First Program](../../2-basic-data-manipulation/2.3-our-first-program.md)
 
 ### In Class
 
@@ -74,12 +74,12 @@ Total Video Watch Time: **\~25 mins**
 
 **Module 3: Structuring and Debugging Code**
 
-* [3.1: Functions](https://basics.rocketacademy.co/3-structuring-and-debugging-code/3.1-functions)
+* [3.1: Functions](../../3-structuring-and-debugging-code/3.1-functions.md)
 * [3.2: Errors](../../3-structuring-and-debugging-code/3.2-errors.md)
 
 ### In Class
 
-* [Day 2: Functions](https://basics.rocketacademy.co/in-class-exercises/day-2-functions)
+* [Day 2: Functions](../../in-class-exercises/day-2-functions.md)
 
 ## Mon 30 May, Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
@@ -91,20 +91,20 @@ Total Video Watch Time: **\~40 mins**
 
 **Module 4: Conditional Logic**
 
-* [4.1: Introduction to Logic](https://basics.rocketacademy.co/4-conditional-logic/4.1-intro-to-logic)
-* [4.2: Pseudo Code, Boolean "Or"](https://basics.rocketacademy.co/4-conditional-logic/4.2-pseudo-code-boolean-or)
-* [4.3: Boolean "And", Boolean "Not"](https://basics.rocketacademy.co/4-conditional-logic/4.3-boolean-and-not)
+* [4.1: Introduction to Logic](../../4-conditional-logic/4.1-intro-to-logic.md)
+* [4.2: Pseudo Code, Boolean "Or"](../../4-conditional-logic/4.2-pseudo-code-boolean-or.md)
+* [4.3: Boolean "And", Boolean "Not"](../../4-conditional-logic/4.3-boolean-and-not.md)
 
 ### In Class
 
-* [Day 3: If Statements, Boolean "Or", Boolean "And"](https://basics.rocketacademy.co/in-class-exercises/day-3-if-statements-boolean-or)
+* [Day 3: If Statements, Boolean "Or", Boolean "And"](../../teaching-resources/day-3-logic-1.md)
 * Project Planning: Scissors Paper Stone
   * [Coding Strategies: Getting Started](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
   * [Scissors Paper Stone: Base](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md#base)
 
 ### Project Start: Scissors Paper Stone
 
-[Project 1: Scissors Paper Stone (Part 1)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1)
+[Project 1: Scissors Paper Stone (Part 1)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
 ## Thu 2 Jun, Week 2, Course Day 4: Logic 2, State 1 <a href="#course-day-4" id="course-day-4"></a>
 
@@ -120,7 +120,7 @@ Total Video Watch Time: **\~41 mins**
 
 **Module 5: Global State**
 
-* [5.1: Program Lifecycle and Global State](https://basics.rocketacademy.co/5-managing-state-and-input-validation/5.1-program-lifecycle-and-state)
+* [5.1: Program Lifecycle and Global State](../../5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md)
 
 **Module 7: Version Control**
 
@@ -128,19 +128,19 @@ Total Video Watch Time: **\~41 mins**
 
 ### In Class
 
-* [Day 4: Boolean "And", Program State](https://basics.rocketacademy.co/in-class-exercises/day-4-boolean-and-program-state)
+* [Day 4: Boolean "And", Program State](../../in-class-exercises/day-4-boolean-and-program-state.md)
 
 ### Project Continuation
 
-[Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
+[Project 1: Scissors Paper Stone (Part 2)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 ## Mon 6 Jun, Week 3, Course Day 5: State 2 <a href="#course-day-5" id="course-day-5"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
-### Project Due: SPS 2
+### Project Due: SPS
 
-[Project 1: Scissors Paper Stone (Part 2)](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
+[Project 1: Scissors Paper Stone](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
 
 ### Pre Class
 
@@ -158,7 +158,7 @@ Total Video Watch Time: **\~17 mins**
 
 ### In Class
 
-* [Day 5: Scissors Paper Stone Redux](https://basics.rocketacademy.co/in-class-exercises/day-5-scissors-paper-stone-redux)
+* [Day 5: Scissors Paper Stone Redux](../../in-class-exercises/day-5-scissors-paper-stone-redux.md)
 
 ## Thu 9 Jun, Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
@@ -170,16 +170,16 @@ Total Video Watch Time: **\~41 mins**
 
 **Module 6: Arrays and Iteration**
 
-* [6.1: Arrays](https://basics.rocketacademy.co/6-arrays-and-iteration/6.1-arrays)
-* [6.2: Loops](https://basics.rocketacademy.co/6-arrays-and-iteration/6.2-loops)
+* [6.1: Arrays](../../6-arrays-and-iteration/6.1-arrays.md)
+* [6.2: Loops](../../6-arrays-and-iteration/6.2-loops.md)
 
 ### In Class
 
-* [Loops](https://basics.rocketacademy.co/in-class-exercises/day-6-loops)
+* [Day 6: Loops](../../in-class-exercises/day-6-loops.md)
 
 ### Project Start: Beat That!
 
-[Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
+[Project 2: Beat That!](../../projects/project-2-beat-that.md)
 
 ## Mon 13 Jun, Week 4, Course Day 7: Loops 2, Git <a href="#course-day-7" id="course-day-7"></a>
 
@@ -191,13 +191,11 @@ Total Video Watch Time: **\~11 mins**
 
 **Module 6: Arrays and Iteration**
 
-* [6.3: Loops with Arrays](https://basics.rocketacademy.co/6-arrays-and-iteration/6.3-loops-with-arrays)
-
-***
+* [6.3: Loops with Arrays](../../6-arrays-and-iteration/6.3-loops-with-arrays.md)
 
 ### In Class
 
-* [Day 7: Loops and Arrays](https://basics.rocketacademy.co/in-class-exercises/day-7-arrays-and-loops)
+* [Day 7: Loops and Arrays](../../in-class-exercises/day-7-arrays-and-loops.md)
 
 ## Thu 16 Jun, Week 4, Course Day 8: GitHub <a href="#course-day-8" id="course-day-8"></a>
 
@@ -205,7 +203,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due: Beat That!
 
-[Project 2: Beat That!](https://basics.rocketacademy.co/projects/project-2-beat-that)
+[Project 2: Beat That!](../../projects/project-2-beat-that.md)
 
 ### Pre Class
 
