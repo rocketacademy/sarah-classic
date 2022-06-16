@@ -245,6 +245,13 @@ Total Video Watch Time: **\~16 mins**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
+### Pre Class
+
+**Module 10: Advanced**
+
+* [10.1: HTML](../../10-advanced/10.1-html.md)
+* [10.2: CSS](../../10-advanced/10.2-html-css-review.md)
+
 ### In Class
 
 * [Moar Cards / Chat Bot](../../in-class-exercises/day-9-moar-cards.md)
@@ -264,8 +271,9 @@ Total Video Watch Time: \~22 mins
 
 **Module 10: Advanced**
 
-* [10.1: HTML, CSS Review](../../10-advanced/10.2-html-css-review.md)
-* [10.2: Browser Applications with DOM](../../10-advanced/10.3-browser-applications-with-dom.md)
+* [10.3: The Document Object Model](../../10-advanced/10.3-browser-applications-with-dom.md)
+* [10.4: Dom Manipulation](../../10-advanced/10.4-dom-manipulation.md)
+* [10.5 Advanced Debugging with Sources Tab](../../10-advanced/10.5-advanced-debugging-with-sources-tab.md)
 
 ### In Class
 
