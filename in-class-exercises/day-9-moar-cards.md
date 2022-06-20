@@ -78,7 +78,7 @@ Today we will practice more complex code logic with nested objects and arrays.
 We will make a chat bot that asks questions when the submit button is clicked. The user can respond by typing and submitting input and the bot can respond further. Please read all exercises before beginning to see how the chat bot can become more complex.
 
 {% hint style="info" %}
-**Please ensure you understand the 2 different ways to access elements in JavaScript Objects before starting.**
+**Please ensure you understand** [**the different ways to access elements in JavaScript Objects**](../9-javascript-objects/9.1-javascript-objects.md#reference) **before starting.**
 {% endhint %}
 
 #### Sample Chat Bot Conversation

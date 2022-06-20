@@ -4,17 +4,17 @@
 
 | Week |                     Monday                     |                    Thursday                    |
 | :--: | :--------------------------------------------: | :--------------------------------------------: |
-|   0  |                        -                       |  [19 May](batch-15-schedule-1.md#course-day-0) |
-|   1  |  [23 May](batch-15-schedule-1.md#course-day-1) |  [26 May](batch-15-schedule-1.md#course-day-2) |
-|   2  |  [30 May](batch-15-schedule-1.md#course-day-3) |  [2 Jun](batch-15-schedule-1.md#course-day-4)  |
-|   3  |  [6 Jun](batch-15-schedule-1.md#course-day-5)  |  [9 Jun](batch-15-schedule-1.md#course-day-6)  |
-|   4  |  [13 Jun](batch-15-schedule-1.md#course-day-7) |  [16 Jun](batch-15-schedule-1.md#course-day-8) |
-|   5  |  [20 Jun](batch-15-schedule-1.md#course-day-9) | [23 Jun](batch-15-schedule-1.md#course-day-10) |
-|   6  | [27 Jun](batch-15-schedule-1.md#course-day-11) | [30 Jun](batch-15-schedule-1.md#course-day-12) |
+|   0  |  [Day 0](batch-15-schedule-1.md#course-day-0)  |  [Day 1](batch-15-schedule-1.md#course-day-1)  |
+|   1  |  [Day 2](batch-15-schedule-1.md#course-day-2)  |  [Day 3](batch-15-schedule-1.md#course-day-3)  |
+|   2  |  [Day 4](batch-15-schedule-1.md#course-day-4)  |  [Day 5](batch-15-schedule-1.md#course-day-5)  |
+|   3  |  [Day 6](batch-15-schedule-1.md#course-day-6)  |  [Day 7](batch-15-schedule-1.md#course-day-7)  |
+|   4  |  [Day 8](batch-15-schedule-1.md#course-day-8)  |  [Day 9](batch-15-schedule-1.md#course-day-9)  |
+|   5  | [Day 10](batch-15-schedule-1.md#course-day-10) | [Day 11](batch-15-schedule-1.md#course-day-11) |
+|   6  | [30 Jun](batch-15-schedule-1.md#course-day-12) |                                                |
 
 ## Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
-Meeting time: **07:30 PM SGT** (GMT+8)
+Meeting time: 07:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -39,7 +39,7 @@ Meeting time: **07:30 PM SGT** (GMT+8)
 
 ## Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 07:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -86,8 +86,6 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~40 mins**
-
 **Module 4: Conditional Logic**
 
 * [4.1: Introduction to Logic](../../4-conditional-logic/4.1-intro-to-logic.md)
@@ -105,7 +103,7 @@ Total Video Watch Time: **\~40 mins**
 
 [Project 1: Scissors Paper Stone (Part 1)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
-## Week 2, Course Day 4: Logic 2, State 1 <a href="#course-day-4" id="course-day-4"></a>
+## Week 2, Course Day 4: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -128,7 +126,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 1: Scissors Paper Stone (Part 2)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
-## Week 3, Course Day 5: State 2 <a href="#course-day-5" id="course-day-5"></a>
+## Week 3, Course Day 5: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -158,8 +156,6 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~41 mins**
-
 **Module 6: Arrays and Iteration**
 
 * [6.1: Arrays](../../6-arrays-and-iteration/6.1-arrays.md)
@@ -173,7 +169,7 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 2: Beat That!](../../projects/project-2-beat-that.md)
 
-## Week 4, Course Day 7: Loops 2, Git <a href="#course-day-7" id="course-day-7"></a>
+## Week 4, Course Day 7: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -225,7 +221,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Thu 23 Jun, Week 5, Course Day 10: Blackjack <a href="#course-day-10" id="course-day-10"></a>
+## Week 5, Course Day 10: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -243,19 +239,13 @@ Meeting time: 7:30 PM SGT (GMT+8)
 * [Moar Cards / Chat Bot](../../in-class-exercises/day-9-moar-cards.md)
 * [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Mon 27 Jun, Week 6, Course Day 11: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
+## Week 6, Course Day 11: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
-
-### Pre Class
-
-Total Video Watch Time: \~22 mins
-
-****
 
 ### In Class
 
@@ -264,9 +254,6 @@ Total Video Watch Time: \~22 mins
 * LinkedIn certificate presentations
 * Class Photo 🥳
 * Closing Ceremony 🎓
-* [Day 11: Blackjack Redux and Debugger](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
-
-###
 
 ## Post-course Materials <a href="#course-day-12" id="course-day-12"></a>
 
@@ -279,6 +266,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 **Module 10: Advanced**
 
 * [10.5 Advanced Debugging with Sources Tab](../../10-advanced/10.5-advanced-debugging-with-sources-tab.md)
+* [Day 11: Blackjack Redux and Debugge](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
 
 \<link to freecodecamp>
 
