@@ -1,20 +1,17 @@
-# 📅 Basics 16 Schedule
+# 📅 Schedule Template
 
 ## 📅 Course Dates
 
-| Week |                           Monday                          |                          Thursday                         |
-| :--: | :-------------------------------------------------------: | :-------------------------------------------------------: |
-|   1  |   [Day 1](batch-15-schedule-1.md#course-day-0) - Jul 4th  |   [Day 2](batch-15-schedule-1.md#course-day-1) - Jul 7th  |
-|   2  |                  Holiday - Hari Raya Haji                 |  [Day 3](batch-15-schedule-1.md#course-day-2) - Jul 14th  |
-|   3  |  [Day 4](batch-15-schedule-1.md#course-day-3) - Jul 18th  |  [Day 5](batch-15-schedule-1.md#course-day-4) - Jul 21st  |
-|   4  |  [Day 6](batch-15-schedule-1.md#course-day-5) - Jul 25th  |  [Day 7](batch-15-schedule-1.md#course-day-6) - Jul 28th  |
-|   5  |   [Day 8](batch-15-schedule-1.md#course-day-7) - Aug 1st  |   [Day 9](batch-15-schedule-1.md#course-day-8) - Aug 4th  |
-|   6  |  [Day 10](batch-15-schedule-1.md#course-day-9) - Aug 8th  | [Day 11](batch-15-schedule-1.md#course-day-10) - Aug 11th |
-|   7  | [Day 12](batch-15-schedule-1.md#course-day-11) - Aug 15th |                             -                             |
+| Week |                     Monday                     |                    Thursday                    |
+| :--: | :--------------------------------------------: | :--------------------------------------------: |
+|   0  |  [Day 0](batch-15-schedule-2.md#course-day-0)  |  [Day 1](batch-15-schedule-2.md#course-day-1)  |
+|   1  |  [Day 2](batch-15-schedule-2.md#course-day-2)  |  [Day 3](batch-15-schedule-2.md#course-day-3)  |
+|   2  |  [Day 4](batch-15-schedule-2.md#course-day-4)  |  [Day 5](batch-15-schedule-2.md#course-day-5)  |
+|   3  |  [Day 6](batch-15-schedule-2.md#course-day-6)  |  [Day 7](batch-15-schedule-2.md#course-day-7)  |
+|   4  |  [Day 8](batch-15-schedule-2.md#course-day-8)  |  [Day 9](batch-15-schedule-2.md#course-day-9)  |
+|   5  | [Day 10](batch-15-schedule-2.md#course-day-10) | [Day 11](batch-15-schedule-2.md#course-day-11) |
 
-## Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
-
-**Monday, July 4th, 2022**
+## Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
 Meeting time: 07:30 PM SGT (GMT+8)
 
@@ -36,12 +33,10 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-15-schedule-1.md#pre-class)
+   1. [Pre-Class Material](batch-15-schedule-2.md#pre-class)
 4. Section Introductions and Icebreakers
 
-## Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
-
-**Thursday, July 7th, 2022**
+## Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
 Meeting time: 07:30 PM SGT (GMT+8)
 
@@ -69,9 +64,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 1: Basic Data Manipulation](../../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
 
-## Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
-
-**Thursday, July 14th, 2022**
+## Week 1, Course Day 2: Functions <a href="#course-day-2" id="course-day-2"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -86,9 +79,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [Day 2: Functions](../../in-class-exercises/day-2-functions.md)
 
-## Day 4: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
-
-**Monday, July 18th, 2022**
+## Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -111,9 +102,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 1: Scissors Paper Stone (Part 1)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
-## Day 5: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
-
-**Thursday, July 21st, 2022**
+## Week 2, Course Day 4: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -136,9 +125,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 1: Scissors Paper Stone (Part 2)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
-## Day 6: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
-
-**Monday, July 25th, 2022**
+## Week 3, Course Day 5: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -162,9 +149,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [Day 5: Scissors Paper Stone Redux](../../in-class-exercises/day-5-scissors-paper-stone-redux.md)
 
-## Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
-
-**Thursday, July 28th, 2022**
+## Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -183,9 +168,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 2: Beat That!](../../projects/project-2-beat-that.md)
 
-## Day 8: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
-
-**Monday, August 1st, 2022**
+## Week 4, Course Day 7: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -199,9 +182,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [Day 7: Loops and Arrays](../../in-class-exercises/day-7-arrays-and-loops.md)
 
-## Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
-
-**Thursday, August 4th, 2022**
+## Thu 16 Jun, Week 4, Course Day 8: GitHub <a href="#course-day-8" id="course-day-8"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -220,9 +201,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [Day 8: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
 
-## Day 10: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
-
-**Monday, August 8th, 2022**
+## Mon 20 Jun, Week 5, Course Day 9: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -241,9 +220,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Day 11: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
-
-**Thursday, August 11th, 2022**
+## Week 5, Course Day 10: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -260,9 +237,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Day 12: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
-
-**Monday, August 15th, 2022**
+## Week 6, Course Day 11: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 

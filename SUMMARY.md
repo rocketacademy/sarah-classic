@@ -15,6 +15,7 @@
 * [🗓 Schedule](course-logistics/schedule-and-pairings/README.md)
   * [📅 Batch 15 Schedule](course-logistics/schedule-and-pairings/batch-15-schedule.md)
   * [📅 Basics 16 Schedule](course-logistics/schedule-and-pairings/batch-15-schedule-1.md)
+  * [📅 Schedule Template](course-logistics/schedule-and-pairings/batch-15-schedule-2.md)
 * [💡 Tips and Tricks](course-logistics/tips-and-tricks/README.md)
   * [📒 Coding Strategies](course-logistics/tips-and-tricks/coding-strategies.md)
   * [🛠 Tooling Pro Tips](course-logistics/tips-and-tricks/tooling-pro-tips.md)
