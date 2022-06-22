@@ -1,4 +1,4 @@
-# 📅 Template Schedule
+# 📅 Basics 16 Schedule
 
 ## 📅 Course Dates
 
@@ -10,7 +10,6 @@
 |   3  |  [Day 6](batch-15-schedule-1.md#course-day-6)  |  [Day 7](batch-15-schedule-1.md#course-day-7)  |
 |   4  |  [Day 8](batch-15-schedule-1.md#course-day-8)  |  [Day 9](batch-15-schedule-1.md#course-day-9)  |
 |   5  | [Day 10](batch-15-schedule-1.md#course-day-10) | [Day 11](batch-15-schedule-1.md#course-day-11) |
-|   6  | [30 Jun](batch-15-schedule-1.md#course-day-12) |                                                |
 
 ## Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
@@ -236,7 +235,6 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Moar Cards / Chat Bot](../../in-class-exercises/day-9-moar-cards.md)
 * [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
 ## Week 6, Course Day 11: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
@@ -261,14 +259,33 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Continuation (optional)
 
-[Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
+* [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
+* [Day 11: Blackjack Redux and Debugger](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
 
 **Module 10: Advanced**
 
 * [10.5 Advanced Debugging with Sources Tab](../../10-advanced/10.5-advanced-debugging-with-sources-tab.md)
-* [Day 11: Blackjack Redux and Debugge](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
 
-\<link to freecodecamp>
+**Recommended Sites to continue your coding journey!**
 
-###
+{% embed url="https://www.freecodecamp.org/" %}
+**tons of content and it's all free!! (with the occasional request for donation**
+{% endembed %}
 
+{% embed url="https://www.theodinproject.com/" %}
+Course specifically for Web Development
+{% endembed %}
+
+### Recommended YouTube Channels
+
+{% embed url="https://www.youtube.com/c/WebDevSimplified" %}
+Very consistent posts on various aspects of web development and how to implement
+{% endembed %}
+
+{% embed url="https://www.youtube.com/c/TheCodingTrain" %}
+A channel with a huge collection in various areas of programming
+{% endembed %}
+
+{% embed url="https://www.youtube.com/user/mycodeschool" %}
+A channel that focuses on algorithms and data structures to understand the core concepts of programming
+{% endembed %}
