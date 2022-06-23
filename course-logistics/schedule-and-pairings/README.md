@@ -8,6 +8,6 @@
 
 ### Upcoming Course
 
-{% content-ref url="batch-15-schedule-1.md" %}
-[batch-15-schedule-1.md](batch-15-schedule-1.md)
+{% content-ref url="batch-16-schedule.md" %}
+[batch-16-schedule.md](batch-16-schedule.md)
 {% endcontent-ref %}

@@ -2,15 +2,15 @@
 
 ## 📅 Course Dates
 
-| Week |                           Monday                          |                          Thursday                         |
-| :--: | :-------------------------------------------------------: | :-------------------------------------------------------: |
-|   1  |   [Day 1](batch-15-schedule-1.md#course-day-0) - Jul 4th  |   [Day 2](batch-15-schedule-1.md#course-day-1) - Jul 7th  |
-|   2  |                  Holiday - Hari Raya Haji                 |  [Day 3](batch-15-schedule-1.md#course-day-2) - Jul 14th  |
-|   3  |  [Day 4](batch-15-schedule-1.md#course-day-3) - Jul 18th  |  [Day 5](batch-15-schedule-1.md#course-day-4) - Jul 21st  |
-|   4  |  [Day 6](batch-15-schedule-1.md#course-day-5) - Jul 25th  |  [Day 7](batch-15-schedule-1.md#course-day-6) - Jul 28th  |
-|   5  |   [Day 8](batch-15-schedule-1.md#course-day-7) - Aug 1st  |   [Day 9](batch-15-schedule-1.md#course-day-8) - Aug 4th  |
-|   6  |  [Day 10](batch-15-schedule-1.md#course-day-9) - Aug 8th  | [Day 11](batch-15-schedule-1.md#course-day-10) - Aug 11th |
-|   7  | [Day 12](batch-15-schedule-1.md#course-day-11) - Aug 15th |                             -                             |
+| Week |                          Monday                         |                         Thursday                        |
+| :--: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+|   1  |   [Day 1](batch-16-schedule.md#course-day-0) - Jul 4th  |   [Day 2](batch-16-schedule.md#course-day-1) - Jul 7th  |
+|   2  |                 Holiday - Hari Raya Haji                |  [Day 3](batch-16-schedule.md#course-day-2) - Jul 14th  |
+|   3  |  [Day 4](batch-16-schedule.md#course-day-3) - Jul 18th  |  [Day 5](batch-16-schedule.md#course-day-4) - Jul 21st  |
+|   4  |  [Day 6](batch-16-schedule.md#course-day-5) - Jul 25th  |  [Day 7](batch-16-schedule.md#course-day-6) - Jul 28th  |
+|   5  |   [Day 8](batch-16-schedule.md#course-day-7) - Aug 1st  |   [Day 9](batch-16-schedule.md#course-day-8) - Aug 4th  |
+|   6  |  [Day 10](batch-16-schedule.md#course-day-9) - Aug 8th  | [Day 11](batch-16-schedule.md#course-day-10) - Aug 11th |
+|   7  | [Day 12](batch-16-schedule.md#course-day-11) - Aug 15th |                            -                            |
 
 ## Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
@@ -36,7 +36,7 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-15-schedule-1.md#pre-class)
+   1. [Pre-Class Material](batch-16-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
