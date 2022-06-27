@@ -1,4 +1,4 @@
-# 👍 Recommended Set-up
+# 👍 Recommended Setup
 
 ## Folder Structure for Coding Basics
 
@@ -16,14 +16,15 @@ All code-related files and folders are in kebab case (hyphenated and lowercase),
 {% hint style="info" %}
 As a shortcut, we can run the following command in the terminal to create all the folders.
 
-1.  Open the `Documents` folder in VSCode with File > Open Folder and choose `Documents`.
+1. Open the `Documents` folder in VSCode with File > Open Folder and choose `Documents`.
 2.  Run the following command.
 
-        ```
-        mkdir -p basics/day{1..12}/{in-class,pre-class}
-        ```
-
-    {% endhint %}
+    ````
+    ```
+    mkdir -p basics/day{1..12}/{in-class,pre-class}
+    ```
+    ````
+{% endhint %}
 
 {% hint style="warning" %}
 When cloning the starter code, choose to [name the target folder](../../8-github/8.1-intro-to-github.md#git-clone) to the relevant exercise name. This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
@@ -54,6 +55,8 @@ For Coding Basics, we recommend storing all of your code in a folder called `bas
 ## Window-Snapping Software
 
 On both Windows and Mac there are features to snap windows to standard sizes and places on our screen using keyboard shortcuts. This is especially helpful when coding and we want to view code on one side and documentation on another. The alternative is to manually drag windows and resize them.
+
+![Windows built-in snapping tool](https://i.gifer.com/Ffgu.gif)
 
 **Mac Installation**
 

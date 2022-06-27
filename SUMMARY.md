@@ -11,7 +11,7 @@
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
   * [☝ Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
   * [✌ Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
-  * [👍 Recommended Set-up](course-logistics/required-hardware-and-software/recommended-set-up.md)
+  * [👍 Recommended Setup](course-logistics/required-hardware-and-software/recommended-set-up.md)
 * [🗓 Schedule](course-logistics/schedule-and-pairings/README.md)
   * [📅 Batch 15 Schedule](course-logistics/schedule-and-pairings/batch-15-schedule.md)
   * [📅 Basics 16 Schedule](course-logistics/schedule-and-pairings/batch-16-schedule.md)
