@@ -36,7 +36,7 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-16-schedule.md#pre-class)
+   1. [Pre-Class Material](batch-16-schedule.md#pre-class-1)
 4. Section Introductions and Icebreakers
 
 ## Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
