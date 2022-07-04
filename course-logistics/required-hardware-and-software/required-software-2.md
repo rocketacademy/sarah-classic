@@ -43,7 +43,7 @@ Note: If you are using a company computer for this course you may not be able to
 1. Navigate to the Git website download page and click the download link: [https://git-scm.com/download/win](https://git-scm.com/download/win)
 2. Open the downloaded file.
 3. The Git install dialog will open. We'll need to set a few options here. The rest will be the default options.
-4. Follow [command line setup instructions below](../required-hardware-and-software.md#windows-command-line-setup) to set Bash as the terminal language.
+4. Follow [command line setup instructions below](required-software-2.md#vscode-settings) to set Bash as the terminal language.
 5. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
 
 {% embed url="https://www.youtube.com/watch?v=7Dq_e90LqTU" %}
