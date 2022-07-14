@@ -100,7 +100,7 @@
 ## In-Class Exercises
 
 * [Day 1: Basic File and Data Manipulation](in-class-exercises/day-1-basic-file-and-data-manipulation.md)
-* [Day 2: Functions](in-class-exercises/day-2-functions.md)
+* [Day 3: Functions](in-class-exercises/day-2-functions.md)
 * [Day 3: If Statements, Boolean Or, Boolean And](in-class-exercises/day-3-if-statements-boolean-or.md)
 * [Day 4: Program State](in-class-exercises/day-4-boolean-and-program-state.md)
 * [Day 5: Scissors Paper Stone Redux](in-class-exercises/day-5-scissors-paper-stone-redux.md)
