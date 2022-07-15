@@ -117,7 +117,7 @@ var main = function (input) {
 
 ## In-Class Material
 
-### [Day 7: Loops and Arrays](../in-class-exercises/day-7-arrays-and-loops.md)
+### [Day 7: Loops and Arrays](../in-class-exercises/day-8-arrays-and-loops.md)
 
 ## Wrap-Up / Look Ahead
 

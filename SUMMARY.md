@@ -99,15 +99,15 @@
 
 ## In-Class Exercises
 
-* [Day 1: Basic File and Data Manipulation](in-class-exercises/day-1-basic-file-and-data-manipulation.md)
-* [Day 3: Functions](in-class-exercises/day-2-functions.md)
-* [Day 3: If Statements, Boolean Or, Boolean And](in-class-exercises/day-3-if-statements-boolean-or.md)
-* [Day 4: Program State](in-class-exercises/day-4-boolean-and-program-state.md)
-* [Day 5: Scissors Paper Stone Redux](in-class-exercises/day-5-scissors-paper-stone-redux.md)
-* [Day 6: Loops](in-class-exercises/day-6-loops.md)
-* [Day 7: Arrays and Loops](in-class-exercises/day-7-arrays-and-loops.md)
-* [Day 8: Beat That Redux](in-class-exercises/day-8-beat-that-redux.md)
-* [Day 9: Moar Cards / Chat Bot](in-class-exercises/day-9-moar-cards.md)
+* [Day 2: Basic File and Data Manipulation](in-class-exercises/day-2-basic-file-and-data-manipulation.md)
+* [Day 3: Functions](in-class-exercises/day-3-functions.md)
+* [Day 4: If Statements, Boolean Or, Boolean And](in-class-exercises/day-4-if-statements-boolean-or.md)
+* [Day 5: Program State](in-class-exercises/day-5-boolean-and-program-state.md)
+* [Day 6: Scissors Paper Stone Redux](in-class-exercises/day-6-scissors-paper-stone-redux.md)
+* [Day 7: Loops](in-class-exercises/day-7-loops.md)
+* [Day 8: Arrays and Loops](in-class-exercises/day-8-arrays-and-loops.md)
+* [Day 9: Beat That Redux](in-class-exercises/day-9-beat-that-redux.md)
+* [Day 10: Moar Cards / Chat Bot](in-class-exercises/day-10-moar-cards.md)
 * [Day 11: Blackjack Redux, DOM](in-class-exercises/day-11-blackjack-redux-debugger.md)
 
 ## Projects
@@ -127,7 +127,7 @@
 
 * [Teacher's Guide Introduction](teaching-resources/teachers-guide-introduction.md)
 * [Code Review Guidelines](teaching-resources/code-review-guidelines.md)
-* [Day 1: Coding Tools](teaching-resources/day-1-coding-tools.md)
+* [Day 2: Coding Tools](teaching-resources/day-2-coding-tools.md)
 * [Day 2: Functions](teaching-resources/day-2-functions.md)
 * [Day 3: Logic 1](teaching-resources/day-3-logic-1.md)
 * [Day 4: Logic 2, State 1](teaching-resources/day-4-logic-2-state-1.md)

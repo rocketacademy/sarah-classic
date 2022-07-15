@@ -62,7 +62,7 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 Please **do not** attempt in-class material before class for all course days, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.
 {% endhint %}
 
-* [Day 1: Basic Data Manipulation](../../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
+* [Day 1: Basic Data Manipulation](../../in-class-exercises/day-2-basic-file-and-data-manipulation.md)
 
 ## Thu 26 May, Week 1, Course Day 2: Functions <a href="#course-day-2" id="course-day-2"></a>
 
@@ -79,7 +79,7 @@ Total Video Watch Time: **\~25 mins**
 
 ### In Class
 
-* [Day 2: Functions](../../in-class-exercises/day-2-functions.md)
+* [Day 2: Functions](../../in-class-exercises/day-3-functions.md)
 
 ## Mon 30 May, Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
@@ -128,7 +128,7 @@ Total Video Watch Time: **\~41 mins**
 
 ### In Class
 
-* [Day 4: Boolean "And", Program State](../../in-class-exercises/day-4-boolean-and-program-state.md)
+* [Day 4: Boolean "And", Program State](../../in-class-exercises/day-5-boolean-and-program-state.md)
 
 ### Project Continuation
 
@@ -158,7 +158,7 @@ Total Video Watch Time: **\~17 mins**
 
 ### In Class
 
-* [Day 5: Scissors Paper Stone Redux](../../in-class-exercises/day-5-scissors-paper-stone-redux.md)
+* [Day 5: Scissors Paper Stone Redux](../../in-class-exercises/day-6-scissors-paper-stone-redux.md)
 
 ## Thu 9 Jun, Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
@@ -175,7 +175,7 @@ Total Video Watch Time: **\~41 mins**
 
 ### In Class
 
-* [Day 6: Loops](../../in-class-exercises/day-6-loops.md)
+* [Day 6: Loops](../../in-class-exercises/day-7-loops.md)
 
 ### Project Start: Beat That!
 
@@ -195,7 +195,7 @@ Total Video Watch Time: **\~11 mins**
 
 ### In Class
 
-* [Day 7: Loops and Arrays](../../in-class-exercises/day-7-arrays-and-loops.md)
+* [Day 7: Loops and Arrays](../../in-class-exercises/day-8-arrays-and-loops.md)
 
 ## Thu 16 Jun, Week 4, Course Day 8: GitHub <a href="#course-day-8" id="course-day-8"></a>
 
@@ -233,7 +233,7 @@ Total Video Watch Time: **\~16 mins**
 
 ### In Class
 
-* [Day 9: Moar Cards / Chat Bot](../../in-class-exercises/day-9-moar-cards.md)
+* [Day 9: Moar Cards / Chat Bot](../../in-class-exercises/day-10-moar-cards.md)
 
 ### Project Start: Blackjack
 
@@ -252,7 +252,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Moar Cards / Chat Bot](../../in-class-exercises/day-9-moar-cards.md)
+* [Moar Cards / Chat Bot](../../in-class-exercises/day-10-moar-cards.md)
 * [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
 ## Mon 27 Jun, Week 6, Course Day 11: HTML, CSS, DOM Manipulation <a href="#course-day-11" id="course-day-11"></a>

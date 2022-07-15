@@ -208,7 +208,7 @@ A: Rearranging the code so that the mode conditions are more readable, abstracti
 
 ## In-Class Material
 
-### [Day 5: Scissors Paper Stone Redux](../in-class-exercises/day-5-scissors-paper-stone-redux.md)
+### [Day 5: Scissors Paper Stone Redux](../in-class-exercises/day-6-scissors-paper-stone-redux.md)
 
 ## Code Review - Individual Review
 

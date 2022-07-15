@@ -1,4 +1,4 @@
-# Day 1: Coding Tools
+# Day 2: Coding Tools
 
 ## Overview
 
@@ -168,7 +168,7 @@ var main = function (input) {
 
 ## In-Class Material
 
-### [Day 1: Basic File and Data Manipulation](../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
+### [Day 1: Basic File and Data Manipulation](../in-class-exercises/day-2-basic-file-and-data-manipulation.md)
 
 #### Overview
 
@@ -176,9 +176,9 @@ _**This is the first pairing exercise the students will do.**_ Set the tone for 
 
 #### You might touch on the following points:
 
-- Pairing only works when both people are willing to commit to the experience and be open to learning from the other person and / or patiently explaining what the other person may not be familiar with.
-- Be coachable. Make an effort to listen well when someone wants to explain something.
-- Teaching is the best way to understand something deeply. Try to give the clearest explanations possible. This can be very difficult but will really cement a concept.
+* Pairing only works when both people are willing to commit to the experience and be open to learning from the other person and / or patiently explaining what the other person may not be familiar with.
+* Be coachable. Make an effort to listen well when someone wants to explain something.
+* Teaching is the best way to understand something deeply. Try to give the clearest explanations possible. This can be very difficult but will really cement a concept.
 
 #### Things to look out for in the pairing session:
 
@@ -186,9 +186,9 @@ It's important that everyone is on the same page with the setup and command line
 
 Look out for people who don't have things setup according to the guidelines, such as:
 
-- no folder structure setup ahead of time
-- using a browser other than chrome
-- using some other setup besides the starter code like codepen.io
+* no folder structure setup ahead of time
+* using a browser other than chrome
+* using some other setup besides the starter code like codepen.io
 
 Be clear with the students that it's important to follow along with the setup as outlined so that in pairing everyone begins with the same context.
 

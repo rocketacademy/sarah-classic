@@ -137,7 +137,7 @@ cardDeck.push(card);
 
 ## In-Class Material
 
-### [Day 9: Moar Cards](../in-class-exercises/day-9-moar-cards.md)
+### [Day 9: Moar Cards](../in-class-exercises/day-10-moar-cards.md)
 
 This in-class exercise creates different variations of high card. This will hopefully help the students warm-up to working on card games so that they are better prepared for doing the blackjack project.
 

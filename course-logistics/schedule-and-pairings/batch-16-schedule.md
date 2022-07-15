@@ -67,7 +67,7 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 Please **do not** attempt in-class material before class for all course days, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.
 {% endhint %}
 
-* [Day 1: Basic Data Manipulation](../../in-class-exercises/day-1-basic-file-and-data-manipulation.md)
+* [Day 2: Basic Data Manipulation](../../in-class-exercises/day-2-basic-file-and-data-manipulation.md)
 
 ## Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
 
@@ -84,7 +84,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Day 2: Functions](../../in-class-exercises/day-2-functions.md)
+* [Day 3: Functions](../../in-class-exercises/day-3-functions.md)
 
 ## Day 4: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
@@ -102,7 +102,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Day 3: If Statements, Boolean "Or", Boolean "And"](../../teaching-resources/day-3-logic-1.md)
+* [Day 4: If Statements, Boolean "Or", Boolean "And"](../../in-class-exercises/day-4-if-statements-boolean-or.md)
 * Project Planning: Scissors Paper Stone
   * [Coding Strategies: Getting Started](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
   * [Scissors Paper Stone: Base](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md#base)
@@ -130,7 +130,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Day 4: Boolean "And", Program State](../../in-class-exercises/day-4-boolean-and-program-state.md)
+* [Day 5: Boolean "And", Program State](../../in-class-exercises/day-5-boolean-and-program-state.md)
 
 ### Project Continuation
 
@@ -144,7 +144,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due: SPS
 
-[Project 1: Scissors Paper Stone](https://basics.rocketacademy.co/projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2)
+[Project 1: Scissors Paper Stone](../../projects/project-1-scissors-paper-stone/)
 
 ### Pre Class
 
@@ -160,7 +160,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Day 5: Scissors Paper Stone Redux](../../in-class-exercises/day-5-scissors-paper-stone-redux.md)
+* [Day 6: Scissors Paper Stone Redux](../../in-class-exercises/day-6-scissors-paper-stone-redux.md)
 
 ## Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
@@ -177,7 +177,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Day 6: Loops](../../in-class-exercises/day-6-loops.md)
+* [Day 7: Loops](../../in-class-exercises/day-7-loops.md)
 
 ### Project Start: Beat That!
 
@@ -197,7 +197,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Day 7: Loops and Arrays](../../in-class-exercises/day-7-arrays-and-loops.md)
+* [Day 8: Loops and Arrays](../../in-class-exercises/day-8-arrays-and-loops.md)
 
 ## Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
 
@@ -218,7 +218,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Day 8: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
+* [Day 9: Beat That Redux](../../in-class-exercises/day-9-beat-that-redux.md)
 
 ## Day 10: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
 
@@ -231,15 +231,15 @@ Meeting time: 7:30 PM SGT (GMT+8)
 **Module 9: Objects**
 
 * [9.1: Objects](../../9-javascript-objects/9.1-javascript-objects.md)
-* [9.2: Card Deck Generation with Loops](https://basics.rocketacademy.co/9-javascript-objects/9.2-card-deck-generation-with-loops)
+* [9.2: Card Deck Generation with Loops](../../9-javascript-objects/9.2-card-deck-generation-with-loops.md)
 
 ### In Class
 
-* [Day 9: Moar Cards / Chat Bot](../../in-class-exercises/day-9-moar-cards.md)
+* [Day 10: Moar Cards / Chat Bot](../../in-class-exercises/day-10-moar-cards.md)
 
 ### Project Start: Blackjack
 
-[Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
+[Project 3: Blackjack](../../projects/project-3-blackjack.md)
 
 ## Day 11: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
 
@@ -258,7 +258,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
+* [Project 3: Blackjack](../../projects/project-3-blackjack.md)
 
 ## Day 12: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
 
@@ -268,7 +268,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
-[Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
+[Project 3: Blackjack](../../projects/project-3-blackjack.md)
 
 ### In Class
 

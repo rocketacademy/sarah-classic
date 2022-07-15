@@ -187,7 +187,7 @@ The most difficult part is deciding which to use!
 
 ## In-Class Material
 
-[Day 6: Loops](../in-class-exercises/day-6-loops.md)
+[Day 6: Loops](../in-class-exercises/day-7-loops.md)
 
 ## **Look Ahead / Wrap Up**
 

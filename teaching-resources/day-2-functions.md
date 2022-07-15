@@ -12,16 +12,16 @@ Before the meeting, ask the students to put their [5.1 Functions](../3-structuri
 
 Total Video Watch Time: **\~25 mins**
 
-## Review[ ](broken-reference)Pair Programming
+## Review[ ](broken-reference/)Pair Programming
 
 In the previous session the students were introduced to the idea of pairing and got to experience it for themselves. Now that they have some context for the experience we want to talk about the optimal pairing experience, and to emphasize how their behaviour is key to the experience for themselves and others.
 
 **To begin, reiterate the big ideas behind pairing because the students only heard them once before:**
 
-- Learning directly from a peer helps with understanding.
-- The best way to fully know something is to have to explain it.
-- Pairing is a collaborative experience that should involve a lot of communicating and talking.
-- Both people are focused on the same task. Not one person typing, another person Googling.
+* Learning directly from a peer helps with understanding.
+* The best way to fully know something is to have to explain it.
+* Pairing is a collaborative experience that should involve a lot of communicating and talking.
+* Both people are focused on the same task. Not one person typing, another person Googling.
 
 ## [3.1: Functions](../3-structuring-and-debugging-code/3.1-functions.md)
 
@@ -31,8 +31,8 @@ The Basics curriculum is trying to emphasize functions as the most important uni
 
 There are a few key ideas that students should take away:
 
-- functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value (the return value). Clear naming is key to writing a good function.
-- writing code that decomposes into input (parameters) and output (return value) is much easier to reason about than code that deals with multiple global values. Therefore, we should try to emphasize writing functions that take input and return values.
+* functions can be named and the action of computation can also stand in for the value itself. `calcCircleArea(3)` is both an expression of a calculation but is also the value (the return value). Clear naming is key to writing a good function.
+* writing code that decomposes into input (parameters) and output (return value) is much easier to reason about than code that deals with multiple global values. Therefore, we should try to emphasize writing functions that take input and return values.
 
 #### Discussion Questions
 
@@ -180,7 +180,7 @@ A: Related to above, if you don't catch errors one at a time it is impossible to
 
 ## In-Class Material
 
-### [Day 2: Functions](../in-class-exercises/day-2-functions.md)
+### [Day 2: Functions](../in-class-exercises/day-3-functions.md)
 
 The topic of these exercises are very similar to the previous exercises, except they are in the context of functions. Try to encourage the students to break the calculations down into separate helper functions.
 
