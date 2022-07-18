@@ -1,15 +1,15 @@
-# 📅 Schedule Template
+# 📅 Reference Schedule
 
 ## 📅 Course Dates
 
-| Week |                       Monday                       |                      Thursday                      |
-| :--: | :------------------------------------------------: | :------------------------------------------------: |
-|   0  |  [Day 0](batch-template-schedule.md#course-day-0)  |  [Day 1](batch-template-schedule.md#course-day-1)  |
-|   1  |  [Day 2](batch-template-schedule.md#course-day-2)  |  [Day 3](batch-template-schedule.md#course-day-3)  |
-|   2  |  [Day 4](batch-template-schedule.md#course-day-4)  |  [Day 5](batch-template-schedule.md#course-day-5)  |
-|   3  |  [Day 6](batch-template-schedule.md#course-day-6)  |  [Day 7](batch-template-schedule.md#course-day-7)  |
-|   4  |  [Day 8](batch-template-schedule.md#course-day-8)  |  [Day 9](batch-template-schedule.md#course-day-9)  |
-|   5  | [Day 10](batch-template-schedule.md#course-day-10) | [Day 11](batch-template-schedule.md#course-day-11) |
+| Week |                        Monday                       |                       Thursday                      |
+| :--: | :-------------------------------------------------: | :-------------------------------------------------: |
+|   0  |  [Day 0](batch-reference-schedule.md#course-day-0)  |  [Day 1](batch-reference-schedule.md#course-day-1)  |
+|   1  |  [Day 2](batch-reference-schedule.md#course-day-2)  |  [Day 3](batch-reference-schedule.md#course-day-3)  |
+|   2  |  [Day 4](batch-reference-schedule.md#course-day-4)  |  [Day 5](batch-reference-schedule.md#course-day-5)  |
+|   3  |  [Day 6](batch-reference-schedule.md#course-day-6)  |  [Day 7](batch-reference-schedule.md#course-day-7)  |
+|   4  |  [Day 8](batch-reference-schedule.md#course-day-8)  |  [Day 9](batch-reference-schedule.md#course-day-9)  |
+|   5  | [Day 10](batch-reference-schedule.md#course-day-10) | [Day 11](batch-reference-schedule.md#course-day-11) |
 
 ## Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
@@ -33,7 +33,7 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-template-schedule.md#pre-class)
+   1. [Pre-Class Material](batch-reference-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
