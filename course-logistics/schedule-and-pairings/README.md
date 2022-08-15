@@ -6,8 +6,8 @@
 [batch-16-schedule.md](batch-16-schedule.md)
 {% endcontent-ref %}
 
-### Previous Course
+### Following Course
 
-{% content-ref url="batch-15-schedule.md" %}
-[batch-15-schedule.md](batch-15-schedule.md)
+{% content-ref url="batch-17-schedule.md" %}
+[batch-17-schedule.md](batch-17-schedule.md)
 {% endcontent-ref %}

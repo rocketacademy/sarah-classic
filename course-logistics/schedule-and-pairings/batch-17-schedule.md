@@ -1,20 +1,19 @@
-# 📅 Batch 15 Schedule
+# 📅 Basics 17 Schedule
 
 ## 📅 Course Dates
 
-| Week |                    Monday                    |                   Thursday                   |
-| :--: | :------------------------------------------: | :------------------------------------------: |
-|   0  |                       -                      |  [19 May](batch-15-schedule.md#course-day-0) |
-|   1  |  [23 May](batch-15-schedule.md#course-day-1) |  [26 May](batch-15-schedule.md#course-day-2) |
-|   2  |  [30 May](batch-15-schedule.md#course-day-3) |  [2 Jun](batch-15-schedule.md#course-day-4)  |
-|   3  |  [6 Jun](batch-15-schedule.md#course-day-5)  |  [9 Jun](batch-15-schedule.md#course-day-6)  |
-|   4  |  [13 Jun](batch-15-schedule.md#course-day-7) |  [16 Jun](batch-15-schedule.md#course-day-8) |
-|   5  |  [20 Jun](batch-15-schedule.md#course-day-9) | [23 Jun](batch-15-schedule.md#course-day-10) |
-|   6  | [27 Jun](batch-15-schedule.md#course-day-11) | [30 Jun](batch-15-schedule.md#course-day-12) |
+| Week |                          Monday                         |                         Thursday                        |
+| :--: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+|   0  |  [Day 0](batch-17-schedule.md#course-day-0) - Aug 22nd  |  [Day 1](batch-17-schedule.md#course-day-1) - Aug 25th  |
+|   1  |  [Day 2](batch-17-schedule.md#course-day-2) - Aug 29th  |   [Day 3](batch-17-schedule.md#course-day-3) - Sep 1st  |
+|   2  |   [Day 4](batch-17-schedule.md#course-day-4) - Sep 5th  |   [Day 5](batch-17-schedule.md#course-day-5) - Sep 8th  |
+|   3  |  [Day 6](batch-17-schedule.md#course-day-6) - Sep 12th  |  [Day 7](batch-17-schedule.md#course-day-7) - Sep 15th  |
+|   4  |  [Day 8](batch-17-schedule.md#course-day-8) - Sep 19th  |  [Day 9](batch-17-schedule.md#course-day-9) - Sep 22nd  |
+|   5  | [Day 10](batch-17-schedule.md#course-day-10) - Sep 26th | [Day 11](batch-17-schedule.md#course-day-11) - Sep 29th |
 
-## Thu 19 May, Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
+## Week 0, Course Day 0: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
-Meeting time: **07:30 PM SGT** (GMT+8)
+Meeting time: 07:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -22,23 +21,26 @@ Meeting time: **07:30 PM SGT** (GMT+8)
 2. [Course Methodology](../course-methodology/)
    1. [Course Components](../course-methodology/course-components.md)
    2. [Slack Tutorial](../course-methodology/slack.md)
+3. [Required Hardware and Software](../required-hardware-and-software.md)
+
+**Module 1: Introduction**
+
+* [1.1: What is coding?](../../1-introduction/1.1-what-is-coding.md)
+* [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
 
 ### In Class
 
 1. Opening Brief
 2. Introductions
-3. Look ahead: Deliverables for **Day 1**
-   1. [Required Hardware and Software](../required-hardware-and-software.md)
-   2. [Pre-Class Material](batch-15-schedule.md#pre-class)
+3. Look ahead:
+   1. [Pre-Class Material](batch-17-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
-## Mon 23 May, Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
+## Week 1, Course Day 1: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
-Meeting time: 7:30 PM SGT (GMT+8)
+Meeting time: 07:30 PM SGT (GMT+8)
 
 ### Pre Class
-
-Total Video Watch Time: **\~35 mins**
 
 {% hint style="warning" %}
 Coding Basics used to be called SWE101 and some of our videos were made before the name change and still reference the old name of SWE101. Please take note!
@@ -46,8 +48,6 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 
 **Module 1: Introduction**
 
-* [1.1: What is coding?](../../1-introduction/1.1-what-is-coding.md)
-* [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
 * [1.3: Command Line](../../1-introduction/1.3-command-line.md)
 
 **Module 2: Basic Data Manipulation**
@@ -64,13 +64,11 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 1: Basic Data Manipulation](../../in-class-exercises/day-2-basic-file-and-data-manipulation.md)
 
-## Thu 26 May, Week 1, Course Day 2: Functions <a href="#course-day-2" id="course-day-2"></a>
+## Week 1, Course Day 2: Functions <a href="#course-day-2" id="course-day-2"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
-
-Total Video Watch Time: **\~25 mins**
 
 **Module 3: Structuring and Debugging Code**
 
@@ -81,13 +79,11 @@ Total Video Watch Time: **\~25 mins**
 
 * [Day 2: Functions](../../in-class-exercises/day-3-functions.md)
 
-## Mon 30 May, Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
+## Week 2, Course Day 3: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
-
-Total Video Watch Time: **\~40 mins**
 
 **Module 4: Conditional Logic**
 
@@ -106,13 +102,11 @@ Total Video Watch Time: **\~40 mins**
 
 [Project 1: Scissors Paper Stone (Part 1)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
-## Thu 2 Jun, Week 2, Course Day 4: Logic 2, State 1 <a href="#course-day-4" id="course-day-4"></a>
+## Week 2, Course Day 4: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
-
-Total Video Watch Time: **\~41 mins**
 
 **Module 4: Conditional Logic**
 
@@ -121,10 +115,7 @@ Total Video Watch Time: **\~41 mins**
 **Module 5: Global State**
 
 * [5.1: Program Lifecycle and Global State](../../5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md)
-
-**Module 7: Version Control**
-
-* [7.1: Git](../../7-version-control/7.1-git.md)
+* [5.2: Program State for Game Modes](../../5-managing-state-and-input-validation/5.2-program-state-for-game-modes.md)
 
 ### In Class
 
@@ -134,7 +125,7 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 1: Scissors Paper Stone (Part 2)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
-## Mon 6 Jun, Week 3, Course Day 5: State 2 <a href="#course-day-5" id="course-day-5"></a>
+## Week 3, Course Day 5: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -144,11 +135,9 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~17 mins**
+**Module 7: Version Control**
 
-**Module 5: Global State**
-
-* [5.2: Program State for Game Modes](../../5-managing-state-and-input-validation/5.2-program-state-for-game-modes.md)
+* [7.1: Git](../../7-version-control/7.1-git.md)
 
 **Module 8: GitHub**
 
@@ -160,13 +149,11 @@ Total Video Watch Time: **\~17 mins**
 
 * [Day 5: Scissors Paper Stone Redux](../../in-class-exercises/day-6-scissors-paper-stone-redux.md)
 
-## Thu 9 Jun, Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
+## Week 3, Course Day 6: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
-
-Total Video Watch Time: **\~41 mins**
 
 **Module 6: Arrays and Iteration**
 
@@ -181,13 +168,11 @@ Total Video Watch Time: **\~41 mins**
 
 [Project 2: Beat That!](../../projects/project-2-beat-that.md)
 
-## Mon 13 Jun, Week 4, Course Day 7: Loops 2, Git <a href="#course-day-7" id="course-day-7"></a>
+## Week 4, Course Day 7: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
-
-Total Video Watch Time: **\~11 mins**
 
 **Module 6: Arrays and Iteration**
 
@@ -207,8 +192,6 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~15 mins**
-
 **Module 8: GitHub**
 
 * [8.4 GitHub Repo Browsing](../../8-github/8.4-github-repo-browsing.md)
@@ -224,8 +207,6 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
-Total Video Watch Time: **\~16 mins**
-
 **Module 9: Objects**
 
 * [9.1: Objects](../../9-javascript-objects/9.1-javascript-objects.md)
@@ -239,7 +220,7 @@ Total Video Watch Time: **\~16 mins**
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Thu 23 Jun, Week 5, Course Day 10: Blackjack <a href="#course-day-10" id="course-day-10"></a>
+## Week 5, Course Day 10: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -249,45 +230,20 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [10.1: HTML](../../10-advanced/10.1-html.md)
 * [10.2: CSS](../../10-advanced/10.2-html-css-review.md)
+* [10.3: The Document Object Model](../../10-advanced/10.3-browser-applications-with-dom.md)
+* [10.4: Dom Manipulation](../../10-advanced/10.4-dom-manipulation.md)
 
 ### In Class
 
-* [Moar Cards / Chat Bot](../../in-class-exercises/day-10-moar-cards.md)
 * [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Mon 27 Jun, Week 6, Course Day 11: HTML, CSS, DOM Manipulation <a href="#course-day-11" id="course-day-11"></a>
+## Week 6, Course Day 11: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
-
-### Pre Class
-
-Total Video Watch Time: \~22 mins
-
-**Module 10: Advanced**
-
-* [10.3: The Document Object Model](../../10-advanced/10.3-browser-applications-with-dom.md)
-* [10.4: Dom Manipulation](../../10-advanced/10.4-dom-manipulation.md)
-* [10.5 Advanced Debugging with Sources Tab](../../10-advanced/10.5-advanced-debugging-with-sources-tab.md)
-
-### In Class
-
-* [Day 11: Blackjack Redux and Debugger](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
-
-### Project Continuation
-
-[Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
-
-## Thu 30 Jun: Course Day 12: Project Presentations <a href="#course-day-12" id="course-day-12"></a>
-
-Meeting time: 7:30 PM SGT (GMT+8)
-
-### Project Due
-
-[Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
 
 ### In Class
 
@@ -297,3 +253,39 @@ Meeting time: 7:30 PM SGT (GMT+8)
 * Class Photo 🥳
 * Closing Ceremony 🎓
 
+## Post-course Materials <a href="#course-day-12" id="course-day-12"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
+
+### Project Continuation (optional)
+
+* [Project 3: Blackjack (More Comfortable)](https://basics.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
+* [Day 11: Blackjack Redux and Debugger](https://basics.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
+
+**Module 10: Advanced**
+
+* [10.5 Advanced Debugging with Sources Tab](../../10-advanced/10.5-advanced-debugging-with-sources-tab.md)
+
+**Recommended Sites to continue your coding journey!**
+
+{% embed url="https://www.freecodecamp.org/" %}
+**tons of content and it's all free!! (with the occasional request for donation**
+{% endembed %}
+
+{% embed url="https://www.theodinproject.com/" %}
+Course specifically for Web Development
+{% endembed %}
+
+### Recommended YouTube Channels
+
+{% embed url="https://www.youtube.com/c/WebDevSimplified" %}
+Very consistent posts on various aspects of web development and how to implement
+{% endembed %}
+
+{% embed url="https://www.youtube.com/c/TheCodingTrain" %}
+A channel with a huge collection in various areas of programming
+{% endembed %}
+
+{% embed url="https://www.youtube.com/user/mycodeschool" %}
+A channel that focuses on algorithms and data structures to understand the core concepts of programming
+{% endembed %}
