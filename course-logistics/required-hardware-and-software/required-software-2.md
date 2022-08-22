@@ -62,7 +62,7 @@ Prettier is a code formatter that will auto-format our code and make it more rea
 ### VSCode Formatting Settings
 
 1. Open VSCode and open the command prompt with `Ctrl+Shift+P` on Windows and `Cmd+Shift+P` on Mac.
-2. Start typing `Preferences: Open Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
+2. Start typing `Preferences: Open User Settings (JSON)` and select this option when you see it in the search dropdown. A JSON settings file should open in VSCode.
 3. Replace everything on the screen (in the file) with the code below.
 4. Save the settings file.
 5. Restart VSCode to apply our settings.
