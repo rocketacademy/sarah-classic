@@ -93,7 +93,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-* [Day 3: If Statements, Boolean "Or", Boolean "And"](../../teaching-resources/day-3-logic-1.md)
+* [Day 4: If Statements, Boolean "Or", Boolean "And"](../../in-class-exercises/day-4-if-statements-boolean-or.md)
 * Project Planning: Scissors Paper Stone
   * [Coding Strategies: Getting Started](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
   * [Scissors Paper Stone: Base](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md#base)
