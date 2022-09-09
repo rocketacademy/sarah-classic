@@ -1,17 +1,22 @@
-# 📅 Basics 17 Schedule
+# 📅 Basics 19 Schedule
 
 ## 📅 Course Dates
 
-| Week |                          Monday                         |                         Thursday                        |
-| :--: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-|   0  |  [Day 1](batch-17-schedule.md#course-day-0) - Aug 22nd  |  [Day 2](batch-17-schedule.md#course-day-1) - Aug 25th  |
-|   1  |  [Day 3](batch-17-schedule.md#course-day-2) - Aug 29th  |   [Day 4](batch-17-schedule.md#course-day-3) - Sep 1st  |
-|   2  |   [Day 5](batch-17-schedule.md#course-day-4) - Sep 5th  |   [Day 6](batch-17-schedule.md#course-day-5) - Sep 8th  |
-|   3  |  [Day 7](batch-17-schedule.md#course-day-6) - Sep 12th  |  [Day 8](batch-17-schedule.md#course-day-7) - Sep 15th  |
-|   4  |  [Day 9](batch-17-schedule.md#course-day-8) - Sep 19th  |  [Day 10](batch-17-schedule.md#course-day-9) - Sep 22nd |
-|   5  | [Day 11](batch-17-schedule.md#course-day-10) - Sep 26th | [Day 12](batch-17-schedule.md#course-day-11) - Sep 29th |
+| Week |                           Monday                          |                          Thursday                         |
+| :--: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+|   1  |  [Day 1](batch-17-schedule-2.md#course-day-0) - Nov 21st  |  [Day 2](batch-17-schedule-2.md#course-day-1) - Nov 24th  |
+|   2  |  [Day 3](batch-17-schedule-2.md#course-day-2) - Nov 28th  |   [Day 4](batch-17-schedule-2.md#course-day-3) - Dec 1st  |
+|   3  |   [Day 5](batch-17-schedule-2.md#course-day-4) - Dec 5th  |   [Day 6](batch-17-schedule-2.md#course-day-5) - Dec 8th  |
+|   4  |  [Day 7](batch-17-schedule-2.md#course-day-6) - Dec 12th  |  [Day 8](batch-17-schedule-2.md#course-day-7) - Dec 15th  |
+|   5  |                     Closure - Dec 19th                    |                     Closure - Dec 22nd                    |
+|   6  |                     Closure - Dec 26th                    |                     Closure - Dec 29th                    |
+|   7  |                    New Year's - Jan 2nd                   |   [Day 9](batch-17-schedule-2.md#course-day-8) - Jan 4th  |
+|   8  |  [Day 10](batch-17-schedule-2.md#course-day-9) - Jan 9th  | [Day 11](batch-17-schedule-2.md#course-day-10) - Jan 12th |
+|   9  | [Day 12](batch-17-schedule-2.md#course-day-11) - Jan 16th |                             -                             |
 
-## Week 0, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
+## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
+
+**November 21st, 2022**
 
 Meeting time: 07:30 PM SGT (GMT+8)
 
@@ -33,10 +38,12 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-17-schedule.md#pre-class)
+   1. [Pre-Class Material](batch-17-schedule-2.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
+
+**November 24th, 2022**
 
 Meeting time: 07:30 PM SGT (GMT+8)
 
@@ -64,7 +71,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 2: Basic Data Manipulation](../../in-class-exercises/day-2-basic-file-and-data-manipulation.md)
 
-## Week 1, Course Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
+## Week 2, Course Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
+
+**November 28th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -80,6 +89,8 @@ Meeting time: 7:30 PM SGT (GMT+8)
 * [Day 3: Functions](../../in-class-exercises/day-3-functions.md)
 
 ## Week 2, Course Day 4: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
+
+**December 1st, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -102,7 +113,9 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 1: Scissors Paper Stone (Part 1)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
-## Week 2, Course Day 5: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
+## Week 3, Course Day 5: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
+
+**December 5th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -127,6 +140,8 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 3, Course Day 6: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
 
+**December 8th, 2022**
+
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due: SPS
@@ -149,7 +164,9 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [Day 6: Scissors Paper Stone Redux](../../in-class-exercises/day-6-scissors-paper-stone-redux.md)
 
-## Week 3, Course Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
+## Week 4, Course Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
+
+**December 12th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -170,6 +187,8 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 4, Course Day 8: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
 
+**December 15th, 2022**
+
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -182,7 +201,9 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [Day 7: Loops and Arrays](../../in-class-exercises/day-8-arrays-and-loops.md)
 
-## Week 4, Course Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
+## Week 5, Course Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
+
+**January 5th, 2023**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -203,6 +224,8 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 5, Course Day 10: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
 
+**January 9th, 2023**
+
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -220,7 +243,9 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
-## Week 5, Course Day 11: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
+## Week 6, Course Day 11: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
+
+**January 12th, 2023**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -238,6 +263,8 @@ Meeting time: 7:30 PM SGT (GMT+8)
 * [Project 3: Blackjack](https://basics.rocketacademy.co/projects/project-3-blackjack)
 
 ## Week 6, Course Day 12: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
+
+**January 16th, 2023**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
