@@ -1,20 +1,22 @@
-# 📅 Basics 18 Schedule
+# 📅 Basics 19 Schedule
 
 ## 📅 Course Dates
 
-| Week |                           Monday                          |                          Thursday                         |
-| :--: | :-------------------------------------------------------: | :-------------------------------------------------------: |
-|   1  |   [Day 1](batch-17-schedule-1.md#course-day-0) - Oct 3rd  |   [Day 2](batch-17-schedule-1.md#course-day-1) - Oct 6th  |
-|   2  |  [Day 3](batch-17-schedule-1.md#course-day-2) - Oct 10th  |  [Day 4](batch-17-schedule-1.md#course-day-3) - Oct 13th  |
-|   3  |  [Day 5](batch-17-schedule-1.md#course-day-4) - Oct 17th  |  [Day 6](batch-17-schedule-1.md#course-day-5) - Oct 20th  |
-|   4  |                     Diwali - Oct 24th                     |  [Day 7](batch-17-schedule-1.md#course-day-6) - Oct 27th  |
-|   5  |  [Day 8](batch-17-schedule-1.md#course-day-7) - Oct 31st  |   [Day 9](batch-17-schedule-1.md#course-day-8) - Nov 3rd  |
-|   6  |  [Day 10](batch-17-schedule-1.md#course-day-9) - Nov 7th  | [Day 11](batch-17-schedule-1.md#course-day-10) - Nov 10th |
-|   7  | [Day 12](batch-17-schedule-1.md#course-day-11) - Nov 14th |                                                           |
+| Week |                          Monday                         |                         Thursday                        |
+| :--: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+|   1  |  [Day 1](batch-19-schedule.md#course-day-0) - Nov 21st  |  [Day 2](batch-19-schedule.md#course-day-1) - Nov 24th  |
+|   2  |  [Day 3](batch-19-schedule.md#course-day-2) - Nov 28th  |   [Day 4](batch-19-schedule.md#course-day-3) - Dec 1st  |
+|   3  |   [Day 5](batch-19-schedule.md#course-day-4) - Dec 5th  |   [Day 6](batch-19-schedule.md#course-day-5) - Dec 8th  |
+|   4  |  [Day 7](batch-19-schedule.md#course-day-6) - Dec 12th  |  [Day 8](batch-19-schedule.md#course-day-7) - Dec 15th  |
+|   5  |                    Closure - Dec 19th                   |                    Closure - Dec 22nd                   |
+|   6  |                    Closure - Dec 26th                   |                    Closure - Dec 29th                   |
+|   7  |                   New Year's - Jan 2nd                  |   [Day 9](batch-19-schedule.md#course-day-8) - Jan 4th  |
+|   8  |  [Day 10](batch-19-schedule.md#course-day-9) - Jan 9th  | [Day 11](batch-19-schedule.md#course-day-10) - Jan 12th |
+|   9  | [Day 12](batch-19-schedule.md#course-day-11) - Jan 16th |                            -                            |
 
 ## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
-**October 3rd, 2022**
+**November 21st, 2022**
 
 Meeting time: 07:30 PM SGT (GMT+8)
 
@@ -36,12 +38,12 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-17-schedule-1.md#pre-class)
+   1. [Pre-Class Material](batch-19-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
-**October 6th, 2022**
+**November 24th, 2022**
 
 Meeting time: 07:30 PM SGT (GMT+8)
 
@@ -71,7 +73,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ## Week 2, Course Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
 
-**October 10th, 2022**
+**November 28th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -88,7 +90,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 2, Course Day 4: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
 
-**October 13th, 2022**
+**December 1st, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -113,7 +115,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 3, Course Day 5: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
 
-**October 17th, 2022**
+**December 5th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -138,7 +140,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 3, Course Day 6: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
 
-**October 20th, 2022**
+**December 8th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -164,7 +166,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 4, Course Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
 
-**October 27th, 2022**
+**December 12th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -185,7 +187,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 4, Course Day 8: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
 
-**October 31st, 2022**
+**December 15th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -201,7 +203,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 5, Course Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
 
-**November 3rd, 2022**
+**January 5th, 2023**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -222,7 +224,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 5, Course Day 10: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
 
-**November 7th, 2022**
+**January 9th, 2023**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -243,7 +245,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 6, Course Day 11: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
 
-**November 10th, 2022**
+**January 12th, 2023**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -262,7 +264,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 6, Course Day 12: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
 
-**November 14th, 2022**
+**January 16th, 2023**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 

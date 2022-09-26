@@ -182,7 +182,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [Day 7: Loops and Arrays](../../in-class-exercises/day-8-arrays-and-loops.md)
 
-## Thu 16 Jun, Week 4, Course Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
+## Week 4, Course Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -201,7 +201,7 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 * [Day 9: Beat That Redux](https://basics.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
 
-## Mon 20 Jun, Week 5, Course Day 10: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
+## Week 5, Course Day 10: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
