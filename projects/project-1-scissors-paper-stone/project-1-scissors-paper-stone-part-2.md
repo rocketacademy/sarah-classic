@@ -29,7 +29,7 @@ To make this game more personal, add a feature to collect the user's name as the
 
 ### Formatting
 
-Make the output of your game look nice. You can use the string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag_br.asp) in the output. Add the user name and the win/loss record. Format a message depending on how well the player is doing:
+Make the output of your game look nice. You can use the string `'<br>'` to create [new lines](https://www.w3schools.com/TAGS/tag\_br.asp) in the output. Add the user name and the win/loss record. Format a message depending on how well the player is doing:
 
 ```
 The computer chose scissors ✂️.
@@ -46,11 +46,11 @@ There is no need to implement all the different features sequentially in one ver
 
 ### Reverse Game Mode
 
-You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create _**a game mode**_ where if a user types in "reverse", it reverses the SPS rules.&#x20;
+You decide to prank your friends and create an SPS game mode where the rules are reversed: scissors beat stone, stone beats paper, and paper beats scissors. Create _**a game mode**_ where if a user types in "reverse", it reverses the SPS rules.
 
 ### Korean Scissors Paper Stone
 
-The following is adapted from [Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors#Adapted_rules):
+The following is adapted from [Wikipedia](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Adapted\_rules):
 
 > In Korea, a two-player upgraded version exists by the name [muk-jji-ppa](https://en.wikipedia.org/wiki/Muk-jji-ppa). After showing their hands, the player with the winning throw shouts "muk-jji-ppa!" upon which both players throw again. If they throw differently (for example, rock and paper, or paper and scissors), whoever wins this second round shouts "muk-jji-ppa!" and thus the play continues until both players throw the same item (for example, rock and rock), at which point whoever was the last winner becomes the actual winner.
 
@@ -66,16 +66,16 @@ Add a mode that lets the computer choose for you on each turn.
 
 ### Further Variations
 
-Implement other variations to the game as described [here](https://en.wikipedia.org/wiki/Rock_paper_scissors#Variations). The user can select which variation they would like to play.
+Implement other variations to the game as described [here](https://en.wikipedia.org/wiki/Rock\_paper\_scissors#Variations). The user can select which variation they would like to play.
 
 ## Submit
 
-Share your work with your Section mates for peer-learning, and with your SLs for review.&#x20;
+Share your work with your Section mates for peer-learning, and with your SLs for review.
 
 1. Go to [gist.github.com](https://gist.github.com) and login with your GitHub account.
 2. Copy code from `script.js` into a new gist.
    1. Title the Gist and the file as you wish
-   2.
+   2. Share your Gist on Slack!
 3. Include the following questions, along with your answers, at the top of your gist:
 
 ```
