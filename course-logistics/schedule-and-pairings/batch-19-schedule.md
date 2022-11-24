@@ -33,6 +33,11 @@ Meeting time: 07:30 PM SGT (GMT+8)
 * [1.1: What is coding?](../../1-introduction/1.1-what-is-coding.md)
 * [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
 
+**Module 2: Basic Data Manipulation**
+
+* [2.1: Operations](../../2-basic-data-manipulation/2.1-operations.md)
+* [2.2: Variables](../../2-basic-data-manipulation/2.2-variables.md)
+
 ### In Class
 
 1. Opening Brief
@@ -59,8 +64,6 @@ Coding Basics used to be called SWE101 and some of our videos were made before t
 
 **Module 2: Basic Data Manipulation**
 
-* [2.1: Operations](../../2-basic-data-manipulation/2.1-operations.md)
-* [2.2: Variables](../../2-basic-data-manipulation/2.2-variables.md)
 * [2.3: Our First Program](../../2-basic-data-manipulation/2.3-our-first-program.md)
 
 ### In Class

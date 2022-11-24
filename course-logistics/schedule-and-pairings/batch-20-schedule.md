@@ -1,16 +1,16 @@
-# 📅 Basics 18 Schedule
+# 📅 Basics 20 Schedule
 
 ## 📅 Course Dates
 
 | Week |                          Monday                         |                         Thursday                        |
 | :--: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-|   1  |   [Day 1](batch-18-schedule.md#course-day-0) - Oct 3rd  |   [Day 2](batch-18-schedule.md#course-day-1) - Oct 6th  |
-|   2  |  [Day 3](batch-18-schedule.md#course-day-2) - Oct 10th  |  [Day 4](batch-18-schedule.md#course-day-3) - Oct 13th  |
-|   3  |  [Day 5](batch-18-schedule.md#course-day-4) - Oct 17th  |  [Day 6](batch-18-schedule.md#course-day-5) - Oct 20th  |
-|   4  |                    Diwali - Oct 24th                    |  [Day 7](batch-18-schedule.md#course-day-6) - Oct 27th  |
-|   5  |  [Day 8](batch-18-schedule.md#course-day-7) - Oct 31st  |   [Day 9](batch-18-schedule.md#course-day-8) - Nov 3rd  |
-|   6  |  [Day 10](batch-18-schedule.md#course-day-9) - Nov 7th  | [Day 11](batch-18-schedule.md#course-day-10) - Nov 10th |
-|   7  | [Day 12](batch-18-schedule.md#course-day-11) - Nov 14th |                                                         |
+|   1  |   [Day 1](batch-20-schedule.md#course-day-0) - Oct 3rd  |   [Day 2](batch-20-schedule.md#course-day-1) - Oct 6th  |
+|   2  |  [Day 3](batch-20-schedule.md#course-day-2) - Oct 10th  |  [Day 4](batch-20-schedule.md#course-day-3) - Oct 13th  |
+|   3  |  [Day 5](batch-20-schedule.md#course-day-4) - Oct 17th  |  [Day 6](batch-20-schedule.md#course-day-5) - Oct 20th  |
+|   4  |                    Diwali - Oct 24th                    |  [Day 7](batch-20-schedule.md#course-day-6) - Oct 27th  |
+|   5  |  [Day 8](batch-20-schedule.md#course-day-7) - Oct 31st  |   [Day 9](batch-20-schedule.md#course-day-8) - Nov 3rd  |
+|   6  |  [Day 10](batch-20-schedule.md#course-day-9) - Nov 7th  | [Day 11](batch-20-schedule.md#course-day-10) - Nov 10th |
+|   7  | [Day 12](batch-20-schedule.md#course-day-11) - Nov 14th |                                                         |
 
 ## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
@@ -41,7 +41,7 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-18-schedule.md#pre-class)
+   1. [Pre-Class Material](batch-20-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
