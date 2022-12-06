@@ -2,15 +2,15 @@
 
 ## 📅 Course Dates
 
-| Week |                          Monday                         |                         Thursday                        |
-| :--: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-|   1  |   [Day 1](batch-20-schedule.md#course-day-0) - Oct 3rd  |   [Day 2](batch-20-schedule.md#course-day-1) - Oct 6th  |
-|   2  |  [Day 3](batch-20-schedule.md#course-day-2) - Oct 10th  |  [Day 4](batch-20-schedule.md#course-day-3) - Oct 13th  |
-|   3  |  [Day 5](batch-20-schedule.md#course-day-4) - Oct 17th  |  [Day 6](batch-20-schedule.md#course-day-5) - Oct 20th  |
-|   4  |                    Diwali - Oct 24th                    |  [Day 7](batch-20-schedule.md#course-day-6) - Oct 27th  |
-|   5  |  [Day 8](batch-20-schedule.md#course-day-7) - Oct 31st  |   [Day 9](batch-20-schedule.md#course-day-8) - Nov 3rd  |
-|   6  |  [Day 10](batch-20-schedule.md#course-day-9) - Nov 7th  | [Day 11](batch-20-schedule.md#course-day-10) - Nov 10th |
-|   7  | [Day 12](batch-20-schedule.md#course-day-11) - Nov 14th |                                                         |
+| Week |                         Monday                         |                        Thursday                        |
+| :--: | :----------------------------------------------------: | :----------------------------------------------------: |
+|   1  |                                                        |  [Day 1](batch-20-schedule.md#course-day-0) - Jan 26th |
+|   2  |  [Day 2](batch-20-schedule.md#course-day-1) - Jan 30th |  [Day 3](batch-20-schedule.md#course-day-2) - Feb 2nd  |
+|   3  |  [Day 4](batch-20-schedule.md#course-day-3) - Feb 6th  |  [Day 5](batch-20-schedule.md#course-day-4) - Feb 9th  |
+|   4  |  [Day 6](batch-20-schedule.md#course-day-5) - Feb 13th |  [Day 7](batch-20-schedule.md#course-day-6) - Feb 16th |
+|   5  |  [Day 8](batch-20-schedule.md#course-day-7) - Feb 20th |  [Day 9](batch-20-schedule.md#course-day-8) - Feb 23th |
+|   6  | [Day 10](batch-20-schedule.md#course-day-9) - Feb 27th | [Day 11](batch-20-schedule.md#course-day-10) - Mar 2nd |
+|   7  | [Day 12](batch-20-schedule.md#course-day-11) - Mar 6th |                                                        |
 
 ## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
