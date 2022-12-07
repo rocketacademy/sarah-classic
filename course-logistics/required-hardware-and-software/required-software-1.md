@@ -6,7 +6,7 @@ GUI-application software is software we run with a graphical user interface (GUI
 
 ### Slack
 
-Slack is a chat software and RA's primary mode of communication. It allows us to communicate across our school, within sections, and between individuals. Many tech companies internationally use Slack for internal communication.
+Slack is a chat software and Rocket's primary mode of communication. It allows us to communicate across our school, within sections, and between individuals. Many tech companies internationally use Slack for internal communication.
 
 #### **Installation**
 

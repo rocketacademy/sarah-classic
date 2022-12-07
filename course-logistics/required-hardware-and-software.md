@@ -1,5 +1,7 @@
 ---
-description: To partake in RA's courses, we will need the following hardware and software.
+description: >-
+  To partake in Rocket's courses, we will need the following hardware and
+  software.
 ---
 
 # 💻 Required Hardware and Software
@@ -22,9 +24,4 @@ description: To partake in RA's courses, we will need the following hardware and
 [recommended-set-up.md](required-hardware-and-software/recommended-set-up.md)
 {% endcontent-ref %}
 
-
-
 If you have any difficulty in preparing the required software, do ask for help in Slack! Your coursemates, peers and Section Leaders will be happy to help.
-
-
-
