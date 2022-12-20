@@ -35,8 +35,8 @@ Meeting time: 07:30 PM SGT (GMT+8)
 
 **Module 2: Basic Data Manipulation**
 
-* [2.1: Operations](../../2-basic-data-manipulation/2.1-operations.md)
-* [2.2: Variables](../../2-basic-data-manipulation/2.2-variables.md)
+* [2.1: Operations](../../2-operators-and-expressions/)
+* [2.2: Variables](../../2-operators-and-expressions/2.2-variables.md)
 
 ### In Class
 
