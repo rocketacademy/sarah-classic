@@ -82,18 +82,16 @@ Coding Basics will not cover why computers sometimes behave in odd ways, but you
 
 ### Operators
 
-In the above code, `+` `*` `-` and `/` are known as _operators._ Specifically, they are mathematical operators, as they perform a mathematical operation on 2 numbers. One other mathematical operator is the remainder operator, sometimes known as the modulus operator, defined with the `%` symbol. It returns the remainder after one number is divided by another; 10 `%` 3 will give us 1 because dividing 10 by 3 will result in a remainder of 1.
+In the above code, `+` `*` `-` and `/` are known as _operators._ Specifically, they are arithmetical operators: performing a mathematical operations between 2 numbers.&#x20;
+
+We will address all the arithmetic operators in the next section, and other operators in the following sections!.
 
 {% hint style="info" %}
-This course will only involve basic math: adding and subtracting (usually by 1), dividing and multiplying, and comparing numbers.
+Do not worry if you are afraid of math. This course only involves basic math. You are here to learn how to write code and not solve math problems! Hang in there 💪
 {% endhint %}
-
-We will soon see other kinds of programming operators and operations; in the next section, we will see the _assignment operator._
-
-We will be u
 
 ## Further Readings
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators" %}
-MDN Docs on JS expressions and operators
+MDN Documentation of JavaScript expressions and operators
 {% endembed %}
