@@ -2,19 +2,19 @@
 
 ## Introduction
 
-Rocket Academy requires all prospective Bootcamp students submit a 3-5 minute video application describing a concept that is taught in our Basics course. We are looking to see how you communicate, and a chance to get to know YOU!
+Rocket Academy requires all prospective Bootcamp students submit a 3-5 minute video application describing a concept that is taught in our SWE Fundamentals course. We are looking to see how you communicate, and a chance to get to know YOU!
 
 ## Motivation
 
 Software engineering requires a high level of written and verbal communication: written communication to help team members understand one's code and planning documents, and verbal communication to discuss and decide on requirements with one's team.
 
-To  ensure a great learning environment, students are expected to come in knowing that good communication is a standard we look for. However, we also work towards improving students communication abilities by engaging in group projects and presentations through out the course!
+To ensure a great learning environment, students are expected to come in knowing that good communication is a standard we look for. However, we also work towards improving students communication abilities by engaging in group projects and presentations through out the course!
 
 ## Requirements
 
-1. Record a 3-5 minute video of you explaining a concept taught in Basics as if to a friend (or better, to a kid or parent). Consider using visual aids to help in your explanation.
+1. Record a 3-5 minute video of you explaining a concept taught in SWE Fundamentals as if to a friend (or better, to a kid or parent) i.e. Arrays; Loops; Functions; etc. Consider using visual aids to help in your explanation!
 2. Upload the video to YouTube as an unlisted video, and ensure the link is not private so Rocket can view the video.
-3. Please do not read off a script. Rocket is looking for students that can explain coding concepts clearly and engagingly to others. We are more interested in your ability to communicate concepts than the perfection of your speech.
+3. Please **do not read off a script**. Rocket is looking for students that can explain coding concepts clearly and engagingly to others. We are more interested in your ability to communicate concepts than the perfection of your speech.
 
 ## Guidelines On Recording Bootcamp Application Videos
 

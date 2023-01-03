@@ -13,7 +13,7 @@
   * [✌ Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
   * [👍 Recommended Setup](course-logistics/required-hardware-and-software/recommended-set-up.md)
 * [🗓 Schedule](course-logistics/schedule-and-pairings/README.md)
-  * [📅 Basics 20 Schedule](course-logistics/schedule-and-pairings/batch-20-schedule.md)
+  * [📅 Fundamentals 20 Schedule](course-logistics/schedule-and-pairings/batch-20-schedule.md)
   * [📅 Basics 19 Schedule](course-logistics/schedule-and-pairings/batch-19-schedule.md)
 * [💡 Tips and Tricks](course-logistics/tips-and-tricks/README.md)
   * [📒 Coding Strategies](course-logistics/tips-and-tricks/coding-strategies.md)

@@ -4,7 +4,7 @@ description: 👩‍🎓👨‍🎓
 
 # 🎓 LinkedIn Certificates
 
-At the end of Coding Basics, you will be eligible to add the course as a certification in LinkedIn. Here are instructions on how to add that certificate to your LinkedIn profile.
+At the end of SWE Fundamentals, you will be eligible to add the course as a certification in LinkedIn. Here are instructions on how to add that certificate to your LinkedIn profile.
 
 ## 1. Go to your LinkedIn profile page and click "**Add profile section"**
 
@@ -14,7 +14,7 @@ At the end of Coding Basics, you will be eligible to add the course as a certifi
 
 ![](../../.gitbook/assets/jie-ping-20210222-18.14.10.png)
 
-## 3. Fill in the course name, organisation, **** issue date, and URL
+## 3. Fill in the course name, organisation, \*\*\*\* issue date, and URL
 
 1. Name
    1. Coding Basics

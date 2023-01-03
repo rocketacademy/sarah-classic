@@ -28,7 +28,7 @@ VSCode has a [search and replace feature](https://code.visualstudio.com/docs/edi
 
 ### Hide Minimap
 
-The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#\_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in Coding Basics and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View > Show Minimap in the menu bar.
+The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#\_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in SWE Fundamentals and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View > Show Minimap in the menu bar.
 
 ## Troubleshooting the Terminal Editor
 
@@ -36,7 +36,7 @@ The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface
 
 1. How to get out of VIM:
 2. You have to enter something called a command mode simply by pressing the escape key
-3. type the following:  `:q!`
+3. type the following: `:q!`
 4. the above characters should appear at the bottom of your terminal as you are typing
 5. Then hit enter
 

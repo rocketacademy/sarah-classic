@@ -1,6 +1,6 @@
 # 🧩 Course Components
 
-Coding Basics applies a flipped classroom model that consists of 2 components: **self-learning** and **live classes**.
+SWE Fundamentals applies a flipped classroom model that consists of 2 components: **self-learning** and **live classes**.
 
 ### Self-Learning
 
@@ -29,7 +29,7 @@ Pair programming is commonly used for the following purposes:
 1. To share knowledge across teams or between juniors and seniors, where the navigator is typically more knowledgeable about that part of the system than the driver.
 2. To ensure an important piece of software gets done correctly. Sometimes, for difficult software engineering problems with large future repercussions, it is more worth it to spend 2 engineers' time to get it right, than to spend 1 engineer's time and risk getting it wrong.
 
-During Coding Basics, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming in designated pairs that will change every live class.
+During SWE Fundamentals, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming in designated pairs that will change every live class.
 
 ## Exercise, Project Strategy
 
@@ -45,4 +45,4 @@ Everything in the Base section must be completed to minimally understand relevan
 
 #### More Comfortable
 
-The More Comfortable section is for students that wish to push their boundaries. Students can complete Coding Basics without touching More Comfortable, but students that complete More Comfortable exercises will gain more experience and may be more valuable in the job market.
+The More Comfortable section is for students that wish to push their boundaries. Students can complete SWE Fundamentals without touching More Comfortable, but students that complete More Comfortable exercises will gain more experience and may be more valuable in the job market.

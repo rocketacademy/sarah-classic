@@ -1,14 +1,16 @@
 # 🚂 Bootcamp Admission Criteria
 
-Coding Basics is a pre-requisite for Software Engineering Bootcamp (SEB). Basics section leaders will share feedback with students each class on their progress. By the end of Basics, students should know whether they have met the criteria to join SEB.
+The knowledge taught in SWE Fundamentals are pre-requisite for entrance into Rocket Academy's Bootcamp.&#x20;
 
-In general, the criteria to pass Basics and join Bootcamp are the following.
+Section leaders can share feedback with students each class on their progress if you ask. By the end of Basics, students should be aware of their ability to enroll in the Bootcamp.
 
-1. Completion and submission of the 3 projects in Basics
+The criteria to pass SWE Fundamentals and join Bootcamp are the following.
+
+1. **Completion and submission** of the 3 projects in SWE Fundamentals
 2. Demonstrated improvement between each of the 3 projects based on section leader feedback
 3. Pass [Rocket's Video Application](bootcamp-video-application.md)
 
-Typically we look for the following attributes in evaluating projects.
+Projects will be evaluated in this manner:
 
 1. Proficiency with technical syntax (variables, functions, conditionals, loops, data structures) and tools (VSCode, Git, GitHub, Chrome DevTools)
 2. Code quality (naming, code comments)

@@ -6,7 +6,7 @@
 
 Command-line software is software primarily operated from the command line (we will explain this in a video) that may not have a graphical user interface we can interact with. This software is typically used by software developers to write programs. Command-line software is not stored in a computer's Applications folder. We'll cover [more about the command line in 1.3.](../../1-introduction/1.3-command-line.md)
 
-Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during Coding Basics to download and upload copies of projects. We'll cover more about Git in [Module 7](broken-reference/).
+Git is the most popular software version control system. All tech companies use version control to manage contributions to and releases of their software. We will be using basic Git during CodiSWE Fundamentals to download and upload copies of projects. We'll cover more about Git in [Module 7](broken-reference/).
 
 On Windows, Git installation also enables us to run our terminal in the Bash programming language. The terminal is the program that allows us to run commands (and command line software) on our computers. Bash is a terminal language used across OSes, allowing us to run commands on our computers in the same way on both Windows and Mac. A version of Bash called Zsh (pronounced "zoosh") is installed by default on MacOS.
 
@@ -121,7 +121,7 @@ If your installed Git folder is not in the location as listed below, please edit
 
 ### GitHub
 
-GitHub is the most popular code-hosting platform. Developers around the world use GitHub to share code and collaborate on projects. Rocket Academy's starter code and project templates are hosted on GitHub, and we will use GitHub in Coding Basics to download, host, and submit assignments. Each student will need a GitHub account to host and submit assignment code.
+GitHub is the most popular code-hosting platform. Developers around the world use GitHub to share code and collaborate on projects. Rocket Academy's starter code and project templates are hosted on GitHub, and we will use GitHub in SWE Fundamentals to download, host, and submit assignments. Each student will need a GitHub account to host and submit assignment code.
 
 #### **Sign Up**
 

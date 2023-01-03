@@ -26,6 +26,8 @@ For a broader Computer Science overview of the field, **Harvard's CS50** is a go
 
 You can take the course through a MOOC (Massive Open Online Course) at EdX: [https://www.edx.org/course/introduction-computer-science-harvardx-cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) or, use the course materials separately: [https://cs50.harvard.edu/](https://cs50.harvard.edu)
 
+Alternatively, you can attempt [https://teachyourselfcs.com/](https://teachyourselfcs.com/) where it lists subjects you will encounter over the course of taking a Computer Science degree.
+
 ## Building Real World Projects
 
 If you're interested in how real-world software systems are built you can begin to learn about a modern set of libraries and tools you'd need to do that.
