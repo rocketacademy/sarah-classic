@@ -16,7 +16,7 @@ This module is the beginning of our programming journey!&#x20;
 
 Programming is the act of writing code (instructions) for the computer to execute sequentially. It is the same as written instructions for a cooking recipe!
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>pancakes ftw!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>pancakes ftw!</p></figcaption></figure>
 
 We will first start with learning how to write single lines of code before stringing them together into a bigger whole. Before long, you will be creating multi-line programs of your own!&#x20;
 
@@ -46,15 +46,15 @@ Feel free to read up more on [Google's own documentation](https://developer.chro
 2. Open Chrome Developer Tools by clicking View > Developer > JavaScript Console; or pressing `Cmd+Option+I` for Mac or `Ctrl+Shift+I` for Windows; or `F12`; or right-clicking anywhere in Chrome and clicking Inspect.
 3. Select the `Console` tab in Chrome Dev Tools.
 
-![Accessing the Developer tools in the Chrome browser setting](../.gitbook/assets/SSdevTools.png)
+![Accessing the Developer tools in the Chrome browser setting](../../.gitbook/assets/SSdevTools.png)
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Console tab in Chrome DevTools</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Console tab in Chrome DevTools</p></figcaption></figure>
 
 ## Try
 
 The JavaScript language is capable of performing math operations. Enter the following calculations into the Chrome DevTools Console, followed by the `Enter` key.
 
-![Chrome console allows for in-browser calculations](../.gitbook/assets/SSdevToolsCalculate.png)
+![Chrome console allows for in-browser calculations](../../.gitbook/assets/SSdevToolsCalculate.png)
 
 ```javascript
 2 + 2;

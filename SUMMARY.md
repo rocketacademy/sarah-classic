@@ -30,14 +30,11 @@
 * [1.3: Command Line](1-introduction/1.3-command-line.md)
 * [Additional Resources 1](1-introduction/additional-resources-1.md)
 
-***
-
-* [2: Operators and Expressions](2-operators-and-expressions/README.md)
-  * [2.1: Arithmetic Operators | Mathematical Expressions](2-operators-and-expressions/2.1-arithmetic-operators-or-mathematical-expressions.md)
-  * [2.2: Assignment Operators | Variables](2-operators-and-expressions/2.2-variables.md)
-
 ## 2: Basic Data Manipulation
 
+* [2: Operators and Expressions](2-basic-data-manipulation/2-operators-and-expressions/README.md)
+  * [2.1: Arithmetic Operators | Mathematical Expressions](2-basic-data-manipulation/2-operators-and-expressions/2.1-arithmetic-operators-or-mathematical-expressions.md)
+  * [2.2: Assignment Operators | Variables](2-basic-data-manipulation/2-operators-and-expressions/2.2-variables.md)
 * [2.3: Our First Program](2-basic-data-manipulation/2.3-our-first-program.md)
 * [Additional Resources 2](2-basic-data-manipulation/additional-resources-2.md)
 
