@@ -18,7 +18,7 @@ If needed, use the **'ask host for help'** function in Zoom. You may also find t
 
 ## Base
 
-For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Fundamentals](../course-logistics/required-hardware-and-software/recommended-set-up.md#folder-structure-for-coding-basics). For some exercises you may need to google for information.&#x20;
+For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Fundamentals](../course-logistics/required-hardware-and-software/recommended-set-up.md). For some exercises you may need to google for information.&#x20;
 
 See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day1/index.html).
 

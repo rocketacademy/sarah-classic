@@ -48,7 +48,7 @@ On Windows computers it may not be clear where a given folder is. Some Windows c
 When working with code, it's often necessary to switch between different files in the same repository, or even across repositories. Instead of using File > Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File > Open Folder, or on Mac with File > Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to switch quickly between files in that folder without having to File > Open every time.
 
 {% hint style="info" %}
-For SWE Fundamentals, we recommend storing all of your code in a folder called `fundamentals` as per the [recommended folder structure](https://fundamentals.rocketacademy.co/course-logistics/required-hardware-and-software/required-software-2#suggested-folder-structure-for-coding-basics), and keeping that folder open in VSCode for the duration of the course.
+For SWE Fundamentals, we recommend storing all of your code in a folder called `fundamentals` as per the recommended folder structure above, and keeping that folder open in VSCode for the duration of the course.
 {% endhint %}
 
 ![Sample Fundamentals folder in VSCode](../../.gitbook/assets/jie-ping-20210302-15.52.14.png)
