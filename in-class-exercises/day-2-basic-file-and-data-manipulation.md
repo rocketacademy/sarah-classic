@@ -18,9 +18,9 @@ If needed, use the **'ask host for help'** function in Zoom. You may also find t
 
 ## Base
 
-For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Fundamentals](../course-logistics/required-hardware-and-software/recommended-set-up.md). For some exercises you may need to google for information.&#x20;
+For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/fundamentals-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Fundamentals](../course-logistics/required-hardware-and-software/recommended-set-up.md). For some exercises you may need to google for information.&#x20;
 
-See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day1/index.html).
+See an example of all problems [here](https://rocketacademy.github.io/fundamentals-starter-code/day1/index.html).
 
 ### **Minutes in Weeks**
 
@@ -56,7 +56,7 @@ For simplicity, assume 17,677 words in all of Shakespeare's sonnets.
 
 ## Comfortable
 
-See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day2/).
+See an example of all problems [here](https://rocketacademy.github.io/fundamentals-starter-code/day2/).
 
 ### Cost of Air Con
 
@@ -94,4 +94,4 @@ Assume an average customer drinks 2 pints per visit. There are 124 pints of beer
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-starter-code/blob/day1/script.js) is a reference solution for the Data Manipulation exercises above. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/fundamentals-starter-code/blob/day1/script.js) is a reference solution for the Data Manipulation exercises above. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

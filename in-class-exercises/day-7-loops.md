@@ -2,17 +2,18 @@
 
 ## Introduction
 
-Today we will practice arrays and loops. For each exercise except Infinite Loop, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code).
+Today we will practice arrays and loops. For each exercise except Infinite Loop, make a copy of the [starter code](https://github.com/rocketacademy/fundamentals-starter-code).
 
 Pick either one of the Emoji Drawing or Multi-Dice Game exercise and work through from Base to your preferred level of comfort, before attempting the other exercise.
 
 {% tabs %}
 {% tab title="Emoji Drawing" %}
+
 ### Base
 
 Use loops to create an app that draws emojis into the grey box. See [here](https://support.microsoft.com/en-us/windows/windows-10-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942) for how to input Emoji on Windows and [here](https://support.apple.com/en-sg/guide/mac-help/mchlp1560/mac) for how to input emoji on Mac.
 
-See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day5/drawingemoji/index.html)**.**
+See an example of all problems [**here**](https://rocketacademy.github.io/fundamentals-starter-code/day5/drawingemoji/index.html)**.**
 
 #### Number of Characters
 
@@ -64,9 +65,10 @@ For example, if the user enters 5 they will see this:
 {% endtab %}
 
 {% tab title="Multi-Dice Game" %}
+
 ### Base
 
-More dice rolling and guessing! See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day5/dicegame/index.html).
+More dice rolling and guessing! See an example of all problems [**here**](https://rocketacademy.github.io/fundamentals-starter-code/day5/dicegame/index.html).
 
 1. Create a dice-guessing game with a variable number of dice rolls determined by the user.
 2. The game will have 2 modes.
@@ -100,4 +102,4 @@ Change the game to ask how many players are playing the game. Players will take 
 
 ## Reference Solution
 
-[Here ](https://github.com/rocketacademy/basics-drawing/pull/9/files)is a reference solution to the Drawing exercises, and [here](https://github.com/rocketacademy/basics-starter-code/blob/day6/script.js) is a reference solution for Dice Game exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here ](https://github.com/rocketacademy/basics-drawing/pull/9/files)is a reference solution to the Drawing exercises, and [here](https://github.com/rocketacademy/fundamentals-starter-code/blob/day6/script.js) is a reference solution for Dice Game exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

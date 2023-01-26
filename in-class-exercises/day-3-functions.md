@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today we will write functions to perform data transformations, similar to examples in [3.1: Functions](../3-structuring-and-debugging-code/3.1-functions.md). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Fundamentals](../course-logistics/required-hardware-and-software/recommended-set-up.md). For some exercises you may need to google for information.
+Today we will write functions to perform data transformations, similar to examples in [3.1: Functions](../3-structuring-and-debugging-code/3.1-functions.md). For each exercise, make a copy of the [starter code](https://github.com/rocketacademy/fundamentals-starter-code/archive/refs/heads/main.zip) as per the [recommended folder structure for Fundamentals](../course-logistics/required-hardware-and-software/recommended-set-up.md). For some exercises you may need to google for information.
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
@@ -26,7 +26,7 @@ Before you begin, check that you and your partner can answer the following:
 
 _If you have attempted these problems as part of More Comfortable in Day 1, today re-write the code such that all of the logic is in helper functions and not solely in_ `main.`
 
-See an example of all problems [here](https://rocketacademy.github.io/basics-starter-code/day2/).
+See an example of all problems [here](https://rocketacademy.github.io/fundamentals-starter-code/day2/).
 
 ### Cost of Air Con
 
@@ -100,4 +100,4 @@ The following is a more detailed breakdown of JS behaviour when concatenating st
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-starter-code/blob/day2/script.js) is a reference solution for Day 2 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/fundamentals-starter-code/blob/day2/script.js) is a reference solution for Day 2 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

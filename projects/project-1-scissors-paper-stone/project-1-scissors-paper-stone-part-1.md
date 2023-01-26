@@ -13,7 +13,7 @@ Part 1 works with the technologies we have learnt so far in Fundamentals, and Pa
 ## Setup
 
 1. Create a `project` directory in your `fundamentals` code folder to host your projects if you haven't already.
-2. Make a copy of the [Fundamentals Starter Code](https://github.com/rocketacademy/basics-starter-code/archive/refs/heads/main.zip) for your Scissors Paper Stone project.
+2. Make a copy of the [Fundamentals Starter Code](https://github.com/rocketacademy/fundamentals-starter-code/archive/refs/heads/main.zip) for your Scissors Paper Stone project.
 
 ## Base
 

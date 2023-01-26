@@ -4,7 +4,7 @@
 
 Today we will practice if statements and logical OR operators.
 
-See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day3/index.html).
+See an example of all problems [**here**](https://rocketacademy.github.io/fundamentals-starter-code/day3/index.html).
 
 **Please switch driver and navigator each exercise, and share your solutions with your partner.**
 
@@ -12,11 +12,11 @@ See an example of all problems [**here**](https://rocketacademy.github.io/basics
 
 Before you begin, check that you and your partner can answer the following:
 
-* [ ] Why use logic in our programs?
-* [ ] What is an if statement?
-* [ ] What is a code block? What marks the start and end of a block of code?
-* [ ] What is a Boolean value? What is a Boolean variable?
-* [ ] What is a Boolean operator? What are the different kinds of Boolean operators?
+- [ ] Why use logic in our programs?
+- [ ] What is an if statement?
+- [ ] What is a code block? What marks the start and end of a block of code?
+- [ ] What is a Boolean value? What is a Boolean variable?
+- [ ] What is a Boolean operator? What are the different kinds of Boolean operators?
 
 ## Base
 
@@ -96,4 +96,4 @@ Chilli sambal will be included.
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-starter-code/blob/day3/script.js) is a reference solution for Day 3 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/fundamentals-starter-code/blob/day3/script.js) is a reference solution for Day 3 exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.

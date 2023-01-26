@@ -15,9 +15,9 @@ Mad Libs is a word game where players fill in the blanks with random words, such
 
 ## Getting Started
 
-For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/basics-starter-code). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
+For the 1st exercise, make a copy of the [starter code](https://github.com/rocketacademy/fundamentals-starter-code). For subsequent exercises, feel free to comment out your previous code and create a new `main` function for the current exercise. Please switch driver and navigator each app.
 
-See an example of all problems [**here**](https://rocketacademy.github.io/basics-starter-code/day7/index.html).
+See an example of all problems [**here**](https://rocketacademy.github.io/fundamentals-starter-code/day7/index.html).
 
 ## Base
 
@@ -103,4 +103,4 @@ Feel free to see Google results [here](https://www.google.com/search?q=mad+lib+e
 
 ## Reference Solution
 
-[Here](https://github.com/rocketacademy/basics-starter-code/tree/day7) is a reference solution for Day 7 exercises. [Here](https://github.com/rocketacademy/basics-starter-code/tree/day7-moreComfortable) is a reference solution for Day 7 More Comfortable exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
+[Here](https://github.com/rocketacademy/fundamentals-starter-code/tree/day7) is a reference solution for Day 7 exercises. [Here](https://github.com/rocketacademy/fundamentals-starter-code/tree/day7-moreComfortable) is a reference solution for Day 7 More Comfortable exercises. Please only view the reference solution for each exercise after you have attempted the exercise yourself. Note that there are many ways to implement these solutions and the reference solution is only 1 way.
