@@ -8,7 +8,7 @@
 - [1.2: Web Browsers](1-introduction/1.2-web-browsers.md)
 - [1.3: Command Line](1-introduction/1.3-command-line.md)
 
-## 2: Basics Data Manipulation
+## 2: Basic Data Manipulation
 
 - [2.1: Operations](2-basic-data-manipulation/2.1-operations.md)
 - [2.2: Variables](2-basic-data-manipulation/2.2-variables.md)

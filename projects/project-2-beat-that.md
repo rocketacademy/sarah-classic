@@ -12,7 +12,7 @@ Have a look a some past student's project to visualise the game - and for inspir
 
 ## Setup
 
-1. Fork and Clone the [Basics _Beat That!_ repo](https://github.com/rocketacademy/basics-beat-that).
+1. Fork and Clone the [Fundamentals _Beat That!_ repo](https://github.com/rocketacademy/basics-beat-that).
 
 ## Base
 
@@ -53,45 +53,46 @@ If you get stuck, or are unsure on how to start, Bryan will walk you through how
 
 ### Add some polish!
 
-Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://basics.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
+Your game is working as intended, now it's time to make it look good! We'll edit index.html to personalise our game. If needed, review [1.2 Web Browsers](https://fundamentals.rocketacademy.co/1-introduction/1.2-web-browsers) on how to edit HTML.
 
-At line 29 of index.html, try changing `background-color: pink;` to `background-color: lightblue;` or any [colour ](https://www.w3schools.com/colors/colors\_names.asp)of your choice!
+At line 29 of index.html, try changing `background-color: pink;` to `background-color: lightblue;` or any [colour ](https://www.w3schools.com/colors/colors_names.asp)of your choice!
 
+```css
+#container {
+  background-color: lightblue;
+  margin: 40px auto;
+  max-width: 800px;
+  padding: 38px 31px;
+}
 ```
-      #container {
-        background-color: lightblue;
-        margin: 40px auto;
-        max-width: 800px;
-        padding: 38px 31px;
-      }
-```
 
-Add 1 or more [paragraphs](https://www.w3schools.com/html/html\_paragraphs.asp) after line 64 with instructions on how to play Beat That! It can look something like this:
+Add 1 or more [paragraphs](https://www.w3schools.com/html/html_paragraphs.asp) after line 64 with instructions on how to play Beat That! It can look something like this:
 
-```
+```html
 ...
 
 <body>
-    <h1 id="header">Basics: Beat That! 🚀</h1>
-    <div id="container">
-      <p>Hello! Welcome to Beat That! Click submit to start the game.</p>
-      <p>Create a two-digit number by selecting the order of your dice rolls.</p>
-      <p>The player with the highest number wins! Good luck!</p>
-      <p>Input:</p>
-      <input id="input-field" />
-      <br />
-      <button id="submit-button">Submit</button>
-      <p>Output:</p>
-      <div id="output-div"></div>
-    </div>
+  <h1 id="header">Fundamentals: Beat That! 🚀</h1>
+  <div id="container">
+    <p>Hello! Welcome to Beat That! Click submit to start the game.</p>
+    <p>Create a two-digit number by selecting the order of your dice rolls.</p>
+    <p>The player with the highest number wins! Good luck!</p>
+    <p>Input:</p>
+    <input id="input-field" />
+    <br />
+    <button id="submit-button">Submit</button>
+    <p>Output:</p>
+    <div id="output-div"></div>
+  </div>
 
   ...
+</body>
 ```
 
 Having fun making your game look good? Feel free to explore more HTML and CSS on your own! Here are some resources:
 
-* FreeCodeCamp's [basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) and basic [CSS tutorials](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
-* W3School's CSS [Tutorial](https://www.w3schools.com/css/default.asp) and [Reference](https://www.w3schools.com/cssref/default.asp).
+- FreeCodeCamp's [basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) and basic [CSS tutorials](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
+- W3School's CSS [Tutorial](https://www.w3schools.com/css/default.asp) and [Reference](https://www.w3schools.com/cssref/default.asp).
 
 ## More Comfortable
 
@@ -99,6 +100,7 @@ Try implementing some, or a combination of, the following feature groups. Feel f
 
 {% tabs %}
 {% tab title="Score" %}
+
 #### Score
 
 Keep score for each player. The score is the running sum of all numbers that player has generated so far. This means there is no permanent winner, only a temporary leader.
@@ -109,6 +111,7 @@ When outputting game results in the output box, also output a leaderboard that l
 {% endtab %}
 
 {% tab title="Lowest Combined" %}
+
 #### Lowest Combined Number Mode
 
 Add a game mode such that the player with the lowest combined number is the winner.
@@ -119,6 +122,7 @@ Update the game to auto-generate the highest (or lowest) combined number from di
 {% endtab %}
 
 {% tab title="Variable Dice and Players" %}
+
 #### Variable Number of Dice
 
 1. Create a new version of Beat That that rolls two or more dice per player.
@@ -132,6 +136,7 @@ Allow more than 2 players at a time to play Beat That. At the beginning of the g
 {% endtab %}
 
 {% tab title="Knockout" %}
+
 #### Knockout Mode
 
 Create a mode where if there are more than 2 players, the game can match players against each other 1 at a time until there is 1 final winner. For example, if there are 4 players, the game might first match players 1 and 2. If player 1 wins, the game might then match players 1 and 3. The winner of that match would then play player 4, and the winner of that final round would be the ultimate winner.

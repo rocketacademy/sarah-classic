@@ -2,9 +2,9 @@
 
 ## Learning Objectives
 
-* Define a "code expression".
-* Understand the operator's function within a code expression
-* Use the Chrome DevTools Console to begin writing code expressions
+- Define a "code expression".
+- Understand the operator's function within a code expression
+- Use the Chrome DevTools Console to begin writing code expressions
 
 ## Video
 
@@ -28,7 +28,7 @@ This does mean that there are invalid code that are "unresolvable" and will give
 
 There are two kinds of code expressions - (1) those that purely evaluate; (2) those that have a "side effect".
 
-We are familiar with the expressions that purely evaluate. These are the arithmetic expressions we learnt in school:  `5 + 6` . This, we understand, evaluates itself to `11`.
+We are familiar with the expressions that purely evaluate. These are the arithmetic expressions we learnt in school: `5 + 6` . This, we understand, evaluates itself to `11`.
 
 An example of the second type expression type is this: `a = 3` . This expression enters into a new, yet understandable realm. This expression uses the `=` _operator_ to assign the value `3`to the variable `x`. This expression will evaluate to `3`.
 
@@ -77,7 +77,7 @@ The input here is a mathematical equation typed in by the user, you. You have _i
 {% hint style="info" %}
 These exercises may seem trivial, but mathematical operations are at the core of all computing instructions. Computers fundamentally _**compute.**_ That being said, they can get things predictably wrong. Try: `0.1 + 0.2` in your console. Did you get what you expect?
 
-Coding Basics will not cover why computers sometimes behave in odd ways, but you can read up more about this particular behaviour [here](https://0.30000000000000004.com) and [here](https://betterprogramming.pub/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476).
+Coding Fundamentals will not cover why computers sometimes behave in odd ways, but you can read up more about this particular behaviour [here](https://0.30000000000000004.com) and [here](https://betterprogramming.pub/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476).
 {% endhint %}
 
 ### Operators

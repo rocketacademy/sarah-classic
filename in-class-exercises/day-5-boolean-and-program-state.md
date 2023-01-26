@@ -53,7 +53,7 @@ Reminder: There is no need to complete all exercises on this page. Once comforta
 
 ### Dice Within
 
-Create a new version of our Coding Basics dice game (where the player guesses the dice roll) that randomly becomes easier or harder. At the beginning of the game and each time the player wins, the computer selects a random number from 1 to 3, which we call the "within number". If any of the player's guesses fall within the dice roll plus or minus the within number, the player wins.
+Create a new version of our Coding Fundamentals dice game (where the player guesses the dice roll) that randomly becomes easier or harder. At the beginning of the game and each time the player wins, the computer selects a random number from 1 to 3, which we call the "within number". If any of the player's guesses fall within the dice roll plus or minus the within number, the player wins.
 
 For example: the app randomly chooses 3 as the within number. The player can guess within 3 of the dice roll to win the game. The player guesses 2 and the dice roll is 5. The guess is within 3 of the dice roll so the player wins the game. At this point, the computer adjusts the difficulty of the game by choosing a new within number.
 

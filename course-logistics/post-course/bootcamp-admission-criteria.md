@@ -2,7 +2,7 @@
 
 The knowledge taught in SWE Fundamentals are pre-requisite for entrance into Rocket Academy's Bootcamp.&#x20;
 
-Section leaders can share feedback with students each class on their progress if you ask. By the end of Basics, students should be aware of their ability to enroll in the Bootcamp.
+Section leaders can share feedback with students each class on their progress if you ask. By the end of Fundamentals, students should be aware of their ability to enroll in the Bootcamp.
 
 The criteria to pass SWE Fundamentals and join Bootcamp are the following.
 

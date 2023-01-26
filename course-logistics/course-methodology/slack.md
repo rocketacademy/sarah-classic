@@ -6,7 +6,7 @@ Slack is the app we use to communicate within a section. It provides real-time b
 
 ### Slack House Rules
 
-The following are a set of guidelines to follow when using Slack at Rocket. By setting strong culture of messaging on this platform for questions and discussion we hope to further enhance the Rocket Basics experience.
+The following are a set of guidelines to follow when using Slack at Rocket. By setting strong culture of messaging on this platform for questions and discussion we hope to further enhance the Rocket Fundamentals experience.
 
 ### Ask Questions in the Channel
 
@@ -18,7 +18,7 @@ To get help effectively, we need to provide context. One of the biggest differen
 
 Questions **without context** usually sound like: "_It doesn't work. Could you help?_" A question with **relevant** context might be more like: "_Program A is giving me Error X. I didn't expect X to happen because of Logic B. When I googled X, it told me that this might be related to Y, but I don't see Y anywhere in the system._"&#x20;
 
-Contextual questions help the answerer by filling in the details needed to fully understand the question. In the field of programming (not just for students) it is well known that simply formulating the question often leads directly to the answer. [This is called rubber-duck programming.](https://en.wikipedia.org/wiki/Rubber\_duck\_debugging)
+Contextual questions help the answerer by filling in the details needed to fully understand the question. In the field of programming (not just for students) it is well known that simply formulating the question often leads directly to the answer. [This is called rubber-duck programming.](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 #### How to ask contextual questions
 

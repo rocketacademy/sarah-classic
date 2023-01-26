@@ -16,28 +16,29 @@ All code-related files and folders are in kebab case (hyphenated and lowercase),
 {% hint style="info" %}
 As a shortcut, we can run the following command in the terminal to create all the folders.
 
-1. Open the `Documents` folder in VSCode with File > Open Folder and choose `Documents`.
+1.  Open the `Documents` folder in VSCode with File > Open Folder and choose `Documents`.
 2.  Run the following command in the terminal of VS Code.
 
-    {% code lineNumbers="true" %}
-    ```bash
-    mkdir -p fundamentals/day{1..12}/{in-class,pre-class}
-    ```
-    {% endcode %}
-{% endhint %}
+        {% code lineNumbers="true" %}
+        ```bash
+        mkdir -p fundamentals/day{1..12}/{in-class,pre-class}
+        ```
+        {% endcode %}
+
+    {% endhint %}
 
 {% hint style="warning" %}
 When cloning the starter code, choose to [name the target folder](../../8-github/8.1-intro-to-github.md#git-clone) to the relevant exercise name. This is so that we do not end up with Git repositories within Git repositories, which can confuse Git and cause issues.
 {% endhint %}
 
-![Sample basics folder in Finder on MacOS](../../.gitbook/assets/jie-ping-20210302-15.50.36.png)
+![Sample Fundamentals folder in Finder on MacOS](../../.gitbook/assets/jie-ping-20210302-15.50.36.png)
 
 ### OneDrive
 
 On Windows computers it may not be clear where a given folder is. Some Windows computers are setup to default to the OneDrive cloud folder. This can be double checked by clicking on the window path location arrow at the top of the window to see the full file location path.
 
 {% hint style="warning" %}
-**Don't put your Basics folders in OneDrive.** This makes it harder to access them from the command line.
+**Don't put your Fundamentals folders in OneDrive.** This makes it harder to access them from the command line.
 {% endhint %}
 
 ![How to see the full file path of a folder in Windows.](../../.gitbook/assets/onedrive.png)
@@ -47,10 +48,10 @@ On Windows computers it may not be clear where a given folder is. Some Windows c
 When working with code, it's often necessary to switch between different files in the same repository, or even across repositories. Instead of using File > Open to open a specific _file_ each time, we can save time by opening the _folder_ that contains all the files we may want to access. We can do this on Windows by going to File > Open Folder, or on Mac with File > Open, and selecting the relevant folder. This will open the folder and its file structure in the VSCode sidebar, allowing us to switch quickly between files in that folder without having to File > Open every time.
 
 {% hint style="info" %}
-For SWE Fundamentals, we recommend storing all of your code in a folder called `fundamentals` as per the [recommended folder structure](https://basics.rocketacademy.co/course-logistics/required-hardware-and-software/required-software-2#suggested-folder-structure-for-coding-basics), and keeping that folder open in VSCode for the duration of the course.
+For SWE Fundamentals, we recommend storing all of your code in a folder called `fundamentals` as per the [recommended folder structure](https://fundamentals.rocketacademy.co/course-logistics/required-hardware-and-software/required-software-2#suggested-folder-structure-for-coding-basics), and keeping that folder open in VSCode for the duration of the course.
 {% endhint %}
 
-![Sample basics folder in VSCode](../../.gitbook/assets/jie-ping-20210302-15.52.14.png)
+![Sample Fundamentals folder in VSCode](../../.gitbook/assets/jie-ping-20210302-15.52.14.png)
 
 ## Window-Snapping Software
 
