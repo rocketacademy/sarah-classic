@@ -4,17 +4,15 @@
 
 | Week |                         Monday                         |                        Thursday                        |
 | :--: | :----------------------------------------------------: | :----------------------------------------------------: |
-|  1   |                                                        | [Day 1](batch-20-schedule.md#course-day-0) - Jan 26th  |
-|  2   | [Day 2](batch-20-schedule.md#course-day-1) - Jan 30th  |  [Day 3](batch-20-schedule.md#course-day-2) - Feb 2nd  |
-|  3   |  [Day 4](batch-20-schedule.md#course-day-3) - Feb 6th  |  [Day 5](batch-20-schedule.md#course-day-4) - Feb 9th  |
-|  4   | [Day 6](batch-20-schedule.md#course-day-5) - Feb 13th  | [Day 7](batch-20-schedule.md#course-day-6) - Feb 16th  |
-|  5   | [Day 8](batch-20-schedule.md#course-day-7) - Feb 20th  | [Day 9](batch-20-schedule.md#course-day-8) - Feb 23th  |
-|  6   | [Day 10](batch-20-schedule.md#course-day-9) - Feb 27th | [Day 11](batch-20-schedule.md#course-day-10) - Mar 2nd |
-|  7   | [Day 12](batch-20-schedule.md#course-day-11) - Mar 6th |                                                        |
+|   1  |                                                        |  [Day 1](batch-20-schedule.md#course-day-0) - Jan 26th |
+|   2  |  [Day 2](batch-20-schedule.md#course-day-1) - Jan 30th |  [Day 3](batch-20-schedule.md#course-day-2) - Feb 2nd  |
+|   3  |  [Day 4](batch-20-schedule.md#course-day-3) - Feb 6th  |  [Day 5](batch-20-schedule.md#course-day-4) - Feb 9th  |
+|   4  |  [Day 6](batch-20-schedule.md#course-day-5) - Feb 13th |  [Day 7](batch-20-schedule.md#course-day-6) - Feb 16th |
+|   5  |  [Day 8](batch-20-schedule.md#course-day-7) - Feb 20th |  [Day 9](batch-20-schedule.md#course-day-8) - Feb 23th |
+|   6  | [Day 10](batch-20-schedule.md#course-day-9) - Feb 27th | [Day 11](batch-20-schedule.md#course-day-10) - Mar 2nd |
+|   7  | [Day 12](batch-20-schedule.md#course-day-11) - Mar 6th |                                                        |
 
 ## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
-
-**October 3rd, 2022**
 
 Meeting time: 07:30 PM SGT (GMT+8)
 
@@ -28,13 +26,13 @@ Meeting time: 07:30 PM SGT (GMT+8)
 
 **Module 1: Introduction**
 
-- [1.1: What is coding?](../../1-introduction/1.1-what-is-coding.md)
-- [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
+* [1.1: What is coding?](../../1-introduction/1.1-what-is-coding.md)
+* [1.2: Web Browsers](../../1-introduction/1.2-web-browsers.md)
 
 **Module 2: Basic Data Manipulation**
 
-- [2.1: Operations](../../2-basic-data-manipulation/2-operators-and-expressions/)
-- [2.2: Variables](../../2-basic-data-manipulation/2-operators-and-expressions/2.2-variables.md)
+* [2.1: Operations](../../2-basic-data-manipulation/2-operators-and-expressions/)
+* [2.2: Variables](../../2-basic-data-manipulation/2-operators-and-expressions/2.2-variables.md)
 
 ### In Class
 
@@ -46,8 +44,6 @@ Meeting time: 07:30 PM SGT (GMT+8)
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
 
-**October 6th, 2022**
-
 Meeting time: 07:30 PM SGT (GMT+8)
 
 ### Pre Class
@@ -58,11 +54,11 @@ Coding Fundamentals used to be called SWE101 and some of our videos were made be
 
 **Module 1: Introduction**
 
-- [1.3: Command Line](../../1-introduction/1.3-command-line.md)
+* [1.3: Command Line](../../1-introduction/1.3-command-line.md)
 
 **Module 2: Basic Data Manipulation**
 
-- [2.3: Our First Program](../../2-basic-data-manipulation/2.3-our-first-program.md)
+* [2.3: Our First Program](../../2-basic-data-manipulation/2.3-our-first-program.md)
 
 ### In Class
 
@@ -70,11 +66,9 @@ Coding Fundamentals used to be called SWE101 and some of our videos were made be
 Please **do not** attempt in-class material before class for all course days, so that you and your partner can both attempt the problems for the first time during class. If you are looking for more material to work on, we suggest attempting the More Comfortable sections of previous days' exercises. If that is not enough, please message your section leader for more exercises.
 {% endhint %}
 
-- [Day 2: Basic Data Manipulation](../../in-class-exercises/day-2-basic-file-and-data-manipulation.md)
+* [Day 2: Basic Data Manipulation](../../in-class-exercises/day-2-basic-file-and-data-manipulation.md)
 
 ## Week 2, Course Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
-
-**October 10th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -82,16 +76,14 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 **Module 3: Structuring and Debugging Code**
 
-- [3.1: Functions](../../3-structuring-and-debugging-code/3.1-functions.md)
-- [3.2: Errors](../../3-structuring-and-debugging-code/3.2-errors.md)
+* [3.1: Functions](../../3-structuring-and-debugging-code/3.1-functions.md)
+* [3.2: Errors](../../3-structuring-and-debugging-code/3.2-errors.md)
 
 ### In Class
 
-- [Day 3: Functions](../../in-class-exercises/day-3-functions.md)
+* [Day 3: Functions](../../in-class-exercises/day-3-functions.md)
 
 ## Week 2, Course Day 4: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
-
-**October 13th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -99,16 +91,16 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 **Module 4: Conditional Logic**
 
-- [4.1: Introduction to Logic](../../4-conditional-logic/4.1-intro-to-logic.md)
-- [4.2: Pseudo Code, Boolean "Or"](../../4-conditional-logic/4.2-pseudo-code-boolean-or.md)
-- [4.3: Boolean "And", Boolean "Not"](../../4-conditional-logic/4.3-boolean-and-not.md)
+* [4.1: Introduction to Logic](../../4-conditional-logic/4.1-intro-to-logic.md)
+* [4.2: Pseudo Code, Boolean "Or"](../../4-conditional-logic/4.2-pseudo-code-boolean-or.md)
+* [4.3: Boolean "And", Boolean "Not"](../../4-conditional-logic/4.3-boolean-and-not.md)
 
 ### In Class
 
-- [Day 4: If Statements, Boolean "Or", Boolean "And"](../../in-class-exercises/day-4-if-statements-boolean-or.md)
-- Project Planning: Scissors Paper Stone
-  - [Coding Strategies: Getting Started](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
-  - [Scissors Paper Stone: Base](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md#base)
+* [Day 4: If Statements, Boolean "Or", Boolean "And"](../../in-class-exercises/day-4-if-statements-boolean-or.md)
+* Project Planning: Scissors Paper Stone
+  * [Coding Strategies: Getting Started](../tips-and-tricks/coding-strategies.md#getting-started-how-to-break-a-problem-down)
+  * [Scissors Paper Stone: Base](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md#base)
 
 ### Project Start: Scissors Paper Stone
 
@@ -116,32 +108,28 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 3, Course Day 5: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
 
-**October 17th, 2022**
-
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
 **Module 4: Conditional Logic**
 
-- [4.4: Input Validation](../../4-conditional-logic/4.4-input-validation.md)
+* [4.4: Input Validation](../../4-conditional-logic/4.4-input-validation.md)
 
 **Module 5: Global State**
 
-- [5.1: Program Lifecycle and Global State](../../5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md)
-- [5.2: Program State for Game Modes](../../5-managing-state-and-input-validation/5.2-program-state-for-game-modes.md)
+* [5.1: Program Lifecycle and Global State](../../5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md)
+* [5.2: Program State for Game Modes](../../5-managing-state-and-input-validation/5.2-program-state-for-game-modes.md)
 
 ### In Class
 
-- [Day 5: Boolean "And", Program State](../../in-class-exercises/day-5-boolean-and-program-state.md)
+* [Day 5: Boolean "And", Program State](../../in-class-exercises/day-5-boolean-and-program-state.md)
 
 ### Project Continuation
 
 [Project 1: Scissors Paper Stone (Part 2)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
 ## Week 3, Course Day 6: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
-
-**October 20th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -153,21 +141,19 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 **Module 7: Version Control**
 
-- [7.1: Git](../../7-version-control/7.1-git.md)
+* [7.1: Git](../../7-version-control/7.1-git.md)
 
 **Module 8: GitHub**
 
-- [8.1: Intro to GitHub](../../8-github/8.1-intro-to-github.md)
-- [8.2: GitHub Fork and Clone](../../8-github/8.2-github-fork-and-clone.md)
-- [8.3: GitHub Pull Request](../../8-github/8.3-github-pull-request.md)
+* [8.1: Intro to GitHub](../../8-github/8.1-intro-to-github.md)
+* [8.2: GitHub Fork and Clone](../../8-github/8.2-github-fork-and-clone.md)
+* [8.3: GitHub Pull Request](../../8-github/8.3-github-pull-request.md)
 
 ### In Class
 
-- [Day 6: Scissors Paper Stone Redux](../../in-class-exercises/day-6-scissors-paper-stone-redux.md)
+* [Day 6: Scissors Paper Stone Redux](../../in-class-exercises/day-6-scissors-paper-stone-redux.md)
 
 ## Week 4, Course Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
-
-**October 27th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -175,12 +161,12 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 **Module 6: Arrays and Iteration**
 
-- [6.1: Arrays](../../6-arrays-and-iteration/6.1-arrays.md)
-- [6.2: Loops](../../6-arrays-and-iteration/6.2-loops.md)
+* [6.1: Arrays](../../6-arrays-and-iteration/6.1-arrays.md)
+* [6.2: Loops](../../6-arrays-and-iteration/6.2-loops.md)
 
 ### In Class
 
-- [Day 7: Loops](../../in-class-exercises/day-7-loops.md)
+* [Day 7: Loops](../../in-class-exercises/day-7-loops.md)
 
 ### Project Start: Beat That!
 
@@ -188,23 +174,19 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 4, Course Day 8: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
 
-**October 31st, 2022**
-
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
 **Module 6: Arrays and Iteration**
 
-- [6.3: Loops with Arrays](../../6-arrays-and-iteration/6.3-loops-with-arrays.md)
+* [6.3: Loops with Arrays](../../6-arrays-and-iteration/6.3-loops-with-arrays.md)
 
 ### In Class
 
-- [Day 7: Loops and Arrays](../../in-class-exercises/day-8-arrays-and-loops.md)
+* [Day 7: Loops and Arrays](../../in-class-exercises/day-8-arrays-and-loops.md)
 
 ## Week 5, Course Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
-
-**November 3rd, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -216,16 +198,14 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 **Module 8: GitHub**
 
-- [8.4 GitHub Repo Browsing](../../8-github/8.4-github-repo-browsing.md)
-- [8.5 Deployment](../../8-github/8.5-deployment.md)
+* [8.4 GitHub Repo Browsing](../../8-github/8.4-github-repo-browsing.md)
+* [8.5 Deployment](../../8-github/8.5-deployment.md)
 
 ### In Class
 
-- [Day 9: Beat That Redux](https://fundamentals.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
+* [Day 9: Beat That Redux](https://fundamentals.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
 
 ## Week 5, Course Day 10: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
-
-**November 7th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -233,12 +213,12 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 **Module 9: Objects**
 
-- [9.1: Objects](../../9-javascript-objects/9.1-javascript-objects.md)
-- [9.2: Card Deck Generation with Loops](https://fundamentals.rocketacademy.co/9-javascript-objects/9.2-card-deck-generation-with-loops)
+* [9.1: Objects](../../9-javascript-objects/9.1-javascript-objects.md)
+* [9.2: Card Deck Generation with Loops](https://fundamentals.rocketacademy.co/9-javascript-objects/9.2-card-deck-generation-with-loops)
 
 ### In Class
 
-- [Day 10: Moar Cards / Chat Bot](../../in-class-exercises/day-10-moar-cards.md)
+* [Day 10: Moar Cards / Chat Bot](../../in-class-exercises/day-10-moar-cards.md)
 
 ### Project Start: Blackjack
 
@@ -246,26 +226,22 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ## Week 6, Course Day 11: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
 
-**November 10th, 2022**
-
 Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
 **Module 10: Advanced**
 
-- [10.1: HTML](../../10-advanced/10.1-html.md)
-- [10.2: CSS](../../10-advanced/10.2-html-css-review.md)
-- [10.3: The Document Object Model](../../10-advanced/10.3-browser-applications-with-dom.md)
-- [10.4: Dom Manipulation](../../10-advanced/10.4-dom-manipulation.md)
+* [10.1: HTML](../../10-advanced/10.1-html.md)
+* [10.2: CSS](../../10-advanced/10.2-html-css-review.md)
+* [10.3: The Document Object Model](../../10-advanced/10.3-browser-applications-with-dom.md)
+* [10.4: Dom Manipulation](../../10-advanced/10.4-dom-manipulation.md)
 
 ### In Class
 
-- [Project 3: Blackjack](https://fundamentals.rocketacademy.co/projects/project-3-blackjack)
+* [Project 3: Blackjack](https://fundamentals.rocketacademy.co/projects/project-3-blackjack)
 
 ## Week 6, Course Day 12: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
-
-**November 14th, 2022**
 
 Meeting time: 7:30 PM SGT (GMT+8)
 
@@ -275,11 +251,11 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### In Class
 
-- [Project presentations](https://fundamentals.rocketacademy.co/course-logistics/course-methodology#project-presentations)
-- Course Feedback and Reviews
-- LinkedIn certificate presentations
-- Class Photo 🥳
-- Closing Ceremony 🎓
+* [Project presentations](https://fundamentals.rocketacademy.co/course-logistics/course-methodology#project-presentations)
+* Course Feedback and Reviews
+* LinkedIn certificate presentations
+* Class Photo 🥳
+* Closing Ceremony 🎓
 
 ## Post-course Materials <a href="#course-day-12" id="course-day-12"></a>
 
@@ -287,12 +263,12 @@ Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Continuation (optional)
 
-- [Project 3: Blackjack (More Comfortable)](https://fundamentals.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
-- [Day 11: Blackjack Redux and Debugger](https://fundamentals.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
+* [Project 3: Blackjack (More Comfortable)](https://fundamentals.rocketacademy.co/projects/project-3-blackjack#more-comfortable)
+* [Day 11: Blackjack Redux and Debugger](https://fundamentals.rocketacademy.co/in-class-exercises/day-11-blackjack-redux-debugger)
 
 **Module 10: Advanced**
 
-- [10.5 Advanced Debugging with Sources Tab](../../10-advanced/10.5-advanced-debugging-with-sources-tab.md)
+* [10.5 Advanced Debugging with Sources Tab](../../10-advanced/10.5-advanced-debugging-with-sources-tab.md)
 
 **Recommended Sites to continue your coding journey!**
 
