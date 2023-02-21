@@ -1,16 +1,16 @@
-# 📅 Fundamentals 21 Schedule
+# 📅 Fundamentals 22 Schedule
 
 ## 📅 Course Dates
 
-| Week |                           Monday                          |                          Thursday                         |
-| :--: | :-------------------------------------------------------: | :-------------------------------------------------------: |
-|   1  |  [Day 1](batch-20-schedule-1.md#course-day-0) - Mar 13th  |  [Day 2](batch-20-schedule-1.md#course-day-1) - Mar 16th  |
-|   2  |  [Day 3](batch-20-schedule-1.md#course-day-2) - Mar 20th  |  [Day 4](batch-20-schedule-1.md#course-day-3) - Mar 23rd  |
-|   3  |  [Day 5](batch-20-schedule-1.md#course-day-4) - Mar 27th  |  [Day 6](batch-20-schedule-1.md#course-day-5) - Mar 30th  |
-|   4  |   [Day 7](batch-20-schedule-1.md#course-day-6) - Apr 3rd  |   [Day 8](batch-20-schedule-1.md#course-day-7) - Apr 6th  |
-|   5  |                       Easter Monday                       |  [Day 9](batch-20-schedule-1.md#course-day-8) - Apr 13th  |
-|   6  |  [Day 10](batch-20-schedule-1.md#course-day-9) - Apr 17th | [Day 11](batch-20-schedule-1.md#course-day-10) - Apr 20th |
-|   7  | [Day 12](batch-20-schedule-1.md#course-day-11) - Apr 24th |                                                           |
+| Week |                          Monday                         |                        Thursday                        |
+| :--: | :-----------------------------------------------------: | :----------------------------------------------------: |
+|   1  |                                                         |  [Day 1](batch-22-schedule.md#course-day-0) - May 4th  |
+|   2  |   [Day 2](batch-22-schedule.md#course-day-1) - May 8th  |  [Day 3](batch-22-schedule.md#course-day-2) - May 11th |
+|   3  |  [Day 4](batch-22-schedule.md#course-day-3) - May 15th  |  [Day 5](batch-22-schedule.md#course-day-4) - May 18th |
+|   4  |  [Day 6](batch-22-schedule.md#course-day-5) - May 23rd  |  [Day 7](batch-22-schedule.md#course-day-6) - May 25th |
+|   5  |  [Day 8](batch-22-schedule.md#course-day-7) - May 29th  |  [Day 9](batch-22-schedule.md#course-day-8) - Jun 1st  |
+|   6  |  [Day 10](batch-22-schedule.md#course-day-9) - Jun 5th  | [Day 11](batch-22-schedule.md#course-day-10) - Jun 8th |
+|   7  | [Day 12](batch-22-schedule.md#course-day-11) - Jun 12th |                                                        |
 
 ## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
@@ -39,7 +39,7 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-20-schedule-1.md#pre-class)
+   1. [Pre-Class Material](batch-22-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>

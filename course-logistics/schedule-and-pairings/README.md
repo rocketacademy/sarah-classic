@@ -8,6 +8,6 @@
 
 ### Following Course
 
-{% content-ref url="batch-20-schedule-1.md" %}
-[batch-20-schedule-1.md](batch-20-schedule-1.md)
+{% content-ref url="batch-21-schedule.md" %}
+[batch-21-schedule.md](batch-21-schedule.md)
 {% endcontent-ref %}
