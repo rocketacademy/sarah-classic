@@ -2,8 +2,8 @@
 
 ## Current Course
 
-{% content-ref url="batch-19-schedule.md" %}
-[batch-19-schedule.md](batch-19-schedule.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Following Course
