@@ -16,6 +16,7 @@
   * [📅 Fundamentals 21 Schedule](course-logistics/schedule-and-pairings/batch-21-schedule.md)
   * [📅 Fundamentals 22 Schedule](course-logistics/schedule-and-pairings/batch-22-schedule.md)
   * [📅 Fundamentals 23 Schedule](course-logistics/schedule-and-pairings/batch-23-schedule.md)
+  * [📅 FTFund Schedule](course-logistics/schedule-and-pairings/batch-23-schedule-1.md)
 * [💡 Tips and Tricks](course-logistics/tips-and-tricks/README.md)
   * [📒 Coding Strategies](course-logistics/tips-and-tricks/coding-strategies.md)
   * [🛠 Tooling Pro Tips](course-logistics/tips-and-tricks/tooling-pro-tips.md)
