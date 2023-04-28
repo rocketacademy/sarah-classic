@@ -2,13 +2,13 @@
 
 ## 📅 Course Dates
 
-|                         Week 1                         |                          Week 2                         |                           Week 3                          |
-| :----------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------: |
-| [Day 1](batch-23-schedule-1.md#course-day-0) - May 4th |  [Day 3](batch-23-schedule-1.md#course-day-2) - May 8th |  [Day 8](batch-23-schedule-1.md#course-day-7) - May 15th  |
-| [Day 2](batch-23-schedule-1.md#course-day-1) - May 5th |  [Day 4](batch-23-schedule-1.md#course-day-3) - May 9th |  [Day 9](batch-23-schedule-1.md#course-day-8) - May 16th  |
-|                                                        | [Day 5](batch-23-schedule-1.md#course-day-4) - May 10th |  [Day 10](batch-23-schedule-1.md#course-day-9) - May 17th |
-|                                                        | [Day 6](batch-23-schedule-1.md#course-day-5) - May 11th | [Day 11](batch-23-schedule-1.md#course-day-10) - May 18th |
-|                                                        | [Day 7](batch-23-schedule-1.md#course-day-6) - May 12th | [Day 12](batch-23-schedule-1.md#course-day-11) - May 19th |
+|                   Week 1                  |                   Week 2                   |                    Week 3                    |
+| :---------------------------------------: | :----------------------------------------: | :------------------------------------------: |
+| [Day 1](ftfund.md#course-day-0) - May 4th |  [Day 3](ftfund.md#course-day-2) - May 8th |  [Day 8](ftfund.md#course-day-7) - May 15th  |
+| [Day 2](ftfund.md#course-day-1) - May 5th |  [Day 4](ftfund.md#course-day-3) - May 9th |  [Day 9](ftfund.md#course-day-8) - May 16th  |
+|                                           | [Day 5](ftfund.md#course-day-4) - May 10th |  [Day 10](ftfund.md#course-day-9) - May 17th |
+|                                           | [Day 6](ftfund.md#course-day-5) - May 11th | [Day 11](ftfund.md#course-day-10) - May 18th |
+|                                           | [Day 7](ftfund.md#course-day-6) - May 12th | [Day 12](ftfund.md#course-day-11) - May 19th |
 
 ## Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
@@ -35,7 +35,7 @@
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-23-schedule-1.md#pre-class)
+   1. [Pre-Class Material](ftfund.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
