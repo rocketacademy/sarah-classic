@@ -7,7 +7,7 @@
 |   1  |                                                         |  [Day 1](batch-22-schedule.md#course-day-0) - May 4th  |
 |   2  |   [Day 2](batch-22-schedule.md#course-day-1) - May 8th  |  [Day 3](batch-22-schedule.md#course-day-2) - May 11th |
 |   3  |  [Day 4](batch-22-schedule.md#course-day-3) - May 15th  |  [Day 5](batch-22-schedule.md#course-day-4) - May 18th |
-|   4  |  [Day 6](batch-22-schedule.md#course-day-5) - May 23rd  |  [Day 7](batch-22-schedule.md#course-day-6) - May 25th |
+|   4  |  [Day 6](batch-22-schedule.md#course-day-5) - May 22nd  |  [Day 7](batch-22-schedule.md#course-day-6) - May 25th |
 |   5  |  [Day 8](batch-22-schedule.md#course-day-7) - May 29th  |  [Day 9](batch-22-schedule.md#course-day-8) - Jun 1st  |
 |   6  |  [Day 10](batch-22-schedule.md#course-day-9) - Jun 5th  | [Day 11](batch-22-schedule.md#course-day-10) - Jun 8th |
 |   7  | [Day 12](batch-22-schedule.md#course-day-11) - Jun 12th |                                                        |
