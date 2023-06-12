@@ -1,6 +1,6 @@
 # 🚂 Bootcamp Admission Criteria
 
-TLDR: Application form for bootcamp is here:([https://rocketacademy.typeform.com/bootcampapply](https://rocketacademy.typeform.com/bootcampapply))
+**TLDR:** Application form for bootcamp is here:([https://rocketacademy.typeform.com/bootcampapply](https://rocketacademy.typeform.com/bootcampapply))
 
 
 
