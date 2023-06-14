@@ -1,16 +1,19 @@
-# 📅 FTFund Schedule
+# 📅 Fundamentals 24 Schedule
 
 ## 📅 Course Dates
 
-|                   Week 1                  |                   Week 2                   |                    Week 3                    |
-| :---------------------------------------: | :----------------------------------------: | :------------------------------------------: |
-| [Day 1](ftfund.md#course-day-0) - May 4th |  [Day 3](ftfund.md#course-day-2) - May 8th |  [Day 8](ftfund.md#course-day-7) - May 15th  |
-| [Day 2](ftfund.md#course-day-1) - May 5th |  [Day 4](ftfund.md#course-day-3) - May 9th |  [Day 9](ftfund.md#course-day-8) - May 16th  |
-|                                           | [Day 5](ftfund.md#course-day-4) - May 10th |  [Day 10](ftfund.md#course-day-9) - May 17th |
-|                                           | [Day 6](ftfund.md#course-day-5) - May 11th | [Day 11](ftfund.md#course-day-10) - May 18th |
-|                                           | [Day 7](ftfund.md#course-day-6) - May 12th | [Day 12](ftfund.md#course-day-11) - May 19th |
+| Week |                           Monday                          |                          Thursday                         |
+| :--: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+|   1  |   [Day 1](batch-23-schedule-1.md#course-day-0) - Aug 7th  |  [Day 2](batch-23-schedule-1.md#course-day-1) -  Aug 10th |
+|   2  |  [Day 3](batch-23-schedule-1.md#course-day-2) - Aug 14th  |  [Day 4](batch-23-schedule-1.md#course-day-3) - Aug 17th  |
+|   3  |  [Day 5](batch-23-schedule-1.md#course-day-4) - Aug 21st  |  [Day 6](batch-23-schedule-1.md#course-day-5) -  Aug 24th |
+|   4  |  [Day 7](batch-23-schedule-1.md#course-day-6) - Aug 28th  |  [Day 8](batch-23-schedule-1.md#course-day-7) - Aug 31st  |
+|   5  |   [Day 9](batch-23-schedule-1.md#course-day-8) - Sep 4th  |  [Day 10](batch-23-schedule-1.md#course-day-9) - Sep 7th  |
+|   6  | [Day 11](batch-23-schedule-1.md#course-day-10) - Sep 11th | [Day 12](batch-23-schedule-1.md#course-day-11) - Sep 14th |
 
-## Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
+## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
+
+Meeting time: 07:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -35,10 +38,12 @@
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](ftfund.md#pre-class)
+   1. [Pre-Class Material](batch-23-schedule-1.md#pre-class)
 4. Section Introductions and Icebreakers
 
-## Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
+## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
+
+Meeting time: 07:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -62,7 +67,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 2: Basic Data Manipulation](../../in-class-exercises/day-2-basic-file-and-data-manipulation.md)
 
-## Course Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
+## Week 2, Course Day 3: Functions <a href="#course-day-2" id="course-day-2"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -75,7 +82,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 3: Functions](../../in-class-exercises/day-3-functions.md)
 
-## Course Day 4: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
+## Week 2, Course Day 4: Logic 1 <a href="#course-day-3" id="course-day-3"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -96,7 +105,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 [Project 1: Scissors Paper Stone (Part 1)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
 
-## Course Day 5: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
+## Week 3, Course Day 5: Logic 2, States <a href="#course-day-4" id="course-day-4"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -117,7 +128,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 [Project 1: Scissors Paper Stone (Part 2)](../../projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 
-## Course Day 6: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
+## Week 3, Course Day 6: Git, GitHub <a href="#course-day-5" id="course-day-5"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due: SPS
 
@@ -139,7 +152,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 6: Scissors Paper Stone Redux](../../in-class-exercises/day-6-scissors-paper-stone-redux.md)
 
-## Course Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
+## Week 4, Course Day 7: Arrays, Loops 1 <a href="#course-day-6" id="course-day-6"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -156,7 +171,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 [Project 2: Beat That!](../../projects/project-2-beat-that.md)
 
-## Course Day 8: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
+## Week 4, Course Day 8: Loops 2 <a href="#course-day-7" id="course-day-7"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -168,7 +185,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 7: Loops and Arrays](../../in-class-exercises/day-8-arrays-and-loops.md)
 
-## Course Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
+## Week 5, Course Day 9: GitHub <a href="#course-day-8" id="course-day-8"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due: Beat That!
 
@@ -185,7 +204,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Day 9: Beat That Redux](https://fundamentals.rocketacademy.co/in-class-exercises/day-8-beat-that-redux)
 
-## Course Day 10: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
+## Week 5, Course Day 10: Objects, Card Logic <a href="#course-day-9" id="course-day-9"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -202,7 +223,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 [Project 3: Blackjack](https://fundamentals.rocketacademy.co/projects/project-3-blackjack)
 
-## Course Day 11: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
+## Week 6, Course Day 11: HTML, CSS DOM <a href="#course-day-10" id="course-day-10"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Pre Class
 
@@ -217,7 +240,9 @@ Please **do not** attempt in-class material before class for all course days, so
 
 * [Project 3: Blackjack](https://fundamentals.rocketacademy.co/projects/project-3-blackjack)
 
-## Course Day 12: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
+## Week 6, Course Day 12: Project Presentations <a href="#course-day-11" id="course-day-11"></a>
+
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Due
 
@@ -233,7 +258,7 @@ Please **do not** attempt in-class material before class for all course days, so
 
 ## Post-course Materials <a href="#course-day-12" id="course-day-12"></a>
 
-
+Meeting time: 7:30 PM SGT (GMT+8)
 
 ### Project Continuation (optional)
 
