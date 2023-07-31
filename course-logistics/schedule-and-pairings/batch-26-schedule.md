@@ -2,15 +2,15 @@
 
 ## 📅 Course Dates
 
-| Week |                           Monday                          |                          Thursday                         |
-| :--: | :-------------------------------------------------------: | :-------------------------------------------------------: |
-|   1  |   [Day 1](batch-22-schedule-1.md#course-day-0) - Nov 6th  |   [Day 2](batch-22-schedule-1.md#course-day-1) - Nov 9th  |
-|   2  |                     Day Off (Deepvali)                    |  [Day 3](batch-22-schedule-1.md#course-day-2) - Nov 16th  |
-|   3  |  [Day 4](batch-22-schedule-1.md#course-day-3) - Nov 20th  |  [Day 5](batch-22-schedule-1.md#course-day-4) - Nov 23rd  |
-|   4  |  [Day 6](batch-22-schedule-1.md#course-day-5) - Nov 27th  |  [Day 7](batch-22-schedule-1.md#course-day-6) - Nov 30th  |
-|   5  |   [Day 8](batch-22-schedule-1.md#course-day-7) - Dec 4th  |   [Day 9](batch-22-schedule-1.md#course-day-8) - Dec 7th  |
-|   6  |  [Day 10](batch-22-schedule-1.md#course-day-9) - Dec 11th | [Day 11](batch-22-schedule-1.md#course-day-10) - Dec 14th |
-|   7  | [Day 12](batch-22-schedule-1.md#course-day-11) - Dec 18th |                                                           |
+| Week |                          Monday                         |                         Thursday                        |
+| :--: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+|   1  |   [Day 1](batch-26-schedule.md#course-day-0) - Nov 6th  |   [Day 2](batch-26-schedule.md#course-day-1) - Nov 9th  |
+|   2  |                    Day Off (Deepvali)                   |  [Day 3](batch-26-schedule.md#course-day-2) - Nov 16th  |
+|   3  |  [Day 4](batch-26-schedule.md#course-day-3) - Nov 20th  |  [Day 5](batch-26-schedule.md#course-day-4) - Nov 23rd  |
+|   4  |  [Day 6](batch-26-schedule.md#course-day-5) - Nov 27th  |  [Day 7](batch-26-schedule.md#course-day-6) - Nov 30th  |
+|   5  |   [Day 8](batch-26-schedule.md#course-day-7) - Dec 4th  |   [Day 9](batch-26-schedule.md#course-day-8) - Dec 7th  |
+|   6  |  [Day 10](batch-26-schedule.md#course-day-9) - Dec 11th | [Day 11](batch-26-schedule.md#course-day-10) - Dec 14th |
+|   7  | [Day 12](batch-26-schedule.md#course-day-11) - Dec 18th |                                                         |
 
 ## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
@@ -39,7 +39,7 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-22-schedule-1.md#pre-class)
+   1. [Pre-Class Material](batch-26-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
