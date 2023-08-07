@@ -1,16 +1,15 @@
-# 📅 Fundamentals 23 Schedule
+# 📅 Fundamentals 24 Schedule
 
 ## 📅 Course Dates
 
-| Week |                          Monday                         |                        Thursday                        |
-| :--: | :-----------------------------------------------------: | :----------------------------------------------------: |
-|   1  |  [Day 1](batch-23-schedule.md#course-day-0) - Jun 19th  |             Day Off (Dragon Boat Festival)             |
-|   2  |  [Day 2](batch-23-schedule.md#course-day-1) - Jun 26th  |                Day Off (Hari Raya Haji)                |
-|   3  |   [Day 3](batch-23-schedule.md#course-day-2) - Jul 3rd  |  [Day 4](batch-23-schedule.md#course-day-3) - Jul 6th  |
-|   4  |  [Day 5](batch-23-schedule.md#course-day-4) - Jul 10th  |  [Day 6](batch-23-schedule.md#course-day-5) - Jul 13th |
-|   5  |  [Day 7](batch-23-schedule.md#course-day-6) - Jul 17th  |  [Day 8](batch-23-schedule.md#course-day-7) - Jul 20th |
-|   6  |  [Day 9](batch-23-schedule.md#course-day-8) - Jul 24th  | [Day 10](batch-23-schedule.md#course-day-9) - Jul 27th |
-|   7  | [Day 11](batch-23-schedule.md#course-day-10) - Jul 31st | [Day 12](batch-23-schedule.md#course-day-11) - Aug 3rd |
+| Week |                          Monday                         |                         Thursday                        |
+| :--: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+|   1  |   [Day 1](batch-24-schedule.md#course-day-0) - Aug 7th  |  [Day 2](batch-24-schedule.md#course-day-1) -  Aug 10th |
+|   2  |  [Day 3](batch-24-schedule.md#course-day-2) - Aug 14th  |  [Day 4](batch-24-schedule.md#course-day-3) - Aug 17th  |
+|   3  |  [Day 5](batch-24-schedule.md#course-day-4) - Aug 21st  |  [Day 6](batch-24-schedule.md#course-day-5) -  Aug 24th |
+|   4  |  [Day 7](batch-24-schedule.md#course-day-6) - Aug 28th  |  [Day 8](batch-24-schedule.md#course-day-7) - Aug 31st  |
+|   5  |   [Day 9](batch-24-schedule.md#course-day-8) - Sep 4th  |  [Day 10](batch-24-schedule.md#course-day-9) - Sep 7th  |
+|   6  | [Day 11](batch-24-schedule.md#course-day-10) - Sep 11th | [Day 12](batch-24-schedule.md#course-day-11) - Sep 14th |
 
 ## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
@@ -39,7 +38,7 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-23-schedule.md#pre-class)
+   1. [Pre-Class Material](batch-24-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
