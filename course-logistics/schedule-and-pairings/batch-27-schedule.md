@@ -1,16 +1,16 @@
-# 📅 Fundamentals 25 Schedule
+# 📅 Fundamentals 27 Schedule
 
 ## 📅 Course Dates
 
-| Week |                          Monday                         |                        Thursday                        |
-| :--: | :-----------------------------------------------------: | :----------------------------------------------------: |
-|   1  |  [Day 1](batch-22-schedule.md#course-day-0) - Sep 18th  |  [Day 2](batch-22-schedule.md#course-day-1) - Sep 21st |
-|   2  |  [Day 3](batch-22-schedule.md#course-day-2) - Sep 25th  |  [Day 4](batch-22-schedule.md#course-day-3) - Sep 28th |
-|   3  |         Day Off (Day Following HK National Day)         |  [Day 5](batch-22-schedule.md#course-day-4) - Oct 5th  |
-|   4  |   [Day 6](batch-22-schedule.md#course-day-5) - Oct 9th  |  [Day 7](batch-22-schedule.md#course-day-6) - Oct 12th |
-|   5  |  [Day 8](batch-22-schedule.md#course-day-7) - Oct 16th  |  [Day 9](batch-22-schedule.md#course-day-8) - Oct 19th |
-|   6  |              Day Off(Chung Yeung Festival)              | [Day 10](batch-22-schedule.md#course-day-9) - Oct 26th |
-|   7  | [Day 11](batch-22-schedule.md#course-day-10) - Oct 30th | [Day 12](batch-22-schedule.md#course-day-11) - Nov 2nd |
+| Week |                          Monday                         |                         Thursday                        |
+| :--: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+|   1  |   [Day 1](batch-27-schedule.md#course-day-0) - Jan 8th  |  [Day 2](batch-27-schedule.md#course-day-1) - Jan 11th  |
+|   2  |  [Day 3](batch-27-schedule.md#course-day-2) - Jan 15th  |  [Day 4](batch-27-schedule.md#course-day-3) - Jan 18th  |
+|   3  |  [Day 5](batch-27-schedule.md#course-day-4) - Jan 22nd  |  [Day 6](batch-27-schedule.md#course-day-5) - Jan 25th  |
+|   4  |  [Day 7](batch-27-schedule.md#course-day-6) - Jan 29th  |   [Day 8](batch-27-schedule.md#course-day-7) - Feb 1st  |
+|   5  |   [Day 9](batch-27-schedule.md#course-day-8) - Feb 5th  |  [Day 10](batch-27-schedule.md#course-day-9) - Feb 8th  |
+|   6  |                 Day off (Third Day LNY)                 | [Day 11](batch-27-schedule.md#course-day-10) - Feb 15th |
+|   7  | [Day 12](batch-27-schedule.md#course-day-11) - Feb 19th |                                                         |
 
 ## Week 1, Course Day 1: Pre-Course Briefing <a href="#course-day-0" id="course-day-0"></a>
 
@@ -39,7 +39,7 @@ Meeting time: 07:30 PM SGT (GMT+8)
 1. Opening Brief
 2. Introductions
 3. Look ahead:
-   1. [Pre-Class Material](batch-22-schedule.md#pre-class)
+   1. [Pre-Class Material](batch-27-schedule.md#pre-class)
 4. Section Introductions and Icebreakers
 
 ## Week 1, Course Day 2: Coding Tools <a href="#course-day-1" id="course-day-1"></a>
