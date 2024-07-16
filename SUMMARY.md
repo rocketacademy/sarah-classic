@@ -19,6 +19,7 @@
 * [🎓 Post-Course](course-logistics/post-course/README.md)
   * [🎓 LinkedIn Certificates](course-logistics/post-course/linkedin-certificates.md)
   * [🚂 Bootcamp Admission Criteria](course-logistics/post-course/bootcamp-admission-criteria.md)
+* [📚 General Resources](course-logistics/general-resources.md)
 
 ## 1: Introduction
 
