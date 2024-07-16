@@ -1,8 +1,8 @@
 # 🚀 Course Overview
 
-## Welcome to Sarah Classic Programme (Software Development): Coding Fundamentals!
+## Welcome to Sarah Classic Programme\Software Development: Coding Fundamentals!
 
-The Sarah Classic Programme (Software Development) is based on Rocket Academy's popular **Coding Fundamentals** intro course in software programming, also known as coding. You will learn basic coding syntax and concepts through building simple programs. 
+The Sarah Classic Programme Software Development is based on Rocket Academy's popular **Coding Fundamentals** intro course in software programming, also known as coding. You will learn basic coding syntax and concepts through building simple programs. 
 
 {% embed url="https://youtu.be/7Bx4LTD9guo" %}
 
