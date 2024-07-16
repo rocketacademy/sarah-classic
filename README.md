@@ -1,10 +1,8 @@
 # 🚀 Course Overview
 
-## Welcome to Fundamentals!
+## Welcome to Sarah Classic Programme (Software Development): Coding Fundamentals!
 
-Coding Fundamentals is Rocket Academy's intro course in software programming, also known as coding. You will learn basic coding syntax and concepts through building simple programs. Students interested in software engineering careers can continue with Rocket's [Coding Bootcamp](https://www.rocketacademy.co/courses/bootcamp-course) after Fundamentals to build more complex applications and start on a career as a software engineering.
-
-If you are interested in understanding what is required to attend our Bootcamp, please refer to the [Bootcamp Admission Criteria page](course-logistics/post-course/bootcamp-admission-criteria.md).
+The Sarah Classic Programme (Software Development) is based on Rocket Academy's popular **Coding Fundamentals** intro course in software programming, also known as coding. You will learn basic coding syntax and concepts through building simple programs. 
 
 {% embed url="https://youtu.be/7Bx4LTD9guo" %}
 
