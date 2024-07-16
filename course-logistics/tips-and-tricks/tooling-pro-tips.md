@@ -28,7 +28,7 @@ VSCode has a [search and replace feature](https://code.visualstudio.com/docs/edi
 
 ### Hide Minimap
 
-The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#\_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in SWE Fundamentals and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View > Show Minimap in the menu bar.
+The [VSCode minimap](https://code.visualstudio.com/docs/getstarted/userinterface#\_minimap) is displayed by default in VSCode to show one's vertical position within a file. This may not be necessary in Sarah Classic and we can hide the minimap for more space in VSCode. Hide the minimap by toggling View > Show Minimap in the menu bar.
 
 ## Troubleshooting the Terminal Editor
 

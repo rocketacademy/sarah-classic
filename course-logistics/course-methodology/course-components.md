@@ -46,4 +46,4 @@ Everything in the Base section must be completed to minimally understand relevan
 
 #### More Comfortable
 
-The More Comfortable section is for students that wish to push their boundaries. Students can complete SWE Fundamentals without touching More Comfortable, but students that complete More Comfortable exercises will gain more experience and may be more valuable in the job market.
+The More Comfortable section is for students that wish to push their boundaries. Students can complete Sarah Classic without touching More Comfortable, but students that complete More Comfortable exercises will gain more experience and may be more valuable in the job market.

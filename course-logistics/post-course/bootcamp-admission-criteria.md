@@ -4,13 +4,13 @@
 
 
 
-The knowledge taught in SWE Fundamentals are pre-requisite for entrance into Rocket Academy's Bootcamp.
+The knowledge taught in Sarah Classic are pre-requisite for entrance into Rocket Academy's Bootcamp.
 
 Section leaders can share feedback with students each class on their progress if you ask. By the end of Fundamentals, students should be aware of their ability to enrol in the Bootcamp.
 
 The criteria to pass coding Fundamentals and join Bootcamp are the following.
 
-1. **Completion and submission** of the 3 projects in SWE Fundamentals
+1. **Completion and submission** of the 3 projects in Sarah Classic
 2. Demonstrated improvement between each of the 3 projects based on section leader feedback
 3. Understanding of all core concepts acquired in Coding Fundamentals
 
