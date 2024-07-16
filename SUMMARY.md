@@ -12,7 +12,7 @@
   * [☝️ Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
   * [✌️ Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
   * [👍 Recommended Setup](course-logistics/required-hardware-and-software/recommended-set-up.md)
-* [🗓️ Schedule](course-logistics/schedule/)
+* [🗓️ Schedule](course-logistics/schedule/README.md)
 * [💡 Tips and Tricks](course-logistics/tips-and-tricks/README.md)
   * [📒 Coding Strategies](course-logistics/tips-and-tricks/coding-strategies.md)
   * [🛠️ Tooling Pro Tips](course-logistics/tips-and-tricks/tooling-pro-tips.md)
