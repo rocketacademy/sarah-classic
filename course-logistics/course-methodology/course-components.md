@@ -1,35 +1,36 @@
 # 🧩 Course Components
 
-SWE Fundamentals applies a flipped classroom model that consists of 2 components: **self-learning** and **live classes**.
+Sarah Classic Coding Fundamentals applies a flipped classroom model that consists of 2 components: **self-learning** and **live classes**.
 
-### Self-Learning
+## Self-Learning
 
 The goal of self-learning is for students to learn concepts **before** class, such that class time can be spent discussing those concepts. **Self-learning is mandatory**, and will consist of videos and exercises listed under the Pre-Class header.
 
-### **Live Classes**
+## **Live Classes**
 
-The objective of live classes is to enable students to gain a better understanding of the concepts learnt during self-learning through instructor facilitated discussion and pair-programming exercises.
+The objective of live classes is to enable students to gain a better understanding of the concepts learnt during self-learning through instructor facilitated discussion. 
 
-**Live classes are mandatory.** They will be held over Zoom.
+Live classes will be held online over Zoom. 
 
-There will be 1 pre-course briefing and 12 classes in total. Each section will have their own Zoom room to meet for live classes.
+Generally, each session is divided into 2 parts:
+- Q&A
+- Pair Programming
 
-Live classes will generally follow this outline:
+### Q&A
 
-1. 30 minutes for students to explain and review concepts with the section
-2. 85 minutes of pair programming on in-class exercises with a designated peer
-3. 5 minutes for students to ask any questions that they might have about the day's class, and for the instructor to preview the next class
+Students are encouraged to post their questions in the designated student forums before coming into class to optimise the time allocated for each session. Please keep your questions on the Unit topic that is featured for the week. Please refer to the [Course Schedule](../schedule/README.md) for Unit titles.
 
 ### Pair Programming
-
 Pair programming is a common software engineering activity that involves 2 engineers working on the same computer, on the same problem together. Typically, 1 engineer acts as the "driver", controlling the keyboard and writing the code. The other engineer acts as the "navigator", helping to guide the overall strategy and look up documentation (on a separate computer).
 
 Pair programming is commonly used for the following purposes:
 
-1. To share knowledge across teams or between juniors and seniors, where the navigator is typically more knowledgeable about that part of the system than the driver.
-2. To ensure an important piece of software gets done correctly. Sometimes, for difficult software engineering problems with large future repercussions, it is more worth it to spend 2 engineers' time to get it right, than to spend 1 engineer's time and risk getting it wrong.
+- To share knowledge across teams or between juniors and seniors, where the navigator is typically more knowledgeable about that part of the system than the driver.
 
-During SWE Fundamentals, we will use pair programming to solidify our understanding of concepts by coding and explaining in front of each other. The majority of class time will be spent pair programming in designated pairs that will change every live class.
+- To ensure an important piece of software gets done correctly. Sometimes, for difficult software engineering problems with large future repercussions, it is more worth it to spend 2 engineers' time to get it right, than to spend 1 engineer's time and risk getting it wrong.
+
+During Sarah Classic, we will apply pair programming techniqies to solidify our understanding of concepts by coding and explaining in front of each other. 
+
 
 ## Exercise, Project Strategy
 
