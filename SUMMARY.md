@@ -100,9 +100,8 @@
 * [2. Functions](in-class-exercises/day-3-functions.md)
 * [3. If Statements, Boolean Or, Boolean And](in-class-exercises/day-4-if-statements-boolean-or.md)
 * [4. Program State](in-class-exercises/day-5-boolean-and-program-state.md)
-* [5. Scissors Paper Stone Redux](in-class-exercises/day-6-scissors-paper-stone-redux.md)
-* [6. Loops](in-class-exercises/day-7-loops.md)
-* [7: Arrays and Loops](in-class-exercises/day-8-arrays-and-loops.md)
+* [5. Loops](in-class-exercises/day-7-loops.md)
+* [6: Arrays and Loops](in-class-exercises/day-8-arrays-and-loops.md)
 
 ## Projects
 
