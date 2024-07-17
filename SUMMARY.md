@@ -89,23 +89,20 @@
 * [10.4: DOM Manipulation](10-advanced/10.4-dom-manipulation.md)
 * [10.5: Advanced Debugging with Sources Tab](10-advanced/10.5-advanced-debugging-with-sources-tab.md)
 
-## 11: POST COURSE EXERCISES
+<!-- ## 11: POST COURSE EXERCISES
 
 * [DOM](11-post-course-exercises/pce-dom.md)
-* [Further Readings](11-post-course-exercises/further-readings.md)
+* [Further Readings](11-post-course-exercises/further-readings.md) -->
 
 ## In-Class Exercises
 
-* [Day 2: Basic File and Data Manipulation](in-class-exercises/day-2-basic-file-and-data-manipulation.md)
-* [Day 3: Functions](in-class-exercises/day-3-functions.md)
-* [Day 4: If Statements, Boolean Or, Boolean And](in-class-exercises/day-4-if-statements-boolean-or.md)
-* [Day 5: Program State](in-class-exercises/day-5-boolean-and-program-state.md)
-* [Day 6: Scissors Paper Stone Redux](in-class-exercises/day-6-scissors-paper-stone-redux.md)
-* [Day 7: Loops](in-class-exercises/day-7-loops.md)
-* [Day 8: Arrays and Loops](in-class-exercises/day-8-arrays-and-loops.md)
-* [Day 9: Beat That Redux](in-class-exercises/day-9-beat-that-redux.md)
-* [Day 10: Moar Cards / Chat Bot](in-class-exercises/day-10-moar-cards.md)
-* [Day 11: Blackjack Redux, DOM](in-class-exercises/day-11-blackjack-redux-debugger.md)
+* [1. Basic File and Data Manipulation](in-class-exercises/day-2-basic-file-and-data-manipulation.md)
+* [2. Functions](in-class-exercises/day-3-functions.md)
+* [3. If Statements, Boolean Or, Boolean And](in-class-exercises/day-4-if-statements-boolean-or.md)
+* [4. Program State](in-class-exercises/day-5-boolean-and-program-state.md)
+* [5. Scissors Paper Stone Redux](in-class-exercises/day-6-scissors-paper-stone-redux.md)
+* [6. Loops](in-class-exercises/day-7-loops.md)
+* [7: Arrays and Loops](in-class-exercises/day-8-arrays-and-loops.md)
 
 ## Projects
 
@@ -113,7 +110,6 @@
   * [Project 1: Scissors Paper Stone (Part 1)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-1.md)
   * [Project 1: Scissors Paper Stone (Part 2)](projects/project-1-scissors-paper-stone/project-1-scissors-paper-stone-part-2.md)
 * [Project 2: Beat That!](projects/project-2-beat-that.md)
-* [Project 3: Blackjack](projects/project-3-blackjack.md)
 
 ## Past Projects
 

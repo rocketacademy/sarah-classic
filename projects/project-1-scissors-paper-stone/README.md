@@ -6,7 +6,7 @@ description: ✂️📃💎😜
 
 ## Introduction
 
-For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock\_paper\_scissors) game. We have split this project into 2 parts to cater to the pace of Rocket's Fundamentals course. See the [Course Schedule](../../course-logistics/schedule-and-pairings.md) for when we have assigned each part.
+For our first project we will make our own version of the classic [Scissors Paper Stone](https://en.wikipedia.org/wiki/Rock\_paper\_scissors) game. We have split this project into 2 parts to cater to the pace of the course. 
 
 {% content-ref url="project-1-scissors-paper-stone-part-1.md" %}
 [project-1-scissors-paper-stone-part-1.md](project-1-scissors-paper-stone-part-1.md)
