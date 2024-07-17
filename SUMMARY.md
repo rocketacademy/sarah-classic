@@ -6,8 +6,7 @@
 
 * [🏫 Course Methodology](course-logistics/course-methodology/README.md)
   * [🧩 Course Components](course-logistics/course-methodology/course-components.md)
-  * [💬 Slack](course-logistics/course-methodology/slack.md)
-  * [🎲 Course Projects](course-logistics/course-methodology/projects.md)
+  * [💬 Course Communication](course-logistics/course-methodology/communication.md)
 * [💻 Required Hardware and Software](course-logistics/required-hardware-and-software.md)
   * [☝️ Required Software 1](course-logistics/required-hardware-and-software/required-software-1.md)
   * [✌️ Required Software 2](course-logistics/required-hardware-and-software/required-software-2.md)
