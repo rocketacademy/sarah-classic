@@ -51,16 +51,16 @@
 
 ## 5: Managing State and Input Validation
 
-* [5.1: Program Lifecycle and State]
-* [5.2: Program State for Game Modes]
-* [Additional Resources 5]
+* [5.1: Program Lifecycle and State](5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md)
+* [5.2: Program State for Game Modes](5-managing-state-and-input-validation/5.2-program-state-for-game-modes.md)
+* [Additional Resources 5](5-managing-state-and-input-validation/additional-resources-5.md)
 
 ## 6: Arrays and Iteration
 
-* [6.1: Arrays]
-* [6.2: Loops]
-* [6.3: Loops with Arrays]
-* [Additional Resources 6]
+* [6.1: Arrays](6-arrays-and-iteration/6.1-arrays.md)
+* [6.2: Loops](6-arrays-and-iteration/6.2-loops.md)
+* [6.3: Loops with Arrays](6-arrays-and-iteration/6.3-loops-with-arrays.md)
+* [Additional Resources 6](6-arrays-and-iteration/additional-resources-6.md)
 
 ## 7: Version Control
 
