@@ -51,43 +51,43 @@
 
 ## 5: Managing State and Input Validation
 
-* [5.1: Program Lifecycle and State](5-managing-state-and-input-validation/5.1-program-lifecycle-and-state.md)
-* [5.2: Program State for Game Modes](5-managing-state-and-input-validation/5.2-program-state-for-game-modes.md)
-* [Additional Resources 5](5-managing-state-and-input-validation/additional-resources-5.md)
+* [5.1: Program Lifecycle and State]
+* [5.2: Program State for Game Modes]
+* [Additional Resources 5]
 
 ## 6: Arrays and Iteration
 
-* [6.1: Arrays](6-arrays-and-iteration/6.1-arrays.md)
-* [6.2: Loops](6-arrays-and-iteration/6.2-loops.md)
-* [6.3: Loops with Arrays](6-arrays-and-iteration/6.3-loops-with-arrays.md)
-* [Additional Resources 6](6-arrays-and-iteration/additional-resources-6.md)
+* [6.1: Arrays]
+* [6.2: Loops]
+* [6.3: Loops with Arrays]
+* [Additional Resources 6]
 
 ## 7: Version Control
 
-* [7.1: Git](7-version-control/7.1-git.md)
-* [Additional Resources 7](7-version-control/additional-resources-7.md)
+* [7.1: Git]
+* [Additional Resources 7]
 
 ## 8: GitHub
 
-* [8.1: Intro to GitHub](8-github/8.1-intro-to-github.md)
-* [8.2: GitHub Fork and Clone](8-github/8.2-github-fork-and-clone.md)
-* [8.3: GitHub Pull Request](8-github/8.3-github-pull-request.md)
-* [8.4: GitHub Repo Browsing](8-github/8.4-github-repo-browsing.md)
-* [8.5: Deployment](8-github/8.5-deployment.md)
-* [Additional Resources 8](8-github/additional-resources-8.md)
+* [8.1: Intro to GitHub]
+* [8.2: GitHub Fork and Clone]
+* [8.3: GitHub Pull Request]
+* [8.4: GitHub Repo Browsing]
+* [8.5: Deployment]
+* [Additional Resources 8]
 
 ## 9: JavaScript Objects
 
-* [9.1: JavaScript Objects](9-javascript-objects/9.1-javascript-objects.md)
-* [9.2: Card Deck Generation with Loops](9-javascript-objects/9.2-card-deck-generation-with-loops.md)
+* [9.1: JavaScript Objects]
+* [9.2: Card Deck Generation with Loops]
 
-## 10: Advanced
+## 10: HTML/CSS, DOM and Advanced Debugging
 
-* [10.1 HTML](10-advanced/10.1-html.md)
-* [10.2: CSS](10-advanced/10.2-html-css-review.md)
-* [10.3: The Document Object Model](10-advanced/10.3-browser-applications-with-dom.md)
-* [10.4: DOM Manipulation](10-advanced/10.4-dom-manipulation.md)
-* [10.5: Advanced Debugging with Sources Tab](10-advanced/10.5-advanced-debugging-with-sources-tab.md)
+* [10.1 HTML]
+* [10.2: CSS]
+* [10.3: The Document Object Model]
+* [10.4: DOM Manipulation]
+* [10.5: Advanced Debugging with Sources Tab]
 
 <!-- ## 11: POST COURSE EXERCISES
 
